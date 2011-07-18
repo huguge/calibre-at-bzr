@@ -1,10 +1,5 @@
 # calibre: e-book management
 
-Status:
-Currently, due to some problems in my environment, upstream data is deleted.
-Will come back soon.
-
-
 ## About the upstream
 
 * Author
@@ -34,7 +29,7 @@ This is a mirror with some tweaks.
 ### How to mirror
 
 * Initial clone
-  * Setup git-bzr-ng <URL:https://github.com/termie/git-bzr-ng>, and put git-bzr-ng in your PATH.
+  * Setup git-bzr-ng (URL:https://github.com/termie/git-bzr-ng).
   * Do as follows:
 
             $ git bzr clone lp:calibre calibre
