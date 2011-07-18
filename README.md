@@ -36,6 +36,7 @@ This is a mirror with some tweaks.
 * Initial clone
   * Setup git-bzr-ng <URL:https://github.com/termie/git-bzr-ng>, and put git-bzr-ng in your PATH.
   * Do as follows:
+
             $ git bzr clone lp:calibre calibre
             $ cd calibre
             $ git checkout bzr/master
@@ -46,6 +47,7 @@ This is a mirror with some tweaks.
             $ # edit .git/packed-refs and add prefix "upstream" to original tags.
   * Done.
 * Regular update
+
         $ git checkout upstream
         $ git bzr sync
         $ # If in need, add prefix "upstream" to original tags.
