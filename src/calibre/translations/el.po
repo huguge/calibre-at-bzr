@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-24 05:21+0000\n"
+"X-Launchpad-Export-Date: 2013-05-25 04:51+0000\n"
 "X-Generator: Launchpad (build 16640)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -23995,6 +23995,3 @@ msgid ""
 "yellow when using a Virtual Library. By setting this to False, you can turn\n"
 "that off."
 msgstr ""
-
-#~ msgid "Communicate with the PocketBook 622 reader."
-#~ msgstr "Επικοινωνία με τον αναγνώστη PocketBook 622."
