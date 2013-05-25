@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-24 05:01+0000\n"
-"PO-Revision-Date: 2013-05-18 19:33+0000\n"
+"PO-Revision-Date: 2013-05-24 18:51+0000\n"
 "Last-Translator: Jellby <Unknown>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-24 05:31+0000\n"
+"X-Launchpad-Export-Date: 2013-05-25 05:01+0000\n"
 "X-Generator: Launchpad (build 16640)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -1601,7 +1601,7 @@ msgstr "Comunicar con el lector PocketBook 602/603/902/093/Pro 912."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "Comunicar con los lectores 622 y 623."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."
@@ -15040,21 +15040,21 @@ msgstr "versión"
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:201
 #, python-format
 msgid " %(created)s %(name)s"
-msgstr ""
+msgstr " %(name)s %(created)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:201
 msgid "created by"
-msgstr ""
+msgstr "creado por"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:204
 #, python-format
 msgid "%(num)d of %(total)d books"
-msgstr ""
+msgstr "%(num)d de %(total)d libros en total"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:208
 #, python-format
 msgid "%(num)s, %(sel)d selected"
-msgstr ""
+msgstr "%(num)s, %(sel)d seleccionados"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:240
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:251
@@ -15341,10 +15341,12 @@ msgstr "Modificado"
 #, python-format
 msgid "Click in this column and press Q to Quickview books with the same %s"
 msgstr ""
+"Pinche en esta columna y pulse Q para una vista rápida de los libros con el "
+"mismo %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:913
 msgid "The lookup/search name is \"{0}\"{1}"
-msgstr ""
+msgstr "El nómbre de búsqueda es «{0}»{1}"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:919
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1560
@@ -19525,6 +19527,26 @@ msgid ""
 "ebook.com/virtual_libraries.html\">User Manual</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"            <h2>Bibliotecas virtuales</h2>\n"
+"\n"
+"<p>Mediante el uso de <i>bibliotecas virtuales</i> puede hacer que calibre "
+"muestre sólo los libros que coincidan con una búsqueda. Cuando una "
+"biblioteca virtual está activa, calibre se comporta como si la biblioteca "
+"contuviera sólo los libros seleccionados. El explorador de etiquetas muestra "
+"sólo las etiquetas, autores, series, etc. presentes en los libros "
+"seleccionados y cualquier búsqueda realizada se aplica únicamente a los "
+"libros en la biblioteca virtual. Se trata de una buena manera de dividir una "
+"biblioteca grande en subconjuntos menores y más fáciles de manejar.</p>\n"
+"\n"
+"<p>Por ejemplo, puede usar una biblioteca virtual para mostrar sólo los "
+"libros con la etiqueta «<i>No leído</i>», o sólo los libros de «<i>mi autor "
+"preferido</i>», o sólo los libros de una serie concreta.</p>\n"
+"\n"
+"<p>En el <a href=\"http://manual.calibre-"
+"ebook.com/virtual_libraries.html\">Manual del usuario</a> hay más "
+"información y ejemplos.</p>\n"
+"            "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:180
 msgid "Saved searches recognized in the expression:"
@@ -27491,46 +27513,3 @@ msgstr ""
 "El número de libros junto al botón de biblioteca virtual se resalta en\n"
 "amarillo al usar una biblioteca virtual. Si asigna el valor «False» se\n"
 "desactivará esta opción."
-
-#~ msgid "Communicate with the PocketBook 622 reader."
-#~ msgstr "Comunicar con el lector PocketBook 622."
-
-#~ msgid ""
-#~ "\n"
-#~ "            <h2>Virtual Libraries</h2>\n"
-#~ "\n"
-#~ "            <p>Using <i>virtual libraries</i> you can restrict calibre to "
-#~ "only show\n"
-#~ "            you books that match a search. When a virtual library is in "
-#~ "effect, calibre\n"
-#~ "            behaves as though the library contains only the matched books. "
-#~ "The Tag Browser\n"
-#~ "            display only the tags/authors/series/etc. that belong to the "
-#~ "matched books and any searches\n"
-#~ "            you do will only search within the books in the virtual library. "
-#~ "This\n"
-#~ "            is a good way to partition your large library into smaller and "
-#~ "easier to work with subsets.</p>\n"
-#~ "\n"
-#~ "            <p>For example you can use a Virtual Library to only show you "
-#~ "books with the Tag <i>\"Unread\"</i>\n"
-#~ "            or only books by <i>\"My Favorite Author\"</i> or only books in "
-#~ "a particular series.</p>\n"
-#~ "            "
-#~ msgstr ""
-#~ "\n"
-#~ "            <h2>Bibliotecas virtuales</h2>\n"
-#~ "\n"
-#~ "<p>Mediante el uso de <i>bibliotecas virtuales</i> puede hacerque calibre "
-#~ "muestre sólo los libros que coincidan con una búsqueda. Cuando una "
-#~ "biblioteca virtual está activa, calibre se comporta como si la biblioteca "
-#~ "contuviera sólo los libros seleccionados. El explorador de etiquetas muestra "
-#~ "sólo las etiquetas, autores, series, etc. presentes en los libros "
-#~ "seleccionades y cualquier búsqueda realizada se aplica únicamente a los "
-#~ "libros en la biblioteca virtual. Se trata de una buena manera de dividir una "
-#~ "biblioteca grande en subconjuntos menores y más fáciles de manejar.</p>\n"
-#~ "\n"
-#~ "<p>Por ejemplo, puede usar una biblioteca virtual para mostrar sólo los "
-#~ "libros con la etiqueta <i>«No leído»</i>, o sólo los libros de <i>«mi autor "
-#~ "preferido»</i>, o sólo los libros de una serie concreta.</p>\n"
-#~ "            "

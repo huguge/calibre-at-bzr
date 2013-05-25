@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-24 05:01+0000\n"
-"PO-Revision-Date: 2013-05-19 17:57+0000\n"
+"PO-Revision-Date: 2013-05-24 18:41+0000\n"
 "Last-Translator: Ferran Rius <frius64@hotmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-24 05:16+0000\n"
+"X-Launchpad-Export-Date: 2013-05-25 04:48+0000\n"
 "X-Generator: Launchpad (build 16640)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -1594,7 +1594,7 @@ msgstr "Comunica't amb el lector PocketBook 602/603/902/093/Pro 912."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "Comunica't amb els lectors PocketBook 622 i 623."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."
@@ -15043,21 +15043,21 @@ msgstr "versió"
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:201
 #, python-format
 msgid " %(created)s %(name)s"
-msgstr ""
+msgstr " %(name)s %(created)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:201
 msgid "created by"
-msgstr ""
+msgstr "creat per"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:204
 #, python-format
 msgid "%(num)d of %(total)d books"
-msgstr ""
+msgstr "%(num)d de %(total)d llibres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:208
 #, python-format
 msgid "%(num)s, %(sel)d selected"
-msgstr ""
+msgstr "%(num)s, %(sel)d seleccionats"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:240
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:251
@@ -15338,10 +15338,12 @@ msgstr "Modificat"
 #, python-format
 msgid "Click in this column and press Q to Quickview books with the same %s"
 msgstr ""
+"Feu clic a la columna i premeu Q per a la vista ràpida dels llibres del "
+"mateix %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:913
 msgid "The lookup/search name is \"{0}\"{1}"
-msgstr ""
+msgstr "El nom de cerca és \"{0}\"{1}"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:919
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1560
@@ -27521,51 +27523,3 @@ msgstr ""
 "El recompte de llibres del costat del botó de biblioteca virtual\n"
 "es realça en groc en utilitzar una biblioteca virtual. Si s'estableix\n"
 "a «Fals», ho desactivareu."
-
-#~ msgid "Communicate with the PocketBook 622 reader."
-#~ msgstr "Comunica't amb el lector PocketBook 622"
-
-#~ msgid ""
-#~ "\n"
-#~ "            <h2>Virtual Libraries</h2>\n"
-#~ "\n"
-#~ "            <p>Using <i>virtual libraries</i> you can restrict calibre to "
-#~ "only show\n"
-#~ "            you books that match a search. When a virtual library is in "
-#~ "effect, calibre\n"
-#~ "            behaves as though the library contains only the matched books. "
-#~ "The Tag Browser\n"
-#~ "            display only the tags/authors/series/etc. that belong to the "
-#~ "matched books and any searches\n"
-#~ "            you do will only search within the books in the virtual library. "
-#~ "This\n"
-#~ "            is a good way to partition your large library into smaller and "
-#~ "easier to work with subsets.</p>\n"
-#~ "\n"
-#~ "            <p>For example you can use a Virtual Library to only show you "
-#~ "books with the Tag <i>\"Unread\"</i>\n"
-#~ "            or only books by <i>\"My Favorite Author\"</i> or only books in "
-#~ "a particular series.</p>\n"
-#~ "            "
-#~ msgstr ""
-#~ "\n"
-#~ "            <h2>Biblioteques virtuals</h2>\n"
-#~ "\n"
-#~ "            <p>Amb les <i>biblioteques virtuals</i> podeu fer que el calibre "
-#~ "només mostri els llibres que\n"
-#~ "            coincideixen amb una cerca. Quan una biblioteca virtual està "
-#~ "activa, el calibre es comporta\n"
-#~ "            com si la biblioteca comés contingués els llibres que "
-#~ "coincideixen. El navegador d'etiquetes\n"
-#~ "            només mostra les etiquetes/autors/sèrie/... que corresponen als "
-#~ "llibres coincidents i qualsevol\n"
-#~ "            cerca que feu només cercarà entre els llibres de la biblioteca "
-#~ "virtual. És una bona manera de\n"
-#~ "            dividir una biblioteca gran en subgrups més petits i "
-#~ "manejables.</p>\n"
-#~ "\n"
-#~ "            <p>Per exemple, podeu utilitzar una biblioteca virtual per "
-#~ "mostrar només els llibres amb l'etiqueta\n"
-#~ "            <i>«No llegit»</i> o les d'<i>«el meu autor preferit»</i> o "
-#~ "només els s'una sèrie concreta.</p>\n"
-#~ "            "
