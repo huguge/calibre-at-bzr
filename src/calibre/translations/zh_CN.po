@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-05-24 05:01+0000\n"
-"PO-Revision-Date: 2013-05-04 14:02+0000\n"
+"PO-Revision-Date: 2013-05-25 08:33+0000\n"
 "Last-Translator: wwj402 <wwj402@gmail.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-05-25 05:06+0000\n"
+"X-Launchpad-Export-Date: 2013-05-26 04:51+0000\n"
 "X-Generator: Launchpad (build 16640)\n"
 "X-Poedit-Country: CHINA\n"
 "X-Poedit-Language: Chinese\n"
@@ -1096,7 +1096,7 @@ msgstr "日期转换错误: {0}"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:456
 msgid "Non-numeric value in query: {0}"
-msgstr ""
+msgstr "在查询中有非数字值：{0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:571
@@ -1116,12 +1116,12 @@ msgstr "无效的布尔查询 \"{0}\""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:355
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:501
 msgid "Invalid query format for colon-separated search: {0}"
-msgstr ""
+msgstr "冒号分隔的搜索时无效的查询格式：{0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:650
 msgid "Recursive query group detected: {0}"
-msgstr ""
+msgstr "递归查询组检测：{0}"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:75
 #: /home/kovid/work/calibre/src/calibre/gui2/main.py:47
@@ -1136,6 +1136,9 @@ msgid ""
 "calibre-debug -r \"Add Books\" -- file1 --option1\n"
 "Everything after the -- will be passed to the plugin as arguments."
 msgstr ""
+"运行插件，提供了一个命令行界面。例如：\n"
+"calibre-debug -r \"Add Books\" -- file1 --option1\n"
+"- -之后的一切将被作为参数传递给该插件。"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:180
 msgid "Debug log"
@@ -1144,7 +1147,7 @@ msgstr "调试日志"
 #: /home/kovid/work/calibre/src/calibre/debug.py:272
 #, python-format
 msgid "No plugin named %s found"
-msgstr ""
+msgstr "没有找到名为 %s 的插件"
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:19
 msgid "Communicate with Android phones."
@@ -1231,11 +1234,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:131
 msgid "Enable debug logging"
-msgstr ""
+msgstr "启用调试日志记录"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:133
 msgid "Print driver debug messages to console"
-msgstr ""
+msgstr "打印驱动调试消息到控制台"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:203
 msgid "Apple device"
@@ -1493,7 +1496,7 @@ msgstr "与 PocketBook 602/603/902/903/Pro 912 阅读器通信。"
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "与PocketBook 622 和 623 的读者通讯。"
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."
@@ -1789,6 +1792,8 @@ msgid ""
 "be Dragons!! Enable only if you are comfortable with restoring your kobo to "
 "factory defaults and testing software"
 msgstr ""
+"Kobo 定期更新的固件和数据库版本。使用此选项 calibre 将尝试执行完整的读写功能 - 这是危险的！只有当你接受你的 kobo "
+"恢复到出厂默认值和测试软件"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:619
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:2611
@@ -1913,14 +1918,14 @@ msgstr "当上传图片，为设备调整尺寸时不改变长宽比。这是针
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1240
 msgid "Show archived books"
-msgstr ""
+msgstr "显示归档的书籍"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1241
 msgid ""
 "Archived books are listed on the device but need to be downloaded to read. "
 "Use this option to show these books and match them with books in the calibre "
 "library."
-msgstr ""
+msgstr "存档的图书都列在设备上，但需要下载阅读。使用此选项，以显示这些书籍并和 calibre 库中的书籍匹配。"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1248
 msgid ""
@@ -2028,7 +2033,7 @@ msgstr "与 Ex124G 阅读器通信"
 
 #: /home/kovid/work/calibre/src/calibre/devices/misc.py:415
 msgid "Communicate with the WayteQ and SPC Dickens Readers"
-msgstr ""
+msgstr "与 WayteQ 和 SPC Dickens 的读者通讯"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/base.py:29
 msgid "MTP Device"
@@ -2298,7 +2303,7 @@ msgstr "与智能设备应用通信"
 
 #: /home/kovid/work/calibre/src/calibre/devices/smart_device_app/driver.py:273
 msgid "All by something"
-msgstr ""
+msgstr "所有的东西"
 
 #: /home/kovid/work/calibre/src/calibre/devices/smart_device_app/driver.py:276
 msgid "Enable connections at startup"
@@ -3317,14 +3322,16 @@ msgid ""
 "An HTML template used to generate %s on every page. The strings _PAGENUM_, "
 "_TITLE_, _AUTHOR_ and _SECTION_ will be replaced by their current values."
 msgstr ""
+"一个HTML模板，用于在每一页上生成 %s 。字符串  _PAGENUM_, _TITLE_, _AUTHOR_ 和 _SECTION_ "
+"将被它们的当前值取代。"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:108
 msgid "footers"
-msgstr ""
+msgstr "页脚"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:111
 msgid "headers"
-msgstr ""
+msgstr "页眉"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pml_output.py:22
 msgid ""
@@ -4672,7 +4679,7 @@ msgstr "元数据来源"
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:31
 msgid ""
 "Downloads multiple book covers from Amazon. Useful to find alternate covers."
-msgstr ""
+msgstr "从亚马逊下载多本书的封面。有助于寻找替代的封面。"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:33
 msgid "Configure the Big Book Search plugin"
@@ -4681,11 +4688,11 @@ msgstr "配置大图书搜索插件"
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:35
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:22
 msgid "Maximum number of covers to get"
-msgstr ""
+msgstr "要得到的最大封面数量"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:36
 msgid "The maximum number of covers to process from the search result"
-msgstr ""
+msgstr "从搜索结果中处理的最大封面数量"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/douban.py:154
 msgid ""
@@ -4707,7 +4714,7 @@ msgstr "从谷歌图书下载元数据与封面"
 msgid ""
 "Downloads covers from a Google Image search. Useful to find larger/alternate "
 "covers."
-msgstr ""
+msgstr "从谷歌图片搜索下载封面。有助于寻找更大/替换封面。"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:20
 msgid "Configure the Google Image Search plugin"
@@ -4715,7 +4722,7 @@ msgstr "配置 Google 图片搜索插件"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:23
 msgid "The maximum number of covers to process from the google search result"
-msgstr ""
+msgstr "从谷歌搜索结果中处理最大封面数量"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:24
 msgid "Cover size"
@@ -4723,7 +4730,7 @@ msgstr "封面大小"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:25
 msgid "Search for covers larger than the specified size"
-msgstr ""
+msgstr "搜索大于指定大小的封面"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:27
 msgid "Any size"
@@ -4742,7 +4749,7 @@ msgstr "大"
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:34
 #, python-format
 msgid "Larger than %s"
-msgstr ""
+msgstr "大于 %s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/isbndb.py:23
 msgid "Downloads metadata from isbndb.com"
@@ -24404,7 +24411,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:526
 msgid "Sort the list of libraries alphabetically"
-msgstr ""
+msgstr "图书馆列表按字母的顺序排序"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:527
 msgid ""

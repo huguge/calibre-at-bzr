@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-05-24 05:01+0000\n"
-"PO-Revision-Date: 2013-05-17 17:19+0000\n"
+"PO-Revision-Date: 2013-05-25 15:06+0000\n"
 "Last-Translator: Tiago S. <Unknown>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-25 04:59+0000\n"
+"X-Launchpad-Export-Date: 2013-05-26 04:51+0000\n"
 "X-Generator: Launchpad (build 16640)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -1137,7 +1137,7 @@ msgstr "Dias atrás"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:198
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:374
 msgid "Number conversion error: {0}"
-msgstr ""
+msgstr "Erro de conversão de número: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:204
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:380
@@ -1147,7 +1147,7 @@ msgstr "Data do erro na conversão : {0}"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:456
 msgid "Non-numeric value in query: {0}"
-msgstr ""
+msgstr "Valor não numérico em  pesquisa: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:571
@@ -1168,6 +1168,7 @@ msgstr "Consulta inválida  de valor booleano \"{0}\""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:501
 msgid "Invalid query format for colon-separated search: {0}"
 msgstr ""
+"Formato de pesquisa inválido para um pesquisa separada por dois pontos: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:650
@@ -1308,7 +1309,7 @@ msgstr "Ativar registos de depuração"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:133
 msgid "Print driver debug messages to console"
-msgstr ""
+msgstr "Imprimir messagens de depuração do driver na consola"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:203
 msgid "Apple device"
@@ -1577,7 +1578,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "Comunicar com os leitores PocketBook 622 e 623"
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."
@@ -2054,6 +2055,9 @@ msgid ""
 "Use this option to show these books and match them with books in the calibre "
 "library."
 msgstr ""
+"Os livros arquivados estão listados no dispositivo mas necessitam de ser "
+"descarregados para leitura. Use essa opção para mostrar esses livros e "
+"combiná-los com os livros da biblioteca do Calibre."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1248
 msgid ""
@@ -3668,6 +3672,8 @@ msgid ""
 "An HTML template used to generate %s on every page. The strings _PAGENUM_, "
 "_TITLE_, _AUTHOR_ and _SECTION_ will be replaced by their current values."
 msgstr ""
+"Um modelo HTML  é usado para gerar %s em cada página. O texto _PAGINANUM_, "
+"_TITULO_, _AUTOR_ e_SECÇÃO_ irá ser substituído pelos valores actuais."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:108
 msgid "footers"
@@ -5567,6 +5573,22 @@ msgid ""
 "{0}\n"
 "<p>Note that polishing only works on files in the %s formats.</p>"
 msgstr ""
+"<p><i>Refinar livros </i>pretende colocar um pouco mais de perfeição\n"
+"nos seus preciosos livros digitais.</p>\n"
+"\n"
+"<p>Refinar, tenta minimizar as alterações no código interno do livro "
+"digital.\n"
+"Ao contrario da conversão, <i>não faz grandes alterações</i> tais como "
+"achatar CSS,\n"
+"renomear ficheiros, alterar tamanho da letra,  ajustar as margens, etc. Cada "
+"acção \n"
+"realizada usa  apenas o conjunto mínimo de mudanças necessárias para o "
+"efeito desejado. </ p>\n"
+"\n"
+"<p>Deve usar esta ferramenta como o último passo, no processo de criação de "
+"livros digitais.</p> \n"
+"{0}\n"
+"<p>Note que o refinamento só funciona em ficheiros dos formatos %s.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:48
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:446
@@ -7256,6 +7278,15 @@ msgid ""
 "and subsequently selected books will be permanently <b>deleted</b> from your "
 "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Os formatos do livro seleccionados serão integrados no <b>primeiro livro "
+"seleccionado</b> (%s). Meta-dados do primeiro livro seleccionado não serão "
+"alterados. Autor, Titulo, ISBN além dos outros meta-dados <i>não</i>serão "
+"integrados.<br><br>Depois de integrar o segundo livro e seguintes, quaisquer "
+"que sejam os meta-dados que contenham serão <b>eliminados</b>. <br><br>Todos "
+"os formatos do primeiro livro seleccionado serão mantidos e qualquer formato "
+"duplicado no segundo livro e seguintes serão <b>eliminados</b> para sempre "
+"da sua biblioteca calibre .<br><br> Tem a <b>certeza</b> que  pretende "
+"continuar?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:428
 #, python-format
@@ -7268,6 +7299,13 @@ msgid ""
 "books will be permanently <b>deleted</b> from your calibre library.<br><br>  "
 "Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Os formatos do livro seleccionados serão integrados no <b>primeiro livro "
+"seleccionado</b> (%s).O ISBN  <i>não</i>será integrado.<br><br>Depois de "
+"integrar o segundo livro e seguintes, estes  serão <b>eliminados</b>. "
+"<br><br>Todos os formatos do primeiro livro seleccionado serão mantidos e "
+"qualquer formato duplicado no segundo livro e seguintes serão "
+"<b>eliminados</b> para sempre da sua biblioteca calibre .<br><br> Tem a "
+"<b>certeza</b> que  pretende continuar?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:598
 msgid "Applying changed metadata"
@@ -14747,21 +14785,21 @@ msgstr "versão"
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:201
 #, python-format
 msgid " %(created)s %(name)s"
-msgstr ""
+msgstr " %(created)s %(name)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:201
 msgid "created by"
-msgstr ""
+msgstr "criado por"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:204
 #, python-format
 msgid "%(num)d of %(total)d books"
-msgstr ""
+msgstr "%(num)d de %(total)d livros"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:208
 #, python-format
 msgid "%(num)s, %(sel)d selected"
-msgstr ""
+msgstr "%(num)s, %(sel)d seleccionados"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:240
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:251
@@ -15046,10 +15084,12 @@ msgstr "Modificado"
 #, python-format
 msgid "Click in this column and press Q to Quickview books with the same %s"
 msgstr ""
+"Carregue nesta coluna e pressione Q para a Vista Rápida dos livros como "
+"mesmo %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:913
 msgid "The lookup/search name is \"{0}\"{1}"
-msgstr ""
+msgstr "A pesquisa de nomes é \"{0}\"{1}"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:919
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1560
@@ -16605,6 +16645,11 @@ msgid ""
 "                <pre>%(rule)s</pre>\n"
 "                "
 msgstr ""
+"\n"
+"                <p>Regra avançada: set <b>%(typ)s</b> para coluna "
+"<b>%(col)s</b>:\n"
+"                <pre>%(rule)s</pre>\n"
+"                "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:664
 #, python-format
@@ -19076,7 +19121,7 @@ msgstr "O nome já está em uso. Quer substituí-lo pela nova pesquisa?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:278
 msgid "No search string"
-msgstr ""
+msgstr "Sem texto de pesquisa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:279
 msgid "You must provide a search to define the new virtual library"
@@ -19148,7 +19193,7 @@ msgstr "Sem pesquisa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:410
 msgid "There is no current search to use"
-msgstr ""
+msgstr "Não existe nenhuma pesquisa actual em uso"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:458
 msgid "Are you sure you want to remove the virtual library {0}"
@@ -24929,11 +24974,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:367
 msgid "Recursive saved search: {0}"
-msgstr ""
+msgstr "Pesquisa guardada recursiva: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:376
 msgid "Unknown error in saved search: {0}"
-msgstr ""
+msgstr "Erro desconhecido na pesquisa guardada: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/utils/sftp.py:53
 msgid "URL must have the scheme sftp"
@@ -25964,6 +26009,16 @@ msgid ""
 "Similarly, by setting save_original_format_when_polishing to False you can\n"
 "prevent calibre from saving the original file when polishing."
 msgstr ""
+"Quando o calibre faz uma conversão de um formato para o mesmo formato,\n"
+"por exemplo, de EPUB para EPUB, o ficheiro original será guardado, poque "
+"caso a\n"
+"conversão não seja boa, pode ajustar as configurações e executá-la "
+"novamente.\n"
+"Se definir esta opção como False, evitará que o calibre guarde o arquivo\n"
+"original.\n"
+"De maneira similar, ao definir save_original_format_when_polishing como "
+"False,\n"
+"irá evitar que o calibre guarde o ficheiro original quando estiver polindo."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:476
 msgid "Number of recently viewed books to show"
@@ -26098,7 +26153,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:533
 msgid "Highlight the count of books when using a Virtual Library"
-msgstr ""
+msgstr "Realçar a contagem de livros quando utilizar a Biblioteca Virtual"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:534
 msgid ""
