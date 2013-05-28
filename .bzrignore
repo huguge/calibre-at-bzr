@@ -1,4 +1,10 @@
 *_ui.py
+*.pyc
+*.pyo
+.git
+.gitattributes
+.gitignore
+.bzr
 .check-cache.pickle
 src/calibre/plugins
 resources/images.qrc
