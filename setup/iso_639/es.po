@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-11-25 14:01+0000\n"
-"PO-Revision-Date: 2013-04-27 08:20+0000\n"
-"Last-Translator: Jellby <Unknown>\n"
+"PO-Revision-Date: 2013-05-27 01:14+0000\n"
+"Last-Translator: Miguel de Dios <tres.14159@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-04-28 04:35+0000\n"
-"X-Generator: Launchpad (build 16580)\n"
+"X-Launchpad-Export-Date: 2013-05-28 05:16+0000\n"
+"X-Generator: Launchpad (build 16640)\n"
 
 #. name for aaa
 msgid "Ghotuo"
@@ -9728,7 +9728,7 @@ msgstr "Huambisa"
 
 #. name for huc
 msgid "=/Hua"
-msgstr ""
+msgstr "Hua"
 
 #. name for hud
 msgid "Huaulu"
@@ -10012,7 +10012,7 @@ msgstr "Ifugao tuwali"
 
 #. name for ifm
 msgid "Teke-Fuumu"
-msgstr ""
+msgstr "Teke-Fuumu"
 
 #. name for ifu
 msgid "Ifugao; Mayoyao"
@@ -10048,7 +10048,7 @@ msgstr "Mojo ignaciano"
 
 #. name for igo
 msgid "Isebe"
-msgstr ""
+msgstr "Isebe"
 
 #. name for igs
 msgid "Interglossa"
@@ -10088,7 +10088,7 @@ msgstr "Ede ije"
 
 #. name for ijn
 msgid "Kalabari"
-msgstr ""
+msgstr "Kalabari"
 
 #. name for ijs
 msgid "Ijo; Southeast"
@@ -10500,7 +10500,7 @@ msgstr ""
 
 #. name for ixc
 msgid "Ixcatec"
-msgstr ""
+msgstr "Ixcatec"
 
 #. name for ixl
 msgid "Ixil"
@@ -10508,7 +10508,7 @@ msgstr "Ixil"
 
 #. name for iya
 msgid "Iyayu"
-msgstr ""
+msgstr "Iyayu"
 
 #. name for iyo
 msgid "Mesaka"
@@ -10540,7 +10540,7 @@ msgstr "Hyam"
 
 #. name for jac
 msgid "Popti'"
-msgstr ""
+msgstr "Popti'"
 
 #. name for jad
 msgid "Jahanka"
@@ -10548,27 +10548,27 @@ msgstr ""
 
 #. name for jae
 msgid "Yabem"
-msgstr ""
+msgstr "Yabem"
 
 #. name for jaf
 msgid "Jara"
-msgstr ""
+msgstr "Jara"
 
 #. name for jah
 msgid "Jah Hut"
-msgstr ""
+msgstr "Jah Hut"
 
 #. name for jaj
 msgid "Zazao"
-msgstr ""
+msgstr "Zazao"
 
 #. name for jak
 msgid "Jakun"
-msgstr ""
+msgstr "Jakun"
 
 #. name for jal
 msgid "Yalahatan"
-msgstr ""
+msgstr "Yalahatan"
 
 #. name for jam
 msgid "Creole English; Jamaican"
@@ -10576,11 +10576,11 @@ msgstr "Inglés criollo jamaicano"
 
 #. name for jao
 msgid "Yanyuwa"
-msgstr ""
+msgstr "Yanyuwa"
 
 #. name for jaq
 msgid "Yaqay"
-msgstr ""
+msgstr "Yaqay"
 
 #. name for jar
 msgid "Jarawa (Nigeria)"
@@ -10592,7 +10592,7 @@ msgstr "Javanés neocaledonio"
 
 #. name for jat
 msgid "Jakati"
-msgstr ""
+msgstr "Jakati"
 
 #. name for jau
 msgid "Yaur"
