@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-05-29 04:01+0000\n"
-"PO-Revision-Date: 2013-05-24 19:27+0000\n"
+"PO-Revision-Date: 2013-05-29 19:02+0000\n"
 "Last-Translator: Simon Schütte <simonschuette@arcor.de>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-29 05:20+0000\n"
-"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-05-30 05:18+0000\n"
+"X-Generator: Launchpad (build 16652)\n"
 "X-Poedit-Bookmarks: 3327,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
 
@@ -7301,7 +7301,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
-msgstr ""
+msgstr "Buch anzeigen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:276
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:345
@@ -16401,10 +16401,10 @@ msgid ""
 "single distinctive word from the title.<p>To see the full log, click Show "
 "Details."
 msgstr ""
-"Keine Bücher mit der aktuellen Suche gefunden. Versuchen Sie, die Suche "
-"<b>weniger spezifisch</b> zu formulieren. Verwenden Sie beispielsweise nur "
-"den Nachnamen des Autors und ein einzelnes, prägnantes Wort aus dem "
-"Titel.<p>Um das gesamte Log zu sehen, wählen Sie Details anzeigen."
+"Es wurden keine Bücher für die aktuelle Suche gefunden. Versuchen Sie, die "
+"Suche <b>weniger spezifisch</b> zu formulieren. Verwenden Sie beispielsweise "
+"nur den Nachnamen des Autors und ein einzelnes, prägnantes Wort aus dem "
+"Titel.<p>Um den gesamten Log zu lesen, klicken Sie auf Details anzeigen."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:650
 msgid "Current cover"
