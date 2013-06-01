@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-05-31 03:42+0000\n"
-"PO-Revision-Date: 2013-05-28 17:51+0000\n"
+"PO-Revision-Date: 2013-05-31 12:27+0000\n"
 "Last-Translator: Piotr Parafiniuk <Unknown>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-05-31 05:28+0000\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:05+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 "X-Poedit-Bookmarks: -1,3588,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -3662,6 +3662,9 @@ msgid ""
 "Useful if you want to print out the PDF. If this PDF is intended for "
 "electronic use, use the PDF Outline instead."
 msgstr ""
+"Umieść na końcu dokumentu spis treści zawierający numery stron. Jest to "
+"przydatne przy drukowaniu PDF. Jeśli ten dokument ma być używany w wersji "
+"elektronicznej lepiej jest użyć zakładek."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pml_output.py:22
 msgid ""
@@ -6396,7 +6399,7 @@ msgstr "Odtwórz bazę danych"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:252
 msgid "{0} [{1} books]"
-msgstr ""
+msgstr "{0} [{1} książek]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:318
 msgid "Rename"
@@ -7164,7 +7167,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
-msgstr ""
+msgstr "&Zobacz książkę"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:276
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:345
@@ -10161,7 +10164,7 @@ msgstr "Szablon &stopki:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:162
 msgid "Add a printable &Table of Contents at the end"
-msgstr ""
+msgstr "Dodaj spis &treści z numerami stron na końcu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pml_output.py:14
 msgid "PMLZ Output"
@@ -14906,7 +14909,7 @@ msgstr "%(num)s, %(sel)d zaznaczonych"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:213
 msgid "{0}, {1} total"
-msgstr ""
+msgstr "{0}, {1} razem"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:245
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:256
@@ -27241,7 +27244,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:533
 msgid "Highlight the virtual library name when using a Virtual Library"
-msgstr ""
+msgstr "Podświetl nazwę wirtualnej biblioteki jeśli jest ona używana"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:534
 msgid ""
@@ -27250,21 +27253,7 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
-
-#~ msgid "({0} of {1})"
-#~ msgstr "({0} z {1})"
-
-#~ msgid "({0} of all)"
-#~ msgstr "({0} ze wszystkich)"
-
-#~ msgid "Highlight the count of books when using a Virtual Library"
-#~ msgstr "Podświetl liczbę książek kiedy używana jest wirtualna biblioteka"
-
-#~ msgid ""
-#~ "The count of books next to the Virtual Library button is highlighted in\n"
-#~ "yellow when using a Virtual Library. By setting this to False, you can turn\n"
-#~ "that off."
-#~ msgstr ""
-#~ "Liczba książek przy przycisku Wirtualna Biblioteka jest podświetlana\n"
-#~ "na żółto jeśli Wirtualna Biblioteka jest używan. Ustawiając ten parametr\n"
-#~ "na False można to wyłączyć."
+"Nazwa wirtualnej biblioteki obok przycisku jest podświetlana na żółto\n"
+"kiedy używana jest wirtualna biblioteka. Można wybrać kolor podświetlenia\n"
+"ustawiając wartość tego parametru. Wartość 'transparent' wyłącza "
+"podświetlanie."

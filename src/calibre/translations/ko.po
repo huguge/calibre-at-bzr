@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-05-31 05:24+0000\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:01+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -23875,9 +23875,3 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
-
-#~ msgid "({0} of all)"
-#~ msgstr "(전 {0}권)"
-
-#~ msgid "({0} of {1})"
-#~ msgstr "({1} 중에 {0})"

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-05-31 03:42+0000\n"
-"PO-Revision-Date: 2013-04-20 11:24+0000\n"
-"Last-Translator: saeed salamian <salamian.saeed@gmail.com>\n"
+"PO-Revision-Date: 2013-05-31 18:48+0000\n"
+"Last-Translator: Arman Maghoul <a.m.aegit@gmail.com>\n"
 "Language-Team: Persian <fa@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-05-31 05:28+0000\n"
+"X-Launchpad-Export-Date: 2013-06-01 05:05+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -342,7 +342,7 @@ msgstr "اطلاعات اضافی را زا کیندل متصل شده بگیر 
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:782
 msgid "Generate a catalog of the books in your calibre library"
-msgstr ""
+msgstr "درست کردن یک کاتالوگ از کتاب های کتابخانه‌ی calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:787
 msgid "Convert books to various ebook formats"
@@ -355,7 +355,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:797
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr ""
+msgstr "ویرایش کردن فهرست کتاب های شما"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:802
 msgid "Delete books from your calibre library or connected device"
@@ -455,11 +455,11 @@ msgstr "کتابی اتفاقی از کتابخانه کالیبره انتخا�
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:913
 msgid "Search for books from different book sellers"
-msgstr ""
+msgstr "جستجوی کتاب در فروشگاه های مختلف کتاب"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:929
 msgid "Get new calibre plugins or update your existing ones"
-msgstr ""
+msgstr "گرفتن افزونه های جدید و یا به روز کردن افزونه های موجود"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:948
 msgid "Look and Feel"
@@ -510,7 +510,7 @@ msgstr "جستجو"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1000
 msgid "Customize the way searching for books works in calibre"
-msgstr ""
+msgstr "سفارشی کردن نحوه ی جست و جوی کتاب ها در calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1005
 msgid "Input Options"
@@ -571,7 +571,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1062
 msgid "Sending books to devices"
-msgstr ""
+msgstr "فرستادن کتاب به دستگاه های مختلف"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1068
 msgid "Control how calibre transfers files to your ebook reader"
@@ -702,6 +702,10 @@ msgid ""
 "useful for documents that do not declare an encoding or that have erroneous "
 "encoding declarations."
 msgstr ""
+"تنظیم رمزگذاری نویسه های سند ورودی. اگر این گزینه انتخاب شود، هر رمزگذاری "
+"دیگری که در خود سند تعریف شده باشد نادیده گرفته می شود. این گزینه به خصوص "
+"جهت تنظیم رمزگذاری برای سندهایی که رمزگذاری خود را تعریف نمی کنند (یا آن را "
+"به اشتباه تعریف می کنند) کارآمد است."
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:280
 msgid "Conversion Output"
@@ -995,7 +999,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:192
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:234
 msgid "creating custom column "
-msgstr ""
+msgstr "درست کردن یک ستون سفارشی "
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:176
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/book/base.py:637
@@ -1075,7 +1079,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:569
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "no"
-msgstr ""
+msgstr "خیر"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:311
@@ -1087,12 +1091,12 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:109
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:313
 msgid "today"
-msgstr ""
+msgstr "امروز"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:110
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:314
 msgid "yesterday"
-msgstr ""
+msgstr "دیروز"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:111
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:315
@@ -1122,12 +1126,12 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:573
 msgid "empty"
-msgstr ""
+msgstr "خالی"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:574
 msgid "blank"
-msgstr ""
+msgstr "خالی"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:323
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:586
