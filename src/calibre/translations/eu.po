@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-31 05:15+0000\n"
+"X-Launchpad-Export-Date: 2013-06-01 04:52+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 "Language: eu\n"
 
@@ -25297,9 +25297,3 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
-
-#~ msgid "({0} of {1})"
-#~ msgstr "({0} {1})-tik"
-
-#~ msgid "({0} of all)"
-#~ msgstr "({0} guztietatik)"

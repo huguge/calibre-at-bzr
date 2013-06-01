@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-05-31 03:42+0000\n"
-"PO-Revision-Date: 2012-08-03 13:00+0000\n"
-"Last-Translator: Cyril <tedehur@gmail.com>\n"
+"PO-Revision-Date: 2013-05-31 19:54+0000\n"
+"Last-Translator: Sergio Romero Aldana <sangtrinkulo@gmail.com>\n"
 "Language-Team: Esperanto <eo@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-05-31 05:18+0000\n"
+"X-Launchpad-Export-Date: 2013-06-01 04:54+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -338,15 +338,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:777
 msgid "Fetch annotations from a connected Kindle (experimental)"
-msgstr ""
+msgstr "Alportu notojn el konektita Kindle (eksperimenta)"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:782
 msgid "Generate a catalog of the books in your calibre library"
-msgstr ""
+msgstr "Generu libran katalogon en via biblioteko de calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:787
 msgid "Convert books to various ebook formats"
-msgstr ""
+msgstr "Konvertu librojn en diversajn librajn formatojn"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:792
 msgid "Fine tune your ebooks"
@@ -355,7 +355,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:797
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr ""
+msgstr "Editu la Listo de Enhavoj en viaj libroj"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:802
 msgid "Delete books from your calibre library or connected device"
@@ -363,7 +363,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:807
 msgid "Edit the metadata of books in your calibre library"
-msgstr ""
+msgstr "Editu librajn metadatumojn en via biblioteko de calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:812
 msgid "Read books in your calibre library"
@@ -371,15 +371,15 @@ msgstr "Legu librojn en via biblioteko en calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:817
 msgid "Download news from the internet in ebook form"
-msgstr ""
+msgstr "Elŝutu novaĵojn el interreto en libra formo"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:822
 msgid "Show a list of related books quickly"
-msgstr ""
+msgstr "Montru liston de rilataj libroj rapide"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:827
 msgid "Export books from your calibre library to the hard disk"
-msgstr ""
+msgstr "Eksportu librojn de via biblioteko de calibre al malmola disko"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:832
 msgid "Show book details in a separate popup"
@@ -396,7 +396,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:848
 msgid "Send books to the connected device"
-msgstr ""
+msgstr "Sendu librojn al konektitaj aparatoj"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:853
 msgid ""
@@ -424,7 +424,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:880
 msgid "Copy books from the devce to your calibre library"
-msgstr ""
+msgstr "Kopiu librojn el la aparato al via biblioteko de calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:885
 msgid "Edit the collections in which books are placed on your device"
@@ -432,7 +432,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:890
 msgid "Copy a book from one calibre library to another"
-msgstr ""
+msgstr "Kopiu libron el unu biblioteko de calibre al alia"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:895
 msgid "Make small tweaks to epub or htmlz files in your calibre library"
@@ -446,15 +446,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:906
 msgid "Choose a random book from your calibre library"
-msgstr ""
+msgstr "Elektu hazardan libron el via biblioteko de calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:913
 msgid "Search for books from different book sellers"
-msgstr ""
+msgstr "Serĉu librojn el diversaj librovendistoj"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:929
 msgid "Get new calibre plugins or update your existing ones"
-msgstr ""
+msgstr "Akiri novanj kromprogramojn aŭ ĝisdatigu la ekzistantajn"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:948
 msgid "Look and Feel"
@@ -539,7 +539,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1038
 msgid "Adding books"
-msgstr ""
+msgstr "Aldonante librojn"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1040
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1052
@@ -568,7 +568,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1068
 msgid "Control how calibre transfers files to your ebook reader"
-msgstr ""
+msgstr "Administri kiel calibre translokas dosierojn al via e-libra legilo"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1074
 msgid "Metadata plugboards"
@@ -596,7 +596,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1096
 msgid "Sharing books by email"
-msgstr ""
+msgstr "Partoprenu librojn retpoŝte"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1098
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1110
@@ -712,7 +712,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:310
 #, python-format
 msgid "Convert ebooks to the %s format"
-msgstr ""
+msgstr "Konvertu librojn al %s -a formato"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:47
 msgid "Input profile"
@@ -1101,17 +1101,17 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:112
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:316
 msgid "daysago"
-msgstr ""
+msgstr "tagoj antaŭe"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:198
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:375
 msgid "Number conversion error: {0}"
-msgstr ""
+msgstr "Eraro en nombra konvertado: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:204
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:381
 msgid "Date conversion error: {0}"
-msgstr ""
+msgstr "Eraro en data konvertado: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:458
@@ -1164,7 +1164,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/debug.py:272
 #, python-format
 msgid "No plugin named %s found"
-msgstr ""
+msgstr "Ne troviĝis kromprogramon nomita %s"
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:19
 msgid "Communicate with Android phones."
@@ -1895,7 +1895,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1245
 msgid "Show archived books"
-msgstr ""
+msgstr "Montru arĥivitajn librojn"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1246
 msgid ""
@@ -2024,16 +2024,16 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:192
 msgid "Listing files, this can take a while"
-msgstr ""
+msgstr "Listigante dosierojn, ĉi tio povas daŭri iom da tempo"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:207
 msgid "Reading ebook metadata"
-msgstr ""
+msgstr "Legante librajn metadatumojn"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:240
 #, python-format
 msgid "Reading metadata from %s"
-msgstr ""
+msgstr "Legante metadatumojn el %s"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:259
 msgid "Updating metadata cache on device"
