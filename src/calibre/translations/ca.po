@@ -10,15 +10,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-31 03:42+0000\n"
-"PO-Revision-Date: 2013-05-24 18:41+0000\n"
+"POT-Creation-Date: 2013-06-02 02:01+0000\n"
+"PO-Revision-Date: 2013-06-01 10:11+0000\n"
 "Last-Translator: Ferran Rius <frius64@hotmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-01 04:53+0000\n"
+"X-Launchpad-Export-Date: 2013-06-02 05:01+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -151,7 +151,7 @@ msgstr "No fa res"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:507
 #: /home/kovid/work/calibre/src/calibre/gui2/add.py:167
 #: /home/kovid/work/calibre/src/calibre/gui2/add.py:174
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:721
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:739
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/__init__.py:42
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/metadata.py:125
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/metadata.py:144
@@ -190,10 +190,10 @@ msgstr "No fa res"
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:592
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:2269
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:2422
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:2872
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3511
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3513
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3651
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:2873
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3512
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3514
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3652
 #: /home/kovid/work/calibre/src/calibre/library/server/content.py:249
 #: /home/kovid/work/calibre/src/calibre/library/server/content.py:250
 #: /home/kovid/work/calibre/src/calibre/library/server/mobile.py:247
@@ -201,8 +201,8 @@ msgstr "No fa res"
 #: /home/kovid/work/calibre/src/calibre/library/server/opds.py:163
 #: /home/kovid/work/calibre/src/calibre/library/server/xml.py:79
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:191
-#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:45
-#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:53
+#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:46
+#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:54
 msgid "Unknown"
 msgstr "Desconegut"
 
@@ -1092,7 +1092,7 @@ msgstr "Targeta B"
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:1224
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:359
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:372
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3365
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3366
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:187
 msgid "News"
 msgstr "Notícies"
@@ -1100,14 +1100,14 @@ msgstr "Notícies"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:312
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:572
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:574
 msgid "checked"
 msgstr "activat"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:310
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:570
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:572
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "yes"
 msgstr "sí"
@@ -1115,7 +1115,7 @@ msgstr "sí"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:309
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:569
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:571
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "no"
 msgstr "no"
@@ -1123,68 +1123,68 @@ msgstr "no"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:311
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:571
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:573
 msgid "unchecked"
 msgstr "desactivat"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:109
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:313
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:315
 msgid "today"
 msgstr "avui"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:110
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:314
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:316
 msgid "yesterday"
 msgstr "ahir"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:111
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:315
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:317
 msgid "thismonth"
 msgstr "aquest mes"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:112
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:316
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:318
 msgid "daysago"
 msgstr "fa dies"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:198
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:375
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:377
 msgid "Number conversion error: {0}"
 msgstr "Error de conversió de nombre: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:204
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:381
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:383
 msgid "Date conversion error: {0}"
 msgstr "Error de conversió de data: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:458
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:460
 msgid "Non-numeric value in query: {0}"
 msgstr "Valor no numèric a la consulta: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:573
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:575
 msgid "empty"
 msgstr "buit"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:574
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:576
 msgid "blank"
 msgstr "en blanc"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:323
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:586
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:588
 msgid "Invalid boolean query \"{0}\""
 msgstr "Consulta booleana no vàlida «{0}»"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:355
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:503
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:505
 msgid "Invalid query format for colon-separated search: {0}"
 msgstr ""
 "Format de consulta no vàlid per la la cerca separada per dos punts: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:652
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:654
 msgid "Recursive query group detected: {0}"
 msgstr "S'ha detectat un grup de consulta recursiu: {0}"
 
@@ -1411,8 +1411,8 @@ msgstr ""
 "Feu clic a «Mostra detalls» per a la llista."
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:2924
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3322
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3340
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3323
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3341
 msgid "Catalog"
 msgstr "Catàleg"
 
@@ -3707,6 +3707,9 @@ msgid ""
 "Useful if you want to print out the PDF. If this PDF is intended for "
 "electronic use, use the PDF Outline instead."
 msgstr ""
+"Afegeix un índex al final del PDF amb els números de pàgina. Útil si voleu "
+"imprimir el PDF. Si el PDF està pensat per a ús electrònic, utilitzeu "
+"l'esquema del PDF en el seu lloc."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pml_output.py:22
 msgid ""
@@ -5799,7 +5802,7 @@ msgid "The anchor %(a)s does not exist in file %(f)s"
 msgstr "No hi ha cap àncora %(a)s al fitxer %(f)s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:200
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:246
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:255
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:679
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:694
 msgid "(Untitled)"
@@ -6490,7 +6493,7 @@ msgstr "Restaura la base de dades"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:252
 msgid "{0} [{1} books]"
-msgstr ""
+msgstr "{0} [{1} llibres]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:318
 msgid "Rename"
@@ -7265,7 +7268,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
-msgstr ""
+msgstr "&Visualitzeu el llibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:276
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:345
@@ -8515,66 +8518,73 @@ msgstr "Donacions"
 msgid "Click to open"
 msgstr "Feu clic per obrir"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:180
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:181
 #: /home/kovid/work/calibre/src/calibre/library/server/browse.py:861
 msgid "Ids"
 msgstr "Identificadors"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:218
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:219
 #, python-format
 msgid "Book %(sidx)s of <span class=\"series_name\">%(series)s</span>"
 msgstr "Llibre %(sidx)s de <span class=\"series_name\">%(series)s</span>"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:233
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:234
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1204
 msgid "Collections"
 msgstr "Col·leccions"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:348
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:351
 #: /home/kovid/work/calibre/src/calibre/gui2/widgets.py:252
 msgid "Paste Cover"
 msgstr "Enganxa la portada"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:349
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:352
 #: /home/kovid/work/calibre/src/calibre/gui2/widgets.py:253
 msgid "Copy Cover"
 msgstr "Copia la portada"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:350
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:353
 msgid "Remove Cover"
 msgstr "Suprimeix la portada"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:393
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:396
 msgid "Double-click to open Book Details window"
 msgstr "Feu doble clic per obrir la finestra de detalls del llibre"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:394
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:397
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/delete_matching_from_device.py:77
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:295
 msgid "Path"
 msgstr "Camí"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:395
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:398
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/book_info.py:117
 #, python-format
 msgid "Cover size: %(width)d x %(height)d"
 msgstr "Mida de la portada: %(width)d×%(height)d"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:487
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:499
 msgid "&Copy Link"
 msgstr "&Copia l'enllaç"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:502
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:508
+#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550
+#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:555
+#, python-format
+msgid "Manage %s"
+msgstr "Gestiona %s"
+
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:519
 #, python-format
 msgid "Delete the %s format"
 msgstr "Suprimeix el format %s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:503
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:520
 #, python-format
 msgid "Save the %s format to disk"
 msgstr "Desa el format %s al disc"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:504
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:521
 #, python-format
 msgid "Restore the %s format"
 msgstr "Restaura el format %s"
@@ -10284,7 +10294,7 @@ msgstr "Plantilla de &peu de pàgina:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:162
 msgid "Add a printable &Table of Contents at the end"
-msgstr ""
+msgstr "Afegeix un í&ndex imprimible al final"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pml_output.py:14
 msgid "PMLZ Output"
@@ -15076,7 +15086,7 @@ msgstr "%(num)s, %(sel)d seleccionats"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:213
 msgid "{0}, {1} total"
-msgstr ""
+msgstr "{0}, {1} en total"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:245
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:256
@@ -19565,6 +19575,31 @@ msgid ""
 "ebook.com/virtual_libraries.html\">User Manual</a>.</p>\n"
 "            "
 msgstr ""
+"\n"
+"            <h2>Biblioteques virtuals</h2>\n"
+"\n"
+"            <p>Utilitzant <i>biblioteques virtuals</i> podeu restringir el "
+"calibre perquè només mostri els\n"
+"            llibres que coincideixen amb una cerca. Quan una biblioteca "
+"virtual està activa, el calibre es\n"
+"            comporta com si la biblioteca només contingués els llibres "
+"coincidents. El navegador d'etiquetes\n"
+"            només mostra les etiquetes/autors/sèries/... que corresponen als "
+"llibres coincidents i les cerques\n"
+"            només es realitzaran entre els llibres de la biblioteca virtual. "
+"És una bona manera de dividir una\n"
+"            biblioteca gran en parts més petites i manejables.</p>\n"
+"\n"
+"            <p>Per exemple, podeu utilitzar una biblioteca virtual per "
+"mostrar només els llibres amb l'etiqueta\n"
+"            <i>«No llegit»</i> o només els llibres d'<i>«El meu autor "
+"preferit»</i> o només llibres d'una sèrie\n"
+"            determinada.</p>\n"
+"\n"
+"            <p>Hi ha disponibles més informació i exemples al\n"
+"            <a href=\"http://manual.calibre-"
+"ebook.com/virtual_libraries.html\">Manual de l'usuari</a>.</p>\n"
+"            "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:182
 msgid "Saved searches recognized in the expression:"
@@ -20438,12 +20473,6 @@ msgstr "Cerca llibres a la categoria %s"
 msgid "Search for books not in category %s"
 msgstr "Cerca llibres que no estiguin a la categoria %s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550
-#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:555
-#, python-format
-msgid "Manage %s"
-msgstr "Gestiona %s"
-
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:563
 msgid "Change category icon"
 msgstr "Canvia la icona de la categoria"
@@ -20541,23 +20570,31 @@ msgstr "següent"
 msgid "previous"
 msgstr "anterior"
 
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:234
+msgid "Bad markup"
+msgstr ""
+
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:235
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:293
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:298
+msgid "This book has severely broken markup, its ToC cannot be edited."
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:244
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:302
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:307
 msgid "File:"
 msgstr "Fitxer:"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:236
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:283
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:245
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:292
 msgid "Top of the file"
 msgstr "Començament del fitxer"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:285
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:294
 #, python-format
 msgid "Approximately %d%% from the top"
 msgstr "Aproximadament %d%% des del principi"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:290
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:299
 #, python-format
 msgid "Location: A &lt;%s&gt; tag inside the file"
 msgstr "Ubicació: Una etiqueta &lt;%s&gt; a dins del fitxer"
@@ -23595,28 +23632,11 @@ msgid ""
 "int, float: number_format\n"
 "text: is_names, use_decorations\n"
 "\n"
-"The best way to find legal combinations is to create a customcolumn of the "
-"appropriate type in the GUI then look at thebackup OPF for a book (ensure "
-"that a new OPF has been createdsince the column was added). You will see the "
-"JSON for the\"display\" for the new column in the OPF."
+"The best way to find legal combinations is to create a custom column of the "
+"appropriate type in the GUI then look at the backup OPF for a book (ensure "
+"that a new OPF has been created since the column was added). You will see "
+"the JSON for the \"display\" for the new column in the OPF."
 msgstr ""
-"Un diccionari d'opcions per personalitzar com s'interpretaran les dades de "
-"la columna. És una cadena JSON. Per a columnes d'enumeració utilitzeu --"
-"display=\"{\\\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
-"Hi ha moltes opcions que poden estar amb la variable «display». Les opcions "
-"per tipus de columna són:\n"
-"composite: composite_template, composite_sort, make_category,contains_html, "
-"use_decorations\n"
-"datetime: date_format\n"
-"enumeration: enum_values, enum_colors, use_decorations\n"
-"int, float: number_format\n"
-"text: is_names, use_decorations\n"
-"\n"
-"La millor manera de trobar combinacions vàlides és crear una columna "
-"personalitzada del tipus adequat a la interfície gràfica i mirar la còpia de "
-"seguretat OPF per a un llibre (assegureu-vos que es crea un nou OPF després "
-"de crear la columna). Veureu la cadena JSON per a «display» de la nova "
-"columna al fitxer OPF."
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:749
 msgid "You must specify label, name and datatype"
@@ -24030,18 +24050,18 @@ msgstr ""
 msgid " (%s books)"
 msgstr " (%s llibres)"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3677
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3678
 #, python-format
 msgid "<p>Migrating old database to ebook library in %s<br><center>"
 msgstr ""
 "<p>S'està migrant la base de dades antiga a la biblioteca de %s<br><center>"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3706
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3707
 #, python-format
 msgid "Copying <b>%s</b>"
 msgstr "S'està copiant <b>%s</b>"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3723
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3724
 msgid "Compacting database"
 msgstr "S'està compactant la base de dades"
 
@@ -26078,7 +26098,7 @@ msgstr ""
 "No teniu permís per baixar aquest exemplar. Pot ser que us hagi caducat la "
 "subscripció o heu excedit el límit màxim de baixades permeses per avui."
 
-#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:45
+#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:46
 msgid "You"
 msgstr "Tu"
 
@@ -27527,7 +27547,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:533
 msgid "Highlight the virtual library name when using a Virtual Library"
-msgstr ""
+msgstr "Realça el nom de la biblioteca virtual que se n'utilitzi una"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:534
 msgid ""
@@ -27536,3 +27556,42 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
+"En utilitzar una biblioteca virtual es realça en groc el seu nom, al costat\n"
+"del botó de biblioteca virtual. Podeu triar el color del realçat amb aquest\n"
+"ajustament. Establiu-ho a «transparent» per desactivar el realçat."
+
+#~ msgid ""
+#~ "A dictionary of options to customize how the data in this column will be "
+#~ "interpreted. This is a JSON  string. For enumeration columns, use --"
+#~ "display=\"{\\\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
+#~ "There are many options that can go into the display variable.The options by "
+#~ "column type are:\n"
+#~ "composite: composite_template, composite_sort, make_category,contains_html, "
+#~ "use_decorations\n"
+#~ "datetime: date_format\n"
+#~ "enumeration: enum_values, enum_colors, use_decorations\n"
+#~ "int, float: number_format\n"
+#~ "text: is_names, use_decorations\n"
+#~ "\n"
+#~ "The best way to find legal combinations is to create a customcolumn of the "
+#~ "appropriate type in the GUI then look at thebackup OPF for a book (ensure "
+#~ "that a new OPF has been createdsince the column was added). You will see the "
+#~ "JSON for the\"display\" for the new column in the OPF."
+#~ msgstr ""
+#~ "Un diccionari d'opcions per personalitzar com s'interpretaran les dades de "
+#~ "la columna. És una cadena JSON. Per a columnes d'enumeració utilitzeu --"
+#~ "display=\"{\\\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
+#~ "Hi ha moltes opcions que poden estar amb la variable «display». Les opcions "
+#~ "per tipus de columna són:\n"
+#~ "composite: composite_template, composite_sort, make_category,contains_html, "
+#~ "use_decorations\n"
+#~ "datetime: date_format\n"
+#~ "enumeration: enum_values, enum_colors, use_decorations\n"
+#~ "int, float: number_format\n"
+#~ "text: is_names, use_decorations\n"
+#~ "\n"
+#~ "La millor manera de trobar combinacions vàlides és crear una columna "
+#~ "personalitzada del tipus adequat a la interfície gràfica i mirar la còpia de "
+#~ "seguretat OPF per a un llibre (assegureu-vos que es crea un nou OPF després "
+#~ "de crear la columna). Veureu la cadena JSON per a «display» de la nova "
+#~ "columna al fitxer OPF."
