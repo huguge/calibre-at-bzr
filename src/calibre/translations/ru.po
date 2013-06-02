@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calibre 0.4.55\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-31 03:42+0000\n"
+"POT-Creation-Date: 2013-06-02 02:01+0000\n"
 "PO-Revision-Date: 2013-05-25 08:11+0000\n"
 "Last-Translator: Roostam Abdjukhanov <Unknown>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-06-01 05:07+0000\n"
+"X-Launchpad-Export-Date: 2013-06-02 05:13+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-Language: Russian\n"
@@ -153,7 +153,7 @@ msgstr "Ничего не делает"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:507
 #: /home/kovid/work/calibre/src/calibre/gui2/add.py:167
 #: /home/kovid/work/calibre/src/calibre/gui2/add.py:174
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:721
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:739
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/__init__.py:42
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/metadata.py:125
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/metadata.py:144
@@ -192,10 +192,10 @@ msgstr "Ничего не делает"
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:592
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:2269
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:2422
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:2872
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3511
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3513
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3651
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:2873
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3512
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3514
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3652
 #: /home/kovid/work/calibre/src/calibre/library/server/content.py:249
 #: /home/kovid/work/calibre/src/calibre/library/server/content.py:250
 #: /home/kovid/work/calibre/src/calibre/library/server/mobile.py:247
@@ -203,8 +203,8 @@ msgstr "Ничего не делает"
 #: /home/kovid/work/calibre/src/calibre/library/server/opds.py:163
 #: /home/kovid/work/calibre/src/calibre/library/server/xml.py:79
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:191
-#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:45
-#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:53
+#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:46
+#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:54
 msgid "Unknown"
 msgstr "Неизв."
 
@@ -1078,7 +1078,7 @@ msgstr "Карта 2"
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:1224
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:359
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:372
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3365
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3366
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:187
 msgid "News"
 msgstr "Новости"
@@ -1086,14 +1086,14 @@ msgstr "Новости"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:312
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:572
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:574
 msgid "checked"
 msgstr "отмечено"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:310
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:570
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:572
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "yes"
 msgstr "да"
@@ -1101,7 +1101,7 @@ msgstr "да"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:309
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:569
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:571
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "no"
 msgstr "нет"
@@ -1109,67 +1109,67 @@ msgstr "нет"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:311
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:571
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:573
 msgid "unchecked"
 msgstr "не отмечено"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:109
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:313
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:315
 msgid "today"
 msgstr "сегодня"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:110
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:314
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:316
 msgid "yesterday"
 msgstr "вчера"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:111
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:315
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:317
 msgid "thismonth"
 msgstr "в этом месяце"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:112
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:316
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:318
 msgid "daysago"
 msgstr "несколько дней назад"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:198
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:375
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:377
 msgid "Number conversion error: {0}"
 msgstr "Ошибка преобразования цифр {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:204
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:381
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:383
 msgid "Date conversion error: {0}"
 msgstr "Ошибка преобразования даты {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:458
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:460
 msgid "Non-numeric value in query: {0}"
 msgstr "Не числовое значение в запросе: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:573
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:575
 msgid "empty"
 msgstr "пусто"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:574
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:576
 msgid "blank"
 msgstr "новый"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:323
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:586
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:588
 msgid "Invalid boolean query \"{0}\""
 msgstr "Неверный логический запрос \"{0}\""
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:355
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:503
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:505
 msgid "Invalid query format for colon-separated search: {0}"
 msgstr "Неверный формат запроса поиска для разделенных двоеточием: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
-#: /home/kovid/work/calibre/src/calibre/library/caches.py:652
+#: /home/kovid/work/calibre/src/calibre/library/caches.py:654
 msgid "Recursive query group detected: {0}"
 msgstr ""
 
@@ -1385,8 +1385,8 @@ msgstr ""
 "Нажмите кнопку \"Показать детали\" что бы увидеть список."
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:2924
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3322
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3340
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3323
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3341
 msgid "Catalog"
 msgstr "Каталог"
 
@@ -5717,7 +5717,7 @@ msgid "The anchor %(a)s does not exist in file %(f)s"
 msgstr "Якорь %(a)s не существует в файле %(f)s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:200
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:246
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:255
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:679
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:694
 msgid "(Untitled)"
@@ -8403,66 +8403,73 @@ msgstr "Пожертвовать"
 msgid "Click to open"
 msgstr "Щелкните, чтобы открыть"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:180
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:181
 #: /home/kovid/work/calibre/src/calibre/library/server/browse.py:861
 msgid "Ids"
 msgstr "Id"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:218
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:219
 #, python-format
 msgid "Book %(sidx)s of <span class=\"series_name\">%(series)s</span>"
 msgstr "Книга %(sidx)s из <span class=\"series_name\">%(series)s</span>"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:233
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:234
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1204
 msgid "Collections"
 msgstr "Коллекции"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:348
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:351
 #: /home/kovid/work/calibre/src/calibre/gui2/widgets.py:252
 msgid "Paste Cover"
 msgstr "Вставить обложку"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:349
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:352
 #: /home/kovid/work/calibre/src/calibre/gui2/widgets.py:253
 msgid "Copy Cover"
 msgstr "Копировать обложку"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:350
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:353
 msgid "Remove Cover"
 msgstr "Удалить Обложку"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:393
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:396
 msgid "Double-click to open Book Details window"
 msgstr "Двойной клик откроет окно с описанием книги"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:394
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:397
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/delete_matching_from_device.py:77
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:295
 msgid "Path"
 msgstr "Путь"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:395
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:398
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/book_info.py:117
 #, python-format
 msgid "Cover size: %(width)d x %(height)d"
 msgstr "Размер обложки: %(width)d x %(height)d"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:487
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:499
 msgid "&Copy Link"
 msgstr "&Копировать Ссылку"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:502
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:508
+#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550
+#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:555
+#, python-format
+msgid "Manage %s"
+msgstr "Управление %s"
+
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:519
 #, python-format
 msgid "Delete the %s format"
 msgstr "Удалить формат %s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:503
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:520
 #, python-format
 msgid "Save the %s format to disk"
 msgstr "Сохранить формат %s на диск"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:504
+#: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:521
 #, python-format
 msgid "Restore the %s format"
 msgstr "Восстановить формат %s"
@@ -20147,12 +20154,6 @@ msgstr "Искать книги в категории %s"
 msgid "Search for books not in category %s"
 msgstr "Искать книги НЕ в категории %s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550
-#: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:555
-#, python-format
-msgid "Manage %s"
-msgstr "Управление %s"
-
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:563
 msgid "Change category icon"
 msgstr "Изменить значок категории"
@@ -20251,23 +20252,31 @@ msgstr "следующем"
 msgid "previous"
 msgstr "предыдущем"
 
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:234
+msgid "Bad markup"
+msgstr ""
+
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:235
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:293
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:298
+msgid "This book has severely broken markup, its ToC cannot be edited."
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:244
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:302
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:307
 msgid "File:"
 msgstr "Файл:"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:236
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:283
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:245
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:292
 msgid "Top of the file"
 msgstr "Начало файла"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:285
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:294
 #, python-format
 msgid "Approximately %d%% from the top"
 msgstr "Примерно %d%% от верха"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:290
+#: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:299
 #, python-format
 msgid "Location: A &lt;%s&gt; tag inside the file"
 msgstr "Положение: Тэг &lt;%s&gt; в файле"
@@ -23261,27 +23270,11 @@ msgid ""
 "int, float: number_format\n"
 "text: is_names, use_decorations\n"
 "\n"
-"The best way to find legal combinations is to create a customcolumn of the "
-"appropriate type in the GUI then look at thebackup OPF for a book (ensure "
-"that a new OPF has been createdsince the column was added). You will see the "
-"JSON for the\"display\" for the new column in the OPF."
+"The best way to find legal combinations is to create a custom column of the "
+"appropriate type in the GUI then look at the backup OPF for a book (ensure "
+"that a new OPF has been created since the column was added). You will see "
+"the JSON for the \"display\" for the new column in the OPF."
 msgstr ""
-"Словарь настроек для указания того, как данные в этой колонке будут "
-"интерпретированы. Это JSON строка. Для столбцов с перечислением используйте -"
-"-display=\"{\\\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
-"Есть много настроек которые могуть быть использованы в переменной "
-"отображения. Настройки по типам столбцов следующие:\n"
-"composite: composite_template, composite_sort, make_category,contains_html, "
-"use_decorations\n"
-"datetime: date_format\n"
-"enumeration: enum_values, enum_colors, use_decorations\n"
-"int, float: number_format\n"
-"text: is_names, use_decorations\n"
-"\n"
-"Лучший способ найти правильное сочетание - это создать столбец "
-"соответствующего типа в интерфейсе и посмотреть на резервную копию OPF для "
-"книги (убедитесь что новый OPF был создан после добавления столбца). Вы "
-"увидете JSON для \"отображения\" для нового столбца в OPF."
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:749
 msgid "You must specify label, name and datatype"
@@ -23693,17 +23686,17 @@ msgstr ""
 msgid " (%s books)"
 msgstr " (%s книг)"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3677
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3678
 #, python-format
 msgid "<p>Migrating old database to ebook library in %s<br><center>"
 msgstr "<p>Миграция старой базы данных в %s<br><center>"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3706
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3707
 #, python-format
 msgid "Copying <b>%s</b>"
 msgstr "Копирование <b>%s</b>"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3723
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3724
 msgid "Compacting database"
 msgstr "Сжатие базы данных"
 
@@ -25732,7 +25725,7 @@ msgstr ""
 "У вас нет разрешения загрузить этот выпуск. Или ваша подписка истекла, или "
 "вы превысили максимальную позволенную загрузку на сегодня."
 
-#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:45
+#: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:46
 msgid "You"
 msgstr "Вы"
 
@@ -27101,3 +27094,38 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
+
+#~ msgid ""
+#~ "A dictionary of options to customize how the data in this column will be "
+#~ "interpreted. This is a JSON  string. For enumeration columns, use --"
+#~ "display=\"{\\\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
+#~ "There are many options that can go into the display variable.The options by "
+#~ "column type are:\n"
+#~ "composite: composite_template, composite_sort, make_category,contains_html, "
+#~ "use_decorations\n"
+#~ "datetime: date_format\n"
+#~ "enumeration: enum_values, enum_colors, use_decorations\n"
+#~ "int, float: number_format\n"
+#~ "text: is_names, use_decorations\n"
+#~ "\n"
+#~ "The best way to find legal combinations is to create a customcolumn of the "
+#~ "appropriate type in the GUI then look at thebackup OPF for a book (ensure "
+#~ "that a new OPF has been createdsince the column was added). You will see the "
+#~ "JSON for the\"display\" for the new column in the OPF."
+#~ msgstr ""
+#~ "Словарь настроек для указания того, как данные в этой колонке будут "
+#~ "интерпретированы. Это JSON строка. Для столбцов с перечислением используйте -"
+#~ "-display=\"{\\\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
+#~ "Есть много настроек которые могуть быть использованы в переменной "
+#~ "отображения. Настройки по типам столбцов следующие:\n"
+#~ "composite: composite_template, composite_sort, make_category,contains_html, "
+#~ "use_decorations\n"
+#~ "datetime: date_format\n"
+#~ "enumeration: enum_values, enum_colors, use_decorations\n"
+#~ "int, float: number_format\n"
+#~ "text: is_names, use_decorations\n"
+#~ "\n"
+#~ "Лучший способ найти правильное сочетание - это создать столбец "
+#~ "соответствующего типа в интерфейсе и посмотреть на резервную копию OPF для "
+#~ "книги (убедитесь что новый OPF был создан после добавления столбца). Вы "
+#~ "увидете JSON для \"отображения\" для нового столбца в OPF."
