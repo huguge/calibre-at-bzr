@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-11-25 14:01+0000\n"
-"PO-Revision-Date: 2013-05-27 01:14+0000\n"
+"PO-Revision-Date: 2013-06-02 22:47+0000\n"
 "Last-Translator: Miguel de Dios <tres.14159@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-05-28 05:16+0000\n"
-"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-06-03 06:01+0000\n"
+"X-Generator: Launchpad (build 16660)\n"
 
 #. name for aaa
 msgid "Ghotuo"
@@ -10544,7 +10544,7 @@ msgstr "Popti'"
 
 #. name for jad
 msgid "Jahanka"
-msgstr ""
+msgstr "Jahanka"
 
 #. name for jae
 msgid "Yabem"
@@ -10596,7 +10596,7 @@ msgstr "Jakati"
 
 #. name for jau
 msgid "Yaur"
-msgstr ""
+msgstr "Yaur"
 
 #. name for jav
 msgid "Javanese"
@@ -10608,7 +10608,7 @@ msgstr "Malayo de Jambi"
 
 #. name for jay
 msgid "Yan-nhangu"
-msgstr ""
+msgstr "Yan-nhangu"
 
 #. name for jaz
 msgid "Jawe"
@@ -10620,11 +10620,11 @@ msgstr ""
 
 #. name for jbj
 msgid "Arandai"
-msgstr ""
+msgstr "Arandai"
 
 #. name for jbn
 msgid "Nafusi"
-msgstr ""
+msgstr "Nafusi"
 
 #. name for jbo
 msgid "Lojban"
@@ -10636,11 +10636,11 @@ msgstr ""
 
 #. name for jbt
 msgid "Jabutí"
-msgstr ""
+msgstr "Jabutí"
 
 #. name for jbu
 msgid "Jukun Takum"
-msgstr ""
+msgstr "Jukun Takum"
 
 #. name for jcs
 msgid "Jamaican Country Sign Language"
@@ -10648,67 +10648,67 @@ msgstr "Lengua de signos campesina jamaicana"
 
 #. name for jct
 msgid "Krymchak"
-msgstr ""
+msgstr "Krymchak"
 
 #. name for jda
 msgid "Jad"
-msgstr ""
+msgstr "Jad"
 
 #. name for jdg
 msgid "Jadgali"
-msgstr ""
+msgstr "Jadgali"
 
 #. name for jdt
 msgid "Judeo-Tat"
-msgstr ""
+msgstr "Judeo-Tat"
 
 #. name for jeb
 msgid "Jebero"
-msgstr ""
+msgstr "Jebero"
 
 #. name for jee
 msgid "Jerung"
-msgstr ""
+msgstr "Jerung"
 
 #. name for jeg
 msgid "Jeng"
-msgstr ""
+msgstr "Jeng"
 
 #. name for jeh
 msgid "Jeh"
-msgstr ""
+msgstr "Jeh"
 
 #. name for jei
 msgid "Yei"
-msgstr ""
+msgstr "Yei"
 
 #. name for jek
 msgid "Jeri Kuo"
-msgstr ""
+msgstr "Jeri Kuo"
 
 #. name for jel
 msgid "Yelmek"
-msgstr ""
+msgstr "Yelmek"
 
 #. name for jen
 msgid "Dza"
-msgstr ""
+msgstr "Dza"
 
 #. name for jer
 msgid "Jere"
-msgstr ""
+msgstr "Jere"
 
 #. name for jet
 msgid "Manem"
-msgstr ""
+msgstr "Manem"
 
 #. name for jeu
 msgid "Jonkor Bourmataguil"
-msgstr ""
+msgstr "Jonkor Bourmataguil"
 
 #. name for jgb
 msgid "Ngbee"
-msgstr ""
+msgstr "Ngbee"
 
 #. name for jge
 msgid "Judeo-Georgian"
@@ -10716,11 +10716,11 @@ msgstr "Judeo-georgiano"
 
 #. name for jgo
 msgid "Ngomba"
-msgstr ""
+msgstr "Ngomba"
 
 #. name for jhi
 msgid "Jehai"
-msgstr ""
+msgstr "Jehai"
 
 #. name for jhs
 msgid "Jhankot Sign Language"
@@ -10728,39 +10728,39 @@ msgstr "Lengua de signos de Jhankot"
 
 #. name for jia
 msgid "Jina"
-msgstr ""
+msgstr "Jina"
 
 #. name for jib
 msgid "Jibu"
-msgstr ""
+msgstr "Jibu"
 
 #. name for jic
 msgid "Tol"
-msgstr ""
+msgstr "Tol"
 
 #. name for jid
 msgid "Bu"
-msgstr ""
+msgstr "Bu"
 
 #. name for jie
 msgid "Jilbe"
-msgstr ""
+msgstr "Jilbe"
 
 #. name for jig
 msgid "Djingili"
-msgstr ""
+msgstr "Djingili"
 
 #. name for jih
 msgid "Shangzhai"
-msgstr ""
+msgstr "Shangzhai"
 
 #. name for jii
 msgid "Jiiddu"
-msgstr ""
+msgstr "Jiiddu"
 
 #. name for jil
 msgid "Jilim"
-msgstr ""
+msgstr "Jilim"
 
 #. name for jim
 msgid "Jimi (Cameroon)"
@@ -10768,15 +10768,15 @@ msgstr "Jimi (Camerún)"
 
 #. name for jio
 msgid "Jiamao"
-msgstr ""
+msgstr "Jiamao"
 
 #. name for jiq
 msgid "Guanyinqiao"
-msgstr ""
+msgstr "Guanyinqiao"
 
 #. name for jit
 msgid "Jita"
-msgstr ""
+msgstr "Jita"
 
 #. name for jiu
 msgid "Jinuo; Youle"
