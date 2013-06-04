@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-02 02:01+0000\n"
-"PO-Revision-Date: 2013-05-30 05:47+0000\n"
-"Last-Translator: Franck <Unknown>\n"
+"PO-Revision-Date: 2013-06-03 19:35+0000\n"
+"Last-Translator: sengian <Unknown>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-06-03 05:43+0000\n"
+"X-Launchpad-Export-Date: 2013-06-04 05:19+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
@@ -3759,6 +3759,9 @@ msgid ""
 "Useful if you want to print out the PDF. If this PDF is intended for "
 "electronic use, use the PDF Outline instead."
 msgstr ""
+"Ajouter une table des matières à la fin du PDF qui répertorie les numéros de "
+"page. Utile si vous souhaitez imprimer le PDF. Si ce fichier PDF est destiné "
+"à un usage électronique, utiliser à la place le navigateur PDF."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pml_output.py:22
 msgid ""
@@ -5792,6 +5795,12 @@ msgid ""
 "especially\n"
 "when single quotes at the start of contractions are involved.</p>\n"
 msgstr ""
+"<p>Convertir les  tirets de texte brut, ellipses, citations, multiples "
+"traits d'union, etc... dans leur\n"
+"équivalents typographiques corrects.</p>\n"
+"<p>Notez que l'algorithme peut parfois générer des résultats erronés, en "
+"particulier\n"
+"lorsque les apostrophes au début de contractions sont impliqués.</p>\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:117
 #, python-format
@@ -5887,7 +5896,7 @@ msgstr "Vous devez spécifier au moins une action à accomplir."
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/replace.py:73
 #, python-format
 msgid "Smartened punctuation in: %s"
-msgstr ""
+msgstr "Arrangement de la ponctuaction dans : %s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:133
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:139
@@ -5903,7 +5912,7 @@ msgstr "Le fichier HTML %s n'existe pas"
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:153
 #, python-format
 msgid "The anchor %(a)s does not exist in file %(f)s"
-msgstr ""
+msgstr "Le lien %(a)s n'existe pas dans le fichier %(f)s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:200
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:255
@@ -6613,7 +6622,7 @@ msgstr "Restaurer la base de données"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:252
 msgid "{0} [{1} books]"
-msgstr ""
+msgstr "{0} [{1} livres]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:318
 msgid "Rename"
@@ -6858,19 +6867,21 @@ msgstr "Rechercher une bibliothèque"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:154
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:205
 msgid "&Copy"
-msgstr ""
+msgstr "&Copier"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:156
 msgid "Copy to the specified library"
-msgstr ""
+msgstr "Copier dans la bibliothèque spécifiée"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:157
 msgid "&Move"
-msgstr ""
+msgstr "&Déplacer"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:160
 msgid "Copy to the specified library and delete from the current library"
 msgstr ""
+"Copier dans la bibliothèque spécifiée et supprimer de la bibliothèque "
+"actuelle"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:180
 msgid "Copy to library"
@@ -6908,11 +6919,11 @@ msgstr "Aucune bibliothèque n’a été trouvée à %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:245
 msgid "Copying to"
-msgstr ""
+msgstr "Copier vers"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:245
 msgid "Moving to"
-msgstr ""
+msgstr "Déplacement vers"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:261
 #, python-format
@@ -6922,7 +6933,7 @@ msgstr "%(num)d livres copiés vers %(loc)s"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:263
 #, python-format
 msgid "Moved %(num)d books to %(loc)s"
-msgstr ""
+msgstr "%(num)d livres déplacés dans %(loc)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:267
 msgid "Could not copy books: "
@@ -7117,6 +7128,9 @@ msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> and the files "
 "removed from your calibre library. Are you sure?"
 msgstr ""
+"Le(s) %d livre(s) sélectionné(s) sera(seront) <b>définitivement "
+"supprimé(s)</b> et les fichiers supprimés de votre bibliothèque calibre. "
+"Êtes-vous sûr(e) ?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:392
 #, python-format
@@ -7124,6 +7138,8 @@ msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> from your device. "
 "Are you sure?"
 msgstr ""
+"Le(s) %d livre(s) sélectionné(s) sera(seront) <b>définitivement "
+"supprimé(s)</b> de votre périphérique. Êtes-vous sûr(e) ?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:33
 msgid "Start wireless device connection"
@@ -7347,7 +7363,7 @@ msgstr "Journal de Téléchargement"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:159
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:225
 msgid "Review downloaded metadata"
-msgstr ""
+msgstr "Revoir les métadonnées téléchargées"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:184
 msgid "Some books changed"
@@ -7367,26 +7383,29 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:226
 msgid "Discard downloaded metadata for this book"
-msgstr ""
+msgstr "Abandonner les méta-données téléchargées pour ce livre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:227
 msgid "Use the downloaded metadata for all remaining books"
-msgstr ""
+msgstr "Utiliser les métadonnées téléchargées pour tous les autres livres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:228
 msgid "Discard downloaded metadata for all remaining books"
-msgstr ""
+msgstr "Abandonner les métadonnées téléchargées pour tous les autres livres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:229
 #, python-format
 msgid "Discard the downloaded value for: %s"
-msgstr ""
+msgstr "Abandonner la valeur téléchargée pour : %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:230
 msgid ""
 "The downloaded metadata is on the left and the original metadata is on the "
 "right. If a downloaded value is blank or unknown, the original value is used."
 msgstr ""
+"Les métadonnées téléchargées sont sur ​​la gauche et les métadonnées "
+"d'origine sont sur ​​la droite. Si une valeur téléchargée est vide ou "
+"inconnue, la valeur d'origine est utilisé."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
@@ -7687,11 +7706,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:120
 msgid "&Save Settings"
-msgstr ""
+msgstr "&Enregistrer la configuration"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:122
 msgid "&Load Settings"
-msgstr ""
+msgstr "Char&ger la configuration"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:125
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/duplicates.py:47
@@ -7715,17 +7734,17 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:146
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:71
 msgid "Choose name"
-msgstr ""
+msgstr "Choisissez un nom"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:147
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:72
 msgid "Choose a name for these settings"
-msgstr ""
+msgstr "Choisissez un nom pour cette configuration"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:167
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:90
 msgid "Remove saved settings"
-msgstr ""
+msgstr "Supprimer les configurations sauvegardées"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:208
 msgid "Must update metadata"
@@ -7784,7 +7803,7 @@ msgstr[1] ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:345
 msgid " and "
-msgstr ""
+msgstr " et "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:348
 msgid "If you polish again, the polishing will run on the originals."
@@ -7800,7 +7819,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:384
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:425
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:443
@@ -7821,7 +7840,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/preferences.py:20
 msgid "Configure calibre"
-msgstr ""
+msgstr "Configurer Calibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/preferences.py:20
 msgid "Ctrl+P"
@@ -8113,23 +8132,23 @@ msgstr "A propos d’ Obtenir des Livres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:24
 msgid "Choose format to edit"
-msgstr ""
+msgstr "Choisissez le format à éditer"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:28
 msgid "Choose which format you want to edit:"
-msgstr ""
+msgstr "Choisissez le format que vous souhaitez éditer :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:40
 msgid "&All formats"
-msgstr ""
+msgstr "Tous les form&ats"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:62
 msgid "Edit ToC"
-msgstr ""
+msgstr "Editer la TdM"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:102
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:113
