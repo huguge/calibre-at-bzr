@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-11-25 14:01+0000\n"
-"PO-Revision-Date: 2013-06-02 22:47+0000\n"
+"PO-Revision-Date: 2013-06-04 14:24+0000\n"
 "Last-Translator: Miguel de Dios <tres.14159@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-03 06:01+0000\n"
+"X-Launchpad-Export-Date: 2013-06-05 05:32+0000\n"
 "X-Generator: Launchpad (build 16660)\n"
 
 #. name for aaa
@@ -10612,7 +10612,7 @@ msgstr "Yan-nhangu"
 
 #. name for jaz
 msgid "Jawe"
-msgstr ""
+msgstr "Jawe"
 
 #. name for jbe
 msgid "Judeo-Berber"
@@ -10632,7 +10632,7 @@ msgstr "Lojban"
 
 #. name for jbr
 msgid "Jofotek-Bromnya"
-msgstr ""
+msgstr "Jofotek-Bromnya"
 
 #. name for jbt
 msgid "Jabutí"
@@ -10784,7 +10784,7 @@ msgstr ""
 
 #. name for jiv
 msgid "Shuar"
-msgstr ""
+msgstr "Shuar"
 
 #. name for jiy
 msgid "Jinuo; Buyuan"
@@ -10792,15 +10792,15 @@ msgstr ""
 
 #. name for jko
 msgid "Kubo"
-msgstr ""
+msgstr "Kubo"
 
 #. name for jku
 msgid "Labir"
-msgstr ""
+msgstr "Labir"
 
 #. name for jle
 msgid "Ngile"
-msgstr ""
+msgstr "Ngile"
 
 #. name for jls
 msgid "Jamaican Sign Language"
@@ -10808,11 +10808,11 @@ msgstr "Lengua de signos jamaicana"
 
 #. name for jma
 msgid "Dima"
-msgstr ""
+msgstr "Dima"
 
 #. name for jmb
 msgid "Zumbun"
-msgstr ""
+msgstr "Zumbun"
 
 #. name for jmc
 msgid "Machame"
@@ -10828,7 +10828,7 @@ msgstr "Jimi (Nigeria)"
 
 #. name for jml
 msgid "Jumli"
-msgstr ""
+msgstr "Jumli"
 
 #. name for jmn
 msgid "Naga; Makuri"
@@ -10848,19 +10848,19 @@ msgstr ""
 
 #. name for jna
 msgid "Jangshung"
-msgstr ""
+msgstr "Jangshung"
 
 #. name for jnd
 msgid "Jandavra"
-msgstr ""
+msgstr "Jandavra"
 
 #. name for jng
 msgid "Yangman"
-msgstr ""
+msgstr "Yangman"
 
 #. name for jni
 msgid "Janji"
-msgstr ""
+msgstr "Janji"
 
 #. name for jnj
 msgid "Yemsa"
@@ -10868,7 +10868,7 @@ msgstr ""
 
 #. name for jnl
 msgid "Rawat"
-msgstr ""
+msgstr "Rawat"
 
 #. name for jns
 msgid "Jaunsari"
@@ -10876,15 +10876,15 @@ msgstr ""
 
 #. name for job
 msgid "Joba"
-msgstr ""
+msgstr "Joba"
 
 #. name for jod
 msgid "Wojenaka"
-msgstr ""
+msgstr "Wojenaka"
 
 #. name for jor
 msgid "Jorá"
-msgstr ""
+msgstr "Jorá"
 
 #. name for jos
 msgid "Jordanian Sign Language"
@@ -10908,7 +10908,7 @@ msgstr "Judeo-persa"
 
 #. name for jqr
 msgid "Jaqaru"
-msgstr ""
+msgstr "Jaqaru"
 
 #. name for jra
 msgid "Jarai"
@@ -10920,15 +10920,15 @@ msgstr "Judeo-árabe"
 
 #. name for jrr
 msgid "Jiru"
-msgstr ""
+msgstr "Jiru"
 
 #. name for jrt
 msgid "Jorto"
-msgstr ""
+msgstr "Jorto"
 
 #. name for jru
 msgid "Japrería"
-msgstr ""
+msgstr "Japrería"
 
 #. name for jsl
 msgid "Japanese Sign Language"
@@ -10936,35 +10936,35 @@ msgstr "Lengua de signos japonesa"
 
 #. name for jua
 msgid "Júma"
-msgstr ""
+msgstr "Júma"
 
 #. name for jub
 msgid "Wannu"
-msgstr ""
+msgstr "Wannu"
 
 #. name for juc
 msgid "Jurchen"
-msgstr ""
+msgstr "Jurchen"
 
 #. name for jud
 msgid "Worodougou"
-msgstr ""
+msgstr "Worodougou"
 
 #. name for juh
 msgid "Hõne"
-msgstr ""
+msgstr "Hõne"
 
 #. name for juk
 msgid "Wapan"
-msgstr ""
+msgstr "Wapan"
 
 #. name for jul
 msgid "Jirel"
-msgstr ""
+msgstr "Jirel"
 
 #. name for jum
 msgid "Jumjum"
-msgstr ""
+msgstr "Jumjum"
 
 #. name for jun
 msgid "Juang"
@@ -10972,15 +10972,15 @@ msgstr ""
 
 #. name for juo
 msgid "Jiba"
-msgstr ""
+msgstr "Jiba"
 
 #. name for jup
 msgid "Hupdë"
-msgstr ""
+msgstr "Hupdë"
 
 #. name for jur
 msgid "Jurúna"
-msgstr ""
+msgstr "Jurúna"
 
 #. name for jus
 msgid "Jumla Sign Language"
@@ -10996,15 +10996,15 @@ msgstr ""
 
 #. name for juw
 msgid "Wãpha"
-msgstr ""
+msgstr "Wãpha"
 
 #. name for juy
 msgid "Juray"
-msgstr ""
+msgstr "Juray"
 
 #. name for jvd
 msgid "Javindo"
-msgstr ""
+msgstr "Javindo"
 
 #. name for jvn
 msgid "Javanese; Caribbean"
@@ -11012,11 +11012,11 @@ msgstr ""
 
 #. name for jwi
 msgid "Jwira-Pepesa"
-msgstr ""
+msgstr "Jwira-Pepesa"
 
 #. name for jya
 msgid "Jiarong"
-msgstr ""
+msgstr "Jiarong"
 
 #. name for jye
 msgid "Arabic; Judeo-Yemeni"
@@ -11040,19 +11040,19 @@ msgstr "Kachin"
 
 #. name for kad
 msgid "Kadara"
-msgstr ""
+msgstr "Kadara"
 
 #. name for kae
 msgid "Ketangalan"
-msgstr ""
+msgstr "Ketangalan"
 
 #. name for kaf
 msgid "Katso"
-msgstr ""
+msgstr "Katso"
 
 #. name for kag
 msgid "Kajaman"
-msgstr ""
+msgstr "Kajaman"
 
 #. name for kah
 msgid "Kara (Central African Republic)"
@@ -11060,11 +11060,11 @@ msgstr "Kara (República Centroafricana)"
 
 #. name for kai
 msgid "Karekare"
-msgstr ""
+msgstr "Karekare"
 
 #. name for kaj
 msgid "Jju"
-msgstr ""
+msgstr "Jju"
 
 #. name for kak
 msgid "Kallahan; Kayapa"
@@ -11084,11 +11084,11 @@ msgstr "Canarés"
 
 #. name for kao
 msgid "Xaasongaxango"
-msgstr ""
+msgstr "Xaasongaxango"
 
 #. name for kap
 msgid "Bezhta"
-msgstr ""
+msgstr "Bezhta"
 
 #. name for kaq
 msgid "Capanahua"
@@ -11108,7 +11108,7 @@ msgstr "Kanuri"
 
 #. name for kav
 msgid "Katukína"
-msgstr ""
+msgstr "Katukína"
 
 #. name for kaw
 msgid "Kawi"
@@ -11116,11 +11116,11 @@ msgstr "Kawi"
 
 #. name for kax
 msgid "Kao"
-msgstr ""
+msgstr "Kao"
 
 #. name for kay
 msgid "Kamayurá"
-msgstr ""
+msgstr "Kamayurá"
 
 #. name for kaz
 msgid "Kazakh"
@@ -11132,11 +11132,11 @@ msgstr ""
 
 #. name for kbb
 msgid "Kaxuiâna"
-msgstr ""
+msgstr "Kaxuiâna"
 
 #. name for kbc
 msgid "Kadiwéu"
-msgstr ""
+msgstr "Kadiwéu"
 
 #. name for kbd
 msgid "Kabardian"
@@ -11144,11 +11144,11 @@ msgstr "Cabardiano"
 
 #. name for kbe
 msgid "Kanju"
-msgstr ""
+msgstr "Kanju"
 
 #. name for kbf
 msgid "Kakauhua"
-msgstr ""
+msgstr "Kakauhua"
 
 #. name for kbg
 msgid "Khamba"
@@ -11156,7 +11156,7 @@ msgstr ""
 
 #. name for kbh
 msgid "Camsá"
-msgstr ""
+msgstr "Camsá"
 
 #. name for kbi
 msgid "Kaptiau"
@@ -11164,7 +11164,7 @@ msgstr ""
 
 #. name for kbj
 msgid "Kari"
-msgstr ""
+msgstr "Kari"
 
 #. name for kbk
 msgid "Koiari; Grass"
@@ -11176,7 +11176,7 @@ msgstr ""
 
 #. name for kbm
 msgid "Iwal"
-msgstr ""
+msgstr "Iwal"
 
 #. name for kbn
 msgid "Kare (Central African Republic)"
@@ -11184,15 +11184,15 @@ msgstr "Kare (República Centroafricana)"
 
 #. name for kbo
 msgid "Keliko"
-msgstr ""
+msgstr "Keliko"
 
 #. name for kbp
 msgid "Kabiyè"
-msgstr ""
+msgstr "Kabiyè"
 
 #. name for kbq
 msgid "Kamano"
-msgstr ""
+msgstr "Kamano"
 
 #. name for kbr
 msgid "Kafa"
@@ -11220,7 +11220,7 @@ msgstr ""
 
 #. name for kbx
 msgid "Ap Ma"
-msgstr ""
+msgstr "Ap Ma"
 
 #. name for kby
 msgid "Kanuri; Manga"
@@ -11228,7 +11228,7 @@ msgstr ""
 
 #. name for kbz
 msgid "Duhwa"
-msgstr ""
+msgstr "Duhwa"
 
 #. name for kca
 msgid "Khanty"
@@ -11236,11 +11236,11 @@ msgstr ""
 
 #. name for kcb
 msgid "Kawacha"
-msgstr ""
+msgstr "Kawacha"
 
 #. name for kcc
 msgid "Lubila"
-msgstr ""
+msgstr "Lubila"
 
 #. name for kcd
 msgid "Kanum; Ngkâlmpw"
@@ -11256,23 +11256,23 @@ msgstr ""
 
 #. name for kcg
 msgid "Tyap"
-msgstr ""
+msgstr "Tyap"
 
 #. name for kch
 msgid "Vono"
-msgstr ""
+msgstr "Vono"
 
 #. name for kci
 msgid "Kamantan"
-msgstr ""
+msgstr "Kamantan"
 
 #. name for kcj
 msgid "Kobiana"
-msgstr ""
+msgstr "Kobiana"
 
 #. name for kck
 msgid "Kalanga"
-msgstr ""
+msgstr "Kalanga"
 
 #. name for kcl
 msgid "Kela (Papua New Guinea)"
@@ -11284,7 +11284,7 @@ msgstr "Gula (República Centroafricana)"
 
 #. name for kcn
 msgid "Nubi"
-msgstr ""
+msgstr "Nubi"
 
 #. name for kco
 msgid "Kinalakna"
@@ -11292,11 +11292,11 @@ msgstr ""
 
 #. name for kcp
 msgid "Kanga"
-msgstr ""
+msgstr "Kanga"
 
 #. name for kcq
 msgid "Kamo"
-msgstr ""
+msgstr "Kamo"
 
 #. name for kcr
 msgid "Katla"
@@ -11320,19 +11320,19 @@ msgstr ""
 
 #. name for kcw
 msgid "Kabwari"
-msgstr ""
+msgstr "Kabwari"
 
 #. name for kcx
 msgid "Kachama-Ganjule"
-msgstr ""
+msgstr "Kachama-Ganjule"
 
 #. name for kcy
 msgid "Korandje"
-msgstr ""
+msgstr "Korandje"
 
 #. name for kcz
 msgid "Konongo"
-msgstr ""
+msgstr "Konongo"
 
 #. name for kda
 msgid "Worimi"
@@ -11340,11 +11340,11 @@ msgstr ""
 
 #. name for kdc
 msgid "Kutu"
-msgstr ""
+msgstr "Kutu"
 
 #. name for kdd
 msgid "Yankunytjatjara"
-msgstr ""
+msgstr "Yankunytjatjara"
 
 #. name for kde
 msgid "Makonde"
@@ -11356,15 +11356,15 @@ msgstr ""
 
 #. name for kdg
 msgid "Seba"
-msgstr ""
+msgstr "Seba"
 
 #. name for kdh
 msgid "Tem"
-msgstr ""
+msgstr "Tem"
 
 #. name for kdi
 msgid "Kumam"
-msgstr ""
+msgstr "Kumam"
 
 #. name for kdj
 msgid "Karamojong"
@@ -11372,11 +11372,11 @@ msgstr ""
 
 #. name for kdk
 msgid "Numee"
-msgstr ""
+msgstr "Numee"
 
 #. name for kdl
 msgid "Tsikimba"
-msgstr ""
+msgstr "Tsikimba"
 
 #. name for kdm
 msgid "Kagoma"
@@ -11384,7 +11384,7 @@ msgstr ""
 
 #. name for kdn
 msgid "Kunda"
-msgstr ""
+msgstr "Kunda"
 
 #. name for kdp
 msgid "Kaningdon-Nindem"
@@ -11392,23 +11392,23 @@ msgstr ""
 
 #. name for kdq
 msgid "Koch"
-msgstr ""
+msgstr "Koch"
 
 #. name for kdr
 msgid "Karaim"
-msgstr ""
+msgstr "Karaim"
 
 #. name for kdt
 msgid "Kuy"
-msgstr ""
+msgstr "Kuy"
 
 #. name for kdu
 msgid "Kadaru"
-msgstr ""
+msgstr "Kadaru"
 
 #. name for kdv
 msgid "Kado"
-msgstr ""
+msgstr "Kado"
 
 #. name for kdw
 msgid "Koneraw"
@@ -11420,7 +11420,7 @@ msgstr ""
 
 #. name for kdy
 msgid "Keder"
-msgstr ""
+msgstr "Keder"
 
 #. name for kdz
 msgid "Kwaja"
@@ -11432,15 +11432,15 @@ msgstr ""
 
 #. name for keb
 msgid "Kélé"
-msgstr ""
+msgstr "Kélé"
 
 #. name for kec
 msgid "Keiga"
-msgstr ""
+msgstr "Keiga"
 
 #. name for ked
 msgid "Kerewe"
-msgstr ""
+msgstr "Kerewe"
 
 #. name for kee
 msgid "Keres; Eastern"
@@ -11448,7 +11448,7 @@ msgstr "Keres oriental"
 
 #. name for kef
 msgid "Kpessi"
-msgstr ""
+msgstr "Kpessi"
 
 #. name for keg
 msgid "Tese"
@@ -11456,19 +11456,19 @@ msgstr ""
 
 #. name for keh
 msgid "Keak"
-msgstr ""
+msgstr "Keak"
 
 #. name for kei
 msgid "Kei"
-msgstr ""
+msgstr "Kei"
 
 #. name for kej
 msgid "Kadar"
-msgstr ""
+msgstr "Kadar"
 
 #. name for kek
 msgid "Kekchí"
-msgstr ""
+msgstr "Kekchí"
 
 #. name for kel
 msgid "Kela (Democratic Republic of Congo)"
@@ -11480,15 +11480,15 @@ msgstr ""
 
 #. name for ken
 msgid "Kenyang"
-msgstr ""
+msgstr "Kenyang"
 
 #. name for keo
 msgid "Kakwa"
-msgstr ""
+msgstr "Kakwa"
 
 #. name for kep
 msgid "Kaikadi"
-msgstr ""
+msgstr "Kaikadi"
 
 #. name for keq
 msgid "Kamar"
@@ -11496,23 +11496,23 @@ msgstr ""
 
 #. name for ker
 msgid "Kera"
-msgstr ""
+msgstr "Kera"
 
 #. name for kes
 msgid "Kugbo"
-msgstr ""
+msgstr "Kugbo"
 
 #. name for ket
 msgid "Ket"
-msgstr ""
+msgstr "Ket"
 
 #. name for keu
 msgid "Akebu"
-msgstr ""
+msgstr "Akebu"
 
 #. name for kev
 msgid "Kanikkaran"
-msgstr ""
+msgstr "Kanikkaran"
 
 #. name for kew
 msgid "Kewa; West"
@@ -11532,7 +11532,7 @@ msgstr ""
 
 #. name for kfa
 msgid "Kodava"
-msgstr ""
+msgstr "Kodava"
 
 #. name for kfb
 msgid "Kolami; Northwestern"
@@ -11540,7 +11540,7 @@ msgstr "Kolami noroccidental"
 
 #. name for kfc
 msgid "Konda-Dora"
-msgstr ""
+msgstr "Konda-Dora"
 
 #. name for kfd
 msgid "Koraga; Korra"
@@ -11568,11 +11568,11 @@ msgstr ""
 
 #. name for kfj
 msgid "Kemiehua"
-msgstr ""
+msgstr "Kemiehua"
 
 #. name for kfk
 msgid "Kinnauri"
-msgstr ""
+msgstr "Kinnauri"
 
 #. name for kfl
 msgid "Kung"
@@ -11580,11 +11580,11 @@ msgstr ""
 
 #. name for kfm
 msgid "Khunsari"
-msgstr ""
+msgstr "Khunsari"
 
 #. name for kfn
 msgid "Kuk"
-msgstr ""
+msgstr "Kuk"
 
 #. name for kfo
 msgid "Koro (Côte d'Ivoire)"
@@ -11604,7 +11604,7 @@ msgstr ""
 
 #. name for kfs
 msgid "Bilaspuri"
-msgstr ""
+msgstr "Bilaspuri"
 
 #. name for kft
 msgid "Kanjari"
@@ -11628,15 +11628,15 @@ msgstr ""
 
 #. name for kfy
 msgid "Kumaoni"
-msgstr ""
+msgstr "Kumaoni"
 
 #. name for kfz
 msgid "Koromfé"
-msgstr ""
+msgstr "Koromfé"
 
 #. name for kga
 msgid "Koyaga"
-msgstr ""
+msgstr "Koyaga"
 
 #. name for kgb
 msgid "Kawe"
@@ -11644,7 +11644,7 @@ msgstr ""
 
 #. name for kgc
 msgid "Kasseng"
-msgstr ""
+msgstr "Kasseng"
 
 #. name for kgd
 msgid "Kataang"
@@ -11684,19 +11684,19 @@ msgstr ""
 
 #. name for kgm
 msgid "Karipúna"
-msgstr ""
+msgstr "Karipúna"
 
 #. name for kgn
 msgid "Karingani"
-msgstr ""
+msgstr "Karingani"
 
 #. name for kgo
 msgid "Krongo"
-msgstr ""
+msgstr "Krongo"
 
 #. name for kgp
 msgid "Kaingang"
-msgstr ""
+msgstr "Kaingang"
 
 #. name for kgq
 msgid "Kamoro"
@@ -11704,15 +11704,15 @@ msgstr ""
 
 #. name for kgr
 msgid "Abun"
-msgstr ""
+msgstr "Abun"
 
 #. name for kgs
 msgid "Kumbainggar"
-msgstr ""
+msgstr "Kumbainggar"
 
 #. name for kgt
 msgid "Somyev"
-msgstr ""
+msgstr "Somyev"
 
 #. name for kgu
 msgid "Kobol"
@@ -11724,7 +11724,7 @@ msgstr ""
 
 #. name for kgw
 msgid "Karon Dori"
-msgstr ""
+msgstr "Karon Dori"
 
 #. name for kgx
 msgid "Kamaru"
@@ -11736,11 +11736,11 @@ msgstr ""
 
 #. name for kha
 msgid "Khasi"
-msgstr ""
+msgstr "Khasi"
 
 #. name for khb
 msgid "Lü"
-msgstr ""
+msgstr "Lü"
 
 #. name for khc
 msgid "Tukang Besi North"
@@ -11756,7 +11756,7 @@ msgstr ""
 
 #. name for khf
 msgid "Khuen"
-msgstr ""
+msgstr "Khuen"
 
 #. name for khg
 msgid "Tibetan; Khams"
@@ -11764,11 +11764,11 @@ msgstr ""
 
 #. name for khh
 msgid "Kehu"
-msgstr ""
+msgstr "Kehu"
 
 #. name for khj
 msgid "Kuturmi"
-msgstr ""
+msgstr "Kuturmi"
 
 #. name for khk
 msgid "Mongolian; Halh"
@@ -11776,7 +11776,7 @@ msgstr ""
 
 #. name for khl
 msgid "Lusi"
-msgstr ""
+msgstr "Lusi"
 
 #. name for khm
 msgid "Khmer; Central"
@@ -11792,7 +11792,7 @@ msgstr "Khotanés"
 
 #. name for khp
 msgid "Kapori"
-msgstr ""
+msgstr "Kapori"
 
 #. name for khq
 msgid "Songhay; Koyra Chiini"
@@ -11804,7 +11804,7 @@ msgstr ""
 
 #. name for khs
 msgid "Kasua"
-msgstr ""
+msgstr "Kasua"
 
 #. name for kht
 msgid "Khamti"
@@ -11812,11 +11812,11 @@ msgstr ""
 
 #. name for khu
 msgid "Nkhumbi"
-msgstr ""
+msgstr "Nkhumbi"
 
 #. name for khv
 msgid "Khvarshi"
-msgstr ""
+msgstr "Khvarshi"
 
 #. name for khw
 msgid "Khowar"
@@ -11832,11 +11832,11 @@ msgstr "Kele (República Democrática del Congo)"
 
 #. name for khz
 msgid "Keapara"
-msgstr ""
+msgstr "Keapara"
 
 #. name for kia
 msgid "Kim"
-msgstr ""
+msgstr "Kim"
 
 #. name for kib
 msgid "Koalib"
@@ -11844,15 +11844,15 @@ msgstr ""
 
 #. name for kic
 msgid "Kickapoo"
-msgstr ""
+msgstr "Kickapoo"
 
 #. name for kid
 msgid "Koshin"
-msgstr ""
+msgstr "Koshin"
 
 #. name for kie
 msgid "Kibet"
-msgstr ""
+msgstr "Kibet"
 
 #. name for kif
 msgid "Kham; Eastern Parbate"
@@ -11864,15 +11864,15 @@ msgstr ""
 
 #. name for kih
 msgid "Kilmeri"
-msgstr ""
+msgstr "Kilmeri"
 
 #. name for kii
 msgid "Kitsai"
-msgstr ""
+msgstr "Kitsai"
 
 #. name for kij
 msgid "Kilivila"
-msgstr ""
+msgstr "Kilivila"
 
 #. name for kik
 msgid "Kikuyu"
@@ -11880,7 +11880,7 @@ msgstr "Kikuyu"
 
 #. name for kil
 msgid "Kariya"
-msgstr ""
+msgstr "Kariya"
 
 #. name for kim
 msgid "Karagas"
@@ -11892,7 +11892,7 @@ msgstr "Kinyarwanda"
 
 #. name for kio
 msgid "Kiowa"
-msgstr ""
+msgstr "Kiowa"
 
 #. name for kip
 msgid "Kham; Sheshi"
@@ -11900,7 +11900,7 @@ msgstr ""
 
 #. name for kiq
 msgid "Kosadle"
-msgstr ""
+msgstr "Kosadle"
 
 #. name for kir
 msgid "Kirghiz"
@@ -11908,11 +11908,11 @@ msgstr "Kirguís"
 
 #. name for kis
 msgid "Kis"
-msgstr ""
+msgstr "Kis"
 
 #. name for kit
 msgid "Agob"
-msgstr ""
+msgstr "Agob"
 
 #. name for kiu
 msgid "Kirmanjki (individual language)"
@@ -11920,7 +11920,7 @@ msgstr "Kirmanjki (idioma individual)"
 
 #. name for kiv
 msgid "Kimbu"
-msgstr ""
+msgstr "Kimbu"
 
 #. name for kiw
 msgid "Kiwai; Northeast"
@@ -11932,19 +11932,19 @@ msgstr ""
 
 #. name for kiy
 msgid "Kirikiri"
-msgstr ""
+msgstr "Kirikiri"
 
 #. name for kiz
 msgid "Kisi"
-msgstr ""
+msgstr "Kisi"
 
 #. name for kja
 msgid "Mlap"
-msgstr ""
+msgstr "Mlap"
 
 #. name for kjb
 msgid "Q'anjob'al"
-msgstr ""
+msgstr "Q'anjob'al"
 
 #. name for kjc
 msgid "Konjo; Coastal"
@@ -11956,11 +11956,11 @@ msgstr "Kiwai meridional"
 
 #. name for kje
 msgid "Kisar"
-msgstr ""
+msgstr "Kisar"
 
 #. name for kjf
 msgid "Khalaj"
-msgstr ""
+msgstr "Khalaj"
 
 #. name for kjg
 msgid "Khmu"
@@ -11972,11 +11972,11 @@ msgstr ""
 
 #. name for kji
 msgid "Zabana"
-msgstr ""
+msgstr "Zabana"
 
 #. name for kjj
 msgid "Khinalugh"
-msgstr ""
+msgstr "Khinalugh"
 
 #. name for kjk
 msgid "Konjo; Highland"
@@ -11988,7 +11988,7 @@ msgstr ""
 
 #. name for kjm
 msgid "Kháng"
-msgstr ""
+msgstr "Kháng"
 
 #. name for kjn
 msgid "Kunjen"
@@ -12008,7 +12008,7 @@ msgstr "Keres occidental"
 
 #. name for kjr
 msgid "Kurudu"
-msgstr ""
+msgstr "Kurudu"
 
 #. name for kjs
 msgid "Kewa; East"
@@ -12020,7 +12020,7 @@ msgstr ""
 
 #. name for kju
 msgid "Kashaya"
-msgstr ""
+msgstr "Kashaya"
 
 #. name for kjx
 msgid "Ramopa"
@@ -12028,31 +12028,31 @@ msgstr ""
 
 #. name for kjy
 msgid "Erave"
-msgstr ""
+msgstr "Erave"
 
 #. name for kjz
 msgid "Bumthangkha"
-msgstr ""
+msgstr "Bumthangkha"
 
 #. name for kka
 msgid "Kakanda"
-msgstr ""
+msgstr "Kakanda"
 
 #. name for kkb
 msgid "Kwerisa"
-msgstr ""
+msgstr "Kwerisa"
 
 #. name for kkc
 msgid "Odoodee"
-msgstr ""
+msgstr "Odoodee"
 
 #. name for kkd
 msgid "Kinuku"
-msgstr ""
+msgstr "Kinuku"
 
 #. name for kke
 msgid "Kakabe"
-msgstr ""
+msgstr "Kakabe"
 
 #. name for kkf
 msgid "Monpa; Kalaktang"
@@ -12064,7 +12064,7 @@ msgstr ""
 
 #. name for kkh
 msgid "Khün"
-msgstr ""
+msgstr "Khün"
 
 #. name for kki
 msgid "Kagulu"
@@ -12088,7 +12088,7 @@ msgstr ""
 
 #. name for kkn
 msgid "Kon Keu"
-msgstr ""
+msgstr "Kon Keu"
 
 #. name for kko
 msgid "Karko"
@@ -12096,11 +12096,11 @@ msgstr ""
 
 #. name for kkp
 msgid "Gugubera"
-msgstr ""
+msgstr "Gugubera"
 
 #. name for kkq
 msgid "Kaiku"
-msgstr ""
+msgstr "Kaiku"
 
 #. name for kkr
 msgid "Kir-Balar"
@@ -12108,15 +12108,15 @@ msgstr ""
 
 #. name for kks
 msgid "Giiwo"
-msgstr ""
+msgstr "Giiwo"
 
 #. name for kkt
 msgid "Koi"
-msgstr ""
+msgstr "Koi"
 
 #. name for kku
 msgid "Tumi"
-msgstr ""
+msgstr "Tumi"
 
 #. name for kkv
 msgid "Kangean"
@@ -12124,15 +12124,15 @@ msgstr ""
 
 #. name for kkw
 msgid "Teke-Kukuya"
-msgstr ""
+msgstr "Teke-Kukuya"
 
 #. name for kkx
 msgid "Kohin"
-msgstr ""
+msgstr "Kohin"
 
 #. name for kky
 msgid "Guguyimidjir"
-msgstr ""
+msgstr "Guguyimidjir"
 
 #. name for kkz
 msgid "Kaska"
@@ -12140,19 +12140,19 @@ msgstr ""
 
 #. name for kla
 msgid "Klamath-Modoc"
-msgstr ""
+msgstr "Klamath-Modoc"
 
 #. name for klb
 msgid "Kiliwa"
-msgstr ""
+msgstr "Kiliwa"
 
 #. name for klc
 msgid "Kolbila"
-msgstr ""
+msgstr "Kolbila"
 
 #. name for kld
 msgid "Gamilaraay"
-msgstr ""
+msgstr "Gamilaraay"
 
 #. name for kle
 msgid "Kulung (Nepal)"
@@ -12164,11 +12164,11 @@ msgstr ""
 
 #. name for klg
 msgid "Tagakaulo"
-msgstr ""
+msgstr "Tagakaulo"
 
 #. name for klh
 msgid "Weliki"
-msgstr ""
+msgstr "Weliki"
 
 #. name for kli
 msgid "Kalumpang"
@@ -12188,11 +12188,11 @@ msgstr ""
 
 #. name for klm
 msgid "Migum"
-msgstr ""
+msgstr "Migum"
 
 #. name for kln
 msgid "Kalenjin"
-msgstr ""
+msgstr "Kalenjin"
 
 #. name for klo
 msgid "Kapya"
@@ -12204,7 +12204,7 @@ msgstr ""
 
 #. name for klq
 msgid "Rumu"
-msgstr ""
+msgstr "Rumu"
 
 #. name for klr
 msgid "Khaling"
@@ -12224,7 +12224,7 @@ msgstr ""
 
 #. name for klv
 msgid "Maskelynes"
-msgstr ""
+msgstr "Maskelynes"
 
 #. name for klw
 msgid "Lindu"
@@ -12232,7 +12232,7 @@ msgstr ""
 
 #. name for klx
 msgid "Koluwawa"
-msgstr ""
+msgstr "Koluwawa"
 
 #. name for kly
 msgid "Kalao"
@@ -12244,7 +12244,7 @@ msgstr ""
 
 #. name for kma
 msgid "Konni"
-msgstr ""
+msgstr "Konni"
 
 #. name for kmb
 msgid "Kimbundu"
@@ -12268,7 +12268,7 @@ msgstr "Kare (Papúa Nueva Guinea)"
 
 #. name for kmg
 msgid "Kâte"
-msgstr ""
+msgstr "Kâte"
 
 #. name for kmh
 msgid "Kalam"
@@ -12280,7 +12280,7 @@ msgstr "Kami (Nigeria)"
 
 #. name for kmj
 msgid "Kumarbhag Paharia"
-msgstr ""
+msgstr "Kumarbhag Paharia"
 
 #. name for kmk
 msgid "Kalinga; Limos"
@@ -12296,7 +12296,7 @@ msgstr "Kom (India)"
 
 #. name for kmn
 msgid "Awtuw"
-msgstr ""
+msgstr "Awtuw"
 
 #. name for kmo
 msgid "Kwoma"
@@ -12320,7 +12320,7 @@ msgstr ""
 
 #. name for kmt
 msgid "Kemtuik"
-msgstr ""
+msgstr "Kemtuik"
 
 #. name for kmu
 msgid "Kanite"
@@ -12336,11 +12336,11 @@ msgstr "Komo (República Democrática del Congo)"
 
 #. name for kmx
 msgid "Waboda"
-msgstr ""
+msgstr "Waboda"
 
 #. name for kmy
 msgid "Koma"
-msgstr ""
+msgstr "Koma"
 
 #. name for kmz
 msgid "Khorasani Turkish"
@@ -12388,7 +12388,7 @@ msgstr ""
 
 #. name for knl
 msgid "Keninjal"
-msgstr ""
+msgstr "Keninjal"
 
 #. name for knm
 msgid "Kanamarí"
@@ -12404,19 +12404,19 @@ msgstr "Kono (Sierra Leona)"
 
 #. name for knp
 msgid "Kwanja"
-msgstr ""
+msgstr "Kwanja"
 
 #. name for knq
 msgid "Kintaq"
-msgstr ""
+msgstr "Kintaq"
 
 #. name for knr
 msgid "Kaningra"
-msgstr ""
+msgstr "Kaningra"
 
 #. name for kns
 msgid "Kensiu"
-msgstr ""
+msgstr "Kensiu"
 
 #. name for knt
 msgid "Katukína; Panoan"
@@ -12428,7 +12428,7 @@ msgstr "Kono (Guinea)"
 
 #. name for knv
 msgid "Tabo"
-msgstr ""
+msgstr "Tabo"
 
 #. name for knw
 msgid "Kung-Ekoka"
@@ -12440,27 +12440,27 @@ msgstr ""
 
 #. name for kny
 msgid "Kanyok"
-msgstr ""
+msgstr "Kanyok"
 
 #. name for knz
 msgid "Kalamsé"
-msgstr ""
+msgstr "Kalamsé"
 
 #. name for koa
 msgid "Konomala"
-msgstr ""
+msgstr "Konomala"
 
 #. name for koc
 msgid "Kpati"
-msgstr ""
+msgstr "Kpati"
 
 #. name for kod
 msgid "Kodi"
-msgstr ""
+msgstr "Kodi"
 
 #. name for koe
 msgid "Kacipo-Balesi"
-msgstr ""
+msgstr "Kacipo-Balesi"
 
 #. name for kof
 msgid "Kubi"
@@ -12468,19 +12468,19 @@ msgstr ""
 
 #. name for kog
 msgid "Cogui"
-msgstr ""
+msgstr "Cogui"
 
 #. name for koh
 msgid "Koyo"
-msgstr ""
+msgstr "Koyo"
 
 #. name for koi
 msgid "Komi-Permyak"
-msgstr ""
+msgstr "Komi-Permyak"
 
 #. name for koj
 msgid "Sara Dunjo"
-msgstr ""
+msgstr "Sara Dunjo"
 
 #. name for kok
 msgid "Konkani (macrolanguage)"
@@ -12500,11 +12500,11 @@ msgstr "Kikongo"
 
 #. name for koo
 msgid "Konzo"
-msgstr ""
+msgstr "Konzo"
 
 #. name for kop
 msgid "Waube"
-msgstr ""
+msgstr "Waube"
 
 #. name for koq
 msgid "Kota (Gabon)"
@@ -12528,7 +12528,7 @@ msgstr ""
 
 #. name for kov
 msgid "Kudu-Camo"
-msgstr ""
+msgstr "Kudu-Camo"
 
 #. name for kow
 msgid "Kugama"
@@ -12536,11 +12536,11 @@ msgstr ""
 
 #. name for kox
 msgid "Coxima"
-msgstr ""
+msgstr "Coxima"
 
 #. name for koy
 msgid "Koyukon"
-msgstr ""
+msgstr "Koyukon"
 
 #. name for koz
 msgid "Korak"
@@ -12548,7 +12548,7 @@ msgstr ""
 
 #. name for kpa
 msgid "Kutto"
-msgstr ""
+msgstr "Kutto"
 
 #. name for kpb
 msgid "Kurumba; Mullu"
@@ -12556,7 +12556,7 @@ msgstr ""
 
 #. name for kpc
 msgid "Curripaco"
-msgstr ""
+msgstr "Curripaco"
 
 #. name for kpd
 msgid "Koba"
@@ -12568,11 +12568,11 @@ msgstr "Kpelle"
 
 #. name for kpf
 msgid "Komba"
-msgstr ""
+msgstr "Komba"
 
 #. name for kpg
 msgid "Kapingamarangi"
-msgstr ""
+msgstr "Kapingamarangi"
 
 #. name for kph
 msgid "Kplang"
@@ -12584,11 +12584,11 @@ msgstr ""
 
 #. name for kpj
 msgid "Karajá"
-msgstr ""
+msgstr "Karajá"
 
 #. name for kpk
 msgid "Kpan"
-msgstr ""
+msgstr "Kpan"
 
 #. name for kpl
 msgid "Kpala"
@@ -12600,11 +12600,11 @@ msgstr ""
 
 #. name for kpn
 msgid "Kepkiriwát"
-msgstr ""
+msgstr "Kepkiriwát"
 
 #. name for kpo
 msgid "Ikposo"
-msgstr ""
+msgstr "Ikposo"
 
 #. name for kpp
 msgid "Karen; Paku"
@@ -12612,11 +12612,11 @@ msgstr ""
 
 #. name for kpq
 msgid "Korupun-Sela"
-msgstr ""
+msgstr "Korupun-Sela"
 
 #. name for kpr
 msgid "Korafe-Yegha"
-msgstr ""
+msgstr "Korafe-Yegha"
 
 #. name for kps
 msgid "Tehit"
@@ -12624,7 +12624,7 @@ msgstr ""
 
 #. name for kpt
 msgid "Karata"
-msgstr ""
+msgstr "Karata"
 
 #. name for kpu
 msgid "Kafoa"
@@ -12632,11 +12632,11 @@ msgstr ""
 
 #. name for kpv
 msgid "Komi-Zyrian"
-msgstr ""
+msgstr "Komi-Zyrian"
 
 #. name for kpw
 msgid "Kobon"
-msgstr ""
+msgstr "Kobon"
 
 #. name for kpx
 msgid "Koiali; Mountain"
@@ -12644,15 +12644,15 @@ msgstr ""
 
 #. name for kpy
 msgid "Koryak"
-msgstr ""
+msgstr "Koryak"
 
 #. name for kpz
 msgid "Kupsabiny"
-msgstr ""
+msgstr "Kupsabiny"
 
 #. name for kqa
 msgid "Mum"
-msgstr ""
+msgstr "Mum"
 
 #. name for kqb
 msgid "Kovai"
@@ -12660,15 +12660,15 @@ msgstr ""
 
 #. name for kqc
 msgid "Doromu-Koki"
-msgstr ""
+msgstr "Doromu-Koki"
 
 #. name for kqd
 msgid "Koy Sanjaq Surat"
-msgstr ""
+msgstr "Koy Sanjaq Surat"
 
 #. name for kqe
 msgid "Kalagan"
-msgstr ""
+msgstr "Kalagan"
 
 #. name for kqf
 msgid "Kakabai"
@@ -12676,7 +12676,7 @@ msgstr ""
 
 #. name for kqg
 msgid "Khe"
-msgstr ""
+msgstr "Khe"
 
 #. name for kqh
 msgid "Kisankasa"
@@ -12684,7 +12684,7 @@ msgstr ""
 
 #. name for kqi
 msgid "Koitabu"
-msgstr ""
+msgstr "Koitabu"
 
 #. name for kqj
 msgid "Koromira"
@@ -12696,7 +12696,7 @@ msgstr ""
 
 #. name for kql
 msgid "Kyenele"
-msgstr ""
+msgstr "Kyenele"
 
 #. name for kqm
 msgid "Khisa"
@@ -12712,15 +12712,15 @@ msgstr "Krahn oriental"
 
 #. name for kqp
 msgid "Kimré"
-msgstr ""
+msgstr "Kimré"
 
 #. name for kqq
 msgid "Krenak"
-msgstr ""
+msgstr "Krenak"
 
 #. name for kqr
 msgid "Kimaragang"
-msgstr ""
+msgstr "Kimaragang"
 
 #. name for kqs
 msgid "Kissi; Northern"
@@ -12732,19 +12732,19 @@ msgstr ""
 
 #. name for kqu
 msgid "Seroa"
-msgstr ""
+msgstr "Seroa"
 
 #. name for kqv
 msgid "Okolod"
-msgstr ""
+msgstr "Okolod"
 
 #. name for kqw
 msgid "Kandas"
-msgstr ""
+msgstr "Kandas"
 
 #. name for kqx
 msgid "Mser"
-msgstr ""
+msgstr "Mser"
 
 #. name for kqy
 msgid "Koorete"
@@ -12752,11 +12752,11 @@ msgstr ""
 
 #. name for kqz
 msgid "Korana"
-msgstr ""
+msgstr "Korana"
 
 #. name for kra
 msgid "Kumhali"
-msgstr ""
+msgstr "Kumhali"
 
 #. name for krb
 msgid "Karkin"
@@ -12772,7 +12772,7 @@ msgstr ""
 
 #. name for kre
 msgid "Panará"
-msgstr ""
+msgstr "Panará"
 
 #. name for krf
 msgid "Koro (Vanuatu)"
@@ -12784,15 +12784,15 @@ msgstr ""
 
 #. name for kri
 msgid "Krio"
-msgstr ""
+msgstr "Krio"
 
 #. name for krj
 msgid "Kinaray-A"
-msgstr ""
+msgstr "Kinaray-A"
 
 #. name for krk
 msgid "Kerek"
-msgstr ""
+msgstr "Kerek"
 
 #. name for krl
 msgid "Karelian"
