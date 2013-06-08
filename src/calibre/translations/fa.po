@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-07 03:01+0000\n"
-"PO-Revision-Date: 2013-05-31 18:48+0000\n"
+"PO-Revision-Date: 2013-06-07 13:45+0000\n"
 "Last-Translator: Arman Maghoul <a.m.aegit@gmail.com>\n"
 "Language-Team: Persian <fa@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-06-07 05:27+0000\n"
+"X-Launchpad-Export-Date: 2013-06-08 05:42+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -330,7 +330,7 @@ msgstr "مشخصات کتاب را در فایل های  %s  قرار بده"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:523
 #, python-format
 msgid "Set metadata from %s files"
-msgstr "مشخصات کتاب را از فایل های  %s  بگیر"
+msgstr "تنظیم کردن فراداده توسط فایل‌های %s"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:774
 msgid "Add books to calibre or the connected device"
@@ -575,7 +575,7 @@ msgstr "فرستادن کتاب به دستگاه های مختلف"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1070
 msgid "Control how calibre transfers files to your ebook reader"
-msgstr ""
+msgstr "نظارت بر چگونگی انتقال پرونده‌ها به دستگاه کتاب‌خوان"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1076
 msgid "Metadata plugboards"
@@ -587,7 +587,7 @@ msgstr "تغییر قسمت های مشخصات کتاب قبل از ذخیره 
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1087
 msgid "Template Functions"
-msgstr ""
+msgstr "توابع الگویی"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1089
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1149
@@ -599,7 +599,7 @@ msgstr "پیشرفته"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1093
 msgid "Create your own template functions"
-msgstr ""
+msgstr "توابع الگویی خود را بسازید"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1098
 msgid "Sharing books by email"
@@ -1056,14 +1056,14 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:3366
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:187
 msgid "News"
-msgstr ""
+msgstr "اخبار"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:312
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:574
 msgid "checked"
-msgstr ""
+msgstr "نشانه زده شده"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:310
@@ -1071,7 +1071,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:572
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "yes"
-msgstr ""
+msgstr "بلی"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:309
@@ -1086,7 +1086,7 @@ msgstr "خیر"
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:573
 msgid "unchecked"
-msgstr ""
+msgstr "نشانه زده نشده"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:109
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:315
@@ -1101,7 +1101,7 @@ msgstr "دیروز"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:111
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:317
 msgid "thismonth"
-msgstr ""
+msgstr "این ماه"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:112
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:318
@@ -1169,11 +1169,11 @@ msgstr "لگاریتم اشکال یابی"
 #: /home/kovid/work/calibre/src/calibre/debug.py:272
 #, python-format
 msgid "No plugin named %s found"
-msgstr ""
+msgstr "هیچ افزونه ای به نام %s یافت نشد."
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:19
 msgid "Communicate with Android phones."
-msgstr ""
+msgstr "ارتباط با گوشی‌های اندروید."
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:204
 msgid ""
@@ -1306,7 +1306,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:3457
 #: /home/kovid/work/calibre/src/calibre/gui2/ebook_download.py:110
 msgid "finished"
-msgstr ""
+msgstr "پایان یافت"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:719
 msgid ""
@@ -1383,7 +1383,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:225
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:248
 msgid "Getting list of books on device..."
-msgstr ""
+msgstr "در حال به دست آوردن لیست کتاب‌های روی دستگاه ..."
 
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:264
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:268
@@ -1394,7 +1394,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:277
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:279
 msgid "Transferring books to device..."
-msgstr ""
+msgstr "در حال انتقال کتاب‌ها به دستگاه ..."
 
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:330
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:344
@@ -1435,7 +1435,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:442
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:402
 msgid "Sending metadata to device..."
-msgstr ""
+msgstr "در حال فرستادن فراداده به دستگاه ..."
 
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/libbambookcore.py:129
 msgid "Bambook SDK has not been installed."
@@ -1594,7 +1594,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/interface.py:59
 msgid "Cannot get files from this device"
-msgstr ""
+msgstr "امکان گرفتن پرونده‌ها از این دستگاه وجود ندارد."
 
 #: /home/kovid/work/calibre/src/calibre/devices/irexdr/driver.py:16
 msgid "Communicate with the IRex Digital Reader 1000 eBook reader."
@@ -1635,7 +1635,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kindle/driver.py:44
 msgid "Communicate with the Kindle eBook reader."
-msgstr ""
+msgstr "ارتباط با کتابخوان کیندل."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kindle/driver.py:185
 #, python-format
@@ -1765,7 +1765,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:87
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1252
 msgid "Show Recommendations"
-msgstr ""
+msgstr "نمایش پیشنهادات"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:88
 msgid ""
@@ -1860,7 +1860,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1235
 msgid "Create Bookshelves"
-msgstr ""
+msgstr "درست کردن قفسه‌های کتاب"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1236
 msgid ""
@@ -1870,7 +1870,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1237
 msgid "Delete Empty Bookshelves"
-msgstr ""
+msgstr "پاک کردن قفسه‌های کتاب خالی"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1238
 msgid ""
@@ -2025,7 +2025,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/smart_device_app/driver.py:968
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:95
 msgid "Get device information..."
-msgstr ""
+msgstr "گرفتن اطّلاعات دستگاه ..."
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:192
 msgid "Listing files, this can take a while"
@@ -2038,7 +2038,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:240
 #, python-format
 msgid "Reading metadata from %s"
-msgstr ""
+msgstr "در حال خواندن فراداده از %s"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:259
 msgid "Updating metadata cache on device"
