@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-07 03:01+0000\n"
-"PO-Revision-Date: 2012-01-18 11:51+0000\n"
-"Last-Translator: Amri Ristadi <amristadi@gmail.com>\n"
+"PO-Revision-Date: 2013-06-12 05:13+0000\n"
+"Last-Translator: trisno pamuji <tri.snowman@gmail.com>\n"
 "Language-Team: Indonesian <id@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-06-08 05:36+0000\n"
+"X-Launchpad-Export-Date: 2013-06-12 05:15+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -358,7 +358,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr ""
+msgstr "Edit daftar isi pada buku anda"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:804
 msgid "Delete books from your calibre library or connected device"
@@ -650,13 +650,15 @@ msgstr "Kendalikan bagaimana calibre mengunduh metadata ebook dari jaringan"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1134
 #: /home/kovid/work/calibre/src/calibre/gui2/device_drivers/mtp_config.py:400
 msgid "Ignored devices"
-msgstr ""
+msgstr "Perangkat-perangkat Terabaikan"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1140
 msgid ""
 "Control which devices calibre will ignore when they are connected to the "
 "computer."
 msgstr ""
+"Mengatur perangkat mana yang akan diabaikan oleh calibre saat tersambung "
+"dengan komputer"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1147
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/plugins.py:296
@@ -695,11 +697,11 @@ msgstr "Configurasi lanjutan serbaneka"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:108
 msgid "Options specific to the output format."
-msgstr ""
+msgstr "Opsi spesifik untuk format keluaran"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:118
 msgid "Options specific to the input format."
-msgstr ""
+msgstr "Opsi spesifik untuk format masukan"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:133
 msgid "Conversion Input"
@@ -722,6 +724,8 @@ msgid ""
 "If specified, the output plugin will try to create output that is as human "
 "readable as possible. May not have any effect for some output plugins."
 msgstr ""
+"Jika ditentukan, plugin keluaran akan sedapat mungkin dapat dibaca oleh "
+"manusia. Dapat tidak berdampak pada beberapa format keluaran."
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:310
 #, python-format
@@ -829,10 +833,12 @@ msgstr "Diperuntukan iPad and alat-alat yang mirip dengan resolusi 768x1024"
 msgid ""
 "Intended for the iPad 3 and similar devices with a resolution of 1536x2048"
 msgstr ""
+"Dimaksudkan untuk iPad 3 dan perangkat sejenis denga resolusi 1536x2048"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:443
 msgid "Intended for generic tablet devices, does no resizing of images"
 msgstr ""
+"Dimaksudkan untuk perangkat tablet umum, tidak mengubah ukuran gambar"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:451
 msgid ""
@@ -847,6 +853,8 @@ msgid ""
 "Intended for the Nook HD+ and similar tablet devices with a resolution of "
 "1280x1920"
 msgstr ""
+"Dimaksudkan untuk Nook HD+ dan perangkat tablet sejenis dengan resolusi "
+"1280x1920"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:484
 msgid "This profile is intended for the Kobo Reader."
@@ -880,11 +888,11 @@ msgstr "Profil ini adalah untuk Amazon Kindle DX."
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:668
 msgid "This profile is intended for the Amazon Kindle PaperWhite"
-msgstr ""
+msgstr "Profil ini dimaksudkan untuk Amazon Kindle PaperWhite"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:679
 msgid "This profile is intended for the Amazon Kindle Fire."
-msgstr ""
+msgstr "Profil ini dimaksudkan untuk Amazon Kindle Fire."
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:748
 msgid "This profile is intended for the B&N Nook Color."
@@ -897,7 +905,7 @@ msgstr "Profil ini adalah untuk Sanda Bambook"
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:774
 msgid ""
 "This profile is intended for the PocketBook Pro 900 series of devices."
-msgstr ""
+msgstr "Profil ini dimaksudkan untuk perangat PocketBook Pro seri 900."
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:785
 msgid ""
