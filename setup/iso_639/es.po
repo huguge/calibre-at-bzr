@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2011-11-25 14:01+0000\n"
-"PO-Revision-Date: 2013-06-08 07:47+0000\n"
-"Last-Translator: Alejandro Pérez <alexperezalonso@gmail.com>\n"
+"PO-Revision-Date: 2013-06-13 00:12+0000\n"
+"Last-Translator: Miguel de Dios <tres.14159@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2013-06-09 05:22+0000\n"
+"X-Launchpad-Export-Date: 2013-06-13 05:12+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
 
 #. name for aaa
@@ -10820,7 +10820,7 @@ msgstr ""
 
 #. name for jmd
 msgid "Yamdena"
-msgstr ""
+msgstr "Yamdena"
 
 #. name for jmi
 msgid "Jimi (Nigeria)"

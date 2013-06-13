@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-07 03:01+0000\n"
-"PO-Revision-Date: 2013-06-12 05:13+0000\n"
-"Last-Translator: trisno pamuji <tri.snowman@gmail.com>\n"
+"PO-Revision-Date: 2013-06-12 06:09+0000\n"
+"Last-Translator: Trisno Pamuji <tri.snowman@gmail.com>\n"
 "Language-Team: Indonesian <id@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-06-12 05:15+0000\n"
+"X-Launchpad-Export-Date: 2013-06-13 05:11+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -910,7 +910,7 @@ msgstr "Profil ini dimaksudkan untuk perangat PocketBook Pro seri 900."
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:785
 msgid ""
 "This profile is intended for the PocketBook Pro 912 series of devices."
-msgstr ""
+msgstr "Profil ini dimaksudkan untuk perangkat PocketBook Pro seri 912"
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:30
 msgid "Installed plugins"
@@ -922,7 +922,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:32
 msgid "Local plugin customization"
-msgstr ""
+msgstr "Penyesuaian plugin lokal"
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:33
 msgid "Disabled plugins"
@@ -947,7 +947,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:610
 msgid "Add a plugin by specifying the path to the zip file containing it."
-msgstr ""
+msgstr "Tambahkan plugin dengan menentukan lokasi berkas zip yang memuatnya."
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:612
 msgid ""
@@ -959,6 +959,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:616
 msgid "Remove a custom plugin by name. Has no effect on builtin plugins"
 msgstr ""
+"Lepas plugin tambahan berdasarkan nama. Tidak berpengaruh pada plugin bawaan."
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:618
 msgid ""
@@ -968,7 +969,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:620
 msgid "List all installed plugins"
-msgstr ""
+msgstr "Daftar plugin terinstal"
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:622
 msgid "Enable the named plugin"
@@ -976,7 +977,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:624
 msgid "Disable the named plugin"
-msgstr ""
+msgstr "Matikan plugin dimaksud"
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:328
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:337
@@ -988,6 +989,7 @@ msgstr ""
 #, python-format
 msgid "Path to library too long. Must be less than %d characters."
 msgstr ""
+"Alamat menuju library terlalu panjang. Harus kurang dari %d karakter."
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:396
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:187
@@ -1008,7 +1010,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:887
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:910
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: /home/kovid/work/calibre/src/calibre/db/categories.py:44
 #, python-format
@@ -1018,7 +1020,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/db/fields.py:237
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:1206
 msgid "Main"
-msgstr ""
+msgstr "Utama"
 
 #: /home/kovid/work/calibre/src/calibre/db/fields.py:239
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:76
@@ -1055,7 +1057,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:3366
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:187
 msgid "News"
-msgstr ""
+msgstr "Berita"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:312
@@ -1070,7 +1072,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:572
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "yes"
-msgstr ""
+msgstr "ya"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:309
@@ -1078,29 +1080,29 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:571
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "no"
-msgstr ""
+msgstr "tidak"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:311
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:573
 msgid "unchecked"
-msgstr ""
+msgstr "belum di tandai"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:109
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:315
 msgid "today"
-msgstr ""
+msgstr "hari ini"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:110
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:316
 msgid "yesterday"
-msgstr ""
+msgstr "kemarin"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:111
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:317
 msgid "thismonth"
-msgstr ""
+msgstr "bulan ini"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:112
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:318
@@ -1125,12 +1127,12 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:575
 msgid "empty"
-msgstr ""
+msgstr "kosong"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:576
 msgid "blank"
-msgstr ""
+msgstr "kosong"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:323
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:588
@@ -1163,7 +1165,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:180
 msgid "Debug log"
-msgstr ""
+msgstr "Log debug"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:272
 #, python-format
@@ -1172,7 +1174,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:19
 msgid "Communicate with Android phones."
-msgstr ""
+msgstr "Hubungkan dengan ponsel Android."
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:204
 msgid ""
@@ -1188,11 +1190,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:328
 msgid "Communicate with S60 phones."
-msgstr ""
+msgstr "Hubungkan dengan ponsel S60."
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:347
 msgid "Communicate with WebOS tablets."
-msgstr ""
+msgstr "Hubungkan dengan tablet WebOS."
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:61
 msgid ""
@@ -1208,7 +1210,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:78
 msgid "Disable Apple driver"
-msgstr ""
+msgstr "Matikan driver Apple"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:82
 msgid "Enable Apple driver"
@@ -1224,7 +1226,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:123
 msgid "Cache covers from iTunes/iBooks"
-msgstr ""
+msgstr "Cache sampul dari iTunes/iBooks"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:125
 msgid "Enable to cache and display covers from iTunes/iBooks"
@@ -1247,23 +1249,23 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:131
 msgid "Enable debug logging"
-msgstr ""
+msgstr "Aktifkan pencatatan debug"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:133
 msgid "Print driver debug messages to console"
-msgstr ""
+msgstr "Cetak pesan debug driver ke konsol"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:203
 msgid "Apple device"
-msgstr ""
+msgstr "Perangkat Apple"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:205
 msgid "Communicate with iTunes/iBooks."
-msgstr ""
+msgstr "Hubungkan dengan iTunes/iBooks."
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:220
 msgid "Apple iDevice detected, launching iTunes, please wait ..."
-msgstr ""
+msgstr "Apple iDevice terdeteksi, meluncurkan iTunes, mohon tunggu ..."
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:222
 msgid ""
