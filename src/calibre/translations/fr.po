@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-14 02:51+0000\n"
-"PO-Revision-Date: 2013-06-06 06:22+0000\n"
-"Last-Translator: Franck <Unknown>\n"
+"PO-Revision-Date: 2013-06-14 09:57+0000\n"
+"Last-Translator: Vincent Hoen <vincent.hoen@gmail.com>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-06-14 05:20+0000\n"
+"X-Launchpad-Export-Date: 2013-06-15 04:45+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
@@ -9066,7 +9066,7 @@ msgstr "Sections incluses"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:354
 msgid "List of books, sorted by Author"
-msgstr ""
+msgstr "Liste de livres, triée par auteur"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:355
 msgid "&Authors"
@@ -9074,7 +9074,7 @@ msgstr "&Auteurs"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:356
 msgid "List of books, sorted by Title"
-msgstr ""
+msgstr "Liste de livres, triée par titre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:357
 msgid "&Titles"
@@ -9082,7 +9082,7 @@ msgstr "&Titres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:358
 msgid "List of series books, sorted by Series"
-msgstr ""
+msgstr "Liste de livres, triée par série"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:359
 msgid "&Series"
@@ -9090,7 +9090,7 @@ msgstr "&Séries"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:360
 msgid "List of books, sorted by Genre"
-msgstr ""
+msgstr "Liste de livres, triée par genre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:361
 msgid "&Genres"
@@ -9102,7 +9102,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:363
 msgid "List of books, sorted by date added to calibre"
-msgstr ""
+msgstr "Liste de livres, triée par date d'ajout à calibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:364
 msgid "&Recently Added"
@@ -10272,17 +10272,17 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:32
 msgid "unlimited"
-msgstr ""
+msgstr "Illimité"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:34
 #, python-format
 msgid "%d x %d pixels"
-msgstr ""
+msgstr "%d x %d pixels"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:35
 #, python-format
 msgid "Screen size: %s"
-msgstr ""
+msgstr "Taille de l'écran : %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:41
 msgid "Page Setup"
@@ -10453,6 +10453,10 @@ msgid ""
 "href=\"http://manual.calibre-ebook.com/conversion.html#converting-to-"
 "pdf\">documentation</a>."
 msgstr ""
+"Vous pouvez insérer des en-têtes et des pieds de page sur chaque page du "
+"fichier PDF généré en utilisant des modèles d'en-tête et de pied de page. "
+"Voir des exemples dans la <a href=\"http://manual.calibre-"
+"ebook.com/conversion.html#converting-to-pdf\">documentation</a>."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:160
 msgid "&Header template:"
@@ -10733,7 +10737,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/single.py:150
 msgid "Restore &Defaults"
-msgstr ""
+msgstr "Restaurer les paramètres par &défauts"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/single.py:193
 msgid "Convert"
@@ -11802,7 +11806,7 @@ msgstr "&Etiquettes à ajouter aux entrées livre créées :"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/book_info.py:50
 #, python-format
 msgid "Next [%s]"
-msgstr ""
+msgstr "Suivant [%s]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/book_info.py:52
 #, python-format

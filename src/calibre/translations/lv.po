@@ -8,18 +8,16 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-14 02:51+0000\n"
-"PO-Revision-Date: 2013-06-12 08:44+0000\n"
+"PO-Revision-Date: 2013-06-15 03:57+0000\n"
 "Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
 "Language-Team: Latvian <ivars.arins@dotnet.lv>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-06-14 05:25+0000\n"
+"X-Launchpad-Export-Date: 2013-06-15 04:50+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
-"X-Poedit-Country: LATVIA\n"
 "Language: lv\n"
-"X-Poedit-Language: Latvian\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
@@ -355,12 +353,12 @@ msgstr "Konvertēt grāmatas uz dažādiem e-grāmatu formātiem"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:794
 msgid "Fine tune your ebooks"
-msgstr ""
+msgstr "Smalkā egrāmatu pielāgošana"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr ""
+msgstr "Rediģēt ēgrāmatas Satura Rādītāju"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:804
 msgid "Delete books from your calibre library or connected device"
@@ -693,11 +691,11 @@ msgstr "Dažādas papildus konfigurācijas iespējas"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:108
 msgid "Options specific to the output format."
-msgstr ""
+msgstr "Izvada formāta uzstādījumi"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:118
 msgid "Options specific to the input format."
-msgstr ""
+msgstr "Ievada formāta uzstādījumi"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:133
 msgid "Conversion Input"
@@ -854,6 +852,8 @@ msgid ""
 "Intended for the Nook HD+ and similar tablet devices with a resolution of "
 "1280x1920"
 msgstr ""
+"Piemērots Nook HD+ un līdzīgām planšetdatoru ierīcēm ar ekrāna izšķirtspēju "
+"1280x1920"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:484
 msgid "This profile is intended for the Kobo Reader."
@@ -911,7 +911,7 @@ msgstr "Šis profils ir paredzēts PocketBook Pro 900 sērijas ierīcēm."
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:785
 msgid ""
 "This profile is intended for the PocketBook Pro 912 series of devices."
-msgstr ""
+msgstr "Šis profils ir piemērots PocketBook Pro 912 sērijas ierīcēm"
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:30
 msgid "Installed plugins"
@@ -960,6 +960,8 @@ msgid ""
 "plugin. This command will automatically zip up the plugin and update it in "
 "calibre."
 msgstr ""
+"Spraudņu izstrādātājiem: Ceļš uz direktoriju, kurā jūs izstrādāsiet "
+"spraudni. Šī komanda automātiski arhivēs spraudni un atjaunos calibre."
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:616
 msgid "Remove a custom plugin by name. Has no effect on builtin plugins"
@@ -1001,13 +1003,13 @@ msgstr "Ceļš lídz bibliotēkai pārāk garš. Jābūt mazāk nekā %d simboli
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:396
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:187
 msgid "restored preference "
-msgstr ""
+msgstr "atjaunotie iestatījumi "
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:402
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:192
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:234
 msgid "creating custom column "
-msgstr ""
+msgstr "veido pielāgoto kolonnu "
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:176
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/book/base.py:637
@@ -1022,7 +1024,7 @@ msgstr "Jā"
 #: /home/kovid/work/calibre/src/calibre/db/categories.py:44
 #, python-format
 msgid "%(tt)sAverage rating is %(rating)3.1f"
-msgstr ""
+msgstr "%(tt)sVidējais raitings ir %(rating)3.1f"
 
 #: /home/kovid/work/calibre/src/calibre/db/fields.py:237
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:1206
@@ -1071,7 +1073,7 @@ msgstr "Ziņas"
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:574
 msgid "checked"
-msgstr ""
+msgstr "atzīmēts"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:310
@@ -1087,19 +1089,19 @@ msgstr "jā"
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:571
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "no"
-msgstr ""
+msgstr "nē"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:311
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:137
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:573
 msgid "unchecked"
-msgstr ""
+msgstr "atķeksēts"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:109
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:315
 msgid "today"
-msgstr ""
+msgstr "šodien"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:110
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:316
@@ -1109,52 +1111,52 @@ msgstr "vakar"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:111
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:317
 msgid "thismonth"
-msgstr ""
+msgstr "šomēnes"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:112
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:318
 msgid "daysago"
-msgstr ""
+msgstr "dienasatpakaļ"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:198
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:377
 msgid "Number conversion error: {0}"
-msgstr ""
+msgstr "Skaitļa konvertēšanas kļūdu: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:204
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:383
 msgid "Date conversion error: {0}"
-msgstr ""
+msgstr "Datuma konvertēšanas kļūda: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:460
 msgid "Non-numeric value in query: {0}"
-msgstr ""
+msgstr "Ne-ciparu kļūda vaicājumā: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:575
 msgid "empty"
-msgstr ""
+msgstr "tukšs"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:576
 msgid "blank"
-msgstr ""
+msgstr "neaizpildīts"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:323
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:588
 msgid "Invalid boolean query \"{0}\""
-msgstr ""
+msgstr "Nederīgs loģiskais vaicājums \"{0}\""
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:355
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:505
 msgid "Invalid query format for colon-separated search: {0}"
-msgstr ""
+msgstr "Nederīgs vaicājums formāts kola adalītai meklēšanai: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:654
 msgid "Recursive query group detected: {0}"
-msgstr ""
+msgstr "Rekursīva vaicājuma grupa noteikta: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:75
 #: /home/kovid/work/calibre/src/calibre/gui2/main.py:47
@@ -3002,7 +3004,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:200
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/snb_output.py:208
 msgid "Start"
-msgstr ""
+msgstr "Sākt"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/fb2_input.py:31
 msgid "Do not insert a Table of Contents at the beginning of the book."
@@ -3172,7 +3174,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/lrf_output.py:157
 msgid "Comic"
-msgstr ""
+msgstr "Komiks"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:45
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:270
@@ -3373,11 +3375,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:108
 msgid "footers"
-msgstr ""
+msgstr "kājene"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:111
 msgid "headers"
-msgstr ""
+msgstr "galvene"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:113
 msgid ""
@@ -3473,17 +3475,17 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/snb_output.py:127
 msgid "Start Page"
-msgstr ""
+msgstr "Sākum Lapa"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/snb_output.py:137
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/snb_output.py:139
 msgid "Cover Pages"
-msgstr ""
+msgstr "Titul Lapa"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/snb_output.py:152
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/snb_output.py:155
 msgid " (Preface)"
-msgstr ""
+msgstr " (Ievads)"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_input.py:22
 msgid ""
@@ -5012,7 +5014,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:125
 msgid "Updating metadata"
-msgstr ""
+msgstr "Atjaunina metadatus"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:130
 msgid "Updated metadata jacket"
@@ -5172,7 +5174,7 @@ msgstr "Atkāpe"
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/outline_writer.py:60
 #, python-format
 msgid "Page %d"
-msgstr ""
+msgstr "Lapa %d"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/pdftohtml.py:71
 msgid "Could not find pdftohtml, check it is in your PATH"
@@ -5180,7 +5182,7 @@ msgstr "Nevarēja atrast pdftohtml. Pārbaudiet vai tas ir norādīts PATH"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/render/from_html.py:323
 msgid "Untitled"
-msgstr ""
+msgstr "Bez Virsraksta"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/rb/rbml.py:102
 #: /home/kovid/work/calibre/src/calibre/ebooks/txt/txtml.py:97
@@ -5610,7 +5612,7 @@ msgstr "Šī ierīce neatbalsta anotāciju saņemšanu"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/annotate.py:112
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/annotate.py:136
 msgid "Use library only"
-msgstr ""
+msgstr "Izmantot tikai bibliotēku"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/annotate.py:113
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/annotate.py:137
@@ -5659,7 +5661,7 @@ msgstr "Katalogs izveidots."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/catalog.py:90
 msgid "Export Catalog Directory"
-msgstr ""
+msgstr "Eksportēt Kataloga Direktoriju"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/catalog.py:91
 #, python-format
@@ -5699,7 +5701,7 @@ msgstr "Bibliotēkas jaunā atrašanās vieta:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:121
 msgid "Library moved"
-msgstr ""
+msgstr "Bibliotēka pārvietota"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:123
 msgid "Forget library"
@@ -5707,21 +5709,21 @@ msgstr "Aizmirst bibliotēku"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:133
 msgid "New library location"
-msgstr ""
+msgstr "Jaunās bilbiotēkas atrašanās vieta"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:144
 #, python-format
 msgid "No existing calibre library found at %s"
-msgstr ""
+msgstr "Netika atrasta calibre bibliotēka iekš %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:155
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:168
 msgid "Choose Library"
-msgstr ""
+msgstr "Izvēlēties Bibliotēku"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:156
 msgid "Choose calibre library to work with"
-msgstr ""
+msgstr "Izvēlēties calibe bibliotēku ar kuru strādāt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:159
 msgid "Switch/create library..."
@@ -5735,7 +5737,7 @@ msgstr "Izvēlēties nejaušu grāmatu"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:183
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:91
 msgid "Quick switch"
-msgstr ""
+msgstr "Ātrā pārslēgšanās"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:185
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:92
@@ -7309,7 +7311,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:37
 msgid "Read books"
-msgstr ""
+msgstr "Lasīt grāmatas"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:37
 msgid "V"
@@ -7321,7 +7323,7 @@ msgstr "Skatīt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:48
 msgid "View specific format"
-msgstr ""
+msgstr "Skatīt konkrētu formātu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:50
 msgid "Read a random book"
@@ -7329,19 +7331,19 @@ msgstr "Lasīt nejauši izvēlētu grāmatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:55
 msgid "Clear recently viewed list"
-msgstr ""
+msgstr "Notīrīt nesen skatīto sarakstu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:137
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:217
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:224
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:270
 msgid "Cannot view"
-msgstr ""
+msgstr "Nevar skatīt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:150
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:164
 msgid "Format unavailable"
-msgstr ""
+msgstr "Formāts nav pieejams"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:151
 msgid "Selected books have no formats"
@@ -10054,15 +10056,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:603
 msgid "Download books from device"
-msgstr ""
+msgstr "Lejupielādēt grāmatas no ierīces"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:613
 msgid "View book on device"
-msgstr ""
+msgstr "Skatīt grāmatu uz ierīces"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:692
 msgid "Set default send to device action"
-msgstr ""
+msgstr "Uzstādīt noklusēto sūtīt uz ierīci darbību"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:698
 msgid "Send to main memory"
@@ -10083,15 +10085,15 @@ msgstr "Galvenā atmiņa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:728
 msgid "Send specific format to"
-msgstr ""
+msgstr "Sūtīt konkrēto formātu uz"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:729
 msgid "Send and delete from library"
-msgstr ""
+msgstr "Sūtīt un dzēst no bibliotēkas"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:772
 msgid "Eject device"
-msgstr ""
+msgstr "Izgrūst ierīci"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:853
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/misc.py:71
@@ -10102,12 +10104,12 @@ msgstr "Kļūda"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:854
 msgid "Error communicating with device"
-msgstr ""
+msgstr "Kļūda komunicējot ar ierīci"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:866
 #, python-format
 msgid "Manage the %s?"
-msgstr ""
+msgstr "Pārvaldīt %s?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:867
 #, python-format
@@ -10126,7 +10128,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:928
 msgid "Running jobs"
-msgstr ""
+msgstr "Skrejošie darbi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:929
 msgid "Cannot configure the device while there are running device jobs."
@@ -10136,7 +10138,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/device_drivers/mtp_config.py:360
 #, python-format
 msgid "Configure %s"
-msgstr ""
+msgstr "Konfigurēt %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:949
 #, python-format
@@ -10186,7 +10188,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1184
 msgid "Choose format to send to device"
-msgstr ""
+msgstr "Izvēlaties formātu kuru sūtit uz ierīci"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1193
 msgid "Cannot send: No device is connected"
@@ -10195,7 +10197,7 @@ msgstr "Nevar nosūtīt: Neviena ierīce nav savienota"
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1196
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1200
 msgid "No card"
-msgstr ""
+msgstr "Nav kartes"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1197
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1201
@@ -11542,7 +11544,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:600
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/basic_widgets.py:1190
 msgid "&Languages:"
-msgstr ""
+msgstr "Va&lodas"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:602
 msgid "Remove &format:"
@@ -12379,7 +12381,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:389
 msgid "never"
-msgstr ""
+msgstr "nekad"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:395
 #, python-format
@@ -12944,7 +12946,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor.py:105
 msgid "Tag"
-msgstr ""
+msgstr "Birka"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor.py:108
 msgid "Count"
@@ -13888,7 +13890,7 @@ msgstr "Y"
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:126
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:285
 msgid "On Device"
-msgstr ""
+msgstr "Ierīcē"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:128
 msgid "Size (MB)"
@@ -13897,7 +13899,7 @@ msgstr "Izmērs (MB)"
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:135
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:275
 msgid "Modified"
-msgstr ""
+msgstr "Modificēts"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:909
 #, python-format
@@ -13925,7 +13927,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1009
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1015
 msgid "Failed to set data"
-msgstr ""
+msgstr "Neizdevās uzstādīt datus"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1010
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1016
@@ -13934,7 +13936,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1199
 msgid "In Library"
-msgstr ""
+msgstr "Bibliotēkā"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1203
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:355
@@ -14231,12 +14233,12 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/main_window.py:94
 msgid "&Preferences"
-msgstr ""
+msgstr "&Uzstādījumi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/main_window.py:95
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:230
 msgid "&Quit"
-msgstr ""
+msgstr "I&ziet"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/main_window.py:115
 msgid "Unhandled exception"
@@ -17352,7 +17354,7 @@ msgstr "Pārvietot izvēlēto darbību uz leju"
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/tweaks.py:52
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/tweaks.py:350
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/tweaks.py:126
 msgid "This tweak has it default value"
@@ -19765,7 +19767,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main_ui.py:211
 msgid "E-book Viewer"
-msgstr ""
+msgstr "E-grāmatu Lasītājs"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main_ui.py:212
 msgid "Close dictionary"
@@ -21399,7 +21401,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:3678
 #, python-format
 msgid "<p>Migrating old database to ebook library in %s<br><center>"
-msgstr "<p>Migre veco datubāzi uz e-grāmatu bibliotēku %s<br><center>"
+msgstr "<p>Migrē veco datubāzi uz e-grāmatu bibliotēku %s<br><center>"
 
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:3707
 #, python-format
@@ -22578,7 +22580,7 @@ msgstr "Gaida..."
 
 #: /home/kovid/work/calibre/src/calibre/utils/ipc/job.py:54
 msgid "Aborted, taking too long"
-msgstr ""
+msgstr "Atcelts, pārāk ilgi izpildās"
 
 #: /home/kovid/work/calibre/src/calibre/utils/ipc/job.py:56
 msgid "Stopped"
@@ -22594,15 +22596,15 @@ msgstr "Apstrādā..."
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:139
 msgid "Brazilian Portuguese"
-msgstr ""
+msgstr "Brazīliešu Portugāļu"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:140
 msgid "English (UK)"
-msgstr ""
+msgstr "Anļu (Lielbritānijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:141
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "Vienkāršotā Ķīniešu"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:142
 msgid "Chinese (HK)"
@@ -22610,195 +22612,195 @@ msgstr "Ķīniešu (HK)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:143
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "Tradicionālā Ķīniešu"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:144
 msgid "English"
-msgstr ""
+msgstr "Angļu"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:145
 msgid "English (Argentina)"
-msgstr ""
+msgstr "Angļu (Argentīnas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:146
 msgid "English (Australia)"
-msgstr ""
+msgstr "Angļu (Austrālijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:147
 msgid "English (Japan)"
-msgstr ""
+msgstr "Angļu (Japānas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:148
 msgid "English (Germany)"
-msgstr ""
+msgstr "Angļu (Vācu)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:149
 msgid "English (Bulgaria)"
-msgstr ""
+msgstr "Angļu (Bulgārijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:150
 msgid "English (Egypt)"
-msgstr ""
+msgstr "Angļu (Ēģiptes)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:151
 msgid "English (New Zealand)"
-msgstr ""
+msgstr "Angļu (Jaunzēlandes)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:152
 msgid "English (Canada)"
-msgstr ""
+msgstr "Angļu (Kanādas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:153
 msgid "English (Greece)"
-msgstr ""
+msgstr "Angļu (Grieķijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:154
 msgid "English (India)"
-msgstr ""
+msgstr "Angļu (Indijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:155
 msgid "English (Nepal)"
-msgstr ""
+msgstr "Angļu (Nepālas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:156
 msgid "English (Thailand)"
-msgstr ""
+msgstr "Angļu (Taizemes)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:157
 msgid "English (Turkey)"
-msgstr ""
+msgstr "Angļu (Turcijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:158
 msgid "English (Cyprus)"
-msgstr ""
+msgstr "Angļu (Kipras)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:159
 msgid "English (Czech Republic)"
-msgstr ""
+msgstr "Angļu (Čehijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:160
 msgid "English (Philippines)"
-msgstr ""
+msgstr "Angļu (Filipīnas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:161
 msgid "English (Pakistan)"
-msgstr ""
+msgstr "Angļu (Pakistānas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:162
 msgid "English (Poland)"
-msgstr ""
+msgstr "Angļu (Polijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:163
 msgid "English (Croatia)"
-msgstr ""
+msgstr "Angļu (Horvātijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:164
 msgid "English (Hong Kong)"
-msgstr ""
+msgstr "Angļu (Hongkongas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:165
 msgid "English (Hungary)"
-msgstr ""
+msgstr "Angļu (Ungārijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:166
 msgid "English (Indonesia)"
-msgstr ""
+msgstr "Angļu (Indonēzijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:167
 msgid "English (Israel)"
-msgstr ""
+msgstr "Angļu (Izraēlas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:168
 msgid "English (Russia)"
-msgstr ""
+msgstr "Angļu (Krievijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:169
 msgid "English (Singapore)"
-msgstr ""
+msgstr "Angļu (Singapūras)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:170
 msgid "English (Yemen)"
-msgstr ""
+msgstr "Angļu (Jemenas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:171
 msgid "English (Ireland)"
-msgstr ""
+msgstr "Angļu (Īrijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:172
 msgid "English (China)"
-msgstr ""
+msgstr "Angļu (Ķīnas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:173
 msgid "English (South Africa)"
-msgstr ""
+msgstr "Angļu (Dienvidāfrikas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:174
 msgid "Spanish (Paraguay)"
-msgstr ""
+msgstr "Spāņu (Paragvejas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:175
 msgid "Spanish (Uruguay)"
-msgstr ""
+msgstr "Spāņu (Urugajas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:176
 msgid "Spanish (Argentina)"
-msgstr ""
+msgstr "Spāņu (Argentīnas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:177
 msgid "Spanish (Costa Rica)"
-msgstr ""
+msgstr "Spāņu (Kosta Rikas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:178
 msgid "Spanish (Mexico)"
-msgstr ""
+msgstr "Spāņu (Meksikas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:179
 msgid "Spanish (Cuba)"
-msgstr ""
+msgstr "Spāņu (Kubas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:180
 msgid "Spanish (Chile)"
-msgstr ""
+msgstr "Spāņu (Čīles)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:181
 msgid "Spanish (Ecuador)"
-msgstr ""
+msgstr "Spāņu (Ekvadoras)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:182
 msgid "Spanish (Honduras)"
-msgstr ""
+msgstr "Spāņu (Hondoras)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:183
 msgid "Spanish (Venezuela)"
-msgstr ""
+msgstr "Spāņu (Venecuēlas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:184
 msgid "Spanish (Bolivia)"
-msgstr ""
+msgstr "Spāņu (Bolīvijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:185
 msgid "Spanish (Nicaragua)"
-msgstr ""
+msgstr "Spāņu (Nikaragu)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:186
 msgid "Spanish (Colombia)"
-msgstr ""
+msgstr "Spāņu (Kolombijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:187
 msgid "German (AT)"
-msgstr ""
+msgstr "Vācu (Austrijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:188
 msgid "French (BE)"
-msgstr ""
+msgstr "Franču (Beļģijas)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:189
 msgid "Dutch (NL)"
-msgstr ""
+msgstr "Dāņu (Nīderlandes)"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:190
 msgid "Dutch (BE)"
-msgstr ""
+msgstr "Dāņu (Beļģijas)"
 
 #. NOTE: Ante Meridian (i.e. like 10:00 AM)
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:198
@@ -22822,11 +22824,11 @@ msgstr "pm"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:206
 msgid "Select All"
-msgstr ""
+msgstr "Atlasīt Visu"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:207
 msgid "&Select All"
-msgstr ""
+msgstr "&Atlasīt Visu"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:208
 msgid "Copy &Link location"
@@ -22834,11 +22836,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:209
 msgid "&Undo"
-msgstr ""
+msgstr "A&tsaukt"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:210
 msgid "&Redo"
-msgstr ""
+msgstr "At&griezt"
 
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:211
 msgid "Cu&t"
@@ -22904,7 +22906,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/utils/pyconsole/main.py:20
 msgid "Welcome to"
-msgstr ""
+msgstr "Esiet sveicināti"
 
 #: /home/kovid/work/calibre/src/calibre/utils/pyconsole/main.py:41
 msgid " console "
@@ -22912,7 +22914,7 @@ msgstr " konsole "
 
 #: /home/kovid/work/calibre/src/calibre/utils/pyconsole/main.py:51
 msgid "Code is running"
-msgstr ""
+msgstr "Kods tiek izpildīts"
 
 #: /home/kovid/work/calibre/src/calibre/utils/pyconsole/main.py:58
 msgid "Restart console"
@@ -22920,15 +22922,15 @@ msgstr "Restartēt konsoli"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:184
 msgid "Extra characters at end of search"
-msgstr ""
+msgstr "Papildus rakstzīme meklēšanas beigās"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:218
 msgid "missing )"
-msgstr ""
+msgstr "trūkst )"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:221
 msgid "Invalid syntax. Expected a lookup name or a word"
-msgstr ""
+msgstr "Nederīga sintakse. Tiek gaidīts meklēšanas nosaukums vai vārds"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:323
 #, python-format
@@ -23045,7 +23047,7 @@ msgstr "Mēģina lejupielādēt vāku..."
 
 #: /home/kovid/work/calibre/src/calibre/web/feeds/news.py:1162
 msgid "Generating masthead..."
-msgstr ""
+msgstr "Veido mastagalvu..."
 
 #: /home/kovid/work/calibre/src/calibre/web/feeds/news.py:1221
 #, python-format
@@ -23102,7 +23104,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/collection.py:46
 msgid "You"
-msgstr ""
+msgstr "Tu"
 
 #: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/model.py:75
 #: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/model.py:84
@@ -23779,7 +23781,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:399
 msgid "Language to use when sorting."
-msgstr ""
+msgstr "Valodu kuru izmantot kārtošanā."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:400
 msgid ""
@@ -23885,7 +23887,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:458
 msgid "Unified toolbar on OS X"
-msgstr ""
+msgstr "Vienotā rīkujosla priekš OS X"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:459
 msgid ""
@@ -24001,7 +24003,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:526
 msgid "Sort the list of libraries alphabetically"
-msgstr ""
+msgstr "Kārtot bibliotēkas sarakstu alfabēta secībā"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:527
 msgid ""
@@ -24022,3 +24024,7 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
+"Virtuālās bibliotēkas vārds, blakus Virtuālās Bibliotēkas pogai tiek "
+"iekrāsots dzeltenā krāsa, kad tiek izmantota Virtuālā Bibliotēka. Ar šo "
+"piedari, jūs varat izvēlēties krāsu, kuru izmantot iekrāsošanai. Uzstādiet "
+"uz \"Caurspīdīgu\", lai izslēgtu iekrāsošanu."

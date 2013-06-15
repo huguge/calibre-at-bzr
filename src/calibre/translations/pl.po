@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-14 02:51+0000\n"
-"PO-Revision-Date: 2013-06-03 17:49+0000\n"
+"PO-Revision-Date: 2013-06-14 15:33+0000\n"
 "Last-Translator: Piotr Parafiniuk <Unknown>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-06-14 05:28+0000\n"
+"X-Launchpad-Export-Date: 2013-06-15 04:53+0000\n"
 "X-Generator: Launchpad (build 16667)\n"
 "X-Poedit-Bookmarks: -1,3588,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -628,7 +628,7 @@ msgid ""
 "downloaded news to your devices"
 msgstr ""
 "Skonfiguruj udostępnianie książek poprzez email. Możesz użyć tej opcji do "
-"automatycznego wysyłania newsów na swoje urządzenia"
+"automatycznego wysyłania pobranych wiadomości na swoje urządzenia"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1110
 msgid "Sharing over the net"
@@ -1082,7 +1082,7 @@ msgstr "Karta B"
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:3366
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:187
 msgid "News"
-msgstr "Newsy"
+msgstr "Wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:312
@@ -5847,7 +5847,7 @@ msgstr "Automatycznie włączaj serwer zawartości przy starcie aplikacji"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:151
 msgid "Oldest news kept in database"
-msgstr "Najstarsze newsy przechowywane w bazie danych"
+msgstr "Najstarsze wiadomości przechowywane w bazie danych"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:152
 msgid "Show system tray icon"
@@ -5855,7 +5855,7 @@ msgstr "Pokaż ikonę w zasobniku systemowym"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:154
 msgid "Upload downloaded news to device"
-msgstr "Prześlij pobrane newsy na urządzenie"
+msgstr "Prześlij pobrane wiadomości na urządzenie"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:156
 msgid "Delete news books from library after uploading to device"
@@ -7271,11 +7271,11 @@ msgstr "F"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/fetch_news.py:19
 msgid "Fetch news"
-msgstr "Pobierz newsy"
+msgstr "Pobierz wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/fetch_news.py:54
 msgid "Fetching news from "
-msgstr "Pobieranie newsów z "
+msgstr "Pobieranie wiadomości z "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/fetch_news.py:83
 msgid " fetched."
@@ -9989,17 +9989,17 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:32
 msgid "unlimited"
-msgstr ""
+msgstr "bez ograniczeń"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:34
 #, python-format
 msgid "%d x %d pixels"
-msgstr ""
+msgstr "%d x %d pikseli"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:35
 #, python-format
 msgid "Screen size: %s"
-msgstr ""
+msgstr "Wymiary ekranu: %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:41
 msgid "Page Setup"
@@ -11144,7 +11144,7 @@ msgstr "Trwa wysyłanie katalogów do urządzenia"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1390
 msgid "Sending news to device."
-msgstr "Przesyłanie newsów na urządzenie."
+msgstr "Przesyłanie wiadomości na urządzenie."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/device.py:1444
 msgid "Sending books to device."
@@ -13556,7 +13556,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:200
 #, python-format
 msgid "%s news sources"
-msgstr "%s źródeł newsów"
+msgstr "%s źródeł wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:220
 msgid "&Download now"
@@ -13569,8 +13569,7 @@ msgstr "Potrzebna jest nazwa użytkownika oraz hasło"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:319
 msgid "You must provide a username and/or password to use this news source."
 msgstr ""
-"Musisz podać nazwę użytkownika i/lub hasło, aby móc korzystać z tego źródła "
-"newsów."
+"Musisz podać nazwę użytkownika i/lub hasło, aby móc korzystać z tego źródła."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:361
 msgid "Account"
@@ -13613,7 +13612,8 @@ msgstr "Ostatnio pobrany:"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:432
 msgid "Cannot download news as no internet connection is active"
 msgstr ""
-"Nie można pobrać żadnych newsów, gdyż połączenie internetowe nie jest aktywne"
+"Nie można pobrać żadnych wiadomości, gdyż połączenie internetowe nie jest "
+"aktywne"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:435
 msgid "No internet connection"
@@ -13622,11 +13622,11 @@ msgstr "Brak połączenia z internetem"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:446
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler_ui.py:203
 msgid "Schedule news download"
-msgstr "Zaplanuj pobieranie newsów"
+msgstr "Zaplanuj pobieranie wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:449
 msgid "Add a custom news source"
-msgstr "Dodaj własne źródło newsów"
+msgstr "Dodaj własne źródło wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler.py:454
 msgid "Download all scheduled news sources"
@@ -13733,7 +13733,7 @@ msgid ""
 "periodical that are kept by clicking the Advanced tab for that periodical "
 "above."
 msgstr ""
-"<p>Skasuj pobrane newsy starsze niż wskazana liczba dni. Ustaw zero by "
+"<p>Skasuj pobrane wiadomości starsze niż wskazana liczba dni. Ustaw zero by "
 "wyłączyć.\n"
 "<p>Możesz również kontrolować maksymalną liczbę wydań konkretnych czasopism, "
 "które są zachowane przez kliknięcie w zakładkę Zaawansowane dla tego "
@@ -13750,11 +13750,11 @@ msgstr " dni"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler_ui.py:231
 msgid "Download all scheduled news sources at once"
-msgstr "Pobierz natychmiast wszystkie zaplanowane źródła newsów"
+msgstr "Pobierz natychmiast wszystkie zaplanowane wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/scheduler_ui.py:232
 msgid "Download &all scheduled"
-msgstr "Pobierz wszystkie zaplanowane newsy"
+msgstr "Pobierz wszystkie &zaplanowane"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/search_item_ui.py:48
 msgid "contains"
@@ -14404,7 +14404,7 @@ msgstr "Nie zaznaczono źródła"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles.py:149
 #, python-format
 msgid "The attached file: %(fname)s is a recipe to download %(title)s."
-msgstr "Załączony plik: %(fname)s jest źródłem newsów %(title)s."
+msgstr "Załączony plik: %(fname)s pobiera wiadomości z %(title)s."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles.py:152
 msgid "Recipe for "
@@ -14466,7 +14466,7 @@ msgstr "Zastąpić źródło?"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles.py:348
 #, python-format
 msgid "A custom recipe named %s already exists. Do you want to replace it?"
-msgstr "Własne źródło o nazwie %s już istnieje. Chcesz je zastąpić?"
+msgstr "Źródło o nazwie %s już istnieje. Chcesz je zastąpić?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles.py:288
 msgid "Choose builtin recipe"
@@ -14494,7 +14494,7 @@ msgstr "Dodaj własne źródło newsów"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:264
 msgid "Available user recipes"
-msgstr "Dostępne źródła użytkownika"
+msgstr "Dostępne źródła wiadomości"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:265
 msgid "Add/Update &recipe"
@@ -14514,7 +14514,7 @@ msgstr "Pokaż &pliki źródła"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:269
 msgid "Customize &builtin recipe"
-msgstr "Dostosuj jedno z &domyślnych źródeł"
+msgstr "Zmień jedno z &domyślnych źródeł"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:270
 msgid "&Load recipe from file"
@@ -14540,8 +14540,8 @@ msgstr ""
 "font-weight:400; font-style:normal;\">\n"
 "<p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-"
 "right:0px; -qt-block-indent:0; text-indent:0px;\">Stwórz proste źródło "
-"newsów, dodając do niego strumień RSS. <br />Dla większości strumieni, "
-"będziesz musiał użyć \"Trybu zaawansowanego\" by bardziej dostosować proces "
+"wiadomości, dodając do niego strumień RSS. <br />Dla większości strumieni, "
+"będziesz musiał użyć \"Trybu zaawansowanego\" by dostosować proces "
 "pobierania.</p></body></html>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:276
@@ -14566,7 +14566,7 @@ msgstr "Maksymalna liczba artykułów do pobrania na strumień."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:282
 msgid "Feeds in recipe"
-msgstr "Strumienie w źródle aktualności"
+msgstr "Strumienie w źródle"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:284
 msgid "Remove feed from recipe"
@@ -14600,7 +14600,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/user_profiles_ui.py:293
 msgid "Recipe source code (python)"
-msgstr "Kod źródłowy źródła aktualności (python)"
+msgstr "Kod źródłowy recepty (python)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dnd.py:51
 #, python-format
@@ -14645,7 +14645,7 @@ msgstr "Wyślij %(name)s emailem do %(to)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:144
 msgid "News:"
-msgstr "Newsy:"
+msgstr "Wiadomości:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:146
 #, python-format
@@ -14697,7 +14697,7 @@ msgstr "wysłano"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:301
 msgid "Sent news to"
-msgstr "Wysyłaj newsy do"
+msgstr "Wysyłaj wiadomości do"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/filename_pattern_ui.py:136
 msgid ""
@@ -14958,7 +14958,7 @@ msgstr "Czas pracy"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/jobs.py:72
 msgid "Start time"
-msgstr ""
+msgstr "Rozpoczęte"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/jobs.py:84
 #, python-format
@@ -15055,7 +15055,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/model.py:86
 #: /home/kovid/work/calibre/src/calibre/web/feeds/recipes/model.py:204
 msgid "Custom"
-msgstr "Dostosuj"
+msgstr "Własne"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/keyboard.py:372
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts_ui.py:81
@@ -16484,7 +16484,7 @@ msgstr "Kolumna Tak/Nie ma trzy wartości (wymaga restartu)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/behavior_ui.py:158
 msgid "Automatically send downloaded &news to ebook reader"
-msgstr "Automatycznie przesyłaj pobrane newsy na czytnik"
+msgstr "Automatycznie przesyłaj pobrane wiadomości na czytnik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/behavior_ui.py:159
 msgid "&Delete news from library when it is automatically sent to reader"
@@ -17450,8 +17450,8 @@ msgid ""
 "send checked."
 msgstr ""
 "calibre może wysyłać twoje książki do ciebie (lub twojego czytnika) emailem. "
-"Emaile będą wysyłane automatycznie dla pobranych newsów na wszystkie adresy "
-"emailowe które mają zaznaczoną opcję auto-wysyłania."
+"Emaile będą wysyłane automatycznie dla pobranych wiadomości na wszystkie "
+"adresy emailowe, które mają zaznaczoną opcję auto-wysyłania."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/email_ui.py:74
 msgid "Add an email address to which to send books"
@@ -17504,8 +17504,8 @@ msgid ""
 "If checked, downloaded news will be automatically mailed <br>to this email "
 "address (provided it is in one of the listed formats)."
 msgstr ""
-"Jeśli zaznaczone, pobrane newsy zostaną automatycznie wysłane <br> na ten "
-"adres (pod warunkiem że jest w jednym z wyświetlonych formatów)."
+"Jeśli pole jest zaznaczone, pobrane wiadomości zostaną automatycznie wysłane "
+"<br> na ten adres (pod warunkiem że jest w jednym z wyświetlonych formatów)."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/emailp.py:42
 msgid "Friendly name to use for this email address"
@@ -18624,7 +18624,7 @@ msgid ""
 "book viewer, fetch news dialog, etc."
 msgstr ""
 "Wyczyść historię wyszukiwania w całym calibre. Włącznie z listą książek, "
-"przeglądarką książek, pobieraniem newsów itd."
+"przeglądarką książek, pobieraniem wiadomości itd."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/search_ui.py:200
 msgid "Clear search &histories"
@@ -19525,7 +19525,7 @@ msgstr "&Domyślnie"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:136
 msgid "Customize shortcuts for"
-msgstr "Dostosuj skrót dla"
+msgstr "Ustaw skrót dla"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:223
 msgid "Keys"
@@ -19810,7 +19810,7 @@ msgstr "Idź do sklepu..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search.py:29
 msgid "&Stop"
-msgstr ""
+msgstr "&Stop"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search.py:126
 #, python-format
@@ -20797,7 +20797,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tools.py:293
 msgid "Fetch news from "
-msgstr "Pobierz newsy z "
+msgstr "Pobierz wiadomości z "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tools.py:366
 msgid "Convert existing"
@@ -23055,7 +23055,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:181
 msgid "The maximum number of results to display. Default: all"
-msgstr ""
+msgstr "Maksymalna liczba wyświetlanych rezultatów. Domyślnie: all"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:205
 msgid "Invalid fields. Available fields:"
@@ -23402,6 +23402,21 @@ msgid ""
 "that a new OPF has been created since the column was added). You will see "
 "the JSON for the \"display\" for the new column in the OPF."
 msgstr ""
+"Słownik opcji, określających jak będą interpretowane dane w tej kolumnie. Są "
+"one w formacie JSON. Do wyświetlenia kolumn można użyć --display=\"{\\"
+"\"enum_values\\\":[\\\"val1\\\", \\\"val2\\\"]}\"\n"
+"Zmienna display może przyjąć wiele opcji. Dla kolejnych typów kolumn:\n"
+"złożone: composite_template, composite_sort, make_category,contains_html, "
+"use_decorations\n"
+"daty i czasu: ate_format\n"
+"wyliczenia: enum_values, enum_colors, use_decorations\n"
+"liczbowe: number_format\n"
+"tekstowe:  is_names, use_decorations\n"
+"\n"
+"Najlepszym sposobem na znalezienie właściwej kombinacji jest stworzenie "
+"własnej kolumny odpowiedniego typu w interfejsie użytkownika, a potem "
+"zajrzenie do pliku OPF książki (przy założeniu, że plik OPF został "
+"uaktualniony po stworzeniu kolumny). Tam znajduje się JSON dla nowej kolumny."
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:758
 msgid "You must specify label, name and datatype"
@@ -24408,7 +24423,7 @@ msgid ""
 msgstr ""
 "Priorytet procesów roboczych. Wyższy priorytet oznacza, że szybciej się "
 "wykonują i pobierają więcej zasobów. To ustawienie ma wpływ na większość "
-"zadań takich jak konwersja/pobieranie newsów/dodawanie książek/itd."
+"zadań takich jak konwersja/pobieranie wiadomości/dodawanie książek/itd."
 
 #: /home/kovid/work/calibre/src/calibre/utils/config_base.py:402
 msgid "Swap author first and last names when reading metadata"
