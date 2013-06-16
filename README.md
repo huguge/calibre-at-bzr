@@ -21,7 +21,7 @@ This is a mirror with some tweaks.
 
 ### About branches and tags
 
-* upstream (branch): master branch in lp:calibre
+* upstream/master (branch): master branch in lp:calibre
 * upstream/\* (tags): tags in lp:calibre.  Prefix 'upstream/' is added by me.
 * master (branch): Includes only README.md, about this mirror.
 
@@ -29,21 +29,18 @@ This is a mirror with some tweaks.
 ### How to mirror
 
 * Initial clone
-  * Setup git-bzr-ng (URL:https://github.com/termie/git-bzr-ng).
   * Do as follows:
 
-            $ git bzr clone lp:calibre calibre
+            $ mkdir calibre
             $ cd calibre
-            $ git checkout bzr/master
-            $ git branch -m master upstream
-            $ # edit .git/config, and rename [bzr "master"] section to [bzr "upstream"].
-            $ git gc --aggressive
-            $ # You should do this, because repo size at this point would be ~600MiB, but after gc, would be ~80MiB.
-            $ # edit .git/packed-refs and add prefix "upstream" to original tags.
+            $ git remote add upstream bzr::lp:calibre
+            $ git config --local --unset remote.upstream.fetch
+            $ git config --local --add remote.upstream.fetch '+refs/heads/*:refs/heads/upstream/*'
+            $ git config --local --add remote.upstream.fetch '+refs/tags/*:refs/tags/upstream/*'
+            $ git config --local --add remote.upstream.tagopt '--no-tags'
+            $ git fetch upstream
   * Done.
 * Regular update
 
-        $ git checkout upstream
-        $ git bzr sync
-        $ # If in need, add prefix "upstream" to original tags.
+        $ git fetch upstream
 
