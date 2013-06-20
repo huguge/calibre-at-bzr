@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-14 02:51+0000\n"
-"PO-Revision-Date: 2013-06-16 17:28+0000\n"
-"Last-Translator: Hendrik Knackstedt <Unknown>\n"
+"PO-Revision-Date: 2013-06-19 15:53+0000\n"
+"Last-Translator: Simon Schütte <simonschuette@arcor.de>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-17 05:21+0000\n"
-"X-Generator: Launchpad (build 16667)\n"
+"X-Launchpad-Export-Date: 2013-06-20 05:16+0000\n"
+"X-Generator: Launchpad (build 16673)\n"
 "X-Poedit-Bookmarks: 3327,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
 
@@ -12285,13 +12285,13 @@ msgstr "Eintrag ist leer"
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:955
 msgid "An item cannot be set to nothing. Delete it instead."
 msgstr ""
-"Ein Element kann nicht auf nichts eingestellt werden. Löschen Sie es "
+"Ein Element kann nicht auf Nichts eingestellt werden. Löschen Sie es "
 "stattdessen."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/device_category_editor.py:100
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor.py:227
 msgid "No item selected"
-msgstr "Kein Eintrag ausgewählt"
+msgstr "Kein Element ausgewählt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/device_category_editor.py:101
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor.py:228
@@ -12302,7 +12302,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/device_category_editor.py:108
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor.py:235
 msgid "No items selected"
-msgstr "Keine Einträge ausgewählt"
+msgstr "Keine Elemente ausgewählt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/device_category_editor.py:109
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor.py:236
@@ -12335,7 +12335,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/device_category_editor_ui.py:88
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor_ui.py:79
 msgid "Rename the item in every book where it is used."
-msgstr "Element in jedem Buch, in dem es verwendet wird, umbenennen."
+msgstr "Das Element in jedem Buch, in dem es verwendet wird, umbenennen."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/device_category_editor_ui.py:90
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/tag_list_editor_ui.py:81
@@ -13143,7 +13143,7 @@ msgid ""
 msgstr ""
 "Gibt an, ob die Ergebnisse in mehrere Werte getrennt oder als\n"
 "einzelne Werte belassen werden sollen. Diese Option hat den größten "
-"Einfluß,\n"
+"Einfluss,\n"
 "wenn das Quellfeld keine multiplen Werte erlaubt, das Zielfeld jedoch schon."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:655
@@ -17001,7 +17001,7 @@ msgid ""
 "future never match"
 msgstr ""
 "Geben Sie das maximal-mögliche Alter des Gegenstandes in Tagen an. Null ist "
-"heute. Daten in der Zukunft passt nicht."
+"heute. Daten in der Zukunft passen nicht."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:256
 msgid ""
