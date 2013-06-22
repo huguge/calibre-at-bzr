@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-21 03:51+0000\n"
-"PO-Revision-Date: 2013-06-14 18:23+0000\n"
+"PO-Revision-Date: 2013-06-21 06:50+0000\n"
 "Last-Translator: Jellby <Unknown>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-21 05:29+0000\n"
+"X-Launchpad-Export-Date: 2013-06-22 05:29+0000\n"
 "X-Generator: Launchpad (build 16677)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -3166,6 +3166,10 @@ msgid ""
 "looks like a cover, it will be removed from the document and used as the "
 "cover for created ebook. This option turns off that behavior."
 msgstr ""
+"Normalmente, si se encuentra una imagen grande al principio del documento, "
+"lo que parece una portada, se eliminará del documento y se usará como "
+"portada para el libro electrónico creado. Esta opción desactiva dicho "
+"comportamiento."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:54
 msgid ""
@@ -6262,6 +6266,8 @@ msgid ""
 "You have dropped some files onto the book <b>%s</b>. This will add or "
 "replace the files for this book. Do you want to proceed?"
 msgstr ""
+"Ha soltado archivos sobre el libro <b>%s</b>. Esto añadirá o sustituirá los "
+"archivos de este libro. ¿Quiere continuar?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:291
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:339
@@ -9524,11 +9530,13 @@ msgstr "Usar &djvutxt, si está disponible, para procesar más rápidamente"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input.py:14
 msgid "DOCX Input"
-msgstr ""
+msgstr "Entrada DOCX"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input_ui.py:41
 msgid "Do not try to autodetect a &cover from images in the document"
 msgstr ""
+"No intentar detectar automáticamente una &portada a partir de las imágenes "
+"del documento"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output.py:15
 msgid "EPUB Output"
@@ -21971,7 +21979,7 @@ msgstr "Introduzca el título del marcador:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:968
 msgid "Bookmark this location"
-msgstr ""
+msgstr "Marcar esta posición"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:969
 msgid "Manage Bookmarks"

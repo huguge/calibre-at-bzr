@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-21 03:51+0000\n"
-"PO-Revision-Date: 2013-06-07 12:43+0000\n"
+"PO-Revision-Date: 2013-06-21 13:06+0000\n"
 "Last-Translator: Merarom <Unknown>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-21 05:30+0000\n"
+"X-Launchpad-Export-Date: 2013-06-22 05:30+0000\n"
 "X-Generator: Launchpad (build 16677)\n"
 "X-Poedit-Country: SWEDEN\n"
 "X-Poedit-Language: Swedish\n"
@@ -3100,6 +3100,9 @@ msgid ""
 "looks like a cover, it will be removed from the document and used as the "
 "cover for created ebook. This option turns off that behavior."
 msgstr ""
+"Normalt, om en stor bild finns vid starten av det dokument som ser ut som "
+"ett omslag, kommer det att tas bort från dokumentet och används som omslag "
+"för den skapade eboken. Detta alternativ stänger av detta beteendet."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:54
 msgid ""
@@ -6129,6 +6132,8 @@ msgid ""
 "You have dropped some files onto the book <b>%s</b>. This will add or "
 "replace the files for this book. Do you want to proceed?"
 msgstr ""
+"Du har släppt en del filer på boken <b>%s</b>. Detta kommer att lägga till "
+"eller ersätta filer för denna bok. Vill du fortsätta?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:291
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:339
@@ -9371,11 +9376,11 @@ msgstr "Använd &djvutxt, om tillgängligt, för snabbare processering"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input.py:14
 msgid "DOCX Input"
-msgstr ""
+msgstr "DOCX indata"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input_ui.py:41
 msgid "Do not try to autodetect a &cover from images in the document"
-msgstr ""
+msgstr "Försök inte att autodetektera ett &omslag från bilderna i dokumentet"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output.py:15
 msgid "EPUB Output"
@@ -10014,17 +10019,17 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:32
 msgid "unlimited"
-msgstr ""
+msgstr "obegränsat"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:34
 #, python-format
 msgid "%d x %d pixels"
-msgstr ""
+msgstr "%d x %d bildpunkter"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:35
 #, python-format
 msgid "Screen size: %s"
-msgstr ""
+msgstr "Skärmstorlek: %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:41
 msgid "Page Setup"
@@ -14964,7 +14969,7 @@ msgstr "Körtid"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/jobs.py:72
 msgid "Start time"
-msgstr ""
+msgstr "Starttid"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/jobs.py:84
 #, python-format
@@ -19812,7 +19817,7 @@ msgstr "Gå in i butiken ..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search.py:29
 msgid "&Stop"
-msgstr ""
+msgstr "&Stopp"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search.py:126
 #, python-format
@@ -21734,7 +21739,7 @@ msgstr "Ange titel för bokmärke:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:968
 msgid "Bookmark this location"
-msgstr ""
+msgstr "Sätt bokmärke på den här platsen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:969
 msgid "Manage Bookmarks"
@@ -23048,7 +23053,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:181
 msgid "The maximum number of results to display. Default: all"
-msgstr ""
+msgstr "Maximalt antal resultat att visa. Grundinställning: alla"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:205
 msgid "Invalid fields. Available fields:"

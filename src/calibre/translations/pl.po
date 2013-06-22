@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-21 03:51+0000\n"
-"PO-Revision-Date: 2013-06-17 17:39+0000\n"
+"PO-Revision-Date: 2013-06-21 12:27+0000\n"
 "Last-Translator: Piotr Parafiniuk <Unknown>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-06-21 05:26+0000\n"
+"X-Launchpad-Export-Date: 2013-06-22 05:27+0000\n"
 "X-Generator: Launchpad (build 16677)\n"
 "X-Poedit-Bookmarks: -1,3588,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -3114,6 +3114,9 @@ msgid ""
 "looks like a cover, it will be removed from the document and used as the "
 "cover for created ebook. This option turns off that behavior."
 msgstr ""
+"Jeżeli na początku dokumentu znajduje się duży obrazek, który może zostać "
+"użyty jako okładka jest on usuwany z dokumentu i ustawiany jako okładka "
+"ebooka. Ta opcja wyłącza tę funkcję."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:54
 msgid ""
@@ -6136,6 +6139,8 @@ msgid ""
 "You have dropped some files onto the book <b>%s</b>. This will add or "
 "replace the files for this book. Do you want to proceed?"
 msgstr ""
+"Na książkę <b>%s</b> zostały upuszczone pliki. Spowoduje to dodanie bądź "
+"zamianę plików tej książki. Czy na pewno kontynuować?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:291
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:339
@@ -9373,11 +9378,11 @@ msgstr "Użyj &djvutxt jeśli jest dostępny aby przyspieszyć przetwarzanie"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input.py:14
 msgid "DOCX Input"
-msgstr ""
+msgstr "Źródłowy DOCX"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input_ui.py:41
 msgid "Do not try to autodetect a &cover from images in the document"
-msgstr ""
+msgstr "Nie wykrywaj automatycznie obrazów mogących służyć za &okładkę"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output.py:15
 msgid "EPUB Output"
@@ -21767,7 +21772,7 @@ msgstr "Dodaj tytuł zakładki:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:968
 msgid "Bookmark this location"
-msgstr ""
+msgstr "Załóż zakładkę"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:969
 msgid "Manage Bookmarks"
