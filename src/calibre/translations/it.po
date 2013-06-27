@@ -10,15 +10,15 @@ msgstr ""
 "Project-Id-Version: calibre_calibre-it\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-21 03:51+0000\n"
-"PO-Revision-Date: 2013-06-24 13:16+0000\n"
+"PO-Revision-Date: 2013-06-26 23:27+0000\n"
 "Last-Translator: Vincenzo Reale <smart2128@baslug.org>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-25 05:13+0000\n"
-"X-Generator: Launchpad (build 16677)\n"
+"X-Launchpad-Export-Date: 2013-06-27 05:25+0000\n"
+"X-Generator: Launchpad (build 16681)\n"
 "Language: it\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,1105,-1,1312,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -1910,8 +1910,8 @@ msgid ""
 msgstr ""
 "Kobo aggiorna periodicamente la versione del firmware e del database. Con "
 "questa opzione calibre cercherà di effettuare una funzionalità di piena "
-"lettura-scrittura. Hic sunt leones!! Attiva questa opzione solo se sei a tuo "
-"agio nel ripristinare il tuo kobo alle impostazioni di fabbrica e nel "
+"lettura-scrittura. Hic sunt dracones!! Attiva questa opzione solo se sei a "
+"tuo agio nel ripristinare il tuo kobo alle impostazioni di fabbrica e nel "
 "testare software."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:622
@@ -3369,8 +3369,8 @@ msgid ""
 msgstr ""
 "Come gestire i CSS usando css-type = 'classe'.\n"
 "Il valore predefinito è esterno.\n"
-"esternal: utilizzare un file CSS esterno che si collega nel documento.\n"
-"inline: posizionare il CSS nell'intestazione del documento."
+"esterno: utilizzare un file CSS esterno che si collega nel documento.\n"
+"in linea: posizionare il CSS nell'intestazione del documento."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/htmlz_output.py:42
 msgid ""
@@ -5707,7 +5707,7 @@ msgstr "La copertina coi metadati non è stata trovata"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:158
 msgid "Smartening punctuation"
-msgstr "Milgioramento della punteggiatura"
+msgstr "Miglioramento della punteggiatura"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:163
 msgid "Subsetting embedded fonts"
@@ -7453,7 +7453,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:51
 #, python-format
 msgid "<h3>Smarten punctuation</h3>%s"
-msgstr "<h3>Punteggiatura milgiorata</h3>%s"
+msgstr "<h3>Punteggiatura migliorata</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:53
 msgid ""
@@ -20141,7 +20141,7 @@ msgstr "Imposta l'ordinamento degli elementi nel navigatore dei tag"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:422
 msgid "Search type when selecting multiple items"
-msgstr "Tipo di ricerca quando selezioni elementi diverrsi"
+msgstr "Tipo di ricerca quando selezioni elementi diversi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:428
 msgid "Match all of the items"
@@ -20693,7 +20693,7 @@ msgstr ""
 "Impossibile convertire <b>%s</b> poiché non ha alcun file di ebook. Se pensi "
 "di avere i file, ma calibre non riesce a trovarli, molto probabilmente è "
 "perché hai spostato i file fuori da calibre. È necessario trovare i file e "
-"riaggiungerli a calibre."
+"aggiungerli nuovamente a calibre."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tools.py:113
 #, python-format
