@@ -11,15 +11,15 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-06-15 13:07+0000\n"
+"PO-Revision-Date: 2013-06-29 11:48+0000\n"
 "Last-Translator: Ferran Rius <frius64@hotmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-28 05:22+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-06-30 05:34+0000\n"
+"X-Generator: Launchpad (build 16692)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
@@ -3153,6 +3153,9 @@ msgid ""
 "looks like a cover, it will be removed from the document and used as the "
 "cover for created ebook. This option turns off that behavior."
 msgstr ""
+"Si hi ha una imatge gran al començament del document que sembla una portada, "
+"normalment s'eliminarà del document i s'utilitzarà com a portada del llibre "
+"creat. Aquesta opció desactiva aquest comportament."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:54
 msgid ""
@@ -4096,6 +4099,11 @@ msgid ""
 "will be embedded. Embedding will only work if the format you are converting "
 "to supports embedded fonts, such as EPUB, AZW3 or PDF."
 msgstr ""
+"Incrusta tots els tipus de lletra que estan referenciats al document "
+"d'entrada però encara no estan incrustades. Es cercaran els tipus de lletra "
+"al sistema i, si es troben, s'incrustaran. Només funciona si el format que "
+"esteu convertint és compatible amb tipus de lletra incrustats com l'EPUB, "
+"l'AZW3 o el PDF."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:221
 msgid ""
@@ -6241,6 +6249,8 @@ msgid ""
 "You have dropped some files onto the book <b>%s</b>. This will add or "
 "replace the files for this book. Do you want to proceed?"
 msgstr ""
+"Heu deixat anar alguns fitxers al llibre <b>%s</b>. Això afegirà o "
+"reemplaçarà els fitxers d'aquest llibre. Voleu continuar?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:291
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:339
@@ -7324,6 +7334,10 @@ msgid ""
 "books will not be deleted or changed.<br><br>Please confirm you want to "
 "proceed."
 msgstr ""
+"Els formats de llibre i metadades dels llibres seleccionats s'afegiran al "
+"<b>primer llibre seleccionat</b> (%s).<br> El segon llibre seleccionat i els "
+"següents no se suprimiran ni canviaran. <br><br>Confirmeu que voleu "
+"continuar."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:412
 #, python-format
@@ -7337,6 +7351,15 @@ msgid ""
 "and subsequently selected books will be permanently <b>deleted</b> from your "
 "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Els formats dels llibres seleccionats es fusionaran al <b>primer llibre "
+"seleccionat</b> (%s). Les metadades del primer llibre seleccionat no es "
+"canviaran. L'autor, títol i tota la resta de metadades <i>no</i> es "
+"fusionaran. <br><br>Després de la fusió el segon llibre seleccionat i els "
+"següents se <b>suprimiran</b>, juntament amb les metadades que continguin. "
+"<br><br>Es mantindran tots els formats de llibre del primer llibre "
+"seleccionat i tots els formats duplicats al segon llibre seleccionat i als "
+"següents se <b>suprimirà</b> permanentment de la biblioteca del calibre. "
+"<br><br>Esteu <b>segur</b> que voleu continuar?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:428
 #, python-format
@@ -7348,6 +7371,13 @@ msgid ""
 "second and subsequently selected books will be permanently <b>deleted</b> "
 "from your calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Els formats i les metadades dels llibres seleccionats es fusionaran al "
+"<b>primer llibre seleccionat</b> (%s). <br><br>Després de la fusió el segon "
+"llibre seleccionat i els següents se <b>suprimiran</b>. <br><br>Es "
+"conservaran tots els formats del primer llibre seleccionat i tots els "
+"formats duplicats al segon llibre seleccionat i als següents se "
+"<b>suprimirà</b> permanentment de la biblioteca del calibre. <br><br>Esteu "
+"<b>segur</b> que voleu continuar?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:607
 msgid "Applying changed metadata"
@@ -9480,11 +9510,12 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input.py:14
 msgid "DOCX Input"
-msgstr ""
+msgstr "Entrada DOCX"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input_ui.py:41
 msgid "Do not try to autodetect a &cover from images in the document"
 msgstr ""
+"No intentis detectar automàticament la &portada a les imatges del document"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output.py:15
 msgid "EPUB Output"
@@ -9898,7 +9929,7 @@ msgstr "Sense canvis"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "&Incrusta els tipus de lletra referenciats"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"
@@ -21991,7 +22022,7 @@ msgstr "Introduïu el títol del marcador:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:968
 msgid "Bookmark this location"
-msgstr ""
+msgstr "Marca aquesta ubicació"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:969
 msgid "Manage Bookmarks"
@@ -27631,54 +27662,3 @@ msgstr ""
 "En utilitzar una biblioteca virtual es realça en groc el seu nom, al costat\n"
 "del botó de biblioteca virtual. Podeu triar el color del realçat amb aquest\n"
 "ajustament. Establiu-ho a «transparent» per desactivar el realçat."
-
-#, python-format
-#~ msgid ""
-#~ "Book formats and metadata from the selected books will be added to the "
-#~ "<b>first selected book</b> (%s). ISBN will <i>not</i> be merged.<br><br> The "
-#~ "second and subsequently selected books will not be deleted or "
-#~ "changed.<br><br>Please confirm you want to proceed."
-#~ msgstr ""
-#~ "S'afegirà els formats i metadades dels llibres seleccionats al <b>primer "
-#~ "llibre seleccionat</b> (%s). <i>No</i> es fusionarà l'ISBN.<br><br> No se "
-#~ "suprimira ni canviarà el segon ni els següents llibres seleccionats.<br> "
-#~ "Confirmeu si voleu continuar."
-
-#, python-format
-#~ msgid ""
-#~ "Book formats and metadata from the selected books will be merged into the "
-#~ "<b>first selected book</b> (%s). ISBN will <i>not</i> be "
-#~ "merged.<br><br>After merger the second and subsequently selected books will "
-#~ "be <b>deleted</b>. <br><br>All book formats of the first selected book will "
-#~ "be kept and any duplicate formats in the second and subsequently selected "
-#~ "books will be permanently <b>deleted</b> from your calibre library.<br><br>  "
-#~ "Are you <b>sure</b> you want to proceed?"
-#~ msgstr ""
-#~ "Es fusionarà els formats i les metadades dels llibres seleccionats en el "
-#~ "<b>primer llibre seleccionat</b> (%s). <i>No</i> es fusionarà l'ISBN. "
-#~ "<br><br>Se <b>suprimiran</b> el segon i els següents llibres seleccionats "
-#~ "després de la fusió. <br><br>Es conservaran tots els formats del primer "
-#~ "llibre seleccionat i se <b>suprimiran</b> permanentment tots els formats "
-#~ "duplicats del segon i del següents llibres seleccionats de la biblioteca del "
-#~ "calibre. <br><br>Esteu <b>segur</b> que voleu continuar?"
-
-#, python-format
-#~ msgid ""
-#~ "Book formats from the selected books will be merged into the <b>first "
-#~ "selected book</b> (%s). Metadata in the first selected book will not be "
-#~ "changed. Author, Title, ISBN and all other metadata will <i>not</i> be "
-#~ "merged.<br><br>After merger the second and subsequently selected books, with "
-#~ "any metadata they have will be <b>deleted</b>. <br><br>All book formats of "
-#~ "the first selected book will be kept and any duplicate formats in the second "
-#~ "and subsequently selected books will be permanently <b>deleted</b> from your "
-#~ "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
-#~ msgstr ""
-#~ "Els formats dels llibres seleccionats es fusionaran al <b>primer llibre "
-#~ "seleccionat</b> (%s). Les metadades del primer llibre seleccionat no es "
-#~ "canviaran. <i>No</i> es fusionaran l'autor, títol, ISBN i la resta de "
-#~ "metadades.<br><br>Després de la fusió les metadades que tinguin el segon i "
-#~ "els llibres seleccionats següents se <b>suprimiran</b>.<br><br>Tots els "
-#~ "formats del primer llibre seleccionat es conservaran i qualsevol format "
-#~ "duplicat del segon i dels llibres seleccionats següents se <b>suprimiran</b> "
-#~ "permanentment de la biblioteca del calibre.<br><br><b>Segur</b> que voleu "
-#~ "continuar?"

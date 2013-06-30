@@ -57,15 +57,15 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-05-28 05:02+0000\n"
+"PO-Revision-Date: 2013-06-28 21:50+0000\n"
 "Last-Translator: drMerry <Unknown>\n"
 "Language-Team: Dutch <ubuntu-l10n-nl@lists.ubuntu.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-06-28 05:23+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-06-30 05:35+0000\n"
+"X-Generator: Launchpad (build 16692)\n"
 "X-Poedit-Country: NETHERLANDS\n"
 "X-Poedit-Language: Dutch\n"
 
@@ -1220,12 +1220,12 @@ msgstr "Foutieve boolean opdracht \"{0}\""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:355
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:505
 msgid "Invalid query format for colon-separated search: {0}"
-msgstr ""
+msgstr "Foutief query-formaat voor dubbelepunt-gescheiden zoekopdracht: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:654
 msgid "Recursive query group detected: {0}"
-msgstr ""
+msgstr "Recursieve query-groep gevonden: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:75
 #: /home/kovid/work/calibre/src/calibre/gui2/main.py:47
@@ -1360,7 +1360,7 @@ msgstr "Foutopsporingslog inschakelen"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:133
 msgid "Print driver debug messages to console"
-msgstr ""
+msgstr "Stuurprogramma debug-berichten tonen in console"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:203
 msgid "Apple device"
@@ -1628,7 +1628,7 @@ msgstr "Communiceer met de PocketBook 602/603/902/903/Pro 912 E-reader"
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "Communiceer met de PocketBook 622 en 623 Ereaders."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."
@@ -2103,6 +2103,9 @@ msgid ""
 "Use this option to show these books and match them with books in the calibre "
 "library."
 msgstr ""
+"Gearchiveerde boeken staan op het apparaat, maar moeten worden gedownload om "
+"te kunnen lezen. Gebruik deze optie om ze te tonen en te linken aan boeken "
+"in de calibre bibliotheek."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1253
 msgid ""
@@ -3729,6 +3732,9 @@ msgid ""
 "An HTML template used to generate %s on every page. The strings _PAGENUM_, "
 "_TITLE_, _AUTHOR_ and _SECTION_ will be replaced by their current values."
 msgstr ""
+"Een HTML sjabloon gebruikt om %s te genereren op iedere pagina. De strings "
+"_PAGENUM_, _TITLE_, _AUTHOR_ en _SECTION_ zullen worden vervangen bij hun "
+"huidige waarden."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:108
 msgid "footers"
@@ -5330,19 +5336,21 @@ msgstr "Externe metadatabron"
 msgid ""
 "Downloads multiple book covers from Amazon. Useful to find alternate covers."
 msgstr ""
+"Download meerder boek omslagen van Amazon. Nuttig om andere omslagen te "
+"vinden."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:33
 msgid "Configure the Big Book Search plugin"
-msgstr ""
+msgstr "De Big Book zoek plug-in instellen"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:35
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:22
 msgid "Maximum number of covers to get"
-msgstr ""
+msgstr "Maximum aantal omslagen om te downloaden"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:36
 msgid "The maximum number of covers to process from the search result"
-msgstr ""
+msgstr "Het maximum aantal omslagen om te verwerken voor het zoekresultaat"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/douban.py:154
 msgid ""
@@ -5369,14 +5377,17 @@ msgid ""
 "Downloads covers from a Google Image search. Useful to find larger/alternate "
 "covers."
 msgstr ""
+"Download omslagen van een Google-afbeeldingen zoekopdracht. Nuttig om "
+"grotere/andere omslagen te vinden."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:20
 msgid "Configure the Google Image Search plugin"
-msgstr ""
+msgstr "De Google-afbeeldingen zoek plug-in instellen"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:23
 msgid "The maximum number of covers to process from the google search result"
 msgstr ""
+"Het maximum aantal omslagen om te verwerken van Google zoek resultaten"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:24
 msgid "Cover size"
@@ -5384,7 +5395,7 @@ msgstr "Omslag formaat"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:25
 msgid "Search for covers larger than the specified size"
-msgstr ""
+msgstr "Zoek naar omslagen groter dan de aangegeven omvang"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:27
 msgid "Any size"
@@ -6232,6 +6243,8 @@ msgid ""
 "You have dropped some files onto the book <b>%s</b>. This will add or "
 "replace the files for this book. Do you want to proceed?"
 msgstr ""
+"U heeft bestanden op het boek <b>%s</b> geplaatst. Hierdoor zullen de "
+"bestanden worden toegevoegd of vervangen bij dit boek. Wilt u doorgaan?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:291
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:339
@@ -6512,7 +6525,7 @@ msgstr "Database terugzetten"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:252
 msgid "{0} [{1} books]"
-msgstr ""
+msgstr "{0} [{1} boeken]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:318
 msgid "Rename"
@@ -6765,6 +6778,8 @@ msgstr "&Verplaats"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:160
 msgid "Copy to the specified library and delete from the current library"
 msgstr ""
+"Kopieer naar de aangegeven bibliotheek en verwijder het van de huidige "
+"bibliotheek"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:180
 msgid "Copy to library"
@@ -7011,6 +7026,8 @@ msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> and the files "
 "removed from your calibre library. Are you sure?"
 msgstr ""
+"Geselecteerd(e) %d boek(en) worden <b>permanent verwijderd</b> en de "
+"bestanden worden verwijderd uit de calibre bibliotheek. Weet u het zeker?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:392
 #, python-format
@@ -7018,6 +7035,8 @@ msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> from your device. "
 "Are you sure?"
 msgstr ""
+"Geselecteerd(e) %d boek(en) worden <b>permanent verwijderd</b> en de "
+"bestanden worden verwijderd van het apparaat. Weet u het zeker?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:33
 msgid "Start wireless device connection"
@@ -7236,7 +7255,7 @@ msgstr "Log downloaden"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:159
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:225
 msgid "Review downloaded metadata"
-msgstr ""
+msgstr "Gedownloade metadata controleren"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:184
 msgid "Some books changed"
@@ -7256,30 +7275,33 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:226
 msgid "Discard downloaded metadata for this book"
-msgstr ""
+msgstr "Gedownloade metadata voor dit boek vergeten"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:227
 msgid "Use the downloaded metadata for all remaining books"
-msgstr ""
+msgstr "Gebruik de gedownloade metadata voor alle overige boeken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:228
 msgid "Discard downloaded metadata for all remaining books"
-msgstr ""
+msgstr "Vergeet gedownloade metadata voor alle overige boeken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:229
 #, python-format
 msgid "Discard the downloaded value for: %s"
-msgstr ""
+msgstr "Vergeet de gedownloade waarde voor: %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:230
 msgid ""
 "The downloaded metadata is on the left and the original metadata is on the "
 "right. If a downloaded value is blank or unknown, the original value is used."
 msgstr ""
+"De gedownloade metadata is links en de originele metadata is rechts. Als een "
+"gedownloade waarde leeg of onbekend is, zal de originele waarde worden "
+"gebruikt."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
-msgstr ""
+msgstr "&Bekijk boeken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:276
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:345
@@ -7596,7 +7618,7 @@ msgstr "Verwijder opgeslagen instellingen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:208
 msgid "Must update metadata"
-msgstr ""
+msgstr "Metadate moet worden bijgewerkt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:209
 msgid ""
@@ -8545,7 +8567,7 @@ msgstr "Omvang omslag: %(width)d x %(height)d"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:499
 msgid "&Copy Link"
-msgstr ""
+msgstr "&Kopieer link"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:508
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550
@@ -8567,7 +8589,7 @@ msgstr "Sla het %s formaat op schijf op"
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:521
 #, python-format
 msgid "Restore the %s format"
-msgstr ""
+msgstr "Herstel het %s formaat"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_bibtex.py:16
 msgid "BibTeX Options"
@@ -9457,11 +9479,13 @@ msgstr "Gebruik &djvutxt voor snellere processing als deze beschikbaar is"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input.py:14
 msgid "DOCX Input"
-msgstr ""
+msgstr "DOCX invoer"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input_ui.py:41
 msgid "Do not try to autodetect a &cover from images in the document"
 msgstr ""
+"Probeer niet automatisch een &omslag te vinden op basis van afbeeldingen in "
+"het document"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output.py:15
 msgid "EPUB Output"
@@ -9878,7 +9902,7 @@ msgstr "Geen wijzigingen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "Gebruikte lettertypen &invoegen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"
@@ -10110,17 +10134,17 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:32
 msgid "unlimited"
-msgstr ""
+msgstr "onbeperkt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:34
 #, python-format
 msgid "%d x %d pixels"
-msgstr ""
+msgstr "%d x %d pixels"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:35
 #, python-format
 msgid "Screen size: %s"
-msgstr ""
+msgstr "Scherm formaat: %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/page_setup.py:41
 msgid "Page Setup"
@@ -10282,7 +10306,7 @@ msgstr "&Lettergrootte niet-proportionele letters:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:158
 msgid "Page headers and footers"
-msgstr ""
+msgstr "Pagina kop- en voetteksten"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:159
 msgid ""
@@ -10294,15 +10318,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:160
 msgid "&Header template:"
-msgstr ""
+msgstr "&Koptekst sjabloon:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:161
 msgid "&Footer template:"
-msgstr ""
+msgstr "&Voettekst sjabloon:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:162
 msgid "Add a printable &Table of Contents at the end"
-msgstr ""
+msgstr "Voeg een afdrukbare &inhoudsopgave toe aan het einde"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pml_output.py:14
 msgid "PMLZ Output"
@@ -10563,7 +10587,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/single.py:150
 msgid "Restore &Defaults"
-msgstr ""
+msgstr "Stan&daardinstellingen herstellen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/single.py:193
 msgid "Convert"
@@ -14453,7 +14477,7 @@ msgstr "Kopieer een kleur-naam naar het klembord:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:172
 msgid "Kind"
-msgstr ""
+msgstr "Soort"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:173
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:32
@@ -14467,11 +14491,11 @@ msgstr "pictogram met tekst"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:175
 msgid "Apply the icon to column:"
-msgstr ""
+msgstr "Icoon toepassen voor kolom:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:176
 msgid "Copy an icon file name to the clipboard:"
-msgstr ""
+msgstr "Kopieer een icoon bestandsnaam naar het klembord:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:177
 msgid "Copy the selected icon file name to the clipboard"
@@ -14479,11 +14503,11 @@ msgstr "Kopieer de geselecteerde pictogram-bestandsnaam naar het klembord"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:178
 msgid "Add icon"
-msgstr ""
+msgstr "Icoon toevoegen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:179
 msgid "Add an icon file to the set of choices"
-msgstr ""
+msgstr "Voeg een icoon-bestand toe aan de keuzemogelijkheden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/template_dialog_ui.py:180
 msgid "Template value:"
@@ -15050,16 +15074,16 @@ msgstr "Verbonden "
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:204
 #, python-format
 msgid " %(created)s %(name)s"
-msgstr ""
+msgstr " %(created)s %(name)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:204
 msgid "created by"
-msgstr ""
+msgstr "gemaakt door"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:207
 #, python-format
 msgid "%(num)d of %(total)d books"
-msgstr ""
+msgstr "%(num)d van %(total)d boeken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:209
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/toolbar.py:59
@@ -15076,7 +15100,7 @@ msgstr "%(num)s, %(sel)d geselecteerd"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:213
 msgid "{0}, {1} total"
-msgstr ""
+msgstr "{0}, {1} totaal"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:245
 #: /home/kovid/work/calibre/src/calibre/gui2/init.py:256
@@ -15103,7 +15127,7 @@ msgstr "Looptijd"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/jobs.py:72
 msgid "Start time"
-msgstr ""
+msgstr "Aanvangstijd"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/jobs.py:84
 #, python-format
@@ -15363,10 +15387,12 @@ msgstr "Gewijzigd"
 #, python-format
 msgid "Click in this column and press Q to Quickview books with the same %s"
 msgstr ""
+"Klik in deze kolom en toets Q voor een snelle weergave (Quickview) van "
+"boeken met zelfde %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:912
 msgid "The lookup/search name is \"{0}\"{1}"
-msgstr ""
+msgstr "De opzoek naam is \"{0}\"{1}"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:918
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1559
@@ -15454,7 +15480,7 @@ msgstr "Midden"
 #: /home/kovid/work/calibre/src/calibre/gui2/library/views.py:309
 #, python-format
 msgid "Quickview column %s"
-msgstr ""
+msgstr "Snelle weergave kolom %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/views.py:326
 msgid "Show column"
@@ -16037,23 +16063,23 @@ msgstr "Gedownloade metadata-velden"
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/diff.py:348
 #, python-format
 msgid "Revert %s"
-msgstr ""
+msgstr "Herstel %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/diff.py:453
 msgid "Compare metadata"
-msgstr ""
+msgstr "Vergelijk metadata"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/diff.py:469
 msgid "&Accept all remaining"
-msgstr ""
+msgstr "&Accepteer alle overigen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/diff.py:474
 msgid "Re&ject all remaining"
-msgstr ""
+msgstr "Alle overigen &afwijzen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/diff.py:479
 msgid "&Reject"
-msgstr ""
+msgstr "&Afwijzen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/diff.py:532
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single.py:301
@@ -16306,7 +16332,7 @@ msgstr "Bezig met zoeken…"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:822
 msgid "View this cover at full size"
-msgstr ""
+msgstr "Bekijk de omslag op volledig formaat"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:868
 #, python-format
@@ -16329,6 +16355,8 @@ msgid ""
 "Found <b>%(num)d</b> possible covers for %(title)s. When the download "
 "completes, the covers will be sorted by size."
 msgstr ""
+"<b>%(num)d</b> mogelijke omslagen gevonden voor %(title)s. Als de download "
+"klaar is, zullen de omslagen worden gesorteerd op omvang."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:997
 msgid "Downloading metadata..."
@@ -16517,6 +16545,8 @@ msgstr "Het toevoegings&proces"
 msgid ""
 "<b>Ignore</b> files with the following extensions when automatically adding "
 msgstr ""
+"<b>Negeer</b> bestanden met de volgende extensie gedurende automatisch "
+"toevoegen "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:162
 msgid ""
@@ -16654,6 +16684,7 @@ msgstr "&Prioriteit van taak:"
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/behavior_ui.py:168
 msgid "Virtual library to apply when the current library is opened:"
 msgstr ""
+"Virtuele bibliotheek om toe te passen als de huidige bibliotheek is geopend:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/behavior_ui.py:169
 msgid ""
@@ -16965,6 +16996,11 @@ msgid ""
 "                <pre>%(rule)s</pre>\n"
 "                "
 msgstr ""
+"\n"
+"                <p>Geavanceerde regel: <b>%(typ)s</b> instellen voor kolom "
+"<b>%(col)s</b>:\n"
+"                <pre>%(rule)s</pre>\n"
+"                "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:664
 #, python-format
@@ -18897,11 +18933,11 @@ msgstr "Max. &OPDS-onderdelen per zoekopdracht:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/server_ui.py:157
 msgid "Max. &ungrouped items:"
-msgstr ""
+msgstr "Max. &ongegroepeerde onderdelen:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/server_ui.py:158
 msgid "Virtual library to apply:"
-msgstr ""
+msgstr "Virtuele bibliotheek om toe te passen:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/server_ui.py:159
 msgid ""
@@ -19388,7 +19424,7 @@ msgstr "Opgeslagen zoekopdracht aanmaken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_box.py:336
 msgid "There is no search to save"
-msgstr ""
+msgstr "Er is geen zoekopdracht om op te slaan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_box.py:351
 msgid "Delete current search"
@@ -19446,7 +19482,7 @@ msgstr "Opgeslagen zoekopdrachten beheren"
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:29
 #, python-format
 msgid "Create a Virtual Library based on %s"
-msgstr ""
+msgstr "Een virtuele bibliotheek maken op basis van %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:37
 #, python-format
@@ -19460,23 +19496,23 @@ msgstr "Overeenkomstig alle %s geselecteerde namen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:98
 msgid "Edit virtual library"
-msgstr ""
+msgstr "Een virtuele bibliotheek bewerken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:100
 msgid "Create virtual library"
-msgstr ""
+msgstr "Een virtuele bibliotheek maken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:105
 msgid "Virtual library &name:"
-msgstr ""
+msgstr "&Naam virtuele bibliotheek:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:118
 msgid "&Search expression:"
-msgstr ""
+msgstr "&Zoek opdracht:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:126
 msgid "Create a virtual library based on: "
-msgstr ""
+msgstr "Maak een virtuele bibliotheek op basis van: "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:139
 msgid ""
@@ -19509,76 +19545,84 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:182
 msgid "Saved searches recognized in the expression:"
-msgstr ""
+msgstr "Opgeslagen zoekopdrachten herkend in de opdracht:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:222
 msgid "Search text changed"
-msgstr ""
+msgstr "Zoekopdracht aangepast"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:223
 msgid ""
 "The virtual library name or the search text has changed. Do you want to "
 "discard these changes?"
 msgstr ""
+"De naam van de virtuele bibliotheek of de zoektekst is aangepast. Wilt u "
+"deze wijzigingen annuleren?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:260
 msgid "No name"
-msgstr ""
+msgstr "Naamloos"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:261
 msgid "You must provide a name for the new virtual library"
-msgstr ""
+msgstr "U moet een naam opgeven voor de nieuwe virtuele bibliotheek"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:267
 msgid "A virtual library name cannot begin with \"*\""
-msgstr ""
+msgstr "De naam van een virtuele bibliotheek kan niet beginnen met \"*\""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:272
 msgid "Name already in use"
-msgstr ""
+msgstr "Naam is al gebruikt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:273
 msgid ""
 "That name is already in use. Do you want to replace it with the new search?"
 msgstr ""
+"Die naam is al in gebruik. Wilt u deze vervangen met de nieuwe zoekopdracht?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:280
 msgid "No search string"
-msgstr ""
+msgstr "Geen zoekopdracht"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:281
 msgid "You must provide a search to define the new virtual library"
 msgstr ""
+"U dient een zoekopdracht op te geven voor de nieuwe virtuele bibliotheek"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:289
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:419
 msgid "Invalid search"
-msgstr ""
+msgstr "Ongeldige zoekopdracht"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:290
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:420
 msgid "The search in the search box is not valid"
-msgstr ""
+msgstr "De zoekopdracht in de zoekbalk is ongeldig"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:295
 msgid "Search found no books"
-msgstr ""
+msgstr "Zoekopdracht heeft geen boeken gevonden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:296
 msgid ""
 "The search found no books, so the virtual library will be empty. Do you "
 "really want to use that search?"
 msgstr ""
+"De zoekopdracht vond geen boeken, hierdoor zal de virtuele bibliotheek leeg "
+"zijn. Weet u zeker dat u deze zoekopdracht wilt gebruiken?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:308
 msgid "<None>"
-msgstr ""
+msgstr "<Geen>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:321
 msgid ""
 "Use a \"virtual library\" to show only a subset of the books present in this "
 "library"
 msgstr ""
+"Gebruik een \"virtuele bibliotheek\" om enkel een deelverzameling van de "
+"boeken in deze bibliotheek weer te geven."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:326
 msgid "(all books)"
@@ -19586,36 +19630,36 @@ msgstr "(alle boeken)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:327
 msgid "Additional restriction"
-msgstr ""
+msgstr "Extra beperkingen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:328
 msgid "Edit Virtual Library"
-msgstr ""
+msgstr "Virtuele bibliotheek bewerken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:329
 msgid "Remove Virtual Library"
-msgstr ""
+msgstr "Virtuele bibliotheek verwijderen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:351
 msgid "Create Virtual Library"
-msgstr ""
+msgstr "Virtuele bibliotheek maken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:382
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:503
 msgid "*current search"
-msgstr ""
+msgstr "*huidige zoekopdracht"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:411
 msgid "No search"
-msgstr ""
+msgstr "Geen zoekopdracht"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:412
 msgid "There is no current search to use"
-msgstr ""
+msgstr "Er is geen huidige zoekopdracht om te gebruiken"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:460
 msgid "Are you sure you want to remove the virtual library {0}"
-msgstr ""
+msgstr "Weet u zeker dat u de virtuele bibliotheek {0} wilt verwijderen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:134
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts_ui.py:74
@@ -19916,7 +19960,7 @@ msgstr "Ga in winkel naar…"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search.py:29
 msgid "&Stop"
-msgstr ""
+msgstr "&Stoppen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search.py:126
 #, python-format
@@ -20264,15 +20308,15 @@ msgstr "Leg de sorteervolgorde vast voor de items in de labelbrowser"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:422
 msgid "Search type when selecting multiple items"
-msgstr ""
+msgstr "Zoekmethode als meerdere items zijn geselecteerd"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:428
 msgid "Match all of the items"
-msgstr ""
+msgstr "Zoek naar alle termen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:428
 msgid "Match any of the items"
-msgstr ""
+msgstr "Zoek naar één of meerdere termen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:435
 msgid ""
@@ -20473,11 +20517,13 @@ msgstr "vorige"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:234
 msgid "Bad markup"
-msgstr ""
+msgstr "Slechte opmaak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:235
 msgid "This book has severely broken markup, its ToC cannot be edited."
 msgstr ""
+"Dit boek heeft ernstige opmaak fouten, de inhoudsopgave kan niet worden "
+"bewerkt."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:244
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:302
@@ -20606,7 +20652,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:187
 msgid "Generate ToC from &files"
-msgstr ""
+msgstr "Stel inhoudsopgave samen op basis van de &bestanden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:190
 msgid ""
@@ -20626,7 +20672,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:203
 msgid "&Flatten the ToC"
-msgstr ""
+msgstr "Maak inhoudsopgave '&plat'"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:206
 msgid "Flatten the Table of Contents, putting all entries at the top level"
@@ -20703,12 +20749,12 @@ msgstr "De locatie waar dit item naar verwijst bestaat niet"
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:524
 #, python-format
 msgid "Move \"%s\" up"
-msgstr ""
+msgstr "Verplaats \"%s\" omhoog"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:526
 #, python-format
 msgid "Move \"%s\" down"
-msgstr ""
+msgstr "Verplaats \"%s\" omlaag"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:527
 msgid "Remove all selected items"
@@ -20717,16 +20763,16 @@ msgstr "Alle geselecteerde items verwijderen"
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:529
 #, python-format
 msgid "Unindent \"%s\""
-msgstr ""
+msgstr "\"%s\" niet laten inspringen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:531
 #, python-format
 msgid "Indent \"%s\""
-msgstr ""
+msgstr "\"%s\" laten inspringen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:532
 msgid "Change the location this entry points to"
-msgstr ""
+msgstr "Wijzig de locatie waar dit item naar verwijst"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:533
 msgid "Change all selected items to title case"
@@ -20734,11 +20780,11 @@ msgstr "Alle geselecteerde onderdelen wijzigen in Titel Hoofdletter Gebruik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:552
 msgid "Move current entry up [Ctrl+Up]"
-msgstr ""
+msgstr "Verplaats huidige item omhoog [Ctrl+Omhoog]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:559
 msgid "Unindent the current entry [Ctrl+Left]"
-msgstr ""
+msgstr "Verwijder indentie huidige item [Ctrl+Links]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:566
 msgid "Remove all selected entries"
@@ -20746,11 +20792,11 @@ msgstr "Alle geselecteerde items verwijderen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:573
 msgid "Indent the current entry [Ctrl+Right]"
-msgstr ""
+msgstr "Huidige item intenderen [Ctrl+Rechts]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:580
 msgid "Move current entry down [Ctrl+Down]"
-msgstr ""
+msgstr "Verplaats huidige item omlaag [Ctrl+Omlaag]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:582
 msgid "&Expand all"
@@ -20793,7 +20839,7 @@ msgstr "Geen links gevonden om toe te voegen aan de inhoudsopgave."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:806
 msgid "No files were found that could be added to the Table of Contents."
-msgstr ""
+msgstr "Geen bestanden werden gevonden om toe te voegen aan de inhoudsopgave"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:824
 #, python-format
@@ -20935,15 +20981,15 @@ msgstr "Huidige zoekterm wissen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/ui.py:271
 msgid "Focus the book list"
-msgstr ""
+msgstr "Selecteer de boekenlisjt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/ui.py:278
 msgid "Clear the virtual library"
-msgstr ""
+msgstr "De virtuele bibliotheek legen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/ui.py:285
 msgid "Clear the additional restriction"
-msgstr ""
+msgstr "Verwijder de extra restricties"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/ui.py:394
 msgid "Debug mode"
@@ -21518,7 +21564,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/config_ui.py:453
 msgid "Clear search history"
-msgstr ""
+msgstr "Zoekhistorie wissen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/config_ui.py:454
 msgid "Show &controls in the viewer window"
@@ -21846,7 +21892,7 @@ msgstr "Geef titel voor bladwijzer:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:968
 msgid "Bookmark this location"
-msgstr ""
+msgstr "Bladwijzer voor huidige locatie"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main.py:969
 msgid "Manage Bookmarks"
@@ -23178,7 +23224,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:181
 msgid "The maximum number of results to display. Default: all"
-msgstr ""
+msgstr "Het maximum aantal resultaten om weer te geven. Standaard: allen"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:205
 msgid "Invalid fields. Available fields:"
@@ -23297,7 +23343,7 @@ msgstr "U moet minstens één boek opgeven om te verwijderen"
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:443
 #, python-format
 msgid "A %(fmt)s file already exists for book: %(id)d, not replacing"
-msgstr ""
+msgstr "Een %(fmt)s bestand bestaat al voor boek: %(id)d, niet vervangen"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:449
 msgid ""
@@ -23311,7 +23357,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:457
 msgid "Do not replace the format if it already exists"
-msgstr ""
+msgstr "Vervang het formaat niet als het al bestaat"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:467
 msgid "You must specify an id and an ebook file"
@@ -24043,7 +24089,7 @@ msgstr "De datum waarop de metadata voor dit boek het laatst werd aangepast"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:50
 msgid "The language(s) of this book"
-msgstr ""
+msgstr "De ta(a)l(en) van dit boek"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:51
 msgid "The calibre internal id"
@@ -25810,28 +25856,28 @@ msgstr "Console herstarten"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:184
 msgid "Extra characters at end of search"
-msgstr ""
+msgstr "Extra tekens aan het einde van de zoekopdracht"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:218
 msgid "missing )"
-msgstr ""
+msgstr "mist een )"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:221
 msgid "Invalid syntax. Expected a lookup name or a word"
-msgstr ""
+msgstr "Fout in syntaxis. Een opzoek naam of een woord werd verwacht"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:323
 #, python-format
 msgid "Failed to parse query, recursion limit reached: %s"
-msgstr ""
+msgstr "Verwerken van query mislukt, recursie-limiet bereikt: %s"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:367
 msgid "Recursive saved search: {0}"
-msgstr ""
+msgstr "Recursieve opgeslagen zoekopdracht: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/utils/search_query_parser.py:376
 msgid "Unknown error in saved search: {0}"
-msgstr ""
+msgstr "Onbekende fout in opgeslagen zoekopdracht: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/utils/sftp.py:53
 msgid "URL must have the scheme sftp"
@@ -27370,6 +27416,8 @@ msgstr ""
 #: /home/kovid/work/calibre/resources/default_tweaks.py:533
 msgid "Highlight the virtual library name when using a Virtual Library"
 msgstr ""
+"Markeer de virtuele bibliotheek naam als een virtuele bibliotheek wordt "
+"gebruikt"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:534
 msgid ""
@@ -27378,54 +27426,3 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
-
-#, python-format
-#~ msgid ""
-#~ "Book formats and metadata from the selected books will be added to the "
-#~ "<b>first selected book</b> (%s). ISBN will <i>not</i> be merged.<br><br> The "
-#~ "second and subsequently selected books will not be deleted or "
-#~ "changed.<br><br>Please confirm you want to proceed."
-#~ msgstr ""
-#~ "Boekformaten en metadata van de selectie zullen toegevoegd worden aan het "
-#~ "<b>eerst geselecteerde boek</b> (%s). ISBN zal <i>niet</i> samengevoegd "
-#~ "worden.<br><br>De geselecteerde boeken zullen niet verwijderd of aangepast "
-#~ "worden.<br><br>Bevestig dat u wilt doorgaan."
-
-#, python-format
-#~ msgid ""
-#~ "Book formats from the selected books will be merged into the <b>first "
-#~ "selected book</b> (%s). Metadata in the first selected book will not be "
-#~ "changed. Author, Title, ISBN and all other metadata will <i>not</i> be "
-#~ "merged.<br><br>After merger the second and subsequently selected books, with "
-#~ "any metadata they have will be <b>deleted</b>. <br><br>All book formats of "
-#~ "the first selected book will be kept and any duplicate formats in the second "
-#~ "and subsequently selected books will be permanently <b>deleted</b> from your "
-#~ "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
-#~ msgstr ""
-#~ "Boekformaten van de geselecteerde boeken worden samengevoegd in het <b>eerst "
-#~ "geselecteerde boek</b> (%s). Metadata in het eerst geselecteerde boek zal "
-#~ "niet worden veranderd. Auteur, Titel, ISBN an alle andere metadata zal "
-#~ "<i>niet</i> worden samengevoegd.<br><br>Na samenvoegen zullen het tweede en "
-#~ "volgende geselecteerde boeken, samen met de metadata worden "
-#~ "<b>verwijderd</b>. <br><br>Alle boekformaten van het eerst geselecteerde "
-#~ "boek zullen behouden blijven en eventuele dubbele formaten in het tweede en "
-#~ "volgende boeken zullen permanent worden <b>verwijderd</b> van de calibre "
-#~ "bibliotheek.<br><br> Weet u <b>zeker</b> dat u door wilt gaan?"
-
-#, python-format
-#~ msgid ""
-#~ "Book formats and metadata from the selected books will be merged into the "
-#~ "<b>first selected book</b> (%s). ISBN will <i>not</i> be "
-#~ "merged.<br><br>After merger the second and subsequently selected books will "
-#~ "be <b>deleted</b>. <br><br>All book formats of the first selected book will "
-#~ "be kept and any duplicate formats in the second and subsequently selected "
-#~ "books will be permanently <b>deleted</b> from your calibre library.<br><br>  "
-#~ "Are you <b>sure</b> you want to proceed?"
-#~ msgstr ""
-#~ "Boekformaten en metadata van de selectie zullen aan he <b>eerste "
-#~ "geselecteerde boek</b> (%s) toegevoegd worden. ISBN zal <i>niet</i> "
-#~ "samengevoegd worden.<br><br>Na het samenvoegen worden het boek en daarop "
-#~ "volgende boeken <b>verwijderd</b>. Alle boekformaten van het eerst "
-#~ "geselecteerde boek worden behouden en elk dubbel formaat in de andere boeken "
-#~ "wordt <b>permanent</b> uit de bibliotheek <b>verwijderd</b>. <br><br>Weet u "
-#~ "<b>zeker</b> dat u door wilt gaan?"

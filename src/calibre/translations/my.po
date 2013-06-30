@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-06-27 15:45+0000\n"
+"PO-Revision-Date: 2013-06-30 04:21+0000\n"
 "Last-Translator: aungsitt <aungsitt@gmail.com>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-06-28 05:22+0000\n"
-"X-Generator: Launchpad (build 16681)\n"
+"X-Launchpad-Export-Date: 2013-06-30 05:34+0000\n"
+"X-Generator: Launchpad (build 16692)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
@@ -412,16 +412,17 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:871
 msgid "Easily find books similar to the currently selected one"
-msgstr ""
+msgstr "လက်ရှိရွေးထားသောစာအုပ်နှင့် ဆင်တူစာအုပ်များကို အလွယ်တကူရှာရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:876
 msgid ""
 "Switch between different calibre libraries and perform maintenance on them"
 msgstr ""
+"Calibre စာကြည့်တိုက်များအကြားပြောင်း၍ ပြုပြင်ထိမ်းသိမ်းမှုများပြုလုပ်ရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:882
 msgid "Copy books from the devce to your calibre library"
-msgstr ""
+msgstr "ချိတ်ဆက်ထားသောစက်ပစ္စည်းမှ စာအုပ်များကိုကူးယူရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:887
 msgid "Edit the collections in which books are placed on your device"
@@ -429,7 +430,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Copy a book from one calibre library to another"
-msgstr ""
+msgstr "စာအုပ်တစ်အုပ်ကို Calibre စာကြည့်တိုက်တစ်ခုမှ အခြားတစ်ခုသို့ကူးယူရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Make small tweaks to epub or htmlz files in your calibre library"
@@ -447,7 +448,7 @@ msgstr "ကြုံရာကျပန်း စာအုပ်တစ်အု�
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:915
 msgid "Search for books from different book sellers"
-msgstr ""
+msgstr "အရောင်းဆိုင်အမျိုးမျိုးတို့ထံမှ စာအုပ်များကိုရှာရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:931
 msgid "Get new calibre plugins or update your existing ones"
@@ -455,7 +456,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:950
 msgid "Look and Feel"
-msgstr ""
+msgstr "ခံစားမှုအမြင်ပုံစံ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:952
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:964
@@ -463,28 +464,28 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:986
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:998
 msgid "Interface"
-msgstr ""
+msgstr "တွေ့ထိဆက်သွယ်မှုပိုင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:956
 msgid "Adjust the look and feel of the calibre interface to suit your tastes"
-msgstr ""
+msgstr "ခံစားမှုအမြင်ပုံစံကို ဆန္ဒရှိသလိုပြင်ရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:962
 msgid "Behavior"
-msgstr "လုပ်ဆောင်ပုံ"
+msgstr "လုပ်ဆောင်ပုံ အမူအကျင့်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:968
 msgid "Change the way calibre behaves"
-msgstr "Calibre ၏လုပ်ဆောင်ပုံအလေ့အထများကိုပြင်ရန်"
+msgstr "Calibre ၏လုပ်ဆောင်ပုံ အမူအကျင့်များကိုပြင်ရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:973
 #: /home/kovid/work/calibre/src/calibre/gui2/library/views.py:347
 msgid "Add your own columns"
-msgstr ""
+msgstr "ဇယားကွက်တိုင် ထပ်ထည့်ရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:979
 msgid "Add/remove your own columns to the calibre book list"
-msgstr ""
+msgstr "Calibre စာအုပ်စာရင်းမှ ဇယားကွက်တိုင် ထပ်ထည့်ရန်(သို့)ဖြုတ်ရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:984
 msgid "Toolbar"
@@ -498,7 +499,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:996
 msgid "Searching"
-msgstr "ရှာနေဆဲ"
+msgstr "ရှာပုံရှာနည်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1002
 msgid "Customize the way searching for books works in calibre"
@@ -506,44 +507,44 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1007
 msgid "Input Options"
-msgstr ""
+msgstr "ထည့်သွင်းစာအုပ်​အတွက်ရွေးစရာ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1009
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1020
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1031
 msgid "Conversion"
-msgstr ""
+msgstr "စာအုပ်အမျိုးအစား ပြောင်းလဲခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1013
 msgid "Set conversion options specific to each input format"
-msgstr ""
+msgstr "ပြောင်းလဲရန် ထည့်သွင်းမည့်စာအုပ်​ ပုံစံအသီးသီး အတွက်ရွေးစရာ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1018
 msgid "Common Options"
-msgstr ""
+msgstr "ဘုံရွေးခြယ်စရာ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1024
 msgid "Set conversion options common to all formats"
-msgstr ""
+msgstr "ပြောင်းလဲမည့် စာအုပ်​အမျိုးအစားအားလုံး အတွက်ဘုံရွေးခြယ်စရာ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1029
 msgid "Output Options"
-msgstr ""
+msgstr "ထွက်ကုန်စာအုပ်​အတွက်ရွေးစရာ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1035
 msgid "Set conversion options specific to each output format"
-msgstr ""
+msgstr "ပြောင်းလဲပြီး ထွက်ကုန်စာအုပ်​ ပုံစံအသီးသီး အတွက်ရွေးစရာ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1040
 msgid "Adding books"
-msgstr ""
+msgstr "စာအုပ်ထည့်သွင်းခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1042
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1054
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1066
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1078
 msgid "Import/Export"
-msgstr ""
+msgstr "စာအုပ်များ ထည့်သွင်းခြင်း၊ ထုတ်ယူခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1046
 msgid "Control how calibre reads metadata from files when adding books"
