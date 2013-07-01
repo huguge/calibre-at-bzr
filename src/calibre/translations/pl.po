@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-06-21 12:27+0000\n"
+"PO-Revision-Date: 2013-06-30 13:48+0000\n"
 "Last-Translator: Piotr Parafiniuk <Unknown>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-06-30 05:46+0000\n"
+"X-Launchpad-Export-Date: 2013-07-01 05:14+0000\n"
 "X-Generator: Launchpad (build 16692)\n"
 "X-Poedit-Bookmarks: -1,3588,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -4042,6 +4042,11 @@ msgid ""
 "will be embedded. Embedding will only work if the format you are converting "
 "to supports embedded fonts, such as EPUB, AZW3 or PDF."
 msgstr ""
+"Osadź wszystkie czcionki, które zostały użyte w dokumencie, ale nie zostały "
+"jeszcze osadzone. calibre przeszuka system w poszukiwaniu właściwych "
+"czcionek, a jeśli zostaną one odnalezione - osadzi je w dokumencie. "
+"Osadzanie czcionek działa tylko wtedy, gdy format wyjściowy na to pozwala "
+"np. ePub, AZW3 lub PDF."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:221
 msgid ""
@@ -7227,6 +7232,9 @@ msgid ""
 "books will not be deleted or changed.<br><br>Please confirm you want to "
 "proceed."
 msgstr ""
+"Formaty i metadane zaznaczonych książek zostaną włączone do <b>książki "
+"zaznaczonej jako pierwsza</b> (%s).<br>Druga i kolejne zaznaczone książki "
+"nie zostaną usunięte ani zmienione.<br><br>Czy kontynuować?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:412
 #, python-format
@@ -7240,6 +7248,14 @@ msgid ""
 "and subsequently selected books will be permanently <b>deleted</b> from your "
 "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Formaty z wybranych książek zostaną włączone do <b>książki wybranej jako "
+"pierwsza</b> (%s). Metadane w tej książce nie zostaną zmienione. Autor, "
+"tytuł i inne metadane <i>nie</i> są łączone. <br><br>Po połączeniu druga i "
+"kolejne książki razem ze wszystkimi metadanymi zostaną "
+"<b>usunięte</b>.<br><br>Wszystkie formaty pierwszej książki pozostaną bez "
+"zmian, a wszelkie duplikaty, pochodzące z kolejnych książek zostaną trwale "
+"<b>usunięte</b> z biblioteki.<br><br>Czy <b>na pewno</b> kontynuować "
+"połączenie?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:428
 #, python-format
@@ -7251,6 +7267,11 @@ msgid ""
 "second and subsequently selected books will be permanently <b>deleted</b> "
 "from your calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Formaty i metadane wybranych książek zostaną dołączone do <b>książki "
+"wybranej jako pierwszej</b> (%s).<br><br>Po połączeniu druga i kolejne "
+"książki zostaną <b>usunięte</b>.<br><br>Wszystkie formaty w książce wybranej "
+"jako pierwszej zostaną zachowane, a duplikaty z drugiej i kolejnych zostaną "
+"<b>usunięte</b> z biblioteki.<br><br>Czy na pewno kontynuować połączenie?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:607
 msgid "Applying changed metadata"
@@ -9781,7 +9802,7 @@ msgstr "Bez zmian"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "&Osadź odpowiednie czcionki"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"
