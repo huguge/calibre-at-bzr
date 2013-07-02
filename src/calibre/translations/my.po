@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-06-30 04:21+0000\n"
+"PO-Revision-Date: 2013-07-02 05:11+0000\n"
 "Last-Translator: aungsitt <aungsitt@gmail.com>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-01 05:13+0000\n"
+"X-Launchpad-Export-Date: 2013-07-02 05:14+0000\n"
 "X-Generator: Launchpad (build 16692)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -368,7 +368,7 @@ msgstr "Calibre ထဲနှိုက်ပင် စာအုပ်များ
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:819
 msgid "Download news from the internet in ebook form"
-msgstr "အင်တာနက်သတင်းများကို ebook အနေနှင့် ဒေါင်းလုပ်ယူရန်"
+msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:824
 msgid "Show a list of related books quickly"
@@ -393,7 +393,7 @@ msgstr "စာကြည့်တိုက်ထဲမှ စာအုပ်မ�
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:850
 msgid "Send books to the connected device"
-msgstr ""
+msgstr "ချိတ်ဆက်ထားသောစက်ပစ္စည်းသို့ စာအုပ်များပို့ရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:855
 msgid ""
@@ -552,7 +552,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1052
 msgid "Saving books to disk"
-msgstr ""
+msgstr "စာအုပ်များကို ဟာ့ဒ်ဒစ်ထဲသိမ်းရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1058
 msgid ""
@@ -586,7 +586,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1172
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1183
 msgid "Advanced"
-msgstr ""
+msgstr "အသေးစိတ်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1093
 msgid "Create your own template functions"
@@ -594,24 +594,26 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1098
 msgid "Sharing books by email"
-msgstr ""
+msgstr "e-mail ဖြင့်ဖြန့်ဝေခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1100
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1112
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1125
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1136
 msgid "Sharing"
-msgstr ""
+msgstr "ဖြန့်ဝေခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1104
 msgid ""
 "Setup sharing of books via email. Can be used for automatic sending of "
 "downloaded news to your devices"
 msgstr ""
+"e-mail ဖြင့်ဖြန့်ဝေခြင်း ပုံစံပြင်ခြင်း။ သင်၏လက်ကိုင်စက်များသို့ "
+"နက်မှချယူထားသည့် သတင်းများကို အလိုလျောက် ပို့ပေးစေနိုင်သည်။"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1110
 msgid "Sharing over the net"
-msgstr ""
+msgstr "အင်တာနက်တွင် ဖြန့်ဝေခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1116
 msgid ""
@@ -657,7 +659,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1170
 msgid "Keyboard"
-msgstr ""
+msgstr "ကီးဘုတ်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1176
 msgid "Customize the keyboard shortcuts used by calibre"
@@ -666,7 +668,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1181
 #: /home/kovid/work/calibre/src/calibre/gui2/keyboard.py:110
 msgid "Miscellaneous"
-msgstr ""
+msgstr "အထွေထွေ"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1187
 msgid "Miscellaneous advanced configuration"
