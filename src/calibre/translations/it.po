@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: calibre_calibre-it\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-07-01 17:24+0000\n"
+"PO-Revision-Date: 2013-07-02 05:59+0000\n"
 "Last-Translator: Andrea Barzaghi <Unknown>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-02 05:14+0000\n"
+"X-Launchpad-Export-Date: 2013-07-03 05:14+0000\n"
 "X-Generator: Launchpad (build 16692)\n"
 "Language: it\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,1105,-1,1312,-1,-1\n"
@@ -7514,7 +7514,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
 msgid "<h3>Subsetting fonts</h3>%s"
-msgstr ""
+msgstr "<h3>Riduzione dei font</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:51
 #, python-format
@@ -7529,6 +7529,11 @@ msgid ""
 "all the metadata in calibre.</p><p>There is a separate option to update the "
 "cover.</p>"
 msgstr ""
+"<h3>Aggiornamento dei metadati</h3><p>Questo aggiornerà tutti i metadati "
+"<i>esclusa</i> la copertina nei file del libro per uguagliare i metadati "
+"nella libreria di calibre.</p> <p>Si noti che la maggior parte dei formati "
+"degli ebook non supportano tutti i metadati di calibre.</p><p>C'è un'opzione "
+"separata per aggiornare la copertina.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:61
 msgid ""
@@ -7536,6 +7541,9 @@ msgid ""
 "calibre library.</p><p>If the ebook file does not have an identifiable "
 "cover, a new cover is inserted.</p>"
 msgstr ""
+"<p>Aggiorna le copertine negli ebook per uguagliare quelle nella libreria di "
+"calibre.</p><p>Se l'ebook non ha una copertina identificabile, ne viene "
+"inserita una nuova.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:66
 #, python-format
@@ -7554,7 +7562,7 @@ msgstr "Seleziona le azioni da eseguire:"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:78
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
 msgid "&Subset all embedded fonts"
-msgstr ""
+msgstr "&Riduce tutti i font incorporati"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:221
@@ -7697,7 +7705,7 @@ msgstr " e "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:348
 msgid "If you polish again, the polishing will run on the originals."
-msgstr ""
+msgstr "Se pulite ancora, la pulizia verrà eseguita sugli originali"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:383
 msgid "Polish books"
@@ -7722,6 +7730,8 @@ msgid ""
 "Polishing is only supported for books in the %s formats. Convert to one of "
 "those formats before polishing."
 msgstr ""
+"La pulizia è supportata solamente per i libri nei formati %s. Convertire in "
+"uno di quei formati prima di pulire."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:472
 #, python-format
@@ -8028,7 +8038,7 @@ msgstr "Tutti i form&ati"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:62
 msgid "Edit ToC"
-msgstr ""
+msgstr "Modifica ToC"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "K"
@@ -8037,7 +8047,7 @@ msgstr "K"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:102
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:113
 msgid "Cannot edit ToC"
-msgstr ""
+msgstr "Non è possibile modificare la ToC"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:103
 #, python-format
@@ -8045,6 +8055,8 @@ msgid ""
 "Editing Table of Contents is only supported for books in the %s formats. "
 "Convert to one of those formats before polishing."
 msgstr ""
+"La modifica della Table of Contents è solamente supportata dai libri nei "
+"formati %s. Convertire in uno di quei formati prima di pulire."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:31
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:288
@@ -9010,6 +9022,10 @@ msgid ""
 "The default pattern \\[.+\\]|\\+ excludes tags of the form [tag], e.g., "
 "[Test book], and '+', the default tag for a read book."
 msgstr ""
+"Un'espressione regolare che descrive i generi da escludere dal catalogo "
+"generato. I generi sono presi dalle tag applicate ai vostri libri.\n"
+"L'espressione di default \\[.+\\]|\\+ esclude i tag nella forma [tag], per "
+"esempio [Libro di test]], e '+', la tag di default per un libro letto."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:373
 msgid "Excluded genres"
@@ -9040,10 +9056,13 @@ msgid ""
 "Custom column containing additional content to be merged with Comments "
 "metadata in Descriptions section."
 msgstr ""
+"Colonna personalizzata contenente contenuti aggiuntivi da unire con i "
+"metadati dei Commenti nella sezione Descrizioni."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:381
 msgid "Merge additional content before Comments in Descriptions section."
 msgstr ""
+"Unisci il contenuto aggiuntivo prima dei Commenti nella sezione Descrizioni."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:382
 msgid "&Before"
@@ -9052,6 +9071,7 @@ msgstr "&Prima"
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:383
 msgid "Merge additional content after Comments in Descriptions section."
 msgstr ""
+"Unisci il contenuto aggiuntivo dopo i Commenti nella sezione Descrizioni."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:384
 msgid "&After"
@@ -9062,6 +9082,8 @@ msgid ""
 "Separate Comments metadata and additional content with a horizontal rule in "
 "Descriptions section."
 msgstr ""
+"Separa i metadati dei Commenti e il contenuto aggiuntivo con una linea "
+"orizzontale nella sezione Descrizioni"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:386
 msgid "Include &Separator"
@@ -9090,6 +9112,8 @@ msgstr "Note descri&zione aggiuntiva:"
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:392
 msgid "Custom column source for text to include in Descriptions section."
 msgstr ""
+"Colonna personalizzata origine del testo da includere nella sezione "
+"Descrizioni."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:393
 msgid "&Thumb width:"
@@ -9098,6 +9122,8 @@ msgstr "Larghezza &miniature:"
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:394
 msgid "Size hint for cover thumbnails included in Descriptions section."
 msgstr ""
+"Suggerimento delle dimensioni per il thumbnail della copertina incluse nella "
+"sezione Descrizioni."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:395
 msgid " inch"
@@ -9485,6 +9511,8 @@ msgstr "Input DOCX"
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input_ui.py:41
 msgid "Do not try to autodetect a &cover from images in the document"
 msgstr ""
+"Non provare a rilevare automaticamente una &cover dalle immagini del "
+"documento."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output.py:15
 msgid "EPUB Output"
@@ -9901,7 +9929,7 @@ msgstr "Nessuna modifica"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "&Embed i font referenziati"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"
@@ -10330,7 +10358,7 @@ msgstr "Modello &Piè di pagina"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pdf_output_ui.py:162
 msgid "Add a printable &Table of Contents at the end"
-msgstr ""
+msgstr "Aggiungi una &Table of Contents stampabile alla fine"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/pml_output.py:14
 msgid "PMLZ Output"
@@ -10756,6 +10784,9 @@ msgid ""
 "<a href=\"http://manual.calibre-ebook.com/conversion.html#table-of-"
 "contents\">Help with using these options to generate a Table of Contents</a>"
 msgstr ""
+"<a href=\"http://manual.calibre-ebook.com/conversion.html#table-of-"
+"contents\">Aiuto nell'usare queste opzioni per generare una Table of "
+"Contents</a>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/toc_ui.py:93
 msgid ""
@@ -10764,10 +10795,16 @@ msgid ""
 "errors\n"
 " caused by automatic generation."
 msgstr ""
+"Questa opzione farà aprire a calibre lo strumento Modifica la Table of "
+"Contents,\n"
+" che permetterà di modificare manualmente la Table of Contents, per "
+"correggere\n"
+" ogni errore causato dalla generazione automatica."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/toc_ui.py:96
 msgid "&Manually fine-tune the ToC after conversion is completed"
 msgstr ""
+"Perfeziona &manualmente la ToC dopo che la conversione sarà completata"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/txt_input.py:12
 msgid "TXT Input"
@@ -12656,6 +12693,8 @@ msgid ""
 "Invalid identifier string. It must be a comma-separated list of pairs of "
 "strings separated by a colon"
 msgstr ""
+"Stringa identificatrice non valida. Deve essere una lista divisa da virgole "
+"di coppie di stringhe separate da due punti(:)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk.py:946
 msgid "Search/replace invalid"
@@ -12849,6 +12888,11 @@ msgid ""
 " the EPUB from ORIGINAL_EPUB. Useful if you did a bulk\n"
 " conversion of a large number of books and something went wrong."
 msgstr ""
+"Quando si fa una conversione dallo stesso formato allo stesso formato,\n"
+"per esempio da EPUB a EPUB, calibre salva l'EPUB originale\n"
+" come ORIGINAL_EPUB. Questa opzione dice a calibre di ripristinare\n"
+" l'EPUB dall'ORIGINAL_EPUB. Utile se avete fatto una conversione\n"
+" in blocco di un grande numero di ebook e qualcosa è andato storto."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:608
 msgid "Restore pre conversion &originals, if available"
@@ -13068,6 +13112,11 @@ msgid ""
 "              a * if you want to replace the entire set of identifiers with\n"
 "              the result of the search/replace.</p>"
 msgstr ""
+"<p>Sceglie su quale identificatore operare. Quando il\n"
+"              campo di origine è qualcosa di diverso da 'identificatori' "
+"potete inserire\n"
+"              un * se volete sostituire l'intero set di identificatori con\n"
+"              il risultato della ricerca/sostituzione.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:661
 msgid "For multiple-valued fields, sho&w"
@@ -15375,6 +15424,7 @@ msgstr "Modificato"
 #, python-format
 msgid "Click in this column and press Q to Quickview books with the same %s"
 msgstr ""
+"Cliccate in questa colonna e premete Q per vedere i libri con lo stesso %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:912
 msgid "The lookup/search name is \"{0}\"{1}"
@@ -15468,7 +15518,7 @@ msgstr "Centrato"
 #: /home/kovid/work/calibre/src/calibre/gui2/library/views.py:309
 #, python-format
 msgid "Quickview column %s"
-msgstr ""
+msgstr "Vedi velocemente la colonna %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/views.py:326
 msgid "Show column"
@@ -16747,11 +16797,11 @@ msgstr "ha meno giorni rispetto a"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:63
 msgid "is more days from now than"
-msgstr ""
+msgstr "dista da oggi più giorni di"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:64
 msgid "is fewer days from now than"
-msgstr ""
+msgstr "dista da oggi meno giorni di"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:67
 msgid "has"
@@ -16816,12 +16866,16 @@ msgid ""
 "Enter the maximum days old the item can be. Zero is today. Dates in the "
 "future always match"
 msgstr ""
+"Inserite il massimo numero di giorni di vita che l'oggetto può avere. Zero è "
+"oggi. Date nel futuro combaceranno sempre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:252
 msgid ""
 "Enter the minimum days old the item can be. Zero is today. Dates in the "
 "future never match"
 msgstr ""
+"Inserite il massimo numero di giorni di vita che l'oggetto può avere. Zero è "
+"oggi. Date nel futuro non combaceranno mai"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/coloring.py:256
 msgid ""
