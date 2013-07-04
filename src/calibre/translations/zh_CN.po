@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-06-28 03:33+0000\n"
-"PO-Revision-Date: 2013-05-25 08:33+0000\n"
-"Last-Translator: wwj402 <wwj402@gmail.com>\n"
+"PO-Revision-Date: 2013-07-03 06:26+0000\n"
+"Last-Translator: zhifeng <Unknown>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-06-30 05:54+0000\n"
+"X-Launchpad-Export-Date: 2013-07-04 05:12+0000\n"
 "X-Generator: Launchpad (build 16692)\n"
 "X-Poedit-Country: CHINA\n"
 "X-Poedit-Language: Chinese\n"
@@ -5799,7 +5799,7 @@ msgstr "恢复数据库"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:252
 msgid "{0} [{1} books]"
-msgstr ""
+msgstr "{0} [{1} 本书]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:318
 msgid "Rename"
@@ -6018,19 +6018,19 @@ msgstr "浏览库"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:154
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:205
 msgid "&Copy"
-msgstr ""
+msgstr "复制(&C)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:156
 msgid "Copy to the specified library"
-msgstr ""
+msgstr "复制到指定书库"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:157
 msgid "&Move"
-msgstr ""
+msgstr "移动(&M)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:160
 msgid "Copy to the specified library and delete from the current library"
-msgstr ""
+msgstr "复制到指定书库并从当前书库中删除"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:180
 msgid "Copy to library"
@@ -6082,7 +6082,7 @@ msgstr "已将 %(num)d 本书复制到 %(loc)s"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:263
 #, python-format
 msgid "Moved %(num)d books to %(loc)s"
-msgstr ""
+msgstr "已移动 %(num)d 本书到 %(loc)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:267
 msgid "Could not copy books: "
@@ -6257,14 +6257,14 @@ msgstr "选中的书籍中的一部分同时存在于连接的设备上。你希
 msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> and the files "
 "removed from your calibre library. Are you sure?"
-msgstr ""
+msgstr "选中的 %d 本书将被永久地从你的calibre书库中删除。确定吗？"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:392
 #, python-format
 msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> from your device. "
 "Are you sure?"
-msgstr ""
+msgstr "选中的 %d 本书将被永久地从你的设备中删除。确定吗？"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:33
 msgid "Start wireless device connection"
@@ -6472,7 +6472,7 @@ msgstr "下载日志"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:159
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:225
 msgid "Review downloaded metadata"
-msgstr ""
+msgstr "检查刚下载的元数据"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:184
 msgid "Some books changed"
@@ -6489,7 +6489,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:226
 msgid "Discard downloaded metadata for this book"
-msgstr ""
+msgstr "放弃使用刚下载的元数据"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:227
 msgid "Use the downloaded metadata for all remaining books"
@@ -6512,7 +6512,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
-msgstr ""
+msgstr "查看此书(&V)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:276
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:345
@@ -7026,7 +7026,7 @@ msgstr "I"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/show_book_details.py:17
 msgid "Show the detailed metadata for the current book in a separate window"
-msgstr ""
+msgstr "新开窗口显示当前这本书的详细元数据信息"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/show_book_details.py:26
 msgid "No detailed info available"
@@ -7712,7 +7712,7 @@ msgstr "封面大小： %(width)d x %(height)d"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:499
 msgid "&Copy Link"
-msgstr ""
+msgstr "复制链接(&C)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:508
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550
@@ -8046,7 +8046,7 @@ msgstr "包含章节"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:354
 msgid "List of books, sorted by Author"
-msgstr ""
+msgstr "书籍列表，按作者排序"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:355
 msgid "&Authors"
@@ -8054,7 +8054,7 @@ msgstr "作者(&A)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:356
 msgid "List of books, sorted by Title"
-msgstr ""
+msgstr "书籍列表，按标题排序"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:357
 msgid "&Titles"
@@ -9169,7 +9169,7 @@ msgstr "忽略边距(&M)"
 msgid ""
 "Do not convert all images to &JPEG (may result in images not working in "
 "older viewers)"
-msgstr ""
+msgstr "不转换图片为JPEG格式(有些图片转换后在老的查看器里无法查看)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/mobi_output_ui.py:94
 msgid "Kindle options"
@@ -24486,7 +24486,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:519
 msgid "Recognize numbers inside text when sorting"
-msgstr ""
+msgstr "排序时会识别文本中的数字"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:520
 msgid ""
@@ -24495,6 +24495,8 @@ msgid ""
 "numeric_collation = True note that doing so will cause problems with text\n"
 "that starts with numbers and is a little slower."
 msgstr ""
+"也就是说对文本字段排序时，文本\"Book 2\"会排在\"Book 100\"前面。如果你希望这样，可以设置numeric_collation = "
+"True，需要注意的是，如果这样设置，对于以数字开始的文本会有些问题，并且排序速度也会比较慢。"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:526
 msgid "Sort the list of libraries alphabetically"
@@ -24510,7 +24512,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:533
 msgid "Highlight the virtual library name when using a Virtual Library"
-msgstr ""
+msgstr "使用虚拟书库时高亮显示其名字"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:534
 msgid ""
@@ -24519,3 +24521,5 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
+"打开一个虚拟书库时，书库名字会被黄色高亮显示在\"虚拟书库\"按钮后面。高亮显示时的颜色可以通过这里设置，如果设置成'transparent'，则禁用高亮"
+"。"
