@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-28 03:33+0000\n"
+"POT-Creation-Date: 2013-07-05 03:12+0000\n"
 "PO-Revision-Date: 2013-07-02 14:53+0000\n"
 "Last-Translator: Ptitprince <Unknown>\n"
 "Language-Team: PCGen\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-03 05:13+0000\n"
-"X-Generator: Launchpad (build 16692)\n"
+"X-Launchpad-Export-Date: 2013-07-05 05:19+0000\n"
+"X-Generator: Launchpad (build 16696)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -27,12 +27,14 @@ msgstr "Ne fait strictement rien"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:59
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:840
-#: /home/kovid/work/calibre/src/calibre/db/cache.py:148
-#: /home/kovid/work/calibre/src/calibre/db/cache.py:151
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:162
-#: /home/kovid/work/calibre/src/calibre/db/cache.py:716
-#: /home/kovid/work/calibre/src/calibre/db/cache.py:717
-#: /home/kovid/work/calibre/src/calibre/db/cache.py:876
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:165
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:176
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:730
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:731
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:890
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:980
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:981
 #: /home/kovid/work/calibre/src/calibre/db/write.py:152
 #: /home/kovid/work/calibre/src/calibre/db/write.py:156
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:387
@@ -66,7 +68,7 @@ msgstr "Ne fait strictement rien"
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/rtf_input.py:289
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/rtf_input.py:291
 #: /home/kovid/work/calibre/src/calibre/ebooks/docx/container.py:196
-#: /home/kovid/work/calibre/src/calibre/ebooks/docx/to_html.py:61
+#: /home/kovid/work/calibre/src/calibre/ebooks/docx/to_html.py:63
 #: /home/kovid/work/calibre/src/calibre/ebooks/epub/periodical.py:140
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/html/convert_from.py:1897
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/html/convert_from.py:1899
@@ -142,7 +144,7 @@ msgstr "Ne fait strictement rien"
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdb/ereader/writer.py:174
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdb/palmdoc/writer.py:29
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdb/ztxt/writer.py:27
-#: /home/kovid/work/calibre/src/calibre/ebooks/pdf/render/links.py:137
+#: /home/kovid/work/calibre/src/calibre/ebooks/pdf/render/links.py:134
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/render/toc.py:16
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:451
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:459
@@ -188,12 +190,12 @@ msgstr "Ne fait strictement rien"
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:573
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:581
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:592
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:2269
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:2422
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:2873
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3512
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3514
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3652
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:2270
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:2423
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:2874
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3513
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3515
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3653
 #: /home/kovid/work/calibre/src/calibre/library/server/content.py:249
 #: /home/kovid/work/calibre/src/calibre/library/server/content.py:250
 #: /home/kovid/work/calibre/src/calibre/library/server/mobile.py:247
@@ -736,7 +738,7 @@ msgstr "Options spécifiques au format d’entrée."
 msgid "Conversion Input"
 msgstr "Conversion (entrée)"
 
-#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:165
+#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:167
 msgid ""
 "Specify the character encoding of the input document. If set this option "
 "will override any encoding declared by the document itself. Particularly "
@@ -748,11 +750,11 @@ msgstr ""
 "document. Particulièrement utile pour les documents ne déclarant pas "
 "d’encodage ou ayant des déclarations d’encodage incorrectes."
 
-#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:280
+#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:281
 msgid "Conversion Output"
 msgstr "Conversion (sortie)"
 
-#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:294
+#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:295
 msgid ""
 "If specified, the output plugin will try to create output that is as human "
 "readable as possible. May not have any effect for some output plugins."
@@ -761,7 +763,7 @@ msgstr ""
 "qui sera aussi lisible que possible pour un être humain. Peut être sans "
 "effet pour quelques module d’extension de sortie."
 
-#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:310
+#: /home/kovid/work/calibre/src/calibre/customize/conversion.py:311
 #, python-format
 msgid "Convert ebooks to the %s format"
 msgstr "Convertir des livres numériques vers le format %s"
@@ -1058,7 +1060,7 @@ msgstr "préférences restaurées "
 msgid "creating custom column "
 msgstr "crée des colonnes personnalisées "
 
-#: /home/kovid/work/calibre/src/calibre/db/cache.py:176
+#: /home/kovid/work/calibre/src/calibre/db/cache.py:190
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/book/base.py:637
 #: /home/kovid/work/calibre/src/calibre/gui2/custom_column_widgets.py:66
 #: /home/kovid/work/calibre/src/calibre/gui2/custom_column_widgets.py:687
@@ -1110,7 +1112,7 @@ msgstr "Carte B"
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:1224
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:359
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:372
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3366
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3367
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:187
 msgid "News"
 msgstr "Informations"
@@ -1428,8 +1430,8 @@ msgstr ""
 "Cliquer sur « Afficher Détails » pour une liste."
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:2942
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3323
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3341
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3324
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3342
 msgid "Catalog"
 msgstr "Catalogue"
 
@@ -2193,31 +2195,31 @@ msgstr "Communique avec le Aluratek Color"
 msgid "Communicate with the Trekstor"
 msgstr "Communique avec le Trekstor"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:247
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:248
 msgid "Communicate with the EEE Reader"
 msgstr "Communiquer avec le lecteur EEE"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:268
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:269
 msgid "Communicate with the Adam tablet"
 msgstr "Communique avec la tablette adam"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:289
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:290
 msgid "Communicate with the Nextbook Reader"
 msgstr "Communique avec la liseuse Nextbook"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:341
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:342
 msgid "Communicate with the Moovybook Reader"
 msgstr "Communique avec la liseuse Moovybook"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:363
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:364
 msgid "Communicate with the COBY"
 msgstr "Communique avec le COBY"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:389
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:390
 msgid "Communicate with the Ex124G"
 msgstr "Communique avec le Ex124G"
 
-#: /home/kovid/work/calibre/src/calibre/devices/misc.py:416
+#: /home/kovid/work/calibre/src/calibre/devices/misc.py:417
 msgid "Communicate with the WayteQ and SPC Dickens Readers"
 msgstr "Communiquer avec les lecteurs WayteQ et SPC Dickens"
 
@@ -2954,8 +2956,8 @@ msgid ""
 "\n"
 "The output ebook format is guessed from the file extension of output_file. "
 "output_file can also be of the special format .EXT where EXT is the output "
-"file extension. In this case, the name of the output file is derived the "
-"name of the input file. Note that the filenames must not start with a "
+"file extension. In this case, the name of the output file is derived from "
+"the name of the input file. Note that the filenames must not start with a "
 "hyphen. Finally, if output_file has no extension, then it is treated as a "
 "directory and an \"open ebook\" (OEB) consisting of HTML files is written to "
 "that directory. These files are the files that would normally have been "
@@ -2968,30 +2970,6 @@ msgid ""
 "\n"
 "For full documentation of the conversion system see\n"
 msgstr ""
-"fichier_entree fichier_sortie [options]\n"
-"\n"
-"Convertir un ebook d'un format vers un autre.\n"
-"\n"
-"fichier_entree correspond à l'entrée et fichier_sortie à la sortie. Les deux "
-"doivent être spécifiés comme deux premiers arguments de la commande.\n"
-"\n"
-"Le format de sortie de l'ebook est déduit de l'extension du fichier de "
-"sortie.  fichier_sortie peut aussi avoir le format spécial .EXT où EXT est "
-"l'extension du fichier de sortie. Dans ce cas, le nom du fichier de sortie "
-"est déduit du nom du fichier d'entrée. Notez que les noms de fichiers ne "
-"doivent pas commencer par un trait d'union. Finalement, si fichier_sortie "
-"n'a pas d'extension, il sera traité alors comme un répertoire et un \"open "
-"book\" (OEB) constitué de fichiers HTML sera écrit dans le répertoire. Ces "
-"fichiers sont des fichiers qui devront normalement être passés au plugin de "
-"sortie.\n"
-"\n"
-"Après avoir spécifié les fichiers d'entrée et de sortie, vous pouvez "
-"paramétrer la conversion en spécifiant diverses options.  Les options "
-"disponibles dépendent des types de fichiers en entrée et en sortie. Pour "
-"obtenir de l'aide, spécifier les fichiers d'entrée et de sortie et utiliser "
-"ensuite l'option -h.\n"
-"\n"
-"Pour la documentation complète du système de conversion, consulter\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/cli.py:104
 msgid "INPUT OPTIONS"
@@ -4067,16 +4045,11 @@ msgstr ""
 msgid ""
 "Specify the output profile. The output profile tells the conversion system "
 "how to optimize the created document for the specified device. In some "
-"cases, an output profile is required to produce documents that will work on "
-"a device. For example EPUB on the SONY reader. Choices are:"
+"cases, an output profile can be used to optimize the output for a particular "
+"device, but this is rarely necessary. Choices are:"
 msgstr ""
-"Spécifier le profil de sortie. Le profil de sortie indique au système de "
-"conversion comment optimiser les fichiers créés pour un appareil spécifié. "
-"Dans certains cas, un profil de sortie est requis pour produire des "
-"documents qui fonctionneront sur cet appareil. Par exemple EPUB sur le "
-"lecteur SONY. Les choix sont :"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:145
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:144
 msgid ""
 "The base font size in pts. All font sizes in the produced book will be "
 "rescaled based on this size. By choosing a larger size you can make the "
@@ -4089,7 +4062,7 @@ msgstr ""
 "sortie et vice versa. Par défaut, la taille de base pour la fonte est "
 "choisie par rapport au profil de sortie que vous avez choisi."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:155
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:154
 msgid ""
 "Mapping from CSS font names to font sizes in pts. An example setting is "
 "12,12,14,16,18,20,22,24. These are the mappings for the sizes xx-small to xx-"
@@ -4105,11 +4078,11 @@ msgstr ""
 "Le comportement par défaut est d’utiliser une correspondance basée sur le "
 "profil de sortie que vous avez choisis."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:167
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:166
 msgid "Disable all rescaling of font sizes."
 msgstr "Désactiver tous les redimensionnements des tailles de polices."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:174
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:173
 msgid ""
 "The minimum line height, as a percentage of the element's calculated font "
 "size. calibre will ensure that every element has a line height of at least "
@@ -4126,7 +4099,7 @@ msgstr ""
 "moins de savoir ce que vous faites. Par exemple, vous pouvez obtenir un "
 "texte en \"double interligne\" en fixant cette valeur à 240%."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:189
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:188
 msgid ""
 "The line height in pts. Controls spacing between consecutive lines of text. "
 "Only applies to elements that do not define their own line height. In most "
@@ -4139,7 +4112,7 @@ msgstr ""
 "ligne minimum est plus utile. Par défaut, aucune modification de hauteur de "
 "ligne n’est effectuée."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:200
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:199
 msgid ""
 "Embed the specified font family into the book. This specifies the \"base\" "
 "font used for the book. If the input document specifies its own fonts, they "
@@ -4154,12 +4127,13 @@ msgstr ""
 "d'entrée. Notez que l'inclusion de polices fonctionne seulement avec "
 "certains formats de sortie, principalement l'EPUB et l'AZW3."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:211
+#: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:210
 msgid ""
 "Embed every font that is referenced in the input document but not already "
 "embedded. This will search your system for the fonts, and if found, they "
 "will be embedded. Embedding will only work if the format you are converting "
-"to supports embedded fonts, such as EPUB, AZW3 or PDF."
+"to supports embedded fonts, such as EPUB, AZW3 or PDF. Please ensure that "
+"you have the proper license for embedding the fonts used in this document."
 msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:221
@@ -4796,7 +4770,7 @@ msgstr "Démarrage des transformations du livre numérique…"
 msgid "Running %s plugin"
 msgstr "Exécution du plugin %s"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/docx/to_html.py:49
+#: /home/kovid/work/calibre/src/calibre/ebooks/docx/to_html.py:50
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/base.py:1317
 msgid "Notes"
 msgstr "Notes"
@@ -5691,11 +5665,26 @@ msgstr ""
 "Mobi6. Calibre peut uniquement éditer les fichiers MOBI contenant des livres "
 "au format KF8"
 
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:50
+#, python-format
+msgid "Failed to find fonts for family: %s, not embedding"
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
+#, python-format
+msgid ""
+"Failed to find font matching: family: %s; weight: %s; style: %s; stretch: %s"
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
+msgid "No embeddable fonts found"
+msgstr ""
+
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
 msgstr "Ce fichier est bloqué par des droits DRM. Il ne peut pas être édité."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:36
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:38
 #, python-format
 msgid ""
 "<p><i>Polishing books</i> is all about putting the shine of perfection onto\n"
@@ -5737,8 +5726,8 @@ msgstr ""
 "<p>Notez que le polissage ne ​​fonctionne que sur les fichiers %s "
 "formats.</p>"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:48
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:446
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:50
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:448
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:105
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/look_feel.py:199
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:132
@@ -5747,7 +5736,18 @@ msgstr ""
 msgid " or "
 msgstr " ou "
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:50
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:52
+msgid ""
+"<p>Embed all fonts that are referenced in the document and are not already "
+"embedded.\n"
+"This will scan your computer for the fonts, and if they are found, they will "
+"be\n"
+"embedded into the document.</p>\n"
+"<p>Please ensure that you have the proper license for embedding the fonts "
+"used in this document.</p>\n"
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:59
 msgid ""
 "<p>Subsetting fonts means reducing an embedded font to contain\n"
 "only the characters used from that font in the book. This\n"
@@ -5790,7 +5790,7 @@ msgstr ""
 "nouvellement \n"
 "ajouté pourrait ne pas être couvert par le s\n"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:69
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:78
 msgid ""
 "<p>Insert a \"book jacket\" page at the start of the book that contains\n"
 "all the book metadata such as title, tags, authors, series, comments,\n"
@@ -5802,11 +5802,11 @@ msgstr ""
 "commentaires, etc... \n"
 "Toute  jaquette précédente du livre sera remplacé.</p>"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:74
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:83
 msgid "<p>Remove a previous inserted book jacket page.</p>\n"
 msgstr "<p>Enlève une une page jaquette insérée précédemment.</p>\n"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:78
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:87
 msgid ""
 "<p>Convert plain text dashes, ellipsis, quotes, multiple hyphens, etc. into "
 "their\n"
@@ -5822,66 +5822,70 @@ msgstr ""
 "particulier\n"
 "lorsque les apostrophes au début de contractions sont impliqués.</p>\n"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:117
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:126
 #, python-format
 msgid "## Polishing: %s"
 msgstr "## Polissage : %s"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:125
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:134
 msgid "Updating metadata"
 msgstr "Mise à jour des métadonnées"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:130
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:139
 msgid "Updated metadata jacket"
 msgstr "Jaquette de métadonnées mise à jour"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:131
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:140
 msgid "Metadata updated\n"
 msgstr "Métadonnées mises a jour\n"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:134
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:143
 msgid "Setting cover"
 msgstr "Définir la couverture"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:139
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:148
 msgid "Inserting metadata jacket"
 msgstr "Insertion d'une jaquette de métadonnées"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:142
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:146
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:151
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:155
 msgid "Existing metadata jacket replaced"
 msgstr "Jaquette de métadonnées existante remplacée"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:144
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:153
 msgid "Metadata jacket inserted"
 msgstr "Jaquette de métadonnées insérée"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:150
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:159
 msgid "Removing metadata jacket"
 msgstr "Suppression de la jaquette de métadonnées"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:152
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:161
 msgid "Metadata jacket removed"
 msgstr "Jaquette de métadonnées enlevée"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:154
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:163
 msgid "No metadata jacket found"
 msgstr "Pas de jaquette de métadonnées trouvée"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:158
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:167
 msgid "Smartening punctuation"
 msgstr "Amélioration de la ponctuation"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:163
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:172
+msgid "Embedding referenced fonts"
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:177
 msgid "Subsetting embedded fonts"
 msgstr "Créer un sous-ensemble de polices"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:169
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:183
 #, python-format
 msgid "Polishing took: %.1f seconds"
 msgstr "Le polissage prend : %.1f seconde(s)"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:202
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:217
 msgid ""
 "Path to a cover image. Changes the cover specified in the ebook. If no cover "
 "is present, or the cover is not properly identified, inserts a new cover."
@@ -5890,26 +5894,26 @@ msgstr ""
 "livre. Si aucune couverture n'est présente, ou si la couverture n'est pas "
 "identifiée correctement, insère une nouvelle couverture."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:205
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:220
 msgid ""
 "Path to an OPF file. The metadata in the book is updated from the OPF file."
 msgstr ""
 "Chemin vers un fichier OPF. Les métadonnées du livre sont mises à jour à "
 "partir du ficher OPF."
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:210
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:225
 msgid "Produce more verbose output, useful for debugging."
 msgstr "Générer une sortie plus verbeuse (utile pour le débogage)"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:220
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:235
 msgid "You must provide the input file to polish"
 msgstr "Vous devez fournir le fichier à polir"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:224
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:239
 msgid "Unknown extra arguments"
 msgstr "Arguments supplémentaires inconnus"
 
-#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:242
+#: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:257
 msgid "You must specify at least one action to perform"
 msgstr "Vous devez spécifier au moins une action à accomplir."
 
@@ -6320,7 +6324,7 @@ msgstr "Contrôler l'ajout de livres"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:277
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:346
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:386
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:426
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:428
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/save_to_disk.py:83
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:114
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:271
@@ -7632,15 +7636,20 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
+msgid "<h3>Embed referenced fonts</h3>%s"
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:49
+#, python-format
 msgid "<h3>Subsetting fonts</h3>%s"
 msgstr "<h3>Créer un sous-ensemble de polices</h3>%s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:51
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:52
 #, python-format
 msgid "<h3>Smarten punctuation</h3>%s"
 msgstr "<h3>Améliorer la ponctuation</h3>%s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:53
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:54
 msgid ""
 "<h3>Updating metadata</h3><p>This will update all metadata <i>except</i> the "
 "cover in the ebook files to match the current metadata in the calibre "
@@ -7655,7 +7664,7 @@ msgstr ""
 "Calibre.</p><p>Il y a une option séparée pour mettre à jour la "
 "couverture.</p>"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:61
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:62
 msgid ""
 "<p>Update the covers in the ebook files to match the current cover in the "
 "calibre library.</p><p>If the ebook file does not have an identifiable "
@@ -7665,108 +7674,112 @@ msgstr ""
 "la couverture actuelle dans la bibliothèque Calibre. Si le fichier du livre "
 "n'a pas de couverture identifiable, une nouvelle couverture est insérée."
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:66
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:67
 #, python-format
 msgid "<h3>Book Jacket</h3>%s"
 msgstr "<h3>Jaquette de livre</h3>%s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:67
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:68
 #, python-format
 msgid "<h3>Remove Book Jacket</h3>%s"
 msgstr "<h3>Supprimer la couverture du livre</h3>%s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:73
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:74
 msgid "Select actions to perform:"
 msgstr "Sélectionnez les actions à effectuer :"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:78
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
+msgid "&Embed all referenced fonts"
+msgstr ""
+
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
 msgid "&Subset all embedded fonts"
 msgstr "&Sous-ensemble de toutes les polices incorporées"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:81
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:221
 msgid "Smarten &punctuation"
 msgstr "&Ponctuation arrangée"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:82
 msgid "Update &metadata in the book files"
 msgstr "Mettre à jour les &métadonnées dans les fichiers du livre"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:81
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:83
 msgid "Update the &cover in the book files"
 msgstr "Mettre à jour la &couverture dans les fichiers du livre"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:82
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:84
 msgid "Add metadata as a \"book &jacket\" page"
 msgstr "Ajoutez les méta-données comme page de « Couverture du livre »"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:83
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:85
 msgid "&Remove a previously inserted book jacket"
 msgstr "Supprimer une couverture de livre insérée précédemment"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:93
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:95
 msgid "About"
 msgstr "À propos"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:112
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:114
 msgid "Show &report"
 msgstr "Voir le &rapport"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:114
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:116
 msgid ""
 "Show a report of all the actions performed after polishing is completed"
 msgstr ""
 "Afficher un rapport de toutes les actions effectuées après la fin du "
 "polissage"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:120
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:122
 msgid "&Save Settings"
 msgstr "&Enregistrer la configuration"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:122
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:124
 msgid "&Load Settings"
 msgstr "Char&ger la configuration"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:125
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:127
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/duplicates.py:47
 msgid "Select &all"
 msgstr "&Tout sélectionner"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:127
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:129
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/duplicates.py:49
 msgid "Select &none"
 msgstr "Tout &désélectionner"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:143
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:217
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:145
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:219
 msgid "No actions selected"
 msgstr "Pas actions sélectionnées"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:144
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:146
 msgid "You must select at least one action before saving"
 msgstr "Vous devez sélectionner au moins une action avant d'enregistrer"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:146
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:148
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:71
 msgid "Choose name"
 msgstr "Choisissez un nom"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:147
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:149
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:72
 msgid "Choose a name for these settings"
 msgstr "Choisissez un nom pour cette configuration"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:167
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:169
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:90
 msgid "Remove saved settings"
 msgstr "Supprimer les configurations sauvegardées"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:208
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:210
 msgid "Must update metadata"
 msgstr "Les métadonnées doivent faire l'objet d'une mise à jour"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:209
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:211
 msgid ""
 "You have selected the option to add metadata as a \"book jacket\". For this "
 "option to work, you must also select the option to update metadata in the "
@@ -7777,76 +7790,76 @@ msgstr ""
 "l'option de mise à jour des métadonnées dans les fichiers du livre. Voulez-"
 "vous le sélectionner ?"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:218
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:220
 msgid "You must select at least one action, or click Cancel."
 msgstr "Vous devez sélectionner au moins une action, ou cliquez sur Annuler."
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:232
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:234
 msgid "Queueing books for polishing"
 msgstr "Mise en file d'attente des livres à polir"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:276
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:278
 #, python-format
 msgid "Polish %s"
 msgstr "Polir %s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:277
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:279
 #, python-format
 msgid "Polish book %(nums)s of %(tot)s (%(title)s)"
 msgstr "Polit le livre %(nums)s de %(tot)s (%(title)s)"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:281
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:283
 #, python-format
 msgid "Queueing book %(nums)s of %(tot)s (%(title)s)"
 msgstr "Mise en attente du livre %(nums)s de %(tot)s (%(title)s)"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:307
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:309
 #, python-format
 msgid "Ignore remaining %d reports"
 msgstr "Ignorer les %d rapports restants"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:314
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:316
 msgid "View full &log"
 msgstr "Voir les journaux complets"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:337
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:339
 #, python-format
 msgid "Polishing of %s"
 msgstr "Polissage de %s"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:343
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:345
 #, python-format
 msgid "The original file has been saved as %s."
 msgid_plural "The original files have been saved as %s."
 msgstr[0] "Le fichier original a été sauvegardé sous %s."
 msgstr[1] "Les fichiers originaux ont été sauvegardés sous as %s."
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:345
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:347
 msgid " and "
 msgstr " et "
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:348
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:350
 msgid "If you polish again, the polishing will run on the originals."
 msgstr "Si vous polissez à nouveau, le polissage se fera sur les originaux."
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:383
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:385
 msgid "Polish books"
 msgstr "Polir des livres"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:384
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:386
 msgid "Apply the shine of perfection to your books"
 msgstr "Appliquer la couche de polissage à vos livres"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:384
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:386
 msgid "P"
 msgstr "P"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:425
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:443
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:427
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:445
 msgid "Cannot polish"
 msgstr "Impossible de polir"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:444
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:446
 #, python-format
 msgid ""
 "Polishing is only supported for books in the %s formats. Convert to one of "
@@ -7855,7 +7868,7 @@ msgstr ""
 "Le polissage est pris en charge uniquement pour les livres dans les formats "
 "%s. Convertissez le dans un de ces formats avant le polissage."
 
-#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:472
+#: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:474
 #, python-format
 msgid "Start polishing of %d book(s)"
 msgstr "Commencer le  polissage de %d livre(s)"
@@ -12710,7 +12723,7 @@ msgstr "Copié"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:196
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:251
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:1019
-#: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:1128
+#: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:1130
 #: /home/kovid/work/calibre/src/calibre/gui2/proceed.py:49
 msgid "View log"
 msgstr "Afficher le journal"
@@ -16639,7 +16652,7 @@ msgstr ""
 msgid "Downloading metadata..."
 msgstr "Télécharge les métadonnées…"
 
-#: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:1112
+#: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:1114
 msgid "Downloading cover..."
 msgstr "Télécharge la couverture…"
 
@@ -23286,19 +23299,13 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/catalogs/epub_mobi.py:152
 #, python-format
 msgid ""
-"Specifies the output profile.  In some cases, an output profile is required "
+"Specifies the output profile. In some cases, an output profile is required "
 "to optimize the catalog for the device.  For example, 'kindle' or "
 "'kindle_dx' creates a structured Table of Contents with Sections and "
 "Articles.\n"
 "Default: '%default'\n"
 "Applies to: AZW3, ePub, MOBI output formats"
 msgstr ""
-"Spécifie le profil de sortie. Dans certains cas, un profil de sortie est "
-"requis pour optimiser le catalogue pour cet appareil. Par exemple, 'kindle' "
-"ou 'kindle_dx' créé une Tables des Matières structurée avec des Sections et "
-"Articles.\n"
-"Par défaut : '%default'\n"
-"S’applique aux formats de sortie : AZW3,  ePub, MOBI"
 
 #: /home/kovid/work/calibre/src/calibre/library/catalogs/epub_mobi.py:159
 msgid ""
@@ -24484,17 +24491,17 @@ msgstr ""
 msgid " (%s books)"
 msgstr " (%s livres)"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3678
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3679
 #, python-format
 msgid "<p>Migrating old database to ebook library in %s<br><center>"
 msgstr "<p>Migre l’ancienne base vers la bibliothèque dans %s<br><center>"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3707
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3708
 #, python-format
 msgid "Copying <b>%s</b>"
 msgstr "Copie <b>%s</b>"
 
-#: /home/kovid/work/calibre/src/calibre/library/database2.py:3724
+#: /home/kovid/work/calibre/src/calibre/library/database2.py:3725
 msgid "Compacting database"
 msgstr "Compacte la base"
 
@@ -25173,7 +25180,7 @@ msgstr ""
 "noter que ceci est beaucoup plus lent qu'une simple recherche sur des "
 "bibliothèques volumineuses."
 
-#: /home/kovid/work/calibre/src/calibre/utils/filenames.py:295
+#: /home/kovid/work/calibre/src/calibre/utils/filenames.py:321
 msgid "File is open in another process"
 msgstr "Le fichier est ouvert dans un autre processus"
 
@@ -28083,3 +28090,80 @@ msgstr ""
 "couleur pour la\n"
 "mise en évidence avec ce réglage. Réglez-le à 'transparent' pour désactiver "
 "la mise ne évidence."
+
+#~ msgid ""
+#~ "input_file output_file [options]\n"
+#~ "\n"
+#~ "Convert an ebook from one format to another.\n"
+#~ "\n"
+#~ "input_file is the input and output_file is the output. Both must be "
+#~ "specified as the first two arguments to the command.\n"
+#~ "\n"
+#~ "The output ebook format is guessed from the file extension of output_file. "
+#~ "output_file can also be of the special format .EXT where EXT is the output "
+#~ "file extension. In this case, the name of the output file is derived the "
+#~ "name of the input file. Note that the filenames must not start with a "
+#~ "hyphen. Finally, if output_file has no extension, then it is treated as a "
+#~ "directory and an \"open ebook\" (OEB) consisting of HTML files is written to "
+#~ "that directory. These files are the files that would normally have been "
+#~ "passed to the output plugin.\n"
+#~ "\n"
+#~ "After specifying the input and output file you can customize the conversion "
+#~ "by specifying various options. The available options depend on the input and "
+#~ "output file types. To get help on them specify the input and output file and "
+#~ "then use the -h option.\n"
+#~ "\n"
+#~ "For full documentation of the conversion system see\n"
+#~ msgstr ""
+#~ "fichier_entree fichier_sortie [options]\n"
+#~ "\n"
+#~ "Convertir un ebook d'un format vers un autre.\n"
+#~ "\n"
+#~ "fichier_entree correspond à l'entrée et fichier_sortie à la sortie. Les deux "
+#~ "doivent être spécifiés comme deux premiers arguments de la commande.\n"
+#~ "\n"
+#~ "Le format de sortie de l'ebook est déduit de l'extension du fichier de "
+#~ "sortie.  fichier_sortie peut aussi avoir le format spécial .EXT où EXT est "
+#~ "l'extension du fichier de sortie. Dans ce cas, le nom du fichier de sortie "
+#~ "est déduit du nom du fichier d'entrée. Notez que les noms de fichiers ne "
+#~ "doivent pas commencer par un trait d'union. Finalement, si fichier_sortie "
+#~ "n'a pas d'extension, il sera traité alors comme un répertoire et un \"open "
+#~ "book\" (OEB) constitué de fichiers HTML sera écrit dans le répertoire. Ces "
+#~ "fichiers sont des fichiers qui devront normalement être passés au plugin de "
+#~ "sortie.\n"
+#~ "\n"
+#~ "Après avoir spécifié les fichiers d'entrée et de sortie, vous pouvez "
+#~ "paramétrer la conversion en spécifiant diverses options.  Les options "
+#~ "disponibles dépendent des types de fichiers en entrée et en sortie. Pour "
+#~ "obtenir de l'aide, spécifier les fichiers d'entrée et de sortie et utiliser "
+#~ "ensuite l'option -h.\n"
+#~ "\n"
+#~ "Pour la documentation complète du système de conversion, consulter\n"
+
+#~ msgid ""
+#~ "Specify the output profile. The output profile tells the conversion system "
+#~ "how to optimize the created document for the specified device. In some "
+#~ "cases, an output profile is required to produce documents that will work on "
+#~ "a device. For example EPUB on the SONY reader. Choices are:"
+#~ msgstr ""
+#~ "Spécifier le profil de sortie. Le profil de sortie indique au système de "
+#~ "conversion comment optimiser les fichiers créés pour un appareil spécifié. "
+#~ "Dans certains cas, un profil de sortie est requis pour produire des "
+#~ "documents qui fonctionneront sur cet appareil. Par exemple EPUB sur le "
+#~ "lecteur SONY. Les choix sont :"
+
+#, python-format
+#~ msgid ""
+#~ "Specifies the output profile.  In some cases, an output profile is required "
+#~ "to optimize the catalog for the device.  For example, 'kindle' or "
+#~ "'kindle_dx' creates a structured Table of Contents with Sections and "
+#~ "Articles.\n"
+#~ "Default: '%default'\n"
+#~ "Applies to: AZW3, ePub, MOBI output formats"
+#~ msgstr ""
+#~ "Spécifie le profil de sortie. Dans certains cas, un profil de sortie est "
+#~ "requis pour optimiser le catalogue pour cet appareil. Par exemple, 'kindle' "
+#~ "ou 'kindle_dx' créé une Tables des Matières structurée avec des Sections et "
+#~ "Articles.\n"
+#~ "Par défaut : '%default'\n"
+#~ "S’applique aux formats de sortie : AZW3,  ePub, MOBI"
