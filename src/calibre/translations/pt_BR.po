@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2013-06-09 20:04+0000\n"
-"Last-Translator: Paulo Lieuthier <Unknown>\n"
+"PO-Revision-Date: 2013-07-05 21:31+0000\n"
+"Last-Translator: Osni Leandro <Unknown>\n"
 "Language-Team: Português Brasileiro <ubuntu-l10n-ptbr@lists.ubuntu.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-05 05:34+0000\n"
+"X-Launchpad-Export-Date: 2013-07-06 05:39+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -1151,7 +1151,7 @@ msgstr "Data do erro de conversão {0}"
 #: /home/kovid/work/calibre/src/calibre/db/search.py:289
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:460
 msgid "Non-numeric value in query: {0}"
-msgstr ""
+msgstr "Valor não numérico na query: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:313
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:575
@@ -1171,12 +1171,12 @@ msgstr "Consulta booleana inválida \"{0}\""
 #: /home/kovid/work/calibre/src/calibre/db/search.py:355
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:505
 msgid "Invalid query format for colon-separated search: {0}"
-msgstr ""
+msgstr "Formato inválido para a pesquisa separada por ponto e vírgula: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:654
 msgid "Recursive query group detected: {0}"
-msgstr ""
+msgstr "Grupo de query recursivo detectado: {0}"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:75
 #: /home/kovid/work/calibre/src/calibre/gui2/main.py:47
@@ -1579,7 +1579,7 @@ msgstr "Comunicar-se com o leitor PocketBook 602/603/902/903/Pro 912."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "Comunica com leitores PocketBook 622 e 623."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."
@@ -3111,6 +3111,9 @@ msgid ""
 "looks like a cover, it will be removed from the document and used as the "
 "cover for created ebook. This option turns off that behavior."
 msgstr ""
+"Normalmente, se uma imagem grande que se pareça com uma capa estiver "
+"presente no início do documento, ela será extraída do documento e usada como "
+"capa para o livro criado. Esta opção desativa esse comportamento."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:54
 msgid ""
@@ -3955,6 +3958,10 @@ msgid ""
 "cases, an output profile can be used to optimize the output for a particular "
 "device, but this is rarely necessary. Choices are:"
 msgstr ""
+"Especifica o perfil de saída. Ele diz ao sistema de conversão como otimizar "
+"o documento criado para o dispositivo especificado. Em alguns casos, um "
+"perfil de saída pode ser utilizado para otimizar a saída para um dispositivo "
+"em particular, mas isso raramente é necessário. As escolhas são:"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:144
 msgid ""
@@ -5421,6 +5428,9 @@ msgid ""
 "remove the Mobi6 data, which means the file will not be usable on older "
 "Kindles. Are you sure?"
 msgstr ""
+"Este arquivo MOBI contém dados KF8 e do antigo Mobi6. Alterá-lo irá remover "
+"os dados Mobi6, o que significa que ele não será utilizável em Kindles mais "
+"antigos. Você tem certeza?"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/mobi/writer2/indexer.py:466
 msgid "No details available"
@@ -5504,17 +5514,24 @@ msgid ""
 "from Amazon. calibre can only edit MOBI files that contain KF8 books. Older "
 "MOBI files without KF8 are not editable."
 msgstr ""
+"Este arquivo MOBI não contém um livro no formato KF8, que é o novo formato "
+"da Amazon. O Calibre só pode editar arquivos MOBI que contém livros KF8. "
+"Arquivos MOBI sem KF8 não são editáveis."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/container.py:643
 msgid ""
 "This MOBI file contains both KF8 and older Mobi6 data. calibre can only edit "
 "MOBI files that contain only KF8 data."
 msgstr ""
+"Este arquivo MOBI contém dados KF8 e do antigo Mobi6. O Calibre só pode "
+"editar arquivos que contenham apenas dados KF8."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:50
 #, python-format
 msgid "Failed to find fonts for family: %s, not embedding"
 msgstr ""
+"Não foi possível encontrar fontes para a família: %s, ela não será "
+"incorporada"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
 #, python-format
@@ -5663,7 +5680,7 @@ msgstr "Pontuação inteligente"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:172
 msgid "Embedding referenced fonts"
-msgstr ""
+msgstr "Incorporando fontes referenciadas"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:177
 msgid "Subsetting embedded fonts"
@@ -6423,7 +6440,7 @@ msgstr "Restaurar base de dados"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:252
 msgid "{0} [{1} books]"
-msgstr ""
+msgstr "{0} [{1} livros]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:318
 msgid "Rename"
@@ -6725,7 +6742,7 @@ msgstr "Foram copiados %(num)d livros para %(loc)s"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:263
 #, python-format
 msgid "Moved %(num)d books to %(loc)s"
-msgstr ""
+msgstr "%(num)d Livros movidos para %(loc)s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:267
 msgid "Could not copy books: "
@@ -7177,7 +7194,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:229
 #, python-format
 msgid "Discard the downloaded value for: %s"
-msgstr ""
+msgstr "Descartar o valor baixado por: %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:230
 msgid ""
@@ -7539,7 +7556,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:309
 #, python-format
 msgid "Ignore remaining %d reports"
-msgstr ""
+msgstr "Ignorar os %d relatórios restantes"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:316
 msgid "View full &log"
@@ -7800,6 +7817,8 @@ msgstr "Obter livros"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:20
 msgid "Search dozens of online ebook retailers for the cheapest books"
 msgstr ""
+"Pesquise pelos livros mais baratos entre dezenas de vendedores de ebooks "
+"online."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:22
 msgid "Search for ebooks"
@@ -7882,11 +7901,11 @@ msgstr "Escolhe formato para editar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:28
 msgid "Choose which format you want to edit:"
-msgstr ""
+msgstr "Escolha qual formato você deseja editar:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:40
 msgid "&All formats"
-msgstr ""
+msgstr "Todos os form&atos"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:62
 msgid "Edit ToC"
@@ -7964,7 +7983,7 @@ msgstr "&Cancelar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:106
 msgid "&Rebuild Book"
-msgstr ""
+msgstr "&Reconstruir Livro"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:109
 msgid "Explode the book to edit its components"
@@ -25693,61 +25712,3 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
-
-#~ msgid ""
-#~ "Specify the output profile. The output profile tells the conversion system "
-#~ "how to optimize the created document for the specified device. In some "
-#~ "cases, an output profile is required to produce documents that will work on "
-#~ "a device. For example EPUB on the SONY reader. Choices are:"
-#~ msgstr ""
-#~ "Especificar o perfil de saída. O perfil de saída diz ao sistema de conversão "
-#~ "como otimizar o documento criado para o aparelho especificado. Em alguns "
-#~ "casos, um perfil de saída é necessário para criar documentos que irão "
-#~ "funcionar em um aparelho. Por exemplo, EPUB no leitor SONY. As escolhas são:"
-
-#~ msgid ""
-#~ "input_file output_file [options]\n"
-#~ "\n"
-#~ "Convert an ebook from one format to another.\n"
-#~ "\n"
-#~ "input_file is the input and output_file is the output. Both must be "
-#~ "specified as the first two arguments to the command.\n"
-#~ "\n"
-#~ "The output ebook format is guessed from the file extension of output_file. "
-#~ "output_file can also be of the special format .EXT where EXT is the output "
-#~ "file extension. In this case, the name of the output file is derived the "
-#~ "name of the input file. Note that the filenames must not start with a "
-#~ "hyphen. Finally, if output_file has no extension, then it is treated as a "
-#~ "directory and an \"open ebook\" (OEB) consisting of HTML files is written to "
-#~ "that directory. These files are the files that would normally have been "
-#~ "passed to the output plugin.\n"
-#~ "\n"
-#~ "After specifying the input and output file you can customize the conversion "
-#~ "by specifying various options. The available options depend on the input and "
-#~ "output file types. To get help on them specify the input and output file and "
-#~ "then use the -h option.\n"
-#~ "\n"
-#~ "For full documentation of the conversion system see\n"
-#~ msgstr ""
-#~ "input_file output_file [options]\n"
-#~ "\n"
-#~ "Converter um e-livro de um formato para outro.\n"
-#~ "\n"
-#~ "input_file é o arquivo de origem e output_file é o arquivo de saída. Ambos "
-#~ "devem ser especificados como os dois primeiros argumentos para o comando.\n"
-#~ "\n"
-#~ "O formato do e-livro gerado é suposto a partir da extensão do output_file. "
-#~ "output_file também pode ser de um formato especial no formato .EXT onde EXT "
-#~ "é a extensão do arquivo de saída. Neste caso, o nome do arquivo de saída é "
-#~ "derivado do nome do arquivo de entrada. Observe que os nomes dos arquivos "
-#~ "não devem iniciar com hífen. Finalmente, se output_file não tiver extensão, "
-#~ "então ele será tratado como uma pasta e um \"e-livro aberto\" (EBA) "
-#~ "consistindo de arquivos HTML que serão salvos naquela pasta. Estes são os "
-#~ "arquivos que deveriam normalmente passar pelo plug-in de saída.\n"
-#~ "\n"
-#~ "Depois de especificar os arquivos de entrada e saída você pode personalizar "
-#~ "a conversão especificando várias opções. As opções disponíveis dependem dos "
-#~ "tipos dos arquivos de entrada e saída. Para receber ajuda para elas "
-#~ "especifique os arquivos de entrada e saída e então use a opção -h.\n"
-#~ "\n"
-#~ "Para a documentação completa do sistema de conversão veja\n"
