@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2013-04-11 11:02+0000\n"
-"Last-Translator: Kovid Goyal <Unknown>\n"
+"PO-Revision-Date: 2013-07-10 00:10+0000\n"
+"Last-Translator: Mats Abbe <mats_abbe2@hotmail.com>\n"
 "Language-Team: Norwegian Bokmal <nb@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-06 05:31+0000\n"
+"X-Launchpad-Export-Date: 2013-07-10 05:25+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -355,7 +355,7 @@ msgstr "Konverter bøker til forskjellige e-bokformater"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:794
 msgid "Fine tune your ebooks"
-msgstr ""
+msgstr "Finjuster e-bøkene dine"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
@@ -896,7 +896,7 @@ msgstr "Denne profilen er ment for Amazon Kindle DX."
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:668
 msgid "This profile is intended for the Amazon Kindle PaperWhite"
-msgstr ""
+msgstr "Denne profilen er ment for Amazon Kindle PaperWhite"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:679
 msgid "This profile is intended for the Amazon Kindle Fire."

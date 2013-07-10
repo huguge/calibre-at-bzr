@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2013-07-08 15:17+0000\n"
+"PO-Revision-Date: 2013-07-09 15:43+0000\n"
 "Last-Translator: aungsitt <aungsitt@gmail.com>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-09 05:16+0000\n"
+"X-Launchpad-Export-Date: 2013-07-10 05:25+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -370,11 +370,11 @@ msgstr "Calibre ထဲနှိုက်ပင် စာအုပ်များ
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:819
 msgid "Download news from the internet in ebook form"
-msgstr ""
+msgstr "အင်တာနက်မှသတင်းများကို ebook အဖြစ်ဒေါင်းလုပ်ယူရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:824
 msgid "Show a list of related books quickly"
-msgstr ""
+msgstr "ဆက်စပ်နေသော စာအုပ်စာရင်းကို အလျှင်ပြရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:829
 msgid "Export books from your calibre library to the hard disk"
@@ -406,11 +406,11 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:861
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/help.py:16
 msgid "Browse the calibre User Manual"
-msgstr ""
+msgstr "Calibre အသုံးပြုနည်းများကို ရှာဖွေကြည့်ရှုရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:866
 msgid "Customize calibre"
-msgstr ""
+msgstr "Calibreကို စိတ်တိုင်းကျ ပြင်ဆင်ခြင်း"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:871
 msgid "Easily find books similar to the currently selected one"
@@ -455,6 +455,8 @@ msgstr "အရောင်းဆိုင်အမျိုးမျိုးတ
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:931
 msgid "Get new calibre plugins or update your existing ones"
 msgstr ""
+"Calibre အတွက်ထည့်သွင်းလုပ်ဆောင်ချက်များကို တိုးမြှင့်ရန် (သို့) "
+"အသစ်များကိုယူရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:950
 msgid "Look and Feel"
