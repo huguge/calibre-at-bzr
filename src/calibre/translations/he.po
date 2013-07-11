@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2012-12-21 09:15+0000\n"
-"Last-Translator: Hisbro <talnl357@gmail.com>\n"
+"PO-Revision-Date: 2013-07-10 18:58+0000\n"
+"Last-Translator: Yuval Porat <uvporat@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-06 05:25+0000\n"
+"X-Launchpad-Export-Date: 2013-07-11 05:15+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -358,7 +358,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr ""
+msgstr "ערוך את תוכן העניינים בספרים שלך"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:804
 msgid "Delete books from your calibre library or connected device"
@@ -374,7 +374,7 @@ msgstr "לקרוא ספרים בספריית ה-calibre שלך"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:819
 msgid "Download news from the internet in ebook form"
-msgstr "להוריד חדשות מהאנטרנט בתצורת ספר אלקטרוני."
+msgstr "להוריד חדשות מהאינטרנט בתצורת ספר אלקטרוני."
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:824
 msgid "Show a list of related books quickly"
@@ -844,6 +844,7 @@ msgid ""
 "Intended for the Nook HD+ and similar tablet devices with a resolution of "
 "1280x1920"
 msgstr ""
+"מיועד עבור מכשירי טאבלט מסוג Nook HD+ ומכשירים דומים עם רזולוציה של 1280x1920"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:484
 msgid "This profile is intended for the Kobo Reader."
@@ -901,7 +902,7 @@ msgstr "פרופיל זה מיועד לסדרת ההתקנים של PocketBook P
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:785
 msgid ""
 "This profile is intended for the PocketBook Pro 912 series of devices."
-msgstr ""
+msgstr "פרופיל זה מיועד עבור סדרת המכשירים PocketBook Pro 912"
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:30
 msgid "Installed plugins"
@@ -989,7 +990,7 @@ msgstr "נתיב הסיפריה ארוך מידי. אורכו חייב להיו�
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:396
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:187
 msgid "restored preference "
-msgstr ""
+msgstr "העדפות משוחזרות "
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:402
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:192
@@ -1059,7 +1060,7 @@ msgstr "חדשות"
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:135
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:574
 msgid "checked"
-msgstr ""
+msgstr "מסומן"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:32
 #: /home/kovid/work/calibre/src/calibre/db/search.py:310
@@ -1067,7 +1068,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:572
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:230
 msgid "yes"
-msgstr ""
+msgstr "כן"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:309

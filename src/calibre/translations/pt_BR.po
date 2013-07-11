@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2013-07-05 21:31+0000\n"
+"PO-Revision-Date: 2013-07-10 18:07+0000\n"
 "Last-Translator: Osni Leandro <Unknown>\n"
 "Language-Team: Português Brasileiro <ubuntu-l10n-ptbr@lists.ubuntu.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-06 05:39+0000\n"
+"X-Launchpad-Export-Date: 2013-07-11 05:16+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -8031,6 +8031,8 @@ msgstr "Falha ao reconstruir arquivo"
 #, python-format
 msgid "Failed to rebuild %s. For more information, click \"Show details\"."
 msgstr ""
+"Falha ao reconstruir %s. Para maiores informações, clique em \"Mostrar "
+"detalhes\"."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:231
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:240
@@ -8442,7 +8444,7 @@ msgstr "Tamanho da capa: %(width)d x %(height)d"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:499
 msgid "&Copy Link"
-msgstr ""
+msgstr "&Copiar Link"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:508
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:550

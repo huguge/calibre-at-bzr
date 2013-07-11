@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2013-07-02 14:53+0000\n"
-"Last-Translator: Ptitprince <Unknown>\n"
+"PO-Revision-Date: 2013-07-10 14:57+0000\n"
+"Last-Translator: simon thoby <Unknown>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-06 05:23+0000\n"
+"X-Launchpad-Export-Date: 2013-07-11 05:14+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
@@ -4048,6 +4048,11 @@ msgid ""
 "cases, an output profile can be used to optimize the output for a particular "
 "device, but this is rarely necessary. Choices are:"
 msgstr ""
+"Spécifiez le profil de sortie. Le profil de sortie explique au système de "
+"conversion comment optimiser les documentés créés pour un appareil donné. "
+"Dans certains cas, un profil de sortie peut être utilisé pour optimiser la "
+"sortie pour un appareil bien particulier, mais cela est rarement nécessaire. "
+"Les choix sont :"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:144
 msgid ""
@@ -5669,6 +5674,8 @@ msgstr ""
 #, python-format
 msgid "Failed to find fonts for family: %s, not embedding"
 msgstr ""
+"Impossible de trouver les polices de la famille: %s, elles ne sont pas "
+"incluses"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
 #, python-format
@@ -5678,7 +5685,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
 msgid "No embeddable fonts found"
-msgstr ""
+msgstr "Aucune police incluse n'a été trouvée"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
@@ -7637,7 +7644,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
 msgid "<h3>Embed referenced fonts</h3>%s"
-msgstr ""
+msgstr "<h3>Inclures les polices référencées</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:49
 #, python-format
@@ -7690,7 +7697,7 @@ msgstr "Sélectionnez les actions à effectuer :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
 msgid "&Embed all referenced fonts"
-msgstr ""
+msgstr "&Inclure toutes  les polices référencées"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
@@ -10089,7 +10096,7 @@ msgstr "Aucune modification"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "&Inclure les polices référencées"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"

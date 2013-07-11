@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-05 03:12+0000\n"
-"PO-Revision-Date: 2013-06-21 13:06+0000\n"
+"PO-Revision-Date: 2013-07-10 17:00+0000\n"
 "Last-Translator: Merarom <Unknown>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-06 05:36+0000\n"
+"X-Launchpad-Export-Date: 2013-07-11 05:16+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "X-Poedit-Country: SWEDEN\n"
 "X-Poedit-Language: Swedish\n"
@@ -3922,6 +3922,10 @@ msgid ""
 "cases, an output profile can be used to optimize the output for a particular "
 "device, but this is rarely necessary. Choices are:"
 msgstr ""
+"Ange utdataprofil. Utdataprofilen anger omvandlingen hur systemet kan "
+"optimera skapade dokumentet för den angivna enheten. I vissa fall kan en "
+"utgång profil kan användas för att optimera resultatet för en viss enhet, "
+"men det är sällan nödvändigt. Alternativen är:"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:144
 msgid ""
@@ -4006,6 +4010,12 @@ msgid ""
 "to supports embedded fonts, such as EPUB, AZW3 or PDF. Please ensure that "
 "you have the proper license for embedding the fonts used in this document."
 msgstr ""
+"Bädda in varje teckensnitt som refereras i ingången dokumentet men inte "
+"redan inbäddade typsnitt. Detta kommer att söka i ditt system för "
+"teckensnitt, och om den påträffas, kommer de att vara inbäddade. Inbäddning "
+"fungerar bara om det format du konverterar till stöd för inbäddade typsnitt, "
+"t.ex. EPUB, AZW3 eller PDF. Vänligen se till att du har rätt licens för att "
+"bädda in teckensnitt som används i detta dokument."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:221
 msgid ""
@@ -5483,17 +5493,19 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:50
 #, python-format
 msgid "Failed to find fonts for family: %s, not embedding"
-msgstr ""
+msgstr "Det gick inte att hitta typsnitt för familjen: %s, inte inbäddning"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
 #, python-format
 msgid ""
 "Failed to find font matching: family: %s; weight: %s; style: %s; stretch: %s"
 msgstr ""
+"Det gick inte att hitta typsnitt matchning: familj:% s; vikt:% s; style:% s; "
+"stretch: %s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
 msgid "No embeddable fonts found"
-msgstr ""
+msgstr "Inga inbäddningsbara typsnitt hittades"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
@@ -5552,6 +5564,13 @@ msgid ""
 "<p>Please ensure that you have the proper license for embedding the fonts "
 "used in this document.</p>\n"
 msgstr ""
+"<p> Bädda in alla teckensnitt som refereras i dokumentet och som inte redan "
+"är inbäddade.\n"
+"Detta kommer att söka igenom datorn efter typsnitt, och om de finns, kommer "
+"de att vara\n"
+"bäddas in i dokumentet. </p>\n"
+"<p> Se till att du har giltig licens för att bädda in teckensnitt som "
+"används i detta dokument. </p>\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:59
 msgid ""
@@ -5674,7 +5693,7 @@ msgstr "Förbättrad skiljeteckenhantering"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:172
 msgid "Embedding referenced fonts"
-msgstr ""
+msgstr "Inbäddadningsrefererade teckensnitt"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:177
 msgid "Subsetting embedded fonts"
@@ -7221,6 +7240,10 @@ msgid ""
 "books will not be deleted or changed.<br><br>Please confirm you want to "
 "proceed."
 msgstr ""
+"Bokformat och metadata från de valda böckerna kommer att läggas till <b> "
+"första valda boken </b> (%s). <br> Den andra och därefter utvalda böckerna "
+"inte kommer att tas bort eller ändras. <br> <br> Vänligen bekräfta att du "
+"vill fortsätta."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:412
 #, python-format
@@ -7234,6 +7257,15 @@ msgid ""
 "and subsequently selected books will be permanently <b>deleted</b> from your "
 "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Bokformat från de valda böckerna kommer att slås samman till <b> första "
+"valda bok </b> (%s). Metadata i den första valda boken kommer inte att "
+"ändras. Författare, Titel och alla andra metadata kommer <i> inte </i> slås "
+"samman.: Efter sammanslagningen kommer den andra och därefter utvalda "
+"böcker, med några metadata de har kommer vara <b> borttagna </b>. <br> "
+"Samtliga bokformat av den första valda boken kommer att behållas och "
+"eventuella dubblerade format i den andra och därefter utvalda böcker kommer "
+"att vara permanent <b> borttagna </b> från ditt Calibre-biblioteket. <br> är "
+"du <b> säker </b> att du vill fortsätta?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:428
 #, python-format
@@ -7245,6 +7277,13 @@ msgid ""
 "second and subsequently selected books will be permanently <b>deleted</b> "
 "from your calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Bokformat och metadata från de valda böckerna kommer att slås samman till "
+"<b> första valda bok </b> (%s).: Efter sammanslagningen kommer  den andra "
+"och därefter utvalda böcker kommer att vara <b> borttagna </ b>. <br> "
+"Samtliga bokformat av den första valda boken kommer att behållas och "
+"eventuella dubblerade format i den andra och därefter utvalda böcker kommer "
+"att vara permanent <b> borttagna </ b> från ditt Calibre-bibliotek. <br> är "
+"du <b> säker </b> att du vill fortsätta?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:607
 msgid "Applying changed metadata"
@@ -7382,7 +7421,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
 msgid "<h3>Embed referenced fonts</h3>%s"
-msgstr ""
+msgstr "<h3> Inbäddningsrefererade typsnitt </ h3> %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:49
 #, python-format
@@ -7434,7 +7473,7 @@ msgstr "På Välj åtgärder SOM SKA utföras:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
 msgid "&Embed all referenced fonts"
-msgstr ""
+msgstr "&Bädda in alla refererade teckensnitt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
@@ -9796,7 +9835,7 @@ msgstr "Ingen ändring"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "&Inbäddningsrefererade typsnitt"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"
@@ -22678,6 +22717,12 @@ msgid ""
 "Default: '%default'\n"
 "Applies to: AZW3, ePub, MOBI output formats"
 msgstr ""
+"Anger utdataprofil. I vissa fall krävs en utgående dataprofil för att "
+"optimera katalogen för enheten. Till exempel skapar \"kindle\" eller "
+"\"kindle_dx\" en strukturerad innehållsförteckning med avsnitten och "
+"artiklar.\n"
+"Grundinställning: '%default'\n"
+"Gäller utdataformat: AZW3, ePub, MOBI"
 
 #: /home/kovid/work/calibre/src/calibre/library/catalogs/epub_mobi.py:159
 msgid ""
