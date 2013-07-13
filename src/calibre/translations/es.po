@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-05 17:02+0000\n"
+"PO-Revision-Date: 2013-07-12 15:00+0000\n"
 "Last-Translator: Jellby <Unknown>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-12 05:51+0000\n"
+"X-Launchpad-Export-Date: 2013-07-13 05:46+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -468,7 +468,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
-msgstr ""
+msgstr "Asociar libros en los dispositivos con libros en la biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -6327,7 +6327,7 @@ msgstr "Seleccione los archivos de libro"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:121
 msgid "The {0} format(s) will be replaced in the book {1}. Are you sure?"
-msgstr ""
+msgstr "Los formatos {0} se sustituirán en el libro {1}. ¿Está seguro?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:202
 msgid "Adding"
@@ -7532,21 +7532,21 @@ msgstr "Ayuda"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:17
 msgid "Match book to library"
-msgstr ""
+msgstr "Asociar libro con la biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:18
 msgid "Match this book to a book in the library"
-msgstr ""
+msgstr "Asociar este libro con un libro de la biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:123
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:188
 msgid "Match books"
-msgstr ""
+msgstr "Asociar libros"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
-msgstr ""
+msgstr "Debe seleccionar un libro"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:12
 msgid "Move to next match"
@@ -12608,15 +12608,15 @@ msgstr "Autores"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:124
 msgid "You must enter a search expression into the search box"
-msgstr ""
+msgstr "Debe introducir una expresión de búsqueda en el cuadro de búsqueda"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:189
 msgid "You must select a matching book"
-msgstr ""
+msgstr "Debe seleccionar un libro para asociar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:82
 msgid "Match Books"
-msgstr ""
+msgstr "Asociar libros"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:83
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/quickview_ui.py:73
@@ -12632,13 +12632,16 @@ msgstr "Buscar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:84
 msgid "Do a search to find the book you want to match"
-msgstr ""
+msgstr "Hacer una búsqueda para encontrar el libro que desea asociar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:85
 msgid ""
 "<p>Remember to update metadata on the device when you are done (Right click "
 "the device icon and select <i>Update cached metadata</i>)</p>"
 msgstr ""
+"<p>Acuérdese de actualizar los metadatos del dispositivo cuando termine "
+"(pulse con el botón derecho sobre el icono del dispositivo y seleccione "
+"<i>actualizar metadatos en el caché</i>)</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:52
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:298
@@ -13290,10 +13293,14 @@ msgid ""
 "search or Virtual LIbrary will be refreshed after the edit\n"
 "is completed. This can be slow on large libraries."
 msgstr ""
+"Si se activa, la lista de libros se reordenará y se actualizará\n"
+"cualquier búsqueda o biblioteca virtual después de\n"
+"realizar una modificación. Esto puede resultar lento con\n"
+"bibliotecas muy grandes."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:677
 msgid "&Refresh book list after edit"
-msgstr ""
+msgstr "&Actualizar lista de libros al modificar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/password_ui.py:68
 msgid "Password needed"
@@ -15479,7 +15486,7 @@ msgstr "Configurar este dispositivo"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:64
 msgid "Update cached metadata on device"
-msgstr ""
+msgstr "Actualizar metadatos en el caché del dispositivo"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:77
 msgid "Show books in calibre library"
@@ -15616,7 +15623,7 @@ msgstr "Tamaño"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1541
 msgid "Waiting for metadata to be updated"
-msgstr ""
+msgstr "Esperando la actualización de los metadatos"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1543
 msgid "Marked for deletion"
@@ -23690,6 +23697,16 @@ msgid ""
 "specify\n"
 "an OPF file.\n"
 msgstr ""
+"\n"
+"%prog set_metadata [opciones] ID [/ruta/a/metadatos.opf]\n"
+"\n"
+"Asignar los metadatos del libro identificado por ID a partir del archivo "
+"OPF\n"
+"metadatos.opf. El ID es un identificador dado por la orden «list». Puede "
+"ver\n"
+"en qué consiste el formato OPF usando la opción --as-opf en la orden\n"
+"«show_metadata». También puede asignar metadatos a campos individuales\n"
+"con la opción --field.\n"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:559
 msgid ""
@@ -27762,7 +27779,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:539
 msgid "Choose available output formats for conversion"
-msgstr ""
+msgstr "Escoja los formatos de salida disponibles para conversión"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:540
 msgid ""
@@ -27772,27 +27789,7 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid ""
-#~ "\n"
-#~ "%prog set_metadata [options] id /path/to/metadata.opf\n"
-#~ "\n"
-#~ "Set the metadata stored in the calibre database for the book identified by "
-#~ "id\n"
-#~ "from the OPF file metadata.opf. id is an id number from the list command. "
-#~ "You\n"
-#~ "can get a quick feel for the OPF format by using the --as-opf switch to the\n"
-#~ "show_metadata command. You can also set the metadata of individual fields "
-#~ "with\n"
-#~ "the --field option.\n"
-#~ msgstr ""
-#~ "\n"
-#~ "%prog set_metadata [opciones] ID /ruta/a/metadatos.opf\n"
-#~ "\n"
-#~ "Asignar los metadatos del libro identificado por ID a partir del archivo "
-#~ "OPF\n"
-#~ "metadatos.opf. El ID es un identificador dado por la orden «list». Puede "
-#~ "ver\n"
-#~ "en qué consiste el formato OPF usando la opción --as-opf en la orden\n"
-#~ "«show_metadata». También puede asignar metadatos a campos individuales\n"
-#~ "con la opción --field.\n"
+"Restringir la lista de formatos de salida en las ventanas de conversión.\n"
+"Por ejemplo, si sólo desea convertir a EPUB y AZW3, cambie esta opción\n"
+"a restrict_output_formats = ['EPUB', 'AZW3']. El valor predeterminado\n"
+"«None» hace que se muestren todos los formatos de salida."

@@ -10,14 +10,14 @@ msgstr ""
 "Project-Id-Version: calibre_calibre-it\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-11 19:45+0000\n"
-"Last-Translator: mlodi72 <marcello.lodi@gmail.com>\n"
+"PO-Revision-Date: 2013-07-12 15:48+0000\n"
+"Last-Translator: Giovani Spagnolo <Unknown>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-12 05:43+0000\n"
+"X-Launchpad-Export-Date: 2013-07-13 05:38+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "Language: it\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,1105,-1,1312,-1,-1\n"
@@ -5612,7 +5612,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
 msgid "No embeddable fonts found"
-msgstr ""
+msgstr "Non ci sono font incorporabili"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
@@ -7465,7 +7465,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
-msgstr ""
+msgstr "Devi selezionare almeno un libro"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:12
 msgid "Move to next match"
