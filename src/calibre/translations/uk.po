@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-12 06:04+0000\n"
+"PO-Revision-Date: 2013-07-13 13:51+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-07-13 05:48+0000\n"
+"X-Launchpad-Export-Date: 2013-07-14 05:42+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "Language: uk\n"
 
@@ -19948,7 +19948,7 @@ msgstr "Налаштувати скорочення для"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:223
 msgid "Keys"
-msgstr "Ключі"
+msgstr "Клавіші"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:225
 msgid "Double click to change"
