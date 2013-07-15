@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-06-19 21:36+0000\n"
-"Last-Translator: gorkaazk <gorkaazkarate@euskalerria.org>\n"
+"PO-Revision-Date: 2013-07-15 03:33+0000\n"
+"Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: http://librezale.org/wiki/Calibre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-13 05:30+0000\n"
+"X-Launchpad-Export-Date: 2013-07-15 04:50+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "Language: eu\n"
 
@@ -455,7 +455,7 @@ msgstr "Editatu bildumak non zure liburuak gailuan gordeta dauzkazun"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
-msgstr ""
+msgstr "Gailuetako liburua liburutegiko liburuekin bateratu"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -1216,11 +1216,12 @@ msgstr "Boolear itaunketak ezegokia  \"{0}\""
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:505
 msgid "Invalid query format for colon-separated search: {0}"
 msgstr ""
+"Kontsulta formatu baliogabea bi puntuekaitik bereizitako bilaketentzako"
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:469
 #: /home/kovid/work/calibre/src/calibre/library/caches.py:654
 msgid "Recursive query group detected: {0}"
-msgstr ""
+msgstr "Kontsulta-talde errekurtsiboa atzeman da"
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:75
 #: /home/kovid/work/calibre/src/calibre/gui2/main.py:47
@@ -1238,6 +1239,9 @@ msgid ""
 "calibre-debug -r \"Add Books\" -- file1 --option1\n"
 "Everything after the -- will be passed to the plugin as arguments."
 msgstr ""
+"Komando-lerroa erakusten duen plugina abiarazi. Adibidez:\n"
+"calibre-debug -r \"Add Books\" -- file1 --option1\n"
+"Marra bien (--) osteko guztia pluginaren argumentu modura ulertuko da."
 
 #: /home/kovid/work/calibre/src/calibre/debug.py:181
 msgid "Debug log"
@@ -1352,7 +1356,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:131
 msgid "Enable debug logging"
-msgstr ""
+msgstr "Gaitu arazketa-erregistroa"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:133
 msgid "Print driver debug messages to console"
@@ -1941,6 +1945,10 @@ msgid ""
 "be Dragons!! Enable only if you are comfortable with restoring your kobo to "
 "factory defaults and testing software"
 msgstr ""
+"Kobok ohikoa du firmwarearen eta datu-baseen bertsioa eguneratzea. Aukera "
+"honekin Calibre irakurri-idatzi funtzioa bere osoan burutzen saiatuko da. "
+"Adi ibili! Softwarea testeatzen edo/eta Kobo hasierako ezarpenetara "
+"lehenarazten ohituta baldin bazaude baino ez gaitu aukera hau."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:622
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:2667
@@ -2081,6 +2089,8 @@ msgid ""
 "When uploading covers, do not change the aspect ratio when resizing for the "
 "device. This is for firmware versions 2.3.1 and later."
 msgstr ""
+"Ez aldatu irudiaren itxura-erlazioa azalak igotzerakoan. Firmwarearen 2.3.1 "
+"bertsioa eta goragokoentzat baliagarria."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1245
 msgid "Show archived books"
@@ -2092,6 +2102,9 @@ msgid ""
 "Use this option to show these books and match them with books in the calibre "
 "library."
 msgstr ""
+"Gordetako liburuak gailuan zerrendaturik agertzen dira baina deskargatu egin "
+"behar dira irakurtzeko. Aukera hau erabili liburu hauek erakusteko eta "
+"Calibre liburutegiko liburuekin bateratzeko."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1253
 msgid ""
@@ -2140,6 +2153,9 @@ msgid ""
 "debugging. The test is to see if the string is contained in the title of a "
 "book. The better the match, the less extraneous output."
 msgstr ""
+"Arazketa-azterketak egiterakoan erabil daiteken izenburu zatia. Azterketa "
+"katea liburuaren izenburuaren barruan dagoen baieztatzean datza. Gero ta "
+"hobeto bateratu, emaitza normalagoa izango da."
 
 #: /home/kovid/work/calibre/src/calibre/devices/misc.py:19
 msgid "Communicate with the Palm Pre"
@@ -2204,7 +2220,7 @@ msgstr "Komunikatu Ex124G horrekin"
 
 #: /home/kovid/work/calibre/src/calibre/devices/misc.py:417
 msgid "Communicate with the WayteQ and SPC Dickens Readers"
-msgstr ""
+msgstr "WayteQ eta SPC Dickens irakurgailuekin komunikatu"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/base.py:29
 msgid "MTP Device"
@@ -2609,7 +2625,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/smart_device_app/driver.py:310
 msgid "Replace books with the same calibre identifier"
-msgstr ""
+msgstr "Calibre identifikatzaile berdindun liburuak ordeztu"
 
 #: /home/kovid/work/calibre/src/calibre/devices/smart_device_app/driver.py:311
 msgid ""
@@ -2618,6 +2634,9 @@ msgid ""
 "not change even if the save template produces a different result. Using this "
 "option in most cases prevents having multiple copies of a book on the device."
 msgstr ""
+"Aukera hau erabili bidalitako liburuak gailuan dagoenaren Calibre "
+"identifikatzaile berdina baldin badu. Liburuaren fitxategi izena ez da "
+"aldatuko ezta gorde-txantiloiak emaitza ezberdina ematen baldin badu."
 
 #: /home/kovid/work/calibre/src/calibre/devices/smart_device_app/driver.py:807
 #, python-format
@@ -2958,6 +2977,28 @@ msgid ""
 "\n"
 "For full documentation of the conversion system see\n"
 msgstr ""
+"sarrera_fitxategia irteera_fitxategia [aukerak]\n"
+"\n"
+"eLiburua formatu batetik bestera bihurtu\n"
+"\n"
+"sarrera_fitxategia sartutako fitxategia da eta irteera_fitxategia irteerako "
+"fitxategia da. Biak zehaztu behar dira komandoaren lehenengo argumentu bien "
+"modura.\n"
+"\n"
+"Irteerako eLiburuaren formatua irteera_fitxategiaren fitxategi-luzapenaren "
+"arabera asmatzen da. irteera_fitxategia .EXT luzapen berezia izan dezake "
+"baita ere. Kasu honetan irteera fitxategiaren izena sarrera fitxategiaren "
+"izenetik eratorriko da. Kontuan izan fitxategien izenak ezin dira marrarekin "
+"hasi. Irteerako fitxategiak ez baldin badu fitxategi-luzapenik direktorio "
+"modura hartuko da eta HTML fitxategiak gehituko zaizkio liburu irekia (OEB, "
+"\"Open Book\") sortze aldera.\n"
+"\n"
+"Sarrera eta irteera fitxategiak zehaztu ostean, bihurketa pertsonalizatu "
+"daiteke hainbat aukera zehaztuz. Aukerak sarrera eta irteera fitxategi moten "
+"arabera izango dira. Informazio gehiago eta laguntza, sarrera eta irteera "
+"fitxategiak zehaztuz -h aukera erabiliz.\n"
+"\n"
+"Bihurketaren dokumentazio osorako ikus\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/cli.py:104
 msgid "INPUT OPTIONS"
@@ -3164,6 +3205,9 @@ msgid ""
 "looks like a cover, it will be removed from the document and used as the "
 "cover for created ebook. This option turns off that behavior."
 msgstr ""
+"Dokumentuaren hasieran irudi handi bat antzematen baldi bada, ohikoena "
+"dokumentutik kentzea eta sortutako liburuko azala bezala erabiltzea izaten "
+"da. Aukera honek portaera hau ezgaitzen du."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:54
 msgid ""
@@ -3628,6 +3672,9 @@ msgid ""
 "options. This option will cause the  page size settings under PDF Output to "
 "override the  size specified by the output profile."
 msgstr ""
+"PDFaren orri-tamaina,  orri-aukeretan aukeratutako irteera profilak zehazten "
+"du normalean. Aukera honek, irteera profilaren hobespenak gainidazten ditu "
+"PDF irteera fitxategietan."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:58
 #, python-format
@@ -3635,6 +3682,8 @@ msgid ""
 "The unit of measure for page sizes. Default is inch. Choices are %s Note: "
 "This does not override the unit for margins!"
 msgstr ""
+"Orri-tamainen neurri medida. Hazbetea lehenetsitakoa. Aukerak %s dira Adi: "
+"Honek ez du marjinetako neurri medida gainidazten!"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:63
 #, python-format
@@ -3686,6 +3735,7 @@ msgstr "Tarte bakarreko testuaren berezko letra-tipo tamaina"
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:95
 msgid "Surround all links with a red box, useful for debugging."
 msgstr ""
+"Esteka guztiak kutxa gorri batekin inguratu. Arazketetarako onuragarria."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:97
 msgid "Use the old, less capable engine to generate the PDF"
@@ -3704,6 +3754,9 @@ msgid ""
 "Add page numbers to the bottom of every page in the generated PDF file. If "
 "you specify a footer template, it will take precedence over this option."
 msgstr ""
+"Sortutako PDF fitxategiko orri guztietako behekaldean zenbakiak gehitu. "
+"Zehaztutako orri-oinen txantiloiek lehentasuna izango dute aukera honen "
+"gainetik."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:107
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:110
@@ -3712,6 +3765,8 @@ msgid ""
 "An HTML template used to generate %s on every page. The strings _PAGENUM_, "
 "_TITLE_, _AUTHOR_ and _SECTION_ will be replaced by their current values."
 msgstr ""
+"Orri guztietan %s sortzeko erabilitako HTML txantiloia. _PAGENUM_, _TITLE_, "
+"_AUTHOR_ eta _SECTION_ kateak balio hauekaitik aldatuko dira."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:108
 msgid "footers"
@@ -3727,6 +3782,9 @@ msgid ""
 "Useful if you want to print out the PDF. If this PDF is intended for "
 "electronic use, use the PDF Outline instead."
 msgstr ""
+"PDF fitxategiaren bukaeran, orri zenbakiak zerrendatzen duen aurkibidea "
+"gehitu. Inprimatzeko onuragarria. PDF fitxategia elektronikoan erabiltzeko "
+"baino ez bada, hobe PDF Eskema erabiltzea."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pml_output.py:22
 msgid ""
@@ -3860,6 +3918,18 @@ msgid ""
 "* off: Don't modify the paragraph structure. This is useful when combined "
 "with Markdown or Textile formatting to ensure no formatting is lost."
 msgstr ""
+"Paragrafoaren egitura\n"
+"aukerak ['auto', 'block', 'single', 'print', 'unformatted', 'off']\n"
+"auto: Paragrafo mota automatikoki sumatzen saiatzen da.\n"
+"block: Lerro zuria paragrafo berritzat hartzen du.\n"
+"single: Lerro bakoitza paragrafotzat hartzen du.\n"
+"print: Espazio bi edo tabulazioarekin hasten den lerroa paragrafo berritzat "
+"hartzen du.\n"
+"unformatted: Lerro gehienek apurketa gogorrak dituzte, ez da (edo oso gutxi) "
+"lerro zuririk edo koskarik. Egitura zehazten eta osagaiak bereizten saiatzen "
+"da\n"
+"off: Ez du paragrafoen egitura aldatzen. Onuragarria Markdown edo Textile "
+"formatuak erabiltzerakoan ez daiten formaturik galdu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_input.py:35
 msgid ""
@@ -3896,6 +3966,8 @@ msgid ""
 "Normally extra space at the beginning of lines is retained. With this option "
 "they will be removed."
 msgstr ""
+"Lerroen hasierako hutsuneak mantendu egiten dira normalean. Hutsuneak "
+"ezabatu egingo ditu aukera honek."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_input.py:51
 msgid "Do not insert a Table of Contents into the output text."

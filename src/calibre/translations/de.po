@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-10 07:24+0000\n"
-"Last-Translator: Andi Hechtbauer <anti-dotu@spin.de>\n"
+"PO-Revision-Date: 2013-07-14 18:27+0000\n"
+"Last-Translator: Simon Schütte <simonschuette@arcor.de>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-13 05:35+0000\n"
+"X-Launchpad-Export-Date: 2013-07-15 04:51+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "X-Poedit-Bookmarks: 3327,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -456,7 +456,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
-msgstr ""
+msgstr "Bücher auf dem Gerät mit den Büchern in der Bibliothek abgleichen"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -5802,7 +5802,7 @@ msgstr "Intelligente Satzzeichen"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:172
 msgid "Embedding referenced fonts"
-msgstr ""
+msgstr "Referenzierte Schriftarten einbinden"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:177
 msgid "Subsetting embedded fonts"
@@ -7488,7 +7488,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
-msgstr ""
+msgstr "Sie müssen ein Buch auswählen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:12
 msgid "Move to next match"
@@ -10027,7 +10027,7 @@ msgstr "Keine Änderung"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:253
 msgid "&Embed referenced fonts"
-msgstr ""
+msgstr "&Einbetten von referenzierten Schriftarten"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/lrf_output.py:16
 msgid "LRF Output"
@@ -12643,7 +12643,7 @@ msgstr "Autoren"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:124
 msgid "You must enter a search expression into the search box"
-msgstr ""
+msgstr "Sie müssen einen Suchausdruck in die Suchbox eingeben"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:189
 msgid "You must select a matching book"
@@ -13330,6 +13330,10 @@ msgid ""
 "search or Virtual LIbrary will be refreshed after the edit\n"
 "is completed. This can be slow on large libraries."
 msgstr ""
+"Bei Aktivierung wird die Buchliste neu sortiert und alle vorhandenen\n"
+"Suchen oder Virtuelle Bibliotheken nach Abschluss der Bearbeitung "
+"aktualisiert.\n"
+"Das kann bei großen Bibliotheken lange dauern."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:677
 msgid "&Refresh book list after edit"
