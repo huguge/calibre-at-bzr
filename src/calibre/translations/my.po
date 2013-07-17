@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-10 15:01+0000\n"
+"PO-Revision-Date: 2013-07-15 05:27+0000\n"
 "Last-Translator: aungsitt <aungsitt@gmail.com>\n"
 "Language-Team: Burmese <my@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-13 05:32+0000\n"
+"X-Launchpad-Export-Date: 2013-07-17 06:03+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -218,7 +218,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/html/to_zip.py:81
 #: /home/kovid/work/calibre/src/calibre/gui2/keyboard.py:397
 msgid "Customize"
-msgstr "စိတ်တိုင်းကျ ပြင်ဆင်ခြင်း"
+msgstr "Customize"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:156
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/preferences.py:54
@@ -255,12 +255,12 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/main.py:311
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main_ui.py:228
 msgid "Preferences"
-msgstr "လိုလားချက်များ ရွေးရန်"
+msgstr "Preferences"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:646
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/models.py:39
 msgid "Store"
-msgstr ""
+msgstr "Store"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:650
 msgid "An ebook store."
@@ -477,7 +477,7 @@ msgstr "ခံစားမှုအမြင်ပုံစံ"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:991
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1003
 msgid "Interface"
-msgstr "တွေ့ထိဆက်သွယ်မှုပိုင်း"
+msgstr "Interface"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:961
 msgid "Adjust the look and feel of the calibre interface to suit your tastes"
@@ -485,7 +485,7 @@ msgstr "ခံစားမှုအမြင်ပုံစံကို ဆန�
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:967
 msgid "Behavior"
-msgstr "အမူအကျင့်"
+msgstr "Behavior"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:973
 msgid "Change the way calibre behaves"
@@ -502,13 +502,15 @@ msgstr "Calibre စာအုပ်စာရင်းမှ ဇယားကွက
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:989
 msgid "Toolbar"
-msgstr ""
+msgstr "Toolbar"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:995
 msgid ""
 "Customize the toolbars and context menus, changing which actions are "
 "available in each"
 msgstr ""
+"ခလုပ်ခုံတန်း(toolbar) နှင့် လုပ်ဆောင်ချက်ရွေးချယ်စာရင်း ကိုစိတ်တိုင်းကျ "
+"ပြင်ဆင်ပြောင်းလဲရန်"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1001
 msgid "Searching"
@@ -603,7 +605,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1177
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1188
 msgid "Advanced"
-msgstr "အသေးစိတ်"
+msgstr "Advanced"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1098
 msgid "Create your own template functions"
@@ -660,7 +662,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1152
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/plugins.py:296
 msgid "Plugins"
-msgstr "ဖြည့်စွက်ကိရိယာ"
+msgstr "Plugins"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1158
 msgid "Add/remove/customize various bits of calibre functionality"
@@ -668,7 +670,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1164
 msgid "Tweaks"
-msgstr "ပြောင်းလဲချိန်ညှိခြင်း"
+msgstr "Tweaks"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1170
 msgid "Fine tune how calibre behaves in various contexts"

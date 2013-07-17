@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-05 11:33+0000\n"
+"PO-Revision-Date: 2013-07-16 18:06+0000\n"
 "Last-Translator: Piotr Parafiniuk <Unknown>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-07-13 05:43+0000\n"
+"X-Launchpad-Export-Date: 2013-07-17 06:04+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "X-Poedit-Bookmarks: -1,3588,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -447,7 +447,7 @@ msgstr "Edytuj kolekcje w których znajdują się książki na twoim urządzeniu
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
-msgstr ""
+msgstr "Dopasuj książki na urządzeniu do książek w bibliotece"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -6200,7 +6200,7 @@ msgstr "Wybierz pliki książki"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:121
 msgid "The {0} format(s) will be replaced in the book {1}. Are you sure?"
-msgstr ""
+msgstr "Format {0} zostanie zastąpiony w książce {1}. Kontynuować?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:202
 msgid "Adding"
@@ -7385,21 +7385,21 @@ msgstr "Pomoc"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:17
 msgid "Match book to library"
-msgstr ""
+msgstr "Dopasuj książkę do biblioteki"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:18
 msgid "Match this book to a book in the library"
-msgstr ""
+msgstr "Dopasuj tę książkę do książki w bibliotece"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:123
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:188
 msgid "Match books"
-msgstr ""
+msgstr "Dopasuj książki"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
-msgstr ""
+msgstr "Musisz wybrać jedną książkę"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:12
 msgid "Move to next match"
@@ -12458,15 +12458,15 @@ msgstr "Autorzy"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:124
 msgid "You must enter a search expression into the search box"
-msgstr ""
+msgstr "Musisz podać ciąg znaków w polu wyszukiwania"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:189
 msgid "You must select a matching book"
-msgstr ""
+msgstr "Musisz wybrać pasującą książkę"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:82
 msgid "Match Books"
-msgstr ""
+msgstr "Dopasuj książki"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:83
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/quickview_ui.py:73
@@ -12482,13 +12482,16 @@ msgstr "Szukaj"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:84
 msgid "Do a search to find the book you want to match"
-msgstr ""
+msgstr "Wyszukaj książkę, którą chcesz dopasować"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:85
 msgid ""
 "<p>Remember to update metadata on the device when you are done (Right click "
 "the device icon and select <i>Update cached metadata</i>)</p>"
 msgstr ""
+"<p>Pamiętaj o uaktualnieniu metadanych na urządzeniu po zakończeniu operacji "
+"(kliknij prawym przyciskiem myszy ikonę urządzenia i wybierz <i>Odświeżanie "
+"bufora</i>)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:52
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:298
@@ -13130,10 +13133,14 @@ msgid ""
 "search or Virtual LIbrary will be refreshed after the edit\n"
 "is completed. This can be slow on large libraries."
 msgstr ""
+"Jeśli opcja jest zaznaczona, lista książek zostanie przesortowana,\n"
+"a istniejące wirtualne biblioteki i zapisane zapytania zostaną "
+"zaktualizowane\n"
+"po zakończeniu edycji. Przy dużej bibliotece może to spowolnić działanie."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:677
 msgid "&Refresh book list after edit"
-msgstr ""
+msgstr "&Odźwież listę po edycji"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/password_ui.py:68
 msgid "Password needed"
@@ -15303,7 +15310,7 @@ msgstr "Konfiguruj urządzenie"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:64
 msgid "Update cached metadata on device"
-msgstr ""
+msgstr "Aktualizuj dane buforowane na urządzeniu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:77
 msgid "Show books in calibre library"
@@ -15439,7 +15446,7 @@ msgstr "Rozmiar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1541
 msgid "Waiting for metadata to be updated"
-msgstr ""
+msgstr "Oczekiwanie na aktualizację metadanych"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1543
 msgid "Marked for deletion"
@@ -23445,6 +23452,18 @@ msgid ""
 "specify\n"
 "an OPF file.\n"
 msgstr ""
+"\n"
+"%prog set_metadata [opcje] id [/ścieżka/do/metadata.opf]\n"
+"\n"
+"Pobiera metadane książki o identyfikatorze id z pliku metadat.opf i zapisuje "
+"je w bazie danych.\n"
+"id można uzyskać za pomoca polecenia list. Można się szybko zorientować w "
+"budowie\n"
+"pliku OPF dodając do polecenia show_metadata opcję --as-opf. Można również "
+"ustawić\n"
+"poszczególne pola dzięki opcji --field. Jeśli została użyta opcja --field "
+"nie ma potrzeby\n"
+"podawać pliku OPF.\n"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:559
 msgid ""
@@ -27476,7 +27495,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:539
 msgid "Choose available output formats for conversion"
-msgstr ""
+msgstr "Wybierz dostępne formaty konwersji"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:540
 msgid ""
@@ -27486,3 +27505,7 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
+"Ogranicz listę dostepnych formatów wyjściowych w oknie konwersji.\n"
+"Jeśli na przykład nie są używane formaty wyjściowe poza EPUB i AZW3 można\n"
+"ograniczyć listę do tych dwóch: restrict_output_formats = ['EPUB', 'AZW3'].\n"
+"Domyślna wartość None powoduje, że wszystkie formaty są widoczne na liście."
