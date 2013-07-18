@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-12 02:51+0000\n"
-"PO-Revision-Date: 2013-07-14 18:27+0000\n"
+"PO-Revision-Date: 2013-07-17 19:59+0000\n"
 "Last-Translator: Simon Schütte <simonschuette@arcor.de>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-15 04:51+0000\n"
+"X-Launchpad-Export-Date: 2013-07-18 05:58+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "X-Poedit-Bookmarks: 3327,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -2954,6 +2954,30 @@ msgid ""
 "\n"
 "For full documentation of the conversion system see\n"
 msgstr ""
+"input_file output_file [optionen]\n"
+"\n"
+"Ein eBook von einem Format in ein Anderes konvertieren.\n"
+"\n"
+"input_file ist die Quell- und output_file die Ziel-Datei. Beide müssen als "
+"die ersten beiden Argumente dem Kommando übergeben werden.\n"
+"\n"
+"Das Ausgabeformat wird durch die Dateiendung von output_file bestimmt. "
+"output_file kann auch das Spezialformat .EXT haben, wobei EXT die "
+"Dateiendung ist. In diesem Fall wird der Name der Ausgabedatei aus dem Namen "
+"der Eingabedatei abgeleitet. Bitte beachten: die Dateinamen dürfen nicht mit "
+"einem Bindestrich beginnen. Zu guter letzt, falls output_file\n"
+"keine Dateiendung hat, wird der Name als Verzeichnis behandelt, und ein "
+"\"open ebook\" (OEB), das aus HTML Dateien besteht, wird in dieses "
+"Verzeichnis geschrieben. Diese Dateien sind die, die normalerweise an das "
+"Ausgabe-Plugin übergeben würden.\n"
+"\n"
+"Nach der Angabe von Ein- und Ausgabedatei kann die Konvertierung noch durch "
+"die Angabe verschiedener Optionen angepasst werden.  Welche Optionen hier "
+"zur Verfügung stehen, hängt von den Dateitypen der Ein- und Ausgabedateien "
+"ab.  Um dazu Hilfe zu erhalten geben Sie die Ein- und Ausgabedatei gefolgt "
+"von der Option -h an.\n"
+"\n"
+"Die komplette Dokumentation des Konvertierungssystems findet sich unter\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/cli.py:104
 msgid "INPUT OPTIONS"
@@ -4118,6 +4142,14 @@ msgid ""
 "to supports embedded fonts, such as EPUB, AZW3 or PDF. Please ensure that "
 "you have the proper license for embedding the fonts used in this document."
 msgstr ""
+"Alle Schriftarten einbetten, die im Eingabe-Dokument referenziert, aber "
+"bisher noch nicht eingebunden sind. \r\n"
+"Hierbei werden Schriften auf Ihrem System gesucht und eingebettet, wenn sie "
+"gefunden werden. \r\n"
+"Einbettungen werden nur funktionieren, wenn das Zielformat diese "
+"Schriftarten unterstützt, wie es bei EPUB, AZW3 oder PDF der Fall ist. Bitte "
+"stellen SIe sicher, dass Sie über die richtige Lizenz für die Einbettung "
+"dieser Schriftarten verfügen."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:221
 msgid ""
@@ -5627,16 +5659,20 @@ msgstr ""
 #, python-format
 msgid "Failed to find fonts for family: %s, not embedding"
 msgstr ""
+"Keine Treffer für die Suche nach  Schriftarten der Famile: %s, keine "
+"Einbindung"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
 #, python-format
 msgid ""
 "Failed to find font matching: family: %s; weight: %s; style: %s; stretch: %s"
 msgstr ""
+"Keine Treffer für die Suche nach  Schriftarten: Familie: %s, Größe: %s, "
+"Stil: %s, Streckung: %s,"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
 msgid "No embeddable fonts found"
-msgstr ""
+msgstr "Keine Schriftarten zum Einbetten gefunden"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
@@ -5695,6 +5731,12 @@ msgid ""
 "<p>Please ensure that you have the proper license for embedding the fonts "
 "used in this document.</p>\n"
 msgstr ""
+"<p>Alle Schriftarten einbetten, die im Dokument referenziert, aber bisher "
+"noch nicht eingebunden sind. \n"
+"Hierbei werden Schriften auf Ihrem System gesucht und im Dokument "
+"eingebettet, wenn sie gefunden werden.</p>\n"
+"<p>Bitte stellen SIe sicher, dass Sie über die richtige Lizenz für die "
+"Einbettung dieser Schriftarten verfügen.</p>\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:59
 msgid ""
@@ -6286,6 +6328,7 @@ msgstr "Buchdateien auswählen"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:121
 msgid "The {0} format(s) will be replaced in the book {1}. Are you sure?"
 msgstr ""
+"Die {0} Formate werden im Buch {1} ersetzt. Möchten Sie das wirklich?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:202
 msgid "Adding"
@@ -7399,6 +7442,10 @@ msgid ""
 "books will not be deleted or changed.<br><br>Please confirm you want to "
 "proceed."
 msgstr ""
+"Buch-Formate und Metadaten der gewälten Buch werden zu den <b>zuerst "
+"gewählten Büchern</b> (%s)<br>  hinzugefügt.\r\n"
+"Das zweite und anschießended ausgewählte Buch wird nicht entfernt oder "
+"verändert.<br><br>  Bitte bestätigen Sie, dass Sie fortfahren möchten."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:415
 #, python-format
@@ -7580,7 +7627,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
 msgid "<h3>Embed referenced fonts</h3>%s"
-msgstr ""
+msgstr "<h3>Referenzierte Schriftarten einbetten</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:49
 #, python-format
@@ -7633,7 +7680,7 @@ msgstr "Wählen Sie die Aktionen aus, die durchgeführt werden sollen:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
 msgid "&Embed all referenced fonts"
-msgstr ""
+msgstr "Alle Referenzierten Schriftarten &einbetten"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
@@ -12674,6 +12721,9 @@ msgid ""
 "<p>Remember to update metadata on the device when you are done (Right click "
 "the device icon and select <i>Update cached metadata</i>)</p>"
 msgstr ""
+"<p>Denken Sie daran, die Metadaten auf Ihrem Gerät zu aktualisieren wenn Sie "
+"fertig sind (Rechtsklick auf das Geräte-Icon und <i>Cache-Metadaten "
+"aktualisieren</i>)</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:52
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:298
@@ -13337,7 +13387,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:677
 msgid "&Refresh book list after edit"
-msgstr ""
+msgstr "Bücherliste nach Bearbeitung aktualisie&ren"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/password_ui.py:68
 msgid "Password needed"
@@ -15540,7 +15590,7 @@ msgstr "Dieses Gerät konfigurieren"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:64
 msgid "Update cached metadata on device"
-msgstr ""
+msgstr "Cache-Metadaten auf Gerät aktualisieren"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:77
 msgid "Show books in calibre library"
@@ -15677,7 +15727,7 @@ msgstr "Größe"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1541
 msgid "Waiting for metadata to be updated"
-msgstr ""
+msgstr "Es wird auf Metadaten für die Aktualisierung gewartet"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1543
 msgid "Marked for deletion"
@@ -23231,6 +23281,12 @@ msgid ""
 "Default: '%default'\n"
 "Applies to: AZW3, ePub, MOBI output formats"
 msgstr ""
+"Festlegen des Ausgabeprofils. In einigen Fällen ist ein Ausgabeprofil "
+"erforderlich, um den Katalog für ein Gerät zu optimieren.\n"
+"Zum Beispiel erstellt 'kindle' oder 'kindle_dx' ein strukturiertes "
+"Inhaltsverzeichnis mit Abschnitten und Beiträgen.\n"
+"Standard: '%default'\n"
+"Wird angewendet auf: AZW3, ePub und MOBI Ausgabe-Formate"
 
 #: /home/kovid/work/calibre/src/calibre/library/catalogs/epub_mobi.py:159
 msgid ""
@@ -27959,7 +28015,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:539
 msgid "Choose available output formats for conversion"
-msgstr ""
+msgstr "Wählen Sie verfügbare Ausgabe-Formate für die Konvertierung"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:540
 msgid ""
