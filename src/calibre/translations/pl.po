@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-07-16 18:06+0000\n"
+"PO-Revision-Date: 2013-07-19 16:43+0000\n"
 "Last-Translator: Piotr Parafiniuk <Unknown>\n"
 "Language-Team: Polish <pl@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-07-19 05:51+0000\n"
+"X-Launchpad-Export-Date: 2013-07-20 05:29+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "X-Poedit-Bookmarks: -1,3588,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
@@ -3234,13 +3234,13 @@ msgstr ""
 msgid ""
 "Insert an inline Table of Contents that will appear as part of the main book "
 "content."
-msgstr ""
+msgstr "Wstaw spis treści, który będzie stanowił część książki."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:113
 msgid ""
 "Put the inserted inline Table of Contents at the end of the book instead of "
 "the start."
-msgstr ""
+msgstr "Umieść wstawiany spis treści na końcu książki zamiast na początku."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:117
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:52
@@ -9537,7 +9537,7 @@ msgstr "Wyłącz okładkę &SVG"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:82
 msgid "Insert inline &Table of Contents"
-msgstr ""
+msgstr "Wstaw zintegrowany spis &treści"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:83
 msgid "Do not &split on page breaks"
@@ -9545,7 +9545,7 @@ msgstr "Nie &dziel przy podziałach strony"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:84
 msgid "Put inserted Table of Contents at the &end of the book"
-msgstr ""
+msgstr "Umieść wstawiany spis treści na końcu książki"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:85
 msgid "&Flatten EPUB file structure"
@@ -9553,7 +9553,7 @@ msgstr "&Usuń strukturę pliku EPUB"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:86
 msgid "&Title for inserted ToC:"
-msgstr ""
+msgstr "&Tytuł wstawianego spisu treści:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_input.py:12
 msgid "FB2 Input"
@@ -14892,7 +14892,7 @@ msgstr "Wysyłanie wiadomości do"
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:260
 #, python-format
 msgid "Auto convert the following books to %s before sending via email?"
-msgstr ""
+msgstr "Konwertować automatycznie książki na %s przed wysłaniem ich emailem?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:267
 msgid ""
@@ -27535,8 +27535,3 @@ msgstr ""
 "Jeśli na przykład nie są używane formaty wyjściowe poza EPUB i AZW3 można\n"
 "ograniczyć listę do tych dwóch: restrict_output_formats = ['EPUB', 'AZW3'].\n"
 "Domyślna wartość None powoduje, że wszystkie formaty są widoczne na liście."
-
-#~ msgid "Auto convert the following books before sending via email?"
-#~ msgstr ""
-#~ "Dokonać automatycznej konwersji następujących książek przed wysłaniem ich "
-#~ "emailem?"

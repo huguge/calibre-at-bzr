@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-06-15 09:28+0000\n"
-"Last-Translator: thomass <Unknown>\n"
+"PO-Revision-Date: 2013-07-20 00:24+0000\n"
+"Last-Translator: Serkan Guldal <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-19 05:55+0000\n"
+"X-Launchpad-Export-Date: 2013-07-20 05:34+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -444,7 +444,7 @@ msgstr "Cihazında bulunan kitapları içeren koleksiyonları düzenleyin"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
-msgstr ""
+msgstr "Cihazınızdaki kitapları kitaplıktakiler ile eşleştir"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -1065,7 +1065,7 @@ msgstr "kişisel sütunlar oluşturma "
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:822
 #: /home/kovid/work/calibre/src/calibre/library/custom_columns.py:663
 msgid "No label was provided"
-msgstr ""
+msgstr "Etiket eklemedi"
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:824
 #: /home/kovid/work/calibre/src/calibre/library/custom_columns.py:665
@@ -1073,6 +1073,8 @@ msgid ""
 "The label must contain only lower case letters, digits and underscores, and "
 "start with a letter"
 msgstr ""
+"Sadece küçük harfler, sayılar ve alt çizgiler içermeli. Buna ek olarak harf "
+"ile başlamalı."
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:210
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/book/base.py:637
@@ -1321,7 +1323,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:131
 msgid "Enable debug logging"
-msgstr ""
+msgstr "Hata ayıklama günlüğünü etkin kıl"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:133
 msgid "Print driver debug messages to console"
@@ -1581,7 +1583,7 @@ msgstr "PocketBook 602/603/902/903/Pro 912 Okuyucu ile iletişim kur"
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:282
 msgid "Communicate with the PocketBook 622 and 623 readers."
-msgstr ""
+msgstr "PocketBook 622 ve 623 okuyucularıyla iletişime geç."
 
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:295
 msgid "Communicate with the PocketBook 360+ reader."

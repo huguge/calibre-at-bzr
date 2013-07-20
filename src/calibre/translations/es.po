@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-07-12 15:00+0000\n"
+"PO-Revision-Date: 2013-07-19 15:44+0000\n"
 "Last-Translator: Jellby <Unknown>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-19 05:54+0000\n"
+"X-Launchpad-Export-Date: 2013-07-20 05:32+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -3287,12 +3287,15 @@ msgid ""
 "Insert an inline Table of Contents that will appear as part of the main book "
 "content."
 msgstr ""
+"Insertar un Índice que aparecerá como parte del contenido principal del "
+"libro."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:113
 msgid ""
 "Put the inserted inline Table of Contents at the end of the book instead of "
 "the start."
 msgstr ""
+"Colocar el Índice insertado al final del libro en lugar de al principio"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:117
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:52
@@ -9696,7 +9699,7 @@ msgstr "Sin portada &SVG"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:82
 msgid "Insert inline &Table of Contents"
-msgstr ""
+msgstr "Insertar un Í&ndice explícito"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:83
 msgid "Do not &split on page breaks"
@@ -9704,7 +9707,7 @@ msgstr "No &dividir en saltos de página"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:84
 msgid "Put inserted Table of Contents at the &end of the book"
-msgstr ""
+msgstr "Colocar el Índice insertado al &final del libro"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:85
 msgid "&Flatten EPUB file structure"
@@ -9712,7 +9715,7 @@ msgstr "&Aplanar la estructura de archivos EPUB"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:86
 msgid "&Title for inserted ToC:"
-msgstr ""
+msgstr "&Título para el Índice insertado"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_input.py:12
 msgid "FB2 Input"
@@ -15067,6 +15070,8 @@ msgstr "Enviando correo electrónico a"
 #, python-format
 msgid "Auto convert the following books to %s before sending via email?"
 msgstr ""
+"¿Convertir automáticamente los siguientes libros a %s antes de enviarlos por "
+"correo electrónico?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:267
 msgid ""
@@ -27819,8 +27824,3 @@ msgstr ""
 "Por ejemplo, si sólo desea convertir a EPUB y AZW3, cambie esta opción\n"
 "a restrict_output_formats = ['EPUB', 'AZW3']. El valor predeterminado\n"
 "«None» hace que se muestren todos los formatos de salida."
-
-#~ msgid "Auto convert the following books before sending via email?"
-#~ msgstr ""
-#~ "¿Convertir automáticamente los siguientes libros antes de enviarlos por "
-#~ "correo electrónico?"

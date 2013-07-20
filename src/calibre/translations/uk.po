@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-07-13 13:51+0000\n"
+"PO-Revision-Date: 2013-07-19 06:02+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-07-19 05:56+0000\n"
+"X-Launchpad-Export-Date: 2013-07-20 05:34+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 "Language: uk\n"
 
@@ -3276,12 +3276,14 @@ msgid ""
 "Insert an inline Table of Contents that will appear as part of the main book "
 "content."
 msgstr ""
+"Вставити вбудований зміст, який буде показано як частину основного вмісту "
+"книги."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:113
 msgid ""
 "Put the inserted inline Table of Contents at the end of the book instead of "
 "the start."
-msgstr ""
+msgstr "Розташувати вбудований зміст наприкінці книги, а не на її початку."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:117
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:52
@@ -9655,7 +9657,7 @@ msgstr "Не визначати об&кладинки SVG"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:82
 msgid "Insert inline &Table of Contents"
-msgstr ""
+msgstr "Вставити вбудований з&міст"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:83
 msgid "Do not &split on page breaks"
@@ -9663,7 +9665,7 @@ msgstr "Не &ділити на межі сторінок"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:84
 msgid "Put inserted Table of Contents at the &end of the book"
-msgstr ""
+msgstr "Розташувати вбудований зміст &наприкінці книги"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:85
 msgid "&Flatten EPUB file structure"
@@ -9671,7 +9673,7 @@ msgstr "Сп&ростити файлову структуру EPUB"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:86
 msgid "&Title for inserted ToC:"
-msgstr ""
+msgstr "З&аголовок вставленого змісту:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_input.py:12
 msgid "FB2 Input"
@@ -15058,6 +15060,8 @@ msgstr "Надсилаю електронну пошту  до"
 #, python-format
 msgid "Auto convert the following books to %s before sending via email?"
 msgstr ""
+"Автоматично перетворити вказані нижче книги до формату %s перед надсиланням "
+"їх електронною поштою?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:267
 msgid ""
@@ -27884,7 +27888,3 @@ msgstr ""
 "вікнах перетворення. Наприклад, якщо перетворення буде виконуватися\n"
 "лише до EPUB і AZW3, вкажіть restrict_output_formats = ['EPUB', 'AZW3'].\n"
 "Типовим значенням є None, тобто показ форматів результатів без обмежень."
-
-#~ msgid "Auto convert the following books before sending via email?"
-#~ msgstr ""
-#~ "Автоматично конвертувати наступні книги перед надсиланням електронною поштою?"
