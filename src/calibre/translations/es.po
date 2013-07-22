@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-07-19 15:44+0000\n"
-"Last-Translator: Jellby <Unknown>\n"
+"PO-Revision-Date: 2013-07-21 14:44+0000\n"
+"Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-20 05:32+0000\n"
+"X-Launchpad-Export-Date: 2013-07-22 05:33+0000\n"
 "X-Generator: Launchpad (build 16696)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -24393,32 +24393,31 @@ msgstr "La valoración"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:44
 msgid "The ISBN"
-msgstr "El ISBN"
+msgstr "ISBN zkia."
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:45
 msgid "The publisher"
-msgstr "La editorial"
+msgstr "Argitaletxea"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:46
 msgid "The date"
-msgstr "La fecha"
+msgstr "Data"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:47
 msgid "The published date"
-msgstr "La fecha de publicación"
+msgstr "Noiz argitaratua"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:48
 msgid "The date when the metadata for this book record was last modified"
-msgstr ""
-"La fecha en que se modificaron por última vez los metadatos de este libro"
+msgstr "Liburu honen metadatuak aldatu ziren azkenengo data"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:50
 msgid "The language(s) of this book"
-msgstr "El(los) idioma(s) de este libro"
+msgstr "Liburuaren hizkuntza(k)"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:51
 msgid "The calibre internal id"
-msgstr "La identificación interna (ID) de calibre"
+msgstr "Calibreren barneko ID"
 
 #: /home/kovid/work/calibre/src/calibre/library/save_to_disk.py:79
 msgid "Options to control saving to disk"
