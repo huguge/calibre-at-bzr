@@ -11,15 +11,15 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-06-29 11:48+0000\n"
+"PO-Revision-Date: 2013-07-23 16:31+0000\n"
 "Last-Translator: Ferran Rius <frius64@hotmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-20 05:19+0000\n"
-"X-Generator: Launchpad (build 16696)\n"
+"X-Launchpad-Export-Date: 2013-07-24 05:30+0000\n"
+"X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
@@ -453,6 +453,8 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
 msgstr ""
+"Fes que coincideixin els llibres dels dispositius amb els llibres de la "
+"biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -3250,12 +3252,15 @@ msgid ""
 "Insert an inline Table of Contents that will appear as part of the main book "
 "content."
 msgstr ""
+"Insereix un índex en línia que apareixerà com a part del contingut principal "
+"del llibre."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:113
 msgid ""
 "Put the inserted inline Table of Contents at the end of the book instead of "
 "the start."
 msgstr ""
+"Posa l'índex en línia inserit al final del llibre en lloc del principi"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:117
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:52
@@ -4030,6 +4035,11 @@ msgid ""
 "cases, an output profile can be used to optimize the output for a particular "
 "device, but this is rarely necessary. Choices are:"
 msgstr ""
+"Especifica el perfil de sortida. El perfil de sortida li diu al sistema de "
+"conversió com ha d'optimitzar el document creat per al dispositiu "
+"especificat. En alguns casos es pot utilitzar un perfil de sortida per "
+"optimitzar la sortida per a un dispositiu particular, però no sol ser "
+"necessari. Les opcions són:"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:144
 msgid ""
@@ -4115,6 +4125,12 @@ msgid ""
 "to supports embedded fonts, such as EPUB, AZW3 or PDF. Please ensure that "
 "you have the proper license for embedding the fonts used in this document."
 msgstr ""
+"Incrusta tots els tipus de lletra referenciats al document d'entrada que "
+"encara no estan incrustats. Es farà una cerca dels tipus de lletra al "
+"sistema i, si es troben, s'incrustaran. La incrustació només funciona si el "
+"format que esteu convertint és compatible amb tipus de lletra incrustats, "
+"com l'EPUB, AZW3 o PDF. Assegureu-vos que teniu una llicència adequada per "
+"incrustar els tipus de lletra que s'utilitzen en aquest document."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:221
 msgid ""
@@ -5612,17 +5628,19 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:50
 #, python-format
 msgid "Failed to find fonts for family: %s, not embedding"
-msgstr ""
+msgstr "No s'ha trobat tipus de lletra per a la família: %s, no s'incrusta"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
 #, python-format
 msgid ""
 "Failed to find font matching: family: %s; weight: %s; style: %s; stretch: %s"
 msgstr ""
+"No s'ha trobat un tipus de lletra que coincideixi: família %s, pes %s, estil "
+"%s, extensió %s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
 msgid "No embeddable fonts found"
-msgstr ""
+msgstr "No s'ha trobat cap tipus de lletra incrustable"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
@@ -5805,7 +5823,7 @@ msgstr "S'està embellint la puntuació"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:172
 msgid "Embedding referenced fonts"
-msgstr ""
+msgstr "S'està incrustant els tipus de lletra referenciats"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:177
 msgid "Subsetting embedded fonts"
@@ -6281,7 +6299,7 @@ msgstr "Seleccioneu els fitxers de llibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:121
 msgid "The {0} format(s) will be replaced in the book {1}. Are you sure?"
-msgstr ""
+msgstr "Els formats {0} se substituiran al llibre{1}. Segur?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:202
 msgid "Adding"
@@ -7476,21 +7494,21 @@ msgstr "Ajuda"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:17
 msgid "Match book to library"
-msgstr ""
+msgstr "Fes coincidir el llibre amb la biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:18
 msgid "Match this book to a book in the library"
-msgstr ""
+msgstr "Fes coincidir aquest llibre amb un llibre de la biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:125
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:190
 msgid "Match books"
-msgstr ""
+msgstr "Fes coincidir llibres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
-msgstr ""
+msgstr "Heu de seleccionar un llibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:12
 msgid "Move to next match"
@@ -7580,7 +7598,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
 msgid "<h3>Embed referenced fonts</h3>%s"
-msgstr ""
+msgstr "<h3>Incrusta els tipus de lletra referenciats</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:49
 #, python-format
@@ -7633,7 +7651,7 @@ msgstr "Selecció de les accions a realitzar"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
 msgid "&Embed all referenced fonts"
-msgstr ""
+msgstr "Incrusta tots &els tipus de lletra referenciats"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
@@ -9618,7 +9636,7 @@ msgstr "&Sense portada SVG"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:82
 msgid "Insert inline &Table of Contents"
-msgstr ""
+msgstr "Insereix un índex en &línia"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:83
 msgid "Do not &split on page breaks"
@@ -9626,7 +9644,7 @@ msgstr "No &divideixis en els salts de pàgina"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:84
 msgid "Put inserted Table of Contents at the &end of the book"
-msgstr ""
+msgstr "Posa l'index inserit al final d&el llibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:85
 msgid "&Flatten EPUB file structure"
@@ -9634,7 +9652,7 @@ msgstr "A&plana l'estructura del fitxer EPUB"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:86
 msgid "&Title for inserted ToC:"
-msgstr ""
+msgstr "&Títol de l'índex inserit:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_input.py:12
 msgid "FB2 Input"
@@ -12605,15 +12623,15 @@ msgstr "Autors"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:126
 msgid "You must enter a search expression into the search box"
-msgstr ""
+msgstr "Heu d'introduir una expressió de cerca al quadre de cerca"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:191
 msgid "You must select a matching book"
-msgstr ""
+msgstr "Heu de seleccionar un llibre per fer-lo coincidir"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:82
 msgid "Match Books"
-msgstr ""
+msgstr "Fes coincidir llibres"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:83
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/quickview_ui.py:73
@@ -12629,13 +12647,16 @@ msgstr "Cerca"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:84
 msgid "Do a search to find the book you want to match"
-msgstr ""
+msgstr "Feu una cerca per trobar el llibre que voleu fer coincidir"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:85
 msgid ""
 "<p>Remember to update metadata on the device when you are done (Right click "
 "the device icon and select <i>Update cached metadata</i>)</p>"
 msgstr ""
+"<p>No us oblideu d'actualitzar les metadades del dispositiu quan acabeu (feu "
+"clic dret a la icona del dispositiu i trieu <i>Actualitza les dades de la "
+"memòria cau</i>)</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:52
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/message_box.py:298
@@ -13288,7 +13309,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:677
 msgid "&Refresh book list after edit"
-msgstr ""
+msgstr "&Actualitza la llista de llibres després d'una edició"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/password_ui.py:68
 msgid "Password needed"
@@ -15020,6 +15041,8 @@ msgstr "S'està enviant correu electrònic a"
 #, python-format
 msgid "Auto convert the following books to %s before sending via email?"
 msgstr ""
+"S'ha de convertir automàticament els llibres següents a %s abans d'enviar-"
+"los per correu electrònic?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/email.py:267
 msgid ""
@@ -15469,7 +15492,7 @@ msgstr "Configureu aquest dispositiu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:64
 msgid "Update cached metadata on device"
-msgstr ""
+msgstr "S'ha actualitzat les metadades de la memòria cau del dispositiu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:77
 msgid "Show books in calibre library"
@@ -15606,7 +15629,7 @@ msgstr "Mida"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1541
 msgid "Waiting for metadata to be updated"
-msgstr ""
+msgstr "S'està esperant l'actualització de les metadades"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/library/models.py:1543
 msgid "Marked for deletion"
@@ -27768,7 +27791,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:539
 msgid "Choose available output formats for conversion"
-msgstr ""
+msgstr "Trieu els formats de sortida disponibles per a la conversió"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:540
 msgid ""
