@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-07-20 15:51+0000\n"
-"Last-Translator: Ptitprince <Unknown>\n"
+"PO-Revision-Date: 2013-07-24 10:45+0000\n"
+"Last-Translator: Alixe <alixe01@free.fr>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-22 05:32+0000\n"
-"X-Generator: Launchpad (build 16696)\n"
+"X-Launchpad-Export-Date: 2013-07-25 05:12+0000\n"
+"X-Generator: Launchpad (build 16700)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -371,20 +371,21 @@ msgstr "Affiner le réglage de vos Livres"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr "Éditer le sommaire de vos libres"
+msgstr "Modifier la Table des matières de vos livres"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:804
 msgid "Delete books from your calibre library or connected device"
 msgstr ""
-"Supprimer des livres de votre librairie calibre ou d'un périphérique connecté"
+"Supprimer des livres de votre bibliothèque calibre ou d'un périphérique "
+"connecté"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:809
 msgid "Edit the metadata of books in your calibre library"
-msgstr "Modifier les métadonnées des livres dans votre librairie calibre"
+msgstr "Modifier les métadonnées des livres dans votre bibliothèque calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:814
 msgid "Read books in your calibre library"
-msgstr "Lire des livres dans votre librairie calibre"
+msgstr "Lire des livres dans votre bibliothèque calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:819
 msgid "Download news from the internet in ebook form"
@@ -397,8 +398,7 @@ msgstr "Afficher rapidement une liste des livres connexes"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:829
 msgid "Export books from your calibre library to the hard disk"
-msgstr ""
-"Exporter des livres à partir d’une librairie calibre vers le disque dur"
+msgstr "Exporter des livres de votre bibliothèque calibre vers le disque dur"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:834
 msgid "Show book details in a separate popup"
