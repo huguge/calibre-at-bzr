@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-19 04:12+0000\n"
-"PO-Revision-Date: 2013-07-23 21:15+0000\n"
+"PO-Revision-Date: 2013-07-25 06:52+0000\n"
 "Last-Translator: Michael Keppler <Bananeweizen@gmx.de>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-24 05:31+0000\n"
+"X-Launchpad-Export-Date: 2013-07-26 05:14+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 "X-Poedit-Bookmarks: 3327,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -16498,10 +16498,10 @@ msgid ""
 "red to green.  There is a menu of functions available under this button. "
 "Click and hold on the button to see it."
 msgstr ""
-"Erstellt automatisch den Eintrag zur Autoren-Sortierung basierend auf den "
+"Erstellt automatisch den Eintrag zur Autoren-Sortierung basierend auf dem "
 "aktuellen Autor-Eintrag. Die Verwendung dieser Schaltfläche zur Erstellung "
-"des Eintrags wird die Autoren-Sortierung von rot zu grün ändern. Unter diese "
-"Schaltfläche ist ein Menü von Funktionen verfügbar. Halten Sie die "
+"des Eintrags wird die Autoren-Sortierung von rot zu grün ändern. Unter "
+"dieser Schaltfläche ist ein Menü von Funktionen verfügbar. Halten Sie die "
 "Schaltfläche gedrückt um diese zu sehen."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single.py:132
@@ -16865,7 +16865,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:154
 msgid "&Swap author firstname and lastname"
-msgstr "Vorname und Nachname des Autors vertau&schen."
+msgstr "Vorname und Nachname des Autors vertau&schen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:155
 msgid "&Tags to apply when adding a book:"
@@ -16904,7 +16904,7 @@ msgstr "Der Hinzufügen &Prozess"
 msgid ""
 "<b>Ignore</b> files with the following extensions when automatically adding "
 msgstr ""
-"Dateien beim automatischen Hinzufügen <b>ignorieren</b> ,die folgende "
+"Dateien beim automatischen Hinzufügen <b>ignorieren</b>, die folgende "
 "Endungen haben "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:162
@@ -16938,11 +16938,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:168
 msgid "Check for &duplicates when auto-adding files"
-msgstr "Prüfe auf &Duplikate bei dem automatischen Hinzufügen der Dateien"
+msgstr "Prüfe auf &Duplikate beim automatischen Hinzufügen der Dateien"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:169
 msgid "Folder to auto-add files from"
-msgstr "Ordner, aus dem Datein automatisch hinzugfügt werden"
+msgstr "Ordner, aus dem Dateien automatisch hinzugefügt werden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/adding_ui.py:170
 msgid "Browse for folder"
@@ -25104,7 +25104,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/utils/config_base.py:402
 msgid "Swap author first and last names when reading metadata"
 msgstr ""
-"Vorname und Nachname des Autors beim Einlesen der Metadaten vertauschen."
+"Vorname und Nachname des Autors beim Einlesen der Metadaten vertauschen"
 
 #: /home/kovid/work/calibre/src/calibre/utils/config_base.py:404
 msgid "Add new formats to existing book records"
