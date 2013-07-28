@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-27 04:59+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:52+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -25903,19 +25903,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Edit bookmark"
-#~ msgstr "Editar marcador"
-
-#~ msgid "New title for bookmark:"
-#~ msgstr "Novo título para o marcador:"
-
-#~ msgid "booksize() -- return value of the size field"
-#~ msgstr "booksize() -- retorna o valor do campo de tamanho"
-
-#~ msgid ""
-#~ "ondevice() -- return Yes if ondevice is set, otherwise return the empty "
-#~ "string"
-#~ msgstr ""
-#~ "ondevice() -- retorna Sim se dispositivo-ativo está ativado, do contrário "
-#~ "retorna uma string vazia"

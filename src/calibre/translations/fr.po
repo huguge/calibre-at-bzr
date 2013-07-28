@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-25 15:57+0000\n"
-"Last-Translator: Ptitprince <Unknown>\n"
+"PO-Revision-Date: 2013-07-27 23:31+0000\n"
+"Last-Translator: Alixe <alixe01@free.fr>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-27 04:42+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:36+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
@@ -377,7 +377,7 @@ msgstr "Affiner le réglage de vos Livres"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "Edit the Table of Contents in your books"
-msgstr "Modifier la Table des matières de vos livres"
+msgstr "Modifier la table des matières de vos livres"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:804
 msgid "Delete books from your calibre library or connected device"
@@ -430,9 +430,8 @@ msgid ""
 "Send books via email or the web also connect to iTunes or folders on your "
 "computer as if they are devices"
 msgstr ""
-"Envoyer des livres par courriel, sur la Toile ou encore en se connectant à "
-"iTunes ou bien à des répertoires sur votre ordinateur comme s'ils étaient "
-"des appareils."
+"Envoyer des livres par courriel, sur internet, se connecter à iTunes ou à "
+"des répertoires de votre ordinateur comme s'ils étaient des appareils."
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:861
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/help.py:16
@@ -452,12 +451,12 @@ msgstr ""
 msgid ""
 "Switch between different calibre libraries and perform maintenance on them"
 msgstr ""
-"Basculer entre les différentes librairies calibre et effectuer de la "
-"maintenance dessus"
+"Basculer entre les différentes bibliothèques calibre et y effectuer des "
+"opérations de maintenance"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:882
 msgid "Copy books from the devce to your calibre library"
-msgstr "Copier des livres de votre appareil vers votre librairie calibre"
+msgstr "Copier des livres de votre appareil dans la bibliothèque calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:887
 msgid "Edit the collections in which books are placed on your device"
@@ -472,7 +471,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
-msgstr "Copier un livre depuis une librairie calibre vers une autre"
+msgstr "Copier un livre d'une bibliothèque calibre vers une autre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:902
 msgid "Make small tweaks to epub or htmlz files in your calibre library"
@@ -485,21 +484,22 @@ msgid ""
 "Find the next or previous match when searching in your calibre library in "
 "highlight mode"
 msgstr ""
-"Trouver la correspondance précédente ou suivante lors des recherches dans "
-"votre librairie calibre en mode surligné"
+"Trouver la correspondance précédente ou suivante lors des recherches en mode "
+"surligné dans la bibliothèque calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:913
 msgid "Choose a random book from your calibre library"
-msgstr "Choisir un livre au hasard à partir de votre librairie calibre"
+msgstr "Choisir un livre au hasard dans la bibliothèque calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:920
 msgid "Search for books from different book sellers"
-msgstr "Rechercher des livres à partir de différents revendeurs de livres"
+msgstr ""
+"Rechercher des livres dans différentes librairies de livres numériques"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:936
 msgid "Get new calibre plugins or update your existing ones"
 msgstr ""
-"Obtenir les nouveaux modules d’extension Calibre ou mettre à jour ceux "
+"Obtenir de nouveaux modules d’extension calibre ou mettre à jour ceux "
 "existant"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:955
@@ -682,7 +682,7 @@ msgid ""
 "library from anywhere, on any device, over the internet"
 msgstr ""
 "Installer le serveur de contenu de calibre qui vous permet d’accéder à votre "
-"bibliothèque calibre n’importe où, sur tous vos appareils, via Internet"
+"bibliothèque calibre de n’importe où, sur tous vos appareils, via Internet"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1128
 msgid "Metadata download"
@@ -697,7 +697,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1139
 #: /home/kovid/work/calibre/src/calibre/gui2/device_drivers/mtp_config.py:400
 msgid "Ignored devices"
-msgstr "Périphériques ignorés"
+msgstr "Périphériques à  ignorer"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1145
 msgid ""
@@ -952,7 +952,7 @@ msgstr "Ce profil est prévu pour le Kindle Amazon PaperWhite"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:679
 msgid "This profile is intended for the Amazon Kindle Fire."
-msgstr "Ce profile est prévu pour le Kindle Fire d’Amazon"
+msgstr "Ce profil est prévu pour le Kindle Fire d’Amazon"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:748
 msgid "This profile is intended for the B&N Nook Color."
@@ -1023,7 +1023,7 @@ msgid ""
 "plugin. This command will automatically zip up the plugin and update it in "
 "calibre."
 msgstr ""
-"Pour les développeurs de plugin : le chemin vers le répertoire où vous "
+"Pour les développeurs de plugin : chemin vers le répertoire où vous "
 "développez le plugin. Cette commande va automatiquement compresser le plugin "
 "et le mettre à jour dans calibre."
 
@@ -1039,7 +1039,7 @@ msgid ""
 "by a comma."
 msgstr ""
 "Personnaliser le module d’extension. Spécifier le nom du module d’extension "
-"et la chaîne de personnalisation séparés par une virgule."
+"et la chaîne de personnalisation en les séparant par une virgule."
 
 #: /home/kovid/work/calibre/src/calibre/customize/ui.py:620
 msgid "List all installed plugins"
@@ -1099,7 +1099,7 @@ msgstr "Informations"
 #, python-format
 msgid "Path to library too long. Must be less than %d characters."
 msgstr ""
-"Chemin de la librairie trop long. Doit être inférieur à %d caractères."
+"Chemin de la bibliothèque trop long. Doit être inférieur à %d caractères."
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:389
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:191
@@ -1222,7 +1222,7 @@ msgstr "Effectué"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:233
 msgid "Creating custom column "
-msgstr ""
+msgstr "Créer une colonne personnalisée "
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
@@ -1557,9 +1557,9 @@ msgid ""
 "Unable to add book to library directly from Bambook. Please save the book to "
 "disk and add the file to library from disk."
 msgstr ""
-"Impossible d’ajouter un  livre directement à la bibliothèque à partir du "
-"Bambook. Veuillez sauver le livre sur le disque et ajouter le fichier à la "
-"bibliothèque à partir du disque."
+"Impossible d’ajouter un livre directement à la bibliothèque à partir du "
+"Bambook. Veuillez sauvegarder le livre sur le disque et ajouter le fichier à "
+"la bibliothèque à partir du disque."
 
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:67
 msgid ""
@@ -1821,11 +1821,11 @@ msgstr "Communique avec la liseuse électronique IRex Digital Reader 1000."
 
 #: /home/kovid/work/calibre/src/calibre/devices/irexdr/driver.py:42
 msgid "Communicate with the IRex Digital Reader 800"
-msgstr "Communiquer avec le lecteur IRex Digital 800"
+msgstr "Communique avec le lecteur IRex Digital 800"
 
 #: /home/kovid/work/calibre/src/calibre/devices/iriver/driver.py:17
 msgid "Communicate with the Iriver Story reader."
-msgstr "Communiquer avec le lecteur Iriver Story."
+msgstr "Communique avec le lecteur Iriver Story."
 
 #: /home/kovid/work/calibre/src/calibre/devices/jetbook/driver.py:20
 msgid "Communicate with the JetBook eBook reader."
@@ -1841,7 +1841,7 @@ msgstr "Communiquer avec le lecteur JetBook Mini."
 
 #: /home/kovid/work/calibre/src/calibre/devices/jetbook/driver.py:143
 msgid "Communicate with the JetBook Color reader."
-msgstr "Communique avec le JetBook Color reader"
+msgstr "Communique avec le lecteur JetBook Color"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kindle/apnx.py:39
 #, python-format
@@ -1934,9 +1934,9 @@ msgid ""
 "example, #pages. "
 msgstr ""
 "Si vous avez une colonne personnalisée dans calibre que vous utilisez pour "
-"stocker le nombre de pages des livres, calibre peut utiliser cette "
-"information, au lieu de calculer un nombre de pages. Introduisez le nom de "
-"cette colonne personnalisée ici, par exemple, #pages. "
+"stocker le nombre de pages des livres, calibre pourra utiliser cette "
+"information au lieu de la calculer. Indiquez le nom de cette colonne "
+"personnalisée ici (par exemple, #pages). "
 
 #: /home/kovid/work/calibre/src/calibre/devices/kindle/driver.py:455
 msgid "Communicate with the Kindle DX eBook reader."
@@ -1944,11 +1944,11 @@ msgstr "Communique avec la liseuse électronique Kindle DX."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kindle/driver.py:467
 msgid "Communicate with the Kindle Fire"
-msgstr "Communiquer avec le Kindle Fire"
+msgstr "Communique avec le Kindle Fire"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:36
 msgid "Communicate with the Kobo Reader"
-msgstr "Communiquer avec la liseuse électronique  Kobo"
+msgstr "Communique avec la liseuse électronique Kobo"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:69
 msgid "The Kobo supports several collections including "
@@ -1989,9 +1989,9 @@ msgid ""
 "delete them with the new delete logic."
 msgstr ""
 "Un bogue dans une version précédente laissait des enregistrement de livres "
-"non kepubs dans la base de données. Avec cette option, calibre montrera les "
-"enregistrements qui ont expirés, et vous autorisera à les supprimer avec la "
-"nouvelle logique de suppression."
+"non kepubs dans la base de données. Avec cette option, calibre vous "
+"signalera les enregistrements ayant expirés et vous autorisera à les "
+"supprimer selon la nouvelle règle de suppression."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:83
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1248
@@ -2038,8 +2038,9 @@ msgid ""
 msgstr ""
 "Kobo met à jour régulièrement le firmware et la version de la base de "
 "données. Avec cette option, Calibre tentera fonctionner en lecture-écriture -"
-" Attention, danger !! N'activez que si vous êtes confortable avec l'idée de "
-"restaurer les paramètres d'usine de votre Kobo, et de tester des logiciels."
+" Attention, danger !! N'activez cette option que si vous êtes d'accord avec "
+"l'idée de restaurer les paramètres d'usine de votre Kobo et de tester des "
+"logiciels."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:622
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:2667
@@ -2069,9 +2070,9 @@ msgstr ""
 "désactivés. Si vous êtes disposé à expérimenter et que vous savez comment "
 "réinitialiser votre Kobo aux paramètres d'usine, vous pouvez outrepasser ce "
 "contrôle par un clic droit sur l'icône de l'appareil dans Calibre et "
-"sélectionner \"Configurer cet appareil\" puis ensuite l'option  \"Tentative "
-"de support d'un micrologiciel plus récent\". Faire ceci peut vous obliger à "
-"réinitialiser votre Kobo aux paramètres d'usine."
+"sélectionner \"Configurer cet appareil\" puis ensuite l'option \"Tentative "
+"de support d'un micrologiciel plus récent\". Il est possible que cela "
+"entraîne la réinitialisation de votre Kobo aux paramètres d'usine."
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:651
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:426
@@ -2261,7 +2262,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/misc.py:19
 msgid "Communicate with the Palm Pre"
-msgstr "Communiquer avec le Palm Pre"
+msgstr "Communique avec le Palm Pre"
 
 #: /home/kovid/work/calibre/src/calibre/devices/misc.py:39
 msgid "Communicate with the Bq Avant"
@@ -2322,7 +2323,7 @@ msgstr "Communique avec le Ex124G"
 
 #: /home/kovid/work/calibre/src/calibre/devices/misc.py:418
 msgid "Communicate with the WayteQ and SPC Dickens Readers"
-msgstr "Communiquer avec les lecteurs WayteQ et SPC Dickens"
+msgstr "Communique avec les lecteurs WayteQ et SPC Dickens"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/base.py:29
 msgid "MTP Device"
@@ -2397,11 +2398,11 @@ msgstr "Suppression des livres des métadonnées"
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:486
 #, python-format
 msgid "Removed %s"
-msgstr "%s enlevé(e)"
+msgstr "%s a été supprimé"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/driver.py:488
 msgid "All books removed"
-msgstr "Tous les livres ont été enlevés"
+msgstr "Tous les livres ont été supprimés"
 
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/unix/driver.py:212
 #: /home/kovid/work/calibre/src/calibre/devices/mtp/windows/driver.py:315
@@ -2533,7 +2534,7 @@ msgid ""
 msgstr ""
 "Activer cette option pour avoir les couvertures de livres séparées "
 "téléchargés chaque fois que vous connectez votre appareil. Désactivez cette "
-"option si vous avez tant de livres sur le lecteur que les performances "
+"option si vous avez tellement de livres sur le lecteur que les performances "
 "deviennent inacceptables."
 
 #: /home/kovid/work/calibre/src/calibre/devices/prs505/driver.py:89
@@ -2826,7 +2827,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/device.py:623
 #, python-format
 msgid "Unable to mount main memory (Error code: %d)"
-msgstr "Impossible de monter la mémoire principale (Code d’erreur : %d)"
+msgstr "Impossible d'accéder à la mémoire principale (Code d’erreur : %d)"
 
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/device.py:674
 #, python-format
@@ -2839,7 +2840,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/device.py:809
 msgid "Unable to mount the device"
-msgstr "Impossible de monter l’appareil"
+msgstr "Impossible d'accéder à l'appareil"
 
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/deviceconfig.py:12
 msgid "Configure Device"
@@ -2903,12 +2904,12 @@ msgid ""
 "your SD card using the FAT32 filesystem. Also make sure there are not too "
 "many files in the root of your SD card. Underlying error: %s"
 msgstr ""
-"Impossible d’accéder aux fichiers de votre carte SD dans votre appareil. "
-"Ceci peut se produire pour plusieurs raisons. La carte SD peut être "
-"corrompue, peut être trop grande pour votre appareil, peut être protégée en "
-"écriture, etc. Essayer une autre carte SD, ou formater votre carte en "
-"utilisant le système de fichiers FAT32. Vérifier aussi qu’il n’y a pas trop "
-"de fichiers à la racine de votre carte SD.\r\n"
+"Impossible d’accéder aux fichiers de la carte SD de votre appareil. Il peut "
+"y avoir plusieurs raisons. La carte SD peut être corrompue, peut être trop "
+"grande pour votre appareil, peut être protégée en écriture, etc. Essayer une "
+"autre carte SD ou formater votre carte en utilisant le système de fichiers "
+"FAT32. Vérifier aussi qu’il n’y a pas trop de fichiers à la racine de votre "
+"carte SD.\r\n"
 "Erreur survenue : %s"
 
 #: /home/kovid/work/calibre/src/calibre/devices/user_defined/driver.py:37
@@ -12143,7 +12144,7 @@ msgstr "Vérifier l’intégrité de la base de données"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/check_library.py:30
 msgid "This will take a while, please wait..."
-msgstr ""
+msgstr "L'opération peut prendre un moment. Veuillez patienter..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/check_library.py:140
 msgid "Loading database from SQL"
@@ -13012,7 +13013,7 @@ msgstr "En cours"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk.py:72
 #, python-format
 msgid "Processing %d books, please wait..."
-msgstr ""
+msgstr "%d de livres traités, veuillez patienter..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk.py:277
 msgid "Title/Author"
@@ -15869,7 +15870,7 @@ msgstr "Bibliothèque Virtuelle"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:192
 msgid "Close the Virtual Library"
-msgstr ""
+msgstr "Fermer la bibliothèque virtuelle"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:205
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:210
@@ -20358,6 +20359,7 @@ msgstr "Il n'y a pas de recherche actuelle à utiliser"
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:462
 msgid "Are you sure you want to remove the virtual library <b>{0}</b>?"
 msgstr ""
+"Êtes-vous sûr de vouloir supprimer la bibliothèque virtuelle <b>{0}</b> ?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:134
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts_ui.py:74
@@ -25478,6 +25480,8 @@ msgid ""
 "Duplicate user function name {0}. Change the name or ensure that the "
 "functions are identical"
 msgstr ""
+"Le nom {0} correspond à une fonction existante. Veuillez modifier le nom ou "
+"vous assurer que les fonctions sont identiques."
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:116
 msgid "No documentation provided"
@@ -25868,13 +25872,25 @@ msgid ""
 "columns\", use the function in that column's template, and use that column's "
 "value in your save/send templates"
 msgstr ""
+"approximate_formats() -- retourne une liste séparées par des virgules de "
+"formats qui,  à un certain moment, on été associés avec le livre. Il n'y a "
+"aucune garantie que cette liste est correcte, bien qu'elle le soit "
+"probablement. Cette fonction peut-être appelée en mode de modèle de "
+"programme en utilisant le modèle \"{:'approximate_formats()'}\". Notez que "
+"ces noms de formats sont toujours en majuscule, comme dans EPUB. Cette "
+"fonction n'est utilisable que dans l'interface utilisateur. Si vous désirez "
+"utiliser cette valeur dans \"Enregistrer sur le disque\" ou \"Envoyer vers "
+"l'appareil\", vous devez créer une colonne personnalisée de type \"Colonne "
+"construite à partir d'autres colonnes\" et utiliser cette fonction dans le "
+"modèle de la colonne. Vous pourrez ensuite utiliser la valeur de la colonne "
+"dans vos modèles d'enregistrement / d'envoi."
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:658
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:929
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:947
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:1286
 msgid "This function can be used only in the GUI"
-msgstr ""
+msgstr "Cette fonction n'est utilisable que dans l'interface utilisateur"
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:664
 msgid ""
@@ -26061,6 +26077,13 @@ msgid ""
 "use the function in that column's template, and use that column's value in "
 "your save/send templates"
 msgstr ""
+"booksize() -- retourne la taille du champ. Cette fonction n'est utilisable "
+"que dans l'interface utilisateur. Si vous désirez utiliser cette valeur dans "
+"\"Enregistrer sur le disque\" ou \"Envoyer vers l'appareil\", vous devez "
+"créer une colonne personnalisée de type \"Colonne construite à partir "
+"d'autres colonnes\" et utiliser cette fonction dans le modèle de la colonne. "
+"Vous pourrez ensuite utiliser la valeur de la colonne dans vos modèles "
+"d'enregistrement / d'envoi."
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:935
 msgid ""
@@ -26070,6 +26093,13 @@ msgid ""
 "\"Column built from other columns\", use the function in that column's "
 "template, and use that column's value in your save/send templates"
 msgstr ""
+"ondevice() -- renvoie Yes si \"Sur l'appareil\" est activé, sinon renvoie "
+"une chaîne vide. Cette fonction n'est utilisable que dans l'interface "
+"utilisateur. Si vous désirez utiliser cette valeur dans \"Enregistrer sur le "
+"disque\" ou \"Envoyer vers l'appareil\", vous devez créer une colonne "
+"personnalisée de type \"Colonne construite à partir d'autres colonnes\" et "
+"utiliser cette fonction dans le modèle de la colonne. Vous pourrez ensuite "
+"utiliser la valeur de la colonne dans vos modèles d'enregistrement / d'envoi."
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:953
 msgid "series_sort() -- return the series sort value"
@@ -26293,6 +26323,14 @@ msgid ""
 "make a custom \"Column built from other columns\", use the function in that "
 "column's template, and use that column's value in your save/send templates"
 msgstr ""
+"virtual_libraries() -- retourne une liste séparées par des virgules de "
+"bibliothèques virtuelles contenant ce livre. Cette fonction n'est utilisable "
+"que dans l'interface utilisateur. Si vous désirez utiliser cette valeur dans "
+"\"Enregistrer sur le disque\" ou \"Envoyer vers l'appareil\", vous devez "
+"créer une colonne personnalisée de type \"Colonne construite à partir "
+"d'autres colonnes\" et utiliser cette fonction dans le modèle de la colonne. "
+"Vous pourrez ensuite utiliser la valeur de la colonne dans vos modèles "
+"d'enregistrement / d'envoi."
 
 #: /home/kovid/work/calibre/src/calibre/utils/ipc/job.py:43
 msgid "Waiting..."
@@ -27897,17 +27935,17 @@ msgid ""
 "used, regardless of what is displayed. Set this tweak to True to use only\n"
 "the fields that are being displayed."
 msgstr ""
-"Les valeurs des dates contiennent une date et un temps. Lorsque qu’ils sont "
-"triés,\n"
-"tous les champs sont utilisés, quelque soit ce qui est affiché. Mettre cette "
-"option\n"
-"à True pour utiliser seulement les champs qui sont affichés."
+"Les valeurs des dates contiennent à la fois une date et une heure. Lors du "
+"tri,\n"
+"les deux notions sont utilisées, quelque soit l'affichage choisi. Mettre "
+"cette option\n"
+"à 'True' pour utiliser seulement ce qui est visible."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:379
 msgid "Specify which font to use when generating a default cover or masthead"
 msgstr ""
-"Spécifier quelle fonte utiliser lorsque une couverture par défaut ou une en-"
-"tête est générée"
+"Spécifier quelle police utiliser lors de la création d'une couverture par "
+"défaut ou d'un en-tête"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:380
 msgid ""
@@ -27916,13 +27954,13 @@ msgid ""
 "default font (Liberation Serif) does not contain glyphs for the language of\n"
 "the books in your library."
 msgstr ""
-"Chemin absolu vers les fichiers de fontes .ttf à utiliser comme fontes pour "
+"Chemin absolu vers les fichiers de fontes .ttf à utiliser comme police pour "
 "le titre,\n"
-"l’auteur et le pied de page lorsqu’une couverture par défaut ou une image "
-"d’en-tête\n"
-"est générée. Utile si la fonte par défaut (Liberation Serif) ne contient pas "
-"les symboles\n"
-"pour la langue du livre dans la bibliothèque."
+"l’auteur et le pied de page lors de la création d'une couverture par défaut "
+"ou d'une image d’en-tête.\n"
+"Utile si la police par défaut (Liberation Serif) ne contient pas les "
+"symboles\n"
+"de la langue d'un des livres de la bibliothèque."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:387
 msgid "Control behavior of the book list"
@@ -28063,9 +28101,9 @@ msgid ""
 "to fit within this size. This is to prevent slowdowns caused by extremely\n"
 "large covers"
 msgstr ""
-"Toutes les couvertures dans la librairie calibre seront redimensionnées, en "
-"préservant le ratio, \n"
-"pour s’ajuster à cette taille. Ceci afin d’éviter des lenteurs causées par "
+"Toutes les couvertures dans la bibliothèque calibre seront redimensionnées, "
+"en préservant le ratio,\n"
+"pour s’ajuster à cette taille. Cela permet d’éviter des lenteurs causées par "
 "des couvertures\n"
 "extrêmement larges."
 
@@ -28084,13 +28122,15 @@ msgid ""
 msgstr ""
 "Lorsque les informations sont automatiquement envoyées à un appareil "
 "connecté, calibre\n"
-"les enverra par défaut dans la mémoire principale. En changeant ce réglage, "
+"les enverra par défaut vers la mémoire principale. En modifiant ce réglage, "
 "vous pouvez\n"
-"contrôler où il est envoyé. Les valeurs acceptables sont \"main\", "
-"\"carda\", \"cardb\". Notez\n"
-"que si il n’y a pas assez d’espace libre disponible dans l’emplacement que "
-"vous choisissez,\n"
-"les fichiers seront envoyés vers l’emplacement avec le plus d’espace libre."
+"contrôler où elles seront envoyées. Les valeurs possibles sont \"main\" "
+"(mémoire principale), \n"
+"\"carda\" (lecteur A), \"cardb\" (lecteur B). Notez que si il n’y a pas "
+"assez d’espace libre disponible \n"
+"dans l’emplacement que vous choisissez, les fichiers seront envoyés vers "
+"l’emplacement\n"
+"où il y a le plus d’espace libre."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:450
 msgid "What interfaces should the content server listen on"
@@ -28132,20 +28172,20 @@ msgid ""
 "on at your own risk!"
 msgstr ""
 "Si vous activez cette option et que vous redémarrez calibre, la barre "
-"d’outil sera 'unifiée'\n"
-"avec la barre de titre comme c’est le cas habituellement avec les "
-"applications OS X. Cependant, ceci\n"
-"entraîne de bogues variés, par exemple la largeur minimum de la barre "
-"d’outil est multipliée par deux,\n"
-"et peux causer des bogues aléatoires sur d’autres systèmes, donc activez-la "
-"à vos risques et périls!"
+"d’outil sera 'fondue'\n"
+"dans la barre de titre comme c’est le cas habituellement avec les "
+"applications OS X. Cela peut\n"
+"entraîner divers bug, comme la multiplication par deux de la largeur minimum "
+"de la barre d’outil,\n"
+"et est susceptible de causer des bugs aléatoires sur d’autres systèmes. Vous "
+"l'activez donc à vos risques et périls !"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:466
 msgid ""
 "Save original file when converting/polishing from same format to same format"
 msgstr ""
-"Sauvegarder le fichier original lors de la conversion/polissage d'un même "
-"format à un même format"
+"Sauvegarder le fichier original lors de la conversion/polissage d'un format "
+"vers le même format"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:467
 msgid ""
@@ -28156,21 +28196,19 @@ msgid ""
 "Similarly, by setting save_original_format_when_polishing to False you can\n"
 "prevent calibre from saving the original file when polishing."
 msgstr ""
-"Quand calibre fait une conversion d'un même format à un même format, par\n"
-"exemple, d'EPUB à EPUB, le fichier original est sauvé, ainsi dans le cas où "
-"la\n"
-"conversion est pauvre, vous pouvez ajuster les paramètres et recommencer à "
-"nouveau.\n"
-"En paramétrant celui-ci à false vous pouvez empêcher calibre de sauvegarder "
-"le fichier original.\n"
-"Similairement, en paramétrant save_original_format_when_polishing à False "
-"vous pouvez\n"
-"empêcher calibre de sauvegarder le fichier original quand il fait un "
-"perfectionnement."
+"Quand calibre fait une conversion d'un format vers le même format, par\n"
+"exemple, d'EPUB vers EPUB, le fichier original est sauvegardé. Ainsi, en cas "
+"de\n"
+"conversion décevante, vous pouvez ajuster les paramètres et recommencer.\n"
+"En paramétrant cette option à 'false' vous pouvez empêcher calibre de "
+"sauvegarder le fichier original.\n"
+"De même, en paramétrant 'save_original_format_when_polishing' à 'False' vous "
+"pouvez\n"
+"empêcher calibre de sauvegarder le fichier original quand il le modifie."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:476
 msgid "Number of recently viewed books to show"
-msgstr "Nombre de livres récemment vu à afficher"
+msgstr "Nombre de livres récemment consultés à afficher"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:477
 msgid ""
@@ -28178,9 +28216,9 @@ msgid ""
 "Control\n"
 "how many should be shown, here."
 msgstr ""
-"Faire un clique droit sur le bouton Afficher présente une liste des livres "
-"récemment affichés. Contrôler\n"
-"le nombre de livres affichés de cette manière ici."
+"Faire un clic droit sur le bouton Afficher déroule la liste des livres "
+"récemment affichés. Indiquez ici\n"
+"le nombre de livres à afficher."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:481
 msgid "Change the font size of book details in the interface"
@@ -28195,11 +28233,11 @@ msgid ""
 "comments are rendered in the metadata edit dialog. Set it to a positive or\n"
 "negative number to increase or decrease the font size."
 msgstr ""
-"Modifie la taille de police à laquelle les détails des livres est affichée "
-"dans le panneau sur le côté ainsi\n"
-"que les commentaires dans la fenêtre d’édition des métadonnées. Indiquer une "
-"valeur positive ou\n"
-" négative pour augmenter ou baisser la taille de police."
+"Modifie la taille de police dans laquelle les détails du livre est affichée "
+"dans le panneau latéral ainsi\n"
+"que les commentaires dans la boite de dialogue Éditer les métadonnées. "
+"Indiquer une valeur positive ou\n"
+"négative pour augmenter ou diminuer la taille de police."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:487
 msgid "Compile General Program Mode templates to Python"
@@ -28368,36 +28406,3 @@ msgstr ""
 "restrict_output_formats = ['EPUB', 'AZW3']. La valeur par défaut None "
 "entraîne\n"
 "tous les formats de sortie disponibles à être présents."
-
-#~ msgid "Edit bookmark"
-#~ msgstr "Editer le signet"
-
-#~ msgid "booksize() -- return value of the size field"
-#~ msgstr "booksize() -- renvoie la valeur du champ taille"
-
-#~ msgid ""
-#~ "ondevice() -- return Yes if ondevice is set, otherwise return the empty "
-#~ "string"
-#~ msgstr ""
-#~ "ondevice() -- renvoie Yes si ondevice est précisé, sinon renvoie une chaîne "
-#~ "vide"
-
-#~ msgid "New title for bookmark:"
-#~ msgstr "Nouveau titre pour le signet :"
-
-#~ msgid ""
-#~ "approximate_formats() -- return a comma-separated list of formats that at "
-#~ "one point were associated with the book. There is no guarantee that this "
-#~ "list is correct, although it probably is. This function can be called in "
-#~ "template program mode using the template \"{:'approximate_formats()'}\". "
-#~ "Note that format names are always uppercase, as in EPUB."
-#~ msgstr ""
-#~ "approximate_formats() -- retourne une liste séparées par des virgules de "
-#~ "formats qui a un certain moment on été associés avec le livre. Li n'y a "
-#~ "aucune garantie que cette liste est correcte, bien qu'elle le soit "
-#~ "probablement. Cette fonction peut-être appelée en  mode de modèle de "
-#~ "programme en utilisant le modèle \"{:'approximate_formats()'}\". Notez que "
-#~ "ces noms de formats sont toujours en majuscule, comme dans EPUB."
-
-#~ msgid "Are you sure you want to remove the virtual library {0}"
-#~ msgstr "Etes-vous sûr de vouloir supprimer la bibliothèque virtuelle (0)"

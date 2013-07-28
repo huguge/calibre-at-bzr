@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-27 05:00+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:53+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 "Language: zh_TW\n"
 
@@ -24425,12 +24425,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Edit bookmark"
-#~ msgstr "編輯書籤"
-
-#~ msgid "New title for bookmark:"
-#~ msgstr "書籤的新標題："
-
-#~ msgid "booksize() -- return value of the size field"
-#~ msgstr "booksize() -- 傳回大小欄位的數值"

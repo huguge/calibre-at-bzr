@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 1 : (n>=2 && n<=4) ? 2 : 0;\n"
-"X-Launchpad-Export-Date: 2013-07-27 04:54+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:47+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -26528,19 +26528,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Edit bookmark"
-#~ msgstr "Upraviť záložku"
-
-#~ msgid "New title for bookmark:"
-#~ msgstr "Nový názov záložky:"
-
-#~ msgid "booksize() -- return value of the size field"
-#~ msgstr "booksize() -- vráti hodnotu poľa veľkosť (size)"
-
-#~ msgid ""
-#~ "ondevice() -- return Yes if ondevice is set, otherwise return the empty "
-#~ "string"
-#~ msgstr ""
-#~ "ondevice() -- vráti Yes ak je nastavené ondevice (v zariadení), inak prázdny "
-#~ "reťazec"

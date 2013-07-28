@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-27 04:48+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:41+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -24174,9 +24174,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "New title for bookmark:"
-#~ msgstr "북마크에 대한 새로운 제목:"
-
-#~ msgid "Edit bookmark"
-#~ msgstr "북마크 편집하기"

@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-27 04:45+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:39+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -26824,19 +26824,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Edit bookmark"
-#~ msgstr "Könyvjelző szerkesztése"
-
-#~ msgid "New title for bookmark:"
-#~ msgstr "Könyvjelző új neve:"
-
-#~ msgid ""
-#~ "ondevice() -- return Yes if ondevice is set, otherwise return the empty "
-#~ "string"
-#~ msgstr ""
-#~ "ondevice() – visszatérési értéke „Yes”, ha az „ondevice” („Eszközön”) mező "
-#~ "„True” (igaz) értékű, egyébként üres karakterlánc"
-
-#~ msgid "booksize() -- return value of the size field"
-#~ msgstr "booksize() – a méretmező értékével tér vissza"

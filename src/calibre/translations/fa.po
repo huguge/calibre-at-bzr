@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-06-07 13:45+0000\n"
-"Last-Translator: Arman Maghoul <a.m.aegit@gmail.com>\n"
+"PO-Revision-Date: 2013-07-28 01:56+0000\n"
+"Last-Translator: Erfan L <Elkiscoming@gmail.com>\n"
 "Language-Team: Persian <fa@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-27 04:51+0000\n"
+"X-Launchpad-Export-Date: 2013-07-28 05:44+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -459,6 +459,7 @@ msgstr "کپی یک کتاب از یک کتاب خانه کالیبر به دی�
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:902
 msgid "Make small tweaks to epub or htmlz files in your calibre library"
 msgstr ""
+"اعمال تغییر کوچکی در فایل های ePub و یا HTMLZ موجود در کتابخانه ی کالیبر"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:907
 msgid ""
@@ -509,7 +510,7 @@ msgstr "ستون های خودتان را اظافه کنید"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:984
 msgid "Add/remove your own columns to the calibre book list"
-msgstr ""
+msgstr "اضافه کردن/پاک کردن  ستون های خودتان در لیست کتاب های calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:989
 msgid "Toolbar"
@@ -658,7 +659,7 @@ msgstr "چگونگی دریافت مشخصات کتاب توسط کالیبر"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1139
 #: /home/kovid/work/calibre/src/calibre/gui2/device_drivers/mtp_config.py:400
 msgid "Ignored devices"
-msgstr ""
+msgstr "دستگاه‌های نادیده گرفته شده"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1145
 msgid ""
