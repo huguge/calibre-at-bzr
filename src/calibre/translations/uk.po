@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-19 06:02+0000\n"
+"PO-Revision-Date: 2013-07-28 20:38+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@gmail.com>\n"
 "Language-Team: Ukrainian <uk@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-07-28 05:50+0000\n"
+"X-Launchpad-Export-Date: 2013-07-29 05:25+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 "Language: uk\n"
 
@@ -1101,7 +1101,7 @@ msgstr "Створення дампу бази даних у форматі SQL"
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:994
 msgid "Restoring database from SQL"
-msgstr ""
+msgstr "Відновлюємо базу даних з SQL"
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:131
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:882
@@ -1187,7 +1187,7 @@ msgstr "Оброблено"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:233
 msgid "Creating custom column "
-msgstr ""
+msgstr "Створюємо нетиповий стовпчик "
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
@@ -11927,7 +11927,7 @@ msgstr "Перевірка цілісності бази даних"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/check_library.py:30
 msgid "This will take a while, please wait..."
-msgstr ""
+msgstr "Виконання завдання може бути тривалим, зачекайте…"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/check_library.py:140
 msgid "Loading database from SQL"
@@ -12797,7 +12797,7 @@ msgstr "Працюю"
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk.py:72
 #, python-format
 msgid "Processing %d books, please wait..."
-msgstr ""
+msgstr "Обробляємо декілька книг (%d), будь ласка, зачекайте…"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk.py:277
 msgid "Title/Author"
@@ -15622,7 +15622,7 @@ msgstr "Ві&ртуальна бібліотека"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:192
 msgid "Close the Virtual Library"
-msgstr ""
+msgstr "Закриття віртуальної бібліотеки"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:205
 #: /home/kovid/work/calibre/src/calibre/gui2/layout.py:210
@@ -20049,7 +20049,7 @@ msgstr "Немає поточних критерії пошуку"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/search_restriction_mixin.py:462
 msgid "Are you sure you want to remove the virtual library <b>{0}</b>?"
-msgstr ""
+msgstr "Ви справді хочете вилучити віртуальну бібліотеку <b>{0}</b>?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts.py:134
 #: /home/kovid/work/calibre/src/calibre/gui2/shortcuts_ui.py:74
@@ -25122,6 +25122,8 @@ msgid ""
 "Duplicate user function name {0}. Change the name or ensure that the "
 "functions are identical"
 msgstr ""
+"Дублювання назви функції, створеної користувачем, {0}. Змініть назву або "
+"забезпечте ідентичність функцій."
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:116
 msgid "No documentation provided"
@@ -25527,7 +25529,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:947
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:1286
 msgid "This function can be used only in the GUI"
-msgstr ""
+msgstr "Цією функцією можна скористатися лише у графічному інтерфейсі"
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:664
 msgid ""

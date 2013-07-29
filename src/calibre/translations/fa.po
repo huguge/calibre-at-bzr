@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-28 01:56+0000\n"
-"Last-Translator: Erfan L <Elkiscoming@gmail.com>\n"
+"PO-Revision-Date: 2013-07-28 14:54+0000\n"
+"Last-Translator: Seyyed Mohammad Sajjadi <smohs1@gmail.com>\n"
 "Language-Team: Persian <fa@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-07-28 05:44+0000\n"
+"X-Launchpad-Export-Date: 2013-07-29 05:24+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
-msgstr "هیچ اتفاقی رخ نداد"
+msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:59
 #: /home/kovid/work/calibre/src/calibre/db/__init__.py:102
@@ -235,7 +235,7 @@ msgstr "قادر به تنظیم نیست."
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:331
 msgid "File type"
-msgstr "نوع پرونده"
+msgstr "نوع فایل"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:377
 msgid "Metadata reader"
@@ -261,7 +261,7 @@ msgstr "عمل رابط کاربری"
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/main.py:311
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main_ui.py:228
 msgid "Preferences"
-msgstr "تنظیمات"
+msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:646
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/models.py:39
@@ -359,7 +359,7 @@ msgstr "درست کردن یک کاتالوگ از کتاب های کتابخا�
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:789
 msgid "Convert books to various ebook formats"
-msgstr "کتاب‌های‌تان را به فرمت‌های مختلف کتاب‌های الکترونیکی تبدیل کنید"
+msgstr "تبدیل کردن کتاب‌ها به قالب‌های مختلف کتاب الکترونیکی"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:794
 msgid "Fine tune your ebooks"
@@ -489,7 +489,7 @@ msgstr "شکل و شمایل"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:991
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:1003
 msgid "Interface"
-msgstr "واسط"
+msgstr "رابط کاربری"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:961
 msgid "Adjust the look and feel of the calibre interface to suit your tastes"
@@ -703,7 +703,7 @@ msgstr "تنظیمات حرفه ای گوناگون"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:108
 msgid "Options specific to the output format."
-msgstr ""
+msgstr "تنظیمات مختص فرمت خروجی"
 
 #: /home/kovid/work/calibre/src/calibre/customize/conversion.py:118
 msgid "Options specific to the input format."
@@ -1080,7 +1080,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:882
 #: /home/kovid/work/calibre/src/calibre/library/database2.py:486
 msgid "Searches"
-msgstr ""
+msgstr "جست‌وجوها"
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:235
 #: /home/kovid/work/calibre/src/calibre/db/lazy.py:210
@@ -1291,11 +1291,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:335
 msgid "Communicate with S60 phones."
-msgstr ""
+msgstr "ارتباط با گوشی‌های s60"
 
 #: /home/kovid/work/calibre/src/calibre/devices/android/driver.py:354
 msgid "Communicate with WebOS tablets."
-msgstr ""
+msgstr "ارتباط با تبلت‌های WebOS"
 
 #: /home/kovid/work/calibre/src/calibre/devices/apple/driver.py:61
 msgid ""
@@ -1515,7 +1515,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:338
 #: /home/kovid/work/calibre/src/calibre/devices/usbms/driver.py:359
 msgid "Removing books from device..."
-msgstr ""
+msgstr "در حال پاک کردن کتاب‌ها از دستگاه ..."
 
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:369
 #: /home/kovid/work/calibre/src/calibre/devices/bambook/driver.py:374
@@ -1550,7 +1550,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/devices/eb600/driver.py:306
 #: /home/kovid/work/calibre/src/calibre/devices/nuut2/driver.py:18
 msgid "Kovid Goyal"
-msgstr ""
+msgstr "Kovid Goyal"
 
 #: /home/kovid/work/calibre/src/calibre/devices/blackberry/driver.py:36
 msgid "Communicate with the Blackberry playbook."
@@ -1996,7 +1996,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1245
 msgid "Show archived books"
-msgstr ""
+msgstr "نمایش کتاب‌های آرشیو شده"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1246
 msgid ""
@@ -4438,7 +4438,7 @@ msgstr[1] ""
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/metadata_sources.py:164
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:127
 msgid "Languages"
-msgstr ""
+msgstr "زبان‌ها"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/book/base.py:752
 msgid "Timestamp"
@@ -8000,7 +8000,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:355
 msgid "&Authors"
-msgstr ""
+msgstr "&نویسندگان‌"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:356
 msgid "List of books, sorted by Title"
@@ -8172,7 +8172,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi_ui.py:397
 msgid "For books with multiple authors, list each author separately"
-msgstr ""
+msgstr "برای کتاب‌های دارای چند نویسنده، هر نویسنده را جدا فهرست کن"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_tab_template_ui.py:33
 msgid "Tab template for catalog.ui"
@@ -11256,7 +11256,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/library/catalogs/epub_mobi_builder.py:1421
 #: /home/kovid/work/calibre/src/calibre/library/field_metadata.py:113
 msgid "Authors"
-msgstr ""
+msgstr "نویسندگان‌"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:126
 msgid "You must enter a search expression into the search box"
@@ -13510,7 +13510,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/filename_pattern_ui.py:147
 msgid "Authors:"
-msgstr ""
+msgstr "نویسندگان:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/filename_pattern_ui.py:148
 msgid "Regular expression (?P<author>)"
@@ -14338,7 +14338,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/basic_widgets.py:233
 msgid "Authors changed"
-msgstr ""
+msgstr "نویسندگان تغییر یافت."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/basic_widgets.py:234
 msgid ""
@@ -14475,7 +14475,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/basic_widgets.py:1191
 msgid "A comma separated list of languages for this book"
-msgstr ""
+msgstr "زبان"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/basic_widgets.py:1216
 msgid "Unknown language"
@@ -18320,7 +18320,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:439
 msgid "Manage authors, tags, etc"
-msgstr ""
+msgstr "مدیریت نویسندگان، برچسب‌ها، غیره"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/ui.py:440
 msgid ""
@@ -20751,11 +20751,11 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/library/check_library.py:28
 msgid "Invalid authors"
-msgstr ""
+msgstr "نویسندگان نامعتبر"
 
 #: /home/kovid/work/calibre/src/calibre/library/check_library.py:29
 msgid "Extra authors"
-msgstr ""
+msgstr "نویسندگان بیشتر"
 
 #: /home/kovid/work/calibre/src/calibre/library/check_library.py:30
 msgid "Missing book formats"
@@ -23884,7 +23884,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:442
 msgid "Where to send downloaded news"
-msgstr ""
+msgstr "اخبار بار گذاری شده به کجا فرستاده شود"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:443
 msgid ""

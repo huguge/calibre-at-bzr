@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-27 23:31+0000\n"
+"PO-Revision-Date: 2013-07-28 23:29+0000\n"
 "Last-Translator: Alixe <alixe01@free.fr>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-28 05:36+0000\n"
+"X-Launchpad-Export-Date: 2013-07-29 05:24+0000\n"
 "X-Generator: Launchpad (build 16700)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
@@ -364,7 +364,7 @@ msgstr "Récupérer les annotations depuis un Kindle connecté (expérimental)"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:784
 msgid "Generate a catalog of the books in your calibre library"
 msgstr ""
-"Générer un catalogue des livres présents dans votre librairie calibre"
+"Générer un catalogue des livres présents dans votre bibliothèque calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:789
 msgid "Convert books to various ebook formats"
@@ -372,7 +372,7 @@ msgstr "Convertir des livres vers divers formats de livres numériques"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:794
 msgid "Fine tune your ebooks"
-msgstr "Affiner le réglage de vos Livres"
+msgstr "Affiner le réglage de vos livres"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
@@ -418,7 +418,7 @@ msgstr "Redémarrer calibre"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:844
 msgid "Open the folder that contains the book files in your calibre library"
 msgstr ""
-"Ouvrir le répertoire contenant les fichiers du livre dans votre librairie "
+"Ouvrir le répertoire contenant les fichiers du livre de votre bibliothèque "
 "calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:850
@@ -2988,7 +2988,7 @@ msgstr "Répertoire de la carte A"
 
 #: /home/kovid/work/calibre/src/calibre/devices/user_defined/driver.py:69
 msgid "Swap main and card A"
-msgstr "Échanger la mémoire principale et la carte A"
+msgstr "Intervertir la mémoire principale et la carte A"
 
 #: /home/kovid/work/calibre/src/calibre/devices/user_defined/driver.py:70
 msgid ""
@@ -3402,7 +3402,7 @@ msgid ""
 "Put the inserted inline Table of Contents at the end of the book instead of "
 "the start."
 msgstr ""
-"Insérez la Table des Matières intégrée à la fin du livre au lieu du début."
+"Insérez la table des matières intégrée à la fin du livre au lieu du début."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/epub_output.py:117
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:52
@@ -3432,7 +3432,7 @@ msgid ""
 msgstr ""
 "Spécifie le découpage en sections. Une valeur de \"nothing\" transforme le "
 "livre en une seule section. Une valeur de \"files\" transforme chaque "
-"fichier en une section séparée; si ceci échoue, ajuster les paramètres "
+"fichier en une section séparée. En cas d'échec, ajuster les paramètres "
 "« Détection de structure » ou « Table des matières » (active « Forcer "
 "l’utilisation d’une table des matières auto-générée »)."
 
@@ -3456,8 +3456,8 @@ msgid ""
 "Traverse links in HTML files breadth first. Normally, they are traversed "
 "depth first."
 msgstr ""
-"Parcourir les liens dans les fichier HTML en largeur en premier. "
-"Normalement, ils sont parcourus en profondeur en premier."
+"Suivre les liens dans les fichier HTML en adoptant un parcours en largeur au "
+"lieu d'un parcours en profondeur."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/html_input.py:39
 #, python-format
@@ -3532,10 +3532,10 @@ msgid ""
 "inline: Write the CSS as an inline style attribute.\n"
 "tag: Turn as many CSS styles as possible into HTML tags."
 msgstr ""
-"Précise la gestion du CSS. Le défaut est classe.\n"
-"classe : Utilise les classes CSS et les éléments référencent celles-ci.\n"
-"en ligne : Écrit le CSS comme un attribut de style en ligne.\n"
-"balises : Transforme autant de styles CSS que possible en balises HTML."
+"Précise la gestion du CSS. Par défaut : class.\n"
+"class : Utilise les classes CSS et les éléments référençant celles-ci.\n"
+"inline : Écrit le CSS comme un attribut de style en ligne.\n"
+"tag : Transforme autant que possible les styles CSS en balises HTML."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/htmlz_output.py:35
 msgid ""
@@ -3544,10 +3544,10 @@ msgid ""
 "external: Use an external CSS file that is linked in the document.\n"
 "inline: Place the CSS in the head section of the document."
 msgstr ""
-"Comment gérer le CSS quand css-type = 'class' est utilisé.\n"
-"Le défaut est externe.\n"
-"externe : Utilise un fichier CSS externe qui est lié dans le document.\n"
-"en ligne : Place le CSS dans la section d’en-tête du document."
+"Comment gérer le CSS quand le css-type = 'class' est utilisé.\n"
+"Par défaut : external.\n"
+"external : Utilise un fichier CSS externe qui est lié dans le document.\n"
+"inline : Place le CSS dans la section d’en-tête du document."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/htmlz_output.py:42
 msgid ""
@@ -3669,7 +3669,7 @@ msgid ""
 "When adding the Table of Contents to the book, add it at the start of the "
 "book instead of the end. Not recommended."
 msgstr ""
-"Lors de l’ajout de la Table des Matières au livre, l’ajouter au début du "
+"Lors de l’ajout de la table des matières au livre, l’insérer au début du "
 "livre plutôt qu’à la fin. Non recommandé."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:73
@@ -3691,7 +3691,7 @@ msgstr ""
 "Activer le partage de contenu de livres via Facebook etc. sur le Kindle. "
 "ATTENTION : L’utilisation de cette option entraîne l’impossibilité "
 "d’utiliser l’option de synchronisation automatique de la dernière position "
-"de lecture sur plusieurs appareils. Ceci est un problème du à Amazon."
+"de lecture sur plusieurs appareils. C'est est un problème dû à Amazon."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/mobi_output.py:85
 msgid ""
@@ -3745,7 +3745,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/rb_output.py:20
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_output.py:37
 msgid "Add Table of Contents to beginning of the book."
-msgstr "Ajouter la Table des Matières au début du livre."
+msgstr "Ajouter la table des matières au début du livre."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_input.py:20
 msgid "Do not extract images from the document"
@@ -3784,7 +3784,7 @@ msgid ""
 "This does not override the unit for margins!"
 msgstr ""
 "L'unité de mesure pour la taille des pages. L'unité par défaut est le pouce "
-"(inch). Les choix possibles sont %s Note : Ce choix ne surcharge pas celui "
+"(inch). Les choix possibles sont %s Note : Ce choix ne remplacera pas celui "
 "fait pour les marges !"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:63
@@ -3802,8 +3802,8 @@ msgid ""
 "specify the width and height. This overrides any specified paper-size."
 msgstr ""
 "Taille de document personnalisée. Utiliser le format largeur x hauteur, c.-à-"
-"d. `123x321` pour spécifier la largeur et la hauteur. Ceci outrepassera "
-"toute taille de papier spécifiée."
+"d. `123x321` pour spécifier la largeur et la hauteur. Toute taille de papier "
+"spécifiée sera remplacée par celle-ci."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/pdf_output.py:72
 msgid ""
@@ -3907,9 +3907,10 @@ msgid ""
 "depth reduced by default to accommodate applications that can not convert "
 "images on their own such as Dropbook."
 msgstr ""
-"Ne pas réduiire la taille ou la profondeur des images. Les images ont leur "
-"taille et profondeur réduite par défaut pour accomoder les applications qui "
-"ne convertissent pas les images d’elles-mêmes comme Dropbook."
+"Ne pas réduire la taille ou la profondeur des images. Les images ont leur "
+"taille et profondeur réduite par défaut pour être compatibles aux "
+"applications qui ne convertissent pas les images d’elles-mêmes comme "
+"Dropbook."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/recipe_input.py:22
 msgid "Download periodical content from the internet"
@@ -4064,7 +4065,8 @@ msgstr ""
 "* heuristique : Traitement heuristique afin de déterminer les formats comme "
 "des entêtes de chapitre ou du texte en italique.\n"
 "* textile : Traitement utilisant le formatage textile.\n"
-"* markdown : Traitement utilisant le formatage markdown  voir"
+"* markdown : Traitement utilisant le formatage markdown.  Pour en savoir "
+"plus sur Markdown  voir"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_input.py:45
 msgid ""
@@ -4084,7 +4086,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_input.py:51
 msgid "Do not insert a Table of Contents into the output text."
-msgstr "Ne pas insérer une Table des Matières dans le texte de sortie."
+msgstr "Ne pas insérer une table des matières dans le texte de sortie."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plugins/txt_output.py:27
 #, python-format
@@ -4203,11 +4205,11 @@ msgid ""
 "fonts in the output bigger and vice versa. By default, the base font size is "
 "chosen based on the output profile you chose."
 msgstr ""
-"La taille de base pour la fonte en pts. Toutes les tailles de fontes dans le "
-"livre produit seront redimensionnées par rapport à cette taille. En "
-"choisissant une taille large, vous pouvez obtenir des fontes plus grandes en "
-"sortie et vice versa. Par défaut, la taille de base pour la fonte est "
-"choisie par rapport au profil de sortie que vous avez choisi."
+"La taille de base pour la police de caractère en pts. Toutes les tailles de "
+"police dans le livre produit seront redimensionnées par rapport à cette "
+"taille. En choisissant une taille large, vous pouvez obtenir des polices "
+"plus grandes en sortie et vice versa. Par défaut, la taille de base pour la "
+"police est choisie par rapport au profil de sortie que vous avez choisi."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:154
 msgid ""
@@ -4240,7 +4242,7 @@ msgid ""
 msgstr ""
 "La hauteur de ligne minimum, en pourcentage de la taille de la police de "
 "l’élément. calibre s’assurera que chaque élément a une hauteur de ligne "
-"correspondant au moins à cette valeur, quelque soit la spécification du "
+"correspondant au moins à cette valeur, quelle que soit la spécification du "
 "document d’entrée. Fixer à 0 pour désactiver. Par défaut 120%. Utiliser "
 "cette option préférentiellement à une spécification de ligne directe, à "
 "moins de savoir ce que vous faites. Par exemple, vous pouvez obtenir un "
@@ -4310,10 +4312,10 @@ msgid ""
 "page and other artifacts. This option will extract the content from the "
 "tables and present it in a linear fashion."
 msgstr ""
-"Quelques documents mal conçus utilisent les tables pour contrôler "
+"Certains documents mal conçus utilisent les tableaux pour contrôler "
 "l’affichage du texte dans la page. Convertis, ces documents ont souvent le "
-"texte qui déborde de la page et d’autres artéfacts. Cette option extraira le "
-"contenu des tables et le présentera dans un mode linéaire."
+"texte qui déborde de la page et d’autres dysfonctionnements. Cette option "
+"extraira le contenu des tableaux et le présentera dans un mode linéaire."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:239
 msgid ""
@@ -4393,7 +4395,7 @@ msgid ""
 msgstr ""
 "Supprime les entrées de la table des matières qui correspondent à "
 "l’expression rationnelle spécifiée. Les entrées correspondantes ainsi que "
-"leurs enfants sont supprimés."
+"leurs sous-entrées seront supprimées."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:305
 msgid ""
@@ -4401,9 +4403,10 @@ msgid ""
 "entries, i.e. allow more than one entry with the same text, provided that "
 "they point to a different location."
 msgstr ""
-"Lors de la création d’une TDM à partir de liens dans le document d’entrée, "
-"autorise des entrées dupliquées, à savoir autorise plus d’une entrée avec le "
-"même texte, du moment qu’elles pointent vers des emplacements différents."
+"Lors de la création d’une table des matières à partir de liens dans le "
+"document d’entrée, autorise des entrées dupliquées, à savoir autorise plus "
+"d’une entrée avec le même texte, du moment qu’elles pointent vers des "
+"emplacements différents."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:316
 msgid ""
@@ -4468,9 +4471,9 @@ msgid ""
 "family,color,margin-left,margin-right"
 msgstr ""
 "Une liste de propriétés CSS séparée par des virgules et qui sera supprimée "
-"de toutes les règles de style CSS. Cela est utile si la présence de "
-"certaines informations de style les empêche d’être outrepassées sur votre "
-"appareil. Par exemple : font-family,color,margin-left,margin-right"
+"de toutes les règles de style CSS. Utile si la présence de certaines "
+"informations de style les empêche d’être outrepassées sur votre appareil. "
+"Par exemple : font-family,color,margin-left,margin-right"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:369
 msgid ""
@@ -4487,9 +4490,9 @@ msgid ""
 "margins. Sometimes, this can cause the removal of margins that should not "
 "have been removed. In this case you can disable the removal."
 msgstr ""
-"Certains documents spécifient la marge de la page en spécifiant une marge "
+"Certains documents spécifient la marge de la page en précisant une marge "
 "gauche et droite sur chacun des paragraphes. calibre va tenter de détecter "
-"et de supprimer ces marges. Cela peut des fois provoquer le retrait de "
+"et de supprimer ces marges. Cela peut éventuellement provoquer le retrait de "
 "certaines marges qui ne devaient pas être retirés. Dans ce cas, vous pouvez "
 "désactiver le retrait de ces marges."
 
@@ -4557,7 +4560,7 @@ msgstr ""
 "Supprimer l’interligne entre les paragraphes. Positionne aussi une "
 "indentation sur les paragraphes de 1.5em. La suppression de l’interligne ne "
 "fonctionnera pas si le fichier source n’utilise pas les paragraphes "
-"(étiquettes <p> or <div>)."
+"(balises<p> or <div>)."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:428
 msgid ""
@@ -4569,8 +4572,8 @@ msgid ""
 msgstr ""
 "Lorsque calibre supprime les lignes blanches entre les paragraphes, il "
 "ajoute automatiquement une indentation de paragraphe, afin de s’assurer que "
-"les paragraphes peuvent être facilement distingués. Cette option contrôle la "
-"largeur de cette indentation (en em). Si vous fixez une valeur négative, "
+"les paragraphes puissent être facilement distingués. Cette option contrôle "
+"la largeur de cette indentation (en em). Si vous fixez une valeur négative, "
 "alors l’indentation spécifiée dans le document d’entrée est utilisée, c’est "
 "à dire que calibre ne modifie pas l’indentation."
 
@@ -4588,15 +4591,15 @@ msgid ""
 "does not use paragraphs (<p> or <div> tags)."
 msgstr ""
 "Insérer une ligne blanche entre les paragraphes. Ne fonctionnera pas si le "
-"fichier source n’utilise pas de paragraphes. (étiquettes <p> ou <div>)"
+"fichier source n’utilise pas de paragraphes. (balises <p> ou <div>)"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:450
 msgid ""
 "Set the height of the inserted blank lines (in em). The height of the lines "
 "between paragraphs will be twice the value set here."
 msgstr ""
-"Définit la hauteur des lignes blanches insérées (en cadratins). La hauteur "
-"des lignes entre deux paragraphes fera le double de la valeur spécifiée ici."
+"Définit la hauteur des lignes blanches insérées (en em). La hauteur des "
+"lignes entre deux paragraphes fera le double de la valeur spécifiée ici."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:457
 msgid ""
@@ -4616,7 +4619,7 @@ msgid ""
 "Insert the book metadata at the start of the book. This is useful if your "
 "ebook reader does not support displaying/searching metadata directly."
 msgstr ""
-"Insérer les métadonnées au début du livre. Ceci est utile si votre liseuse "
+"Insérer les métadonnées au début du livre. Utile si votre liseuse "
 "électronique ne prend pas en charge directement l’affichage/recherche des "
 "métadonnées."
 
@@ -4655,11 +4658,10 @@ msgid ""
 msgstr ""
 "Transcrire les caractères unicode en représentation ASCII. A utiliser avec "
 "précaution car cela remplacera les caractères unicode par de l’ASCII. Par "
-"exemple cela remplacera \"%s\" par \"Mikhail Gorbachiov\". Aussi noterez-"
-"vous que dans les cas où il y a plusieurs représentations d’un caractère "
-"(caractères communs au chinois et au japonais par exemple), c’est la "
-"représentation basée sur l’interface de langue calibre actuelle qui sera "
-"utilisé."
+"exemple cela remplacera \"%s\" par \"Mikhail Gorbachiov\". Notez que dans "
+"les cas où il y a plusieurs représentations d’un caractère (caractères "
+"communs au chinois et au japonais par exemple), c’est la représentation "
+"basée sur la langue de l’interface de votre calibre qui sera utilisée."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:512
 msgid ""
@@ -4722,7 +4724,7 @@ msgstr "Indiquer l’index de ce livre numérique dans cette série."
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:561
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/cli.py:64
 msgid "Set the rating. Should be a number between 1 and 5."
-msgstr "Indiquer le classement. Doit être un nombre entre 1 et 5."
+msgstr "Indiquer la note. Doit être un nombre entre 1 et 5."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:565
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/cli.py:66
@@ -4768,10 +4770,10 @@ msgid ""
 "h3 tags.  This setting will not create a TOC, but can be used in conjunction "
 "with structure detection to create one."
 msgstr ""
-"Detecte les titre de chapitre et les sous-titres sans mise en forme et les "
-"transforme en balise h2 et h3. Ce réglage ne va pas créer une TDM, mais peut "
-"être utilisé en conjonction avec la détection de structure afin d\"en créer "
-"une."
+"Détecte les titre de chapitre et les sous-titres sans mise en forme et les "
+"transforme en balise h2 et h3. Ce réglage ne va pas créer de table des "
+"matières, mais peut être utilisé dans la partie Détection de structure afin "
+"d'en créer une."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:601
 msgid ""
@@ -4785,8 +4787,8 @@ msgid ""
 "Turn indentation created from multiple non-breaking space entities into CSS "
 "indents."
 msgstr ""
-"Transforme les identations créées par des espaces non-sécables multiples en "
-"retraits CSS."
+"Transforme les retraits de ligne créées par une suite d'espaces insécables "
+"en retraits CSS."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:611
 msgid ""
@@ -4795,25 +4797,26 @@ msgid ""
 "the median line length.  If only a few lines in the document require "
 "unwrapping this value should be reduced"
 msgstr ""
-"Echelle utilisée pour déterminer la longueur à partir de laquelle une ligne "
-"doit être déroulée. Les valeurs acceptables sont les décimaux compris entre "
+"Échelle utilisée pour déterminer la longueur à partir de laquelle une ligne "
+"doit être réévaluée. Les valeurs acceptables sont les décimaux compris entre "
 "0 et 1. La valeur pas défaut est de 0.4, juste en dessous de la valeur "
-"médiane de la longueur de ligne. Si seules quelques lignes dans le document "
-"nécessitent d’être déroulé cette valeur devrait être réduite."
+"médiane des longueurs de ligne dans le document. Si seules quelques lignes "
+"dans le document nécessitent d’être réévaluées cette valeur devrait être "
+"réduite."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:619
 msgid "Unwrap lines using punctuation and other formatting clues."
 msgstr ""
-"Dérouler les lignes en utilisant la ponctuation et d’autres indices de "
-"présentation."
+"Redéfinir la longueur des lignes en se basant sur la ponctuation et autres "
+"indices de présentation."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:623
 msgid ""
 "Remove empty paragraphs from the document when they exist between every "
 "other paragraph"
 msgstr ""
-"Supprimer les paragraphes vides du document quand ils sont présents entre "
-"tous les autres paragraphes"
+"Supprimer les paragraphes vides du document quand ils se trouvent entre "
+"d'autres paragraphes"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:628
 msgid ""
@@ -4838,18 +4841,18 @@ msgid ""
 "used as a dictionary to determine whether hyphens should be retained or "
 "removed."
 msgstr ""
-"Analyser les mots à tirets dans le document. Le document lui-même est "
-"utilisé comme dictionnaire pour déterminer si les tirets devraient être "
-"conservés ou retirés."
+"Analyser les mots contenant des traits d'union dans le document. Le document "
+"lui-même est utilisé comme dictionnaire pour déterminer si les traits "
+"d'union doivent être conservés ou retirés."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:645
 msgid ""
 "Looks for occurrences of sequential <h1> or <h2> tags. The tags are "
 "renumbered to prevent splitting in the middle of chapter headings."
 msgstr ""
-"Recherche les occurences de séquences de balises <h1> ou <h2>. Les balises "
-"sont renumérotées afin de prévenir des divisions au milieu des titres de "
-"chapitres."
+"Recherche les occurrences de séquences de balises <h1> ou <h2>. Les balises "
+"sont renumérotées afin de d'éviter que les titres de chapitres ne soient "
+"coupés en deux."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:651
 msgid "Search pattern (regular expression) to be replaced with sr1-replace."
@@ -4865,7 +4868,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:660
 msgid "Search pattern (regular expression) to be replaced with sr2-replace."
 msgstr ""
-"Motif de recherche (expression rationnelle) qui sera remplacé par sr2-"
+"Modèle de recherche (expression rationnelle) qui sera remplacé par sr2-"
 "replace."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:665
@@ -4876,7 +4879,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:669
 msgid "Search pattern (regular expression) to be replaced with sr3-replace."
 msgstr ""
-"Motif de recherche (expression rationnelle) qui sera remplacée par sr3-"
+"Modèles de recherche (expression rationnelle) qui sera remplacée par sr3-"
 "replace."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:674
@@ -4893,9 +4896,9 @@ msgid ""
 msgstr ""
 "Chemin vers un fichier contenant les expressions régulières de recherche et "
 "remplacement. Le fichier doit contenir en alternances des lignes "
-"d'expressions régulières suivies par des motifs de remplacement (qui peuvent "
-"être une ligne vide). L'expression régulière doit être écrite dans la "
-"syntaxe des regexp python et le fichier doit être encodé en UTF-8."
+"d'expressions régulières suivies par des modèles de remplacement (qui "
+"peuvent être une ligne vide). L'expression régulière doit être écrite dans "
+"la syntaxe des regexp python et le fichier doit être encodé en UTF-8."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:786
 msgid "Could not find an ebook inside the archive"
@@ -4961,7 +4964,7 @@ msgstr ""
 "Normalement, lorsque l’on suit les liens des fichiers HTML, calibre le fait "
 "en profondeur d’abord, c’est-à-dire que si le fichier A pointe sur B et C, "
 "mais B pointe sur D, les fichiers sont ajoutés dans l’ordre A, B, D, C. Avec "
-"cette option, ils seront en revanche ajoutés dans l’ordre A, B, C, D"
+"cette option, ils seront ajoutés dans l’ordre A, B, C, D"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lit/from_any.py:47
 msgid "Creating LIT file from EPUB..."
@@ -5028,7 +5031,7 @@ msgstr "Incapable d’analyser le fichier PNG %s"
 msgid ""
 "An error occurred while processing a table: %s. Ignoring table markup."
 msgstr ""
-"Une erreur s’est produite pendant l’analyse d’une table : %s. Cette table "
+"Une erreur s’est produite pendant l’analyse d’un tableau : %s. Ce tableau "
 "sera ignorée."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/html/convert_from.py:1777
@@ -5037,12 +5040,12 @@ msgid ""
 "Bad table:\n"
 "%s"
 msgstr ""
-"Mauvaise table :\n"
+"Tableau défectueux :\n"
 "%s"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/html/convert_from.py:1799
 msgid "Table has cell that is too large"
-msgstr "La table a une cellule trop grande"
+msgstr "Le tableau a une cellule trop grande"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/html/convert_from.py:1865
 #, python-format
@@ -5102,7 +5105,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/lrs/convert_from.py:288
 msgid "Path to output file"
-msgstr "Chemin vers le fichier sortie"
+msgstr "Chemin vers le fichier en sortie"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/lrs/convert_from.py:290
 msgid "Verbose processing"
@@ -5114,7 +5117,7 @@ msgstr "Convertir LRS en LRS, utile pour déboguer."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/meta.py:485
 msgid "Invalid LRF file. Could not set metadata."
-msgstr "Fichier LRF incorrect. Impossible de fixer les métadonnées."
+msgstr "Fichier LRF incorrect. Impossible de récupérer les métadonnées."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/lrf/meta.py:610
 msgid ""
@@ -5325,7 +5328,7 @@ msgstr "Droits"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/book/formatter.py:31
 msgid "Value: unknown field "
-msgstr "Valeur: champ inconnu "
+msgstr "Valeur : champ inconnu "
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/cli.py:20
 msgid "options"
@@ -5441,7 +5444,7 @@ msgstr "OPF créé dans"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/cli.py:203
 msgid "Cover saved to"
-msgstr "Couverture sauvée sur"
+msgstr "Couverture sauvegardée sur"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/cli.py:205
 msgid "No cover found"
@@ -27916,10 +27919,10 @@ msgid ""
 msgstr ""
 "Paramètre le nombre maximum de niveau de tri que calibre utilisera pour "
 "trier de nouveau la\n"
-"librairie après certaines opérations telles que les recherches ou la "
+"bibliothèque après certaines opérations telles que les recherches ou la "
 "connexion d’un appareil. Chaque\n"
-"niveau de tri inflige une pénalité de performance supplémentaire. Si la base "
-"de données est importante (plusieurs\n"
+"niveau de tri réduit la performance. Si la base de données est importante "
+"(plusieurs\n"
 "milliers de livres) la pénalité peut devenir perceptible. Si vous n’êtes pas "
 "concernés pour les tri\n"
 "multi-niveaux et si vous notez un ralentissement, réduisez la valeur de ce "
@@ -28055,17 +28058,18 @@ msgid ""
 "Enter a comma-separated list of custom field lookup names, as in\n"
 "metadata_edit_custom_column_order = ['#genre', '#mytags', '#etc']"
 msgstr ""
-"Contrôle l’ordre dans lequel les colonnes personnalisées sont listées\n"
-"dans l’édition des métadonnées simple et en batch. Les colonnes listées\n"
-"dans cette personnalisation sont affichées d’abord et dans l’ordre fourni.\n"
-"Toute colonne non listée est affichée après celles listées, dans l’ordre\n"
-"alphabétique. Notez que cette personnalisation ne change pas la taille\n"
-"des fenêtres d’édition. Placer des fenêtres de commentaires dans cette "
-"liste\n"
-"peut donner des espacements de fenêtres étranges lorsque le mode 2 colonnes\n"
-"est utilisé.\n"
-"Entrez une liste séparée par des virgules de noms de recherche de champs\n"
-"personnalisés, comme dans\n"
+"Contrôle dans quel ordre les colonnes personnalisées sont listées dans "
+"Modifier les métadonnées individuellement\n"
+"et Modifier les métadonnées en lot. Les colonnes spécifiées ici sont "
+"indiquées en premier\n"
+"et les autres dans l'ordre indiqué. Les colonnes non indiquées seront "
+"placées après les autres\n"
+" dans l'ordre alphabétique. Do note that this tweak does not change the size "
+"of\n"
+"the edit widgets. Putting comments widgets in this list may result in some\n"
+"odd widget spacing when using two-column mode.\n"
+"Entrer une liste des nom de colonnes personnalisées, séparées par des "
+"virgules selon le modèle suivant :\n"
 "metadata_edit_custom_column_order = ['#genre', '#mytags', '#etc']"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:428
@@ -28125,9 +28129,9 @@ msgstr ""
 "les enverra par défaut vers la mémoire principale. En modifiant ce réglage, "
 "vous pouvez\n"
 "contrôler où elles seront envoyées. Les valeurs possibles sont \"main\" "
-"(mémoire principale), \n"
-"\"carda\" (lecteur A), \"cardb\" (lecteur B). Notez que si il n’y a pas "
-"assez d’espace libre disponible \n"
+"(mémoire principale),\n"
+"\"carda\" (carte A), \"cardb\" (carte B). Notez que si il n’y a pas assez "
+"d’espace libre disponible\n"
 "dans l’emplacement que vous choisissez, les fichiers seront envoyés vers "
 "l’emplacement\n"
 "où il y a le plus d’espace libre."
