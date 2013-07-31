@@ -8,22 +8,22 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-29 23:41+0000\n"
+"PO-Revision-Date: 2013-07-30 14:06+0000\n"
 "Last-Translator: Alixe <alixe01@free.fr>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-07-30 04:39+0000\n"
-"X-Generator: Launchpad (build 16700)\n"
+"X-Launchpad-Export-Date: 2013-07-31 05:16+0000\n"
+"X-Generator: Launchpad (build 16718)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
-msgstr "Ne fait strictement rien"
+msgstr "Ne fait absolument rien"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:59
 #: /home/kovid/work/calibre/src/calibre/db/__init__.py:102
@@ -246,7 +246,7 @@ msgstr "Lecteur de métadonnées"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:407
 msgid "Metadata writer"
-msgstr "Correcteur de métadonnées"
+msgstr "Editeur de métadonnées"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:437
 msgid "Catalog generator"
@@ -395,7 +395,7 @@ msgstr "Lire des livres de la bibliothèque calibre"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:819
 msgid "Download news from the internet in ebook form"
 msgstr ""
-"Télécharger les informations depuis Internet sous forme de livre numérique"
+"Télécharger des informations depuis Internet sous forme de livre numérique"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:824
 msgid "Show a list of related books quickly"
@@ -6737,7 +6737,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:103
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:146
 msgid "No library found"
-msgstr ""
+msgstr "Aucune bibliothèque trouvée"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:109
 #, python-format
@@ -13636,7 +13636,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:677
 msgid "&Refresh book list after edit"
-msgstr "&Régénérer la liste de livre après correction"
+msgstr "&Mettre à jour la liste de livre après l'application des corrections"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/password_ui.py:68
 msgid "Password needed"
@@ -28069,10 +28069,12 @@ msgstr ""
 "indiquées en premier\n"
 "et les autres dans l'ordre indiqué. Les colonnes non indiquées seront "
 "placées après les autres\n"
-" dans l'ordre alphabétique. Do note that this tweak does not change the size "
-"of\n"
-"the edit widgets. Putting comments widgets in this list may result in some\n"
-"odd widget spacing when using two-column mode.\n"
+" dans l'ordre alphabétique. Cette personnalisation ne modifie pas la taille "
+"des boites de dialogue\n"
+"qui permettent la modification. Si vous ajoutez des colonne de type "
+"Commentaire dans cette liste\n"
+"vous risquez d'avoir des champs trop petits pour leur contenu, "
+"particulièrement avec le mode double-colonne.\n"
 "Entrer une liste des nom de colonnes personnalisées, séparées par des "
 "virgules selon le modèle suivant :\n"
 "metadata_edit_custom_column_order = ['#genre', '#mytags', '#etc']"

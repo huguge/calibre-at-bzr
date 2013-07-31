@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-23 10:21+0000\n"
+"PO-Revision-Date: 2013-07-30 16:59+0000\n"
 "Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: http://librezale.org/wiki/Calibre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-28 05:32+0000\n"
-"X-Generator: Launchpad (build 16700)\n"
+"X-Launchpad-Export-Date: 2013-07-31 05:16+0000\n"
+"X-Generator: Launchpad (build 16718)\n"
 "Language: eu\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -1127,7 +1127,7 @@ msgstr "Datubasea SQLra bihurtzen"
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:994
 msgid "Restoring database from SQL"
-msgstr ""
+msgstr "Berriro datu basea eratzen SQL horretatik"
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:131
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:882
@@ -1183,26 +1183,31 @@ msgstr "AKATSA TXANTILOIAN"
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:122
 msgid "Starting restoring preferences and column metadata"
 msgstr ""
+"Hasten hobespenak berrezartzeko prozesua eta zutabe metadatuak ere hasten"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:125
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:125
 msgid "Cannot restore preferences. Backup file not found."
 msgstr ""
+"Ezin dira hobespenak berrezarri. Ez da aurkitu babeskopia fitxategia."
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:135
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:136
 msgid "Finished restoring preferences and column metadata"
 msgstr ""
+"Amaitzen hobespenak berrezartzeko prozesua eta zutabe metadatuak ere amaitzen"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:137
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:138
 msgid "Finished restoring preferences"
-msgstr ""
+msgstr "Amaitu da hobespenak berrezartze prozesua"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:142
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:143
 msgid "Restoring preferences and column metadata failed"
 msgstr ""
+"Huts egin du hobespenak berrezartzeko prozesuak eta zutabe metadatuak "
+"berrezartzeko prozesuak ere bai"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:161
 #: /home/kovid/work/calibre/src/calibre/library/restore.py:162
@@ -1211,7 +1216,7 @@ msgstr "Prozesatua"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:233
 msgid "Creating custom column "
-msgstr ""
+msgstr "Sortzen zutabe pertsonalizatu bat "
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
@@ -4442,6 +4447,9 @@ msgid ""
 "prevents it from being overridden on your device. For example: font-"
 "family,color,margin-left,margin-right"
 msgstr ""
+"CSS estilo arau guztietatik kenduko diren komaz bereizitako CSS propietateen "
+"zerrenda. Onuragarria gailuak estiloak gainidatz ez ditzan informazioa "
+"agertzen baldin bada. Adibidez: font-family, color, margin-left, margin-right"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/plumber.py:369
 msgid ""
@@ -5324,6 +5332,16 @@ msgid ""
 "some metadata on a file type that does not support it, the metadata will be\n"
 "silently ignored.\n"
 msgstr ""
+"\n"
+"Irakurri/Idatzi metadatuak eliburu fitxategi-etatik/-etara\n"
+"\n"
+"Metadatuak irakurtzeko onartutako formatuak: %(read)s\n"
+"\n"
+"Metadatuak idazteko onartutako formatuak: %(write)s\n"
+"\n"
+"Fitxategi mota bakoitzeko metadatu formatu ezberdinak daude.\n"
+"Fitxategi mota horrek onartzen ez duen formatu batean ezarri\n"
+"ezkero, metadatuak ez dira kontutan hartuko.\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/cli.py:40
 msgid ""
@@ -5481,6 +5499,7 @@ msgstr "Amazon enpresako ataria erabilgarri:"
 msgid ""
 "Metadata from Amazon will be fetched using this country's Amazon website."
 msgstr ""
+"Amazon bidezko metadatuak, herri horretako Amazonen gunetik eskuratuko dira."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/amazon.py:859
 msgid "Amazon timed out. Try again later."
@@ -5752,25 +5771,29 @@ msgid ""
 "This MOBI file contains both KF8 and older Mobi6 data. calibre can only edit "
 "MOBI files that contain only KF8 data."
 msgstr ""
+"MOBI fitxategi honek KF8 eta zaharragoa den Mobi6 formatuan du informazioa. "
+"Calibrek KF8 datuak dituen MOBI fitxategian baino ezin ditu aldatu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:50
 #, python-format
 msgid "Failed to find fonts for family: %s, not embedding"
-msgstr ""
+msgstr "Huts egin du family: %s letra-tipoen bilaketak. Ez da txertatuko"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:70
 #, python-format
 msgid ""
 "Failed to find font matching: family: %s; weight: %s; style: %s; stretch: %s"
 msgstr ""
+"Huts egin du family: %s; weight %s; style: %s; stretch: %s letra-tipoaren "
+"bilaketak"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/embed.py:118
 msgid "No embeddable fonts found"
-msgstr ""
+msgstr "Ezin izan da txertatzeko moduko letra-tiporik aurkitu"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/errors.py:17
 msgid "This file is locked with DRM. It cannot be edited."
-msgstr ""
+msgstr "Fitxategi hau DRMarekin giltzatuta dago. Ezin da aldatu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:38
 #, python-format
@@ -5790,6 +5813,21 @@ msgid ""
 "{0}\n"
 "<p>Note that polishing only works on files in the %s formats.</p>"
 msgstr ""
+"<p><i>Liburuak dotoretzea</i> hain gogotsu landutako eliburuetan\n"
+"perfekzioaren distira jartzean datza.</p>\n"
+"\n"
+"<p>Dotoretzean, eliburuaren barne-kodean gerta litezken aldaketak gutxitzen "
+"saiatzen da.\n"
+"Bihurtzerakoan ez bezala, dotoretzean <i>ez da</i> CSS estilorik berdintzen, "
+"ezta fitxategirik\n"
+"berrizendatzen, marjinak doitzen, etab. Ahalik eta aldaketarik txikienak "
+"ezartzen dira\n"
+"lortu nahi den efektua lortze aldera.</p>\n"
+"\n"
+"<p>Liburua dotoretzea, eliburua sortze-prozesuko azken pausua izan beharko "
+"luke.</p>\n"
+"{0}\n"
+"<p>Dotoretzea %s formatuetako fitxategiekin baino ezin daiteke egin.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:50
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:448
