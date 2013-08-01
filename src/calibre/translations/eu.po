@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-07-27 03:21+0000\n"
-"PO-Revision-Date: 2013-07-30 16:59+0000\n"
+"PO-Revision-Date: 2013-07-31 18:51+0000\n"
 "Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: http://librezale.org/wiki/Calibre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-07-31 05:16+0000\n"
+"X-Launchpad-Export-Date: 2013-08-01 05:21+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "Language: eu\n"
 
@@ -5513,6 +5513,8 @@ msgstr "Metadatuen jatorria"
 msgid ""
 "Downloads multiple book covers from Amazon. Useful to find alternate covers."
 msgstr ""
+"Deskargatu hainbat liburu azal Amazonetik. Onuragarria hautazko azalak "
+"aurkitzeko."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/big_book_search.py:33
 msgid "Configure the Big Book Search plugin"
@@ -5563,6 +5565,7 @@ msgstr "Konfiguratu Google Irudiak bilatzaile plugina"
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:23
 msgid "The maximum number of covers to process from the google search result"
 msgstr ""
+"Google bilaketaren emaitzetan agertu beharreko gehienezko azal zenbakia."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:24
 msgid "Cover size"
@@ -5570,7 +5573,7 @@ msgstr "Liburu-azalaren neurria"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:25
 msgid "Search for covers larger than the specified size"
-msgstr ""
+msgstr "Bilatu azalak zehaztutako tamaina baino handiagoak"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/google_images.py:27
 msgid "Any size"
@@ -5633,6 +5636,7 @@ msgstr "Jaitsi metadatu guztiak (mantsoa)"
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/overdrive.py:42
 msgid "Enable this option to gather all metadata available from Overdrive."
 msgstr ""
+"Aukera hau gaitu Overdriven eskuragarri dauden metadatu guztiak biltzeko"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/overdrive.py:45
 msgid ""
@@ -5642,6 +5646,11 @@ msgid ""
 "time required. Check the download all metadata option below to enable "
 "downloading this data."
 msgstr ""
+"Overdriveko metadatu gehiago lortzeko aukera liburuaren xehetasunen orrian. "
+"Liburutegiek, iruzkinek, hizkuntzak eta eliburuaren ISBNak erabilitako "
+"etiketa jakin batzuk gehitzen du aukera honek. Behar duen denbora "
+"gehigarriagatik ezgaituta agertzen da lehenetsita. \"Metadatu guztiak\" "
+"lortzeko aukera ere bada."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/metadata/sources/ozon.py:18
 msgid "Downloads metadata and covers from OZON.ru"
@@ -5667,7 +5676,7 @@ msgstr "Hau ez da MOBI fitxategi bat."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/mobi/tweak.py:54
 msgid "This file is locked with DRM. It cannot be tweaked."
-msgstr ""
+msgstr "Fitxategi hau DRMarekin giltzatuta dago. Ezin da ukitu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/mobi/tweak.py:59
 msgid ""
@@ -5675,6 +5684,9 @@ msgid ""
 "from Amazon. calibre can only tweak MOBI files that contain KF8 books. Older "
 "MOBI files without KF8 are not tweakable."
 msgstr ""
+"MOBI fitxategi honek ez du libururik KF8 formatuan. Amazonek darabilen "
+"formatu berria da KF8. Calibrek KF8 formatua duten liburuak baino ezin ditu "
+"ukitu. KF8 formatuko gabeko MOBI fitxategi zaharragoak ezin dira ukitu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/mobi/tweak.py:65
 msgid ""
@@ -5682,6 +5694,9 @@ msgid ""
 "remove the Mobi6 data, which means the file will not be usable on older "
 "Kindles. Are you sure?"
 msgstr ""
+"MOBI fitxategi honek KF8 eta Mobi6 formatu zaharragoko datuak ditu. Ukitzeak "
+"Mobi6 formatuko datuak ezabatzea dakar eta fitxategia ezin izango da Kindle "
+"zaharragoetan irakurri. Ziur al zaude?"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/mobi/writer2/indexer.py:466
 msgid "No details available"
@@ -5765,6 +5780,9 @@ msgid ""
 "from Amazon. calibre can only edit MOBI files that contain KF8 books. Older "
 "MOBI files without KF8 are not editable."
 msgstr ""
+"MOBI fitxategi honek ez du libururik KF8 formatuan. Amazonek darabilen "
+"formatu berria da KF8. Calibrek KF8 formatua duten liburuak baino ezin ditu "
+"aldatu. KF8 formatuko gabeko MOBI fitxategi zaharragoak ezin dira aldatu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/container.py:648
 msgid ""
@@ -5849,6 +5867,11 @@ msgid ""
 "<p>Please ensure that you have the proper license for embedding the fonts "
 "used in this document.</p>\n"
 msgstr ""
+"<p>Txertatu dokumentuan aipatuta eta txertatu gabeko letra-tipo guztiak.\n"
+"Letra-tipoak ordenagailuan bilatuko ditu eta, aurkitu ezkero,\n"
+"dokumentuan txertatuko dira.</p>\n"
+"<p>Dokumentu honetan erabilitako letra-tipoak txertatzeko baimen egokia "
+"duzula ziurtatu.</p>\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:59
 msgid ""
@@ -5869,6 +5892,21 @@ msgid ""
 "date you decide to add more text to your books, the newly added\n"
 "text might not be covered by the subset font.</p>\n"
 msgstr ""
+"<p>Letra-tipoak azpimultzotan jartzea, letra-tipo horrek liburuan "
+"erabilitako\n"
+"karaktereak baino ez txertatzean datza.\n"
+"Horrela letra-tipoen fitxategien tamaina ikaragarri gutxitzen da.</p>\n"
+"\n"
+"<p>Onuragarria izenburuentzako letra-tipo zehatz bat\n"
+"erabiltzen badu, izenburuetan agertzen diren\n"
+"karaktereak baino ez txertatzeko. Edo letra-tipoaren \n"
+"bertsio lodia eta etzana izanik, hauek ez badira gehiegi \n"
+"erabiltzen, karaktere batzuetara murrizteko \n"
+"(zein guztiz ezabatzeko).</p>\n"
+"\n"
+"<p>Letra-tipoak azpimultzotan jartzearen alde txar bakarra, \n"
+"geroago aldaketak egiterakoan, gehitutako testuarentzako \n"
+"agian karaktererik ez izatean datza</p>\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:78
 msgid ""
@@ -5876,6 +5914,9 @@ msgid ""
 "all the book metadata such as title, tags, authors, series, comments,\n"
 "etc. Any previous book jacket will be replaced.</p>"
 msgstr ""
+"<p>\"Liburu estalki\" orri bat gehitu liburuaren hasieran\n"
+"liburuaren metadatuekin: izenburua, etiketak, egileak, sailak,\n"
+"iruzkinak, etab. Aurreko estalkirik balego ordeztu egingo da.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:83
 msgid "<p>Remove a previous inserted book jacket page.</p>\n"
@@ -5890,6 +5931,10 @@ msgid ""
 "especially\n"
 "when single quotes at the start of contractions are involved.</p>\n"
 msgstr ""
+"<p>Testu soileko marrak, etenpuntuak, zitak, etab. \n"
+"baliokide tipografiko zuzenetara bihurtu.</p>\n"
+"<p>Kontu izan algoritmoak emaitza okerrak sor\n"
+"ditzakeela. Batez ere ziten hasieran laburdurak agertzerakoan.</p>\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:126
 #, python-format
@@ -5902,7 +5947,7 @@ msgstr "Metadatuak eguneratzen"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:139
 msgid "Updated metadata jacket"
-msgstr ""
+msgstr "Metadatuen estalkia eguneratuta"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:140
 msgid "Metadata updated\n"
@@ -5914,12 +5959,12 @@ msgstr "Liburu-azala ezartzen"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:148
 msgid "Inserting metadata jacket"
-msgstr ""
+msgstr "Gehitzen metadatuen estalkia"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:151
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:155
 msgid "Existing metadata jacket replaced"
-msgstr ""
+msgstr "Lehengo metadatuen estalkia ordezkatuta"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:153
 msgid "Metadata jacket inserted"
@@ -5943,7 +5988,7 @@ msgstr "Puntuazioa zuzentzen"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:172
 msgid "Embedding referenced fonts"
-msgstr ""
+msgstr "Txertatzen adierazitako letra-tipoak"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:177
 msgid "Subsetting embedded fonts"
@@ -5959,11 +6004,15 @@ msgid ""
 "Path to a cover image. Changes the cover specified in the ebook. If no cover "
 "is present, or the cover is not properly identified, inserts a new cover."
 msgstr ""
+"Irudi azalerako bide-izena. Elibururako zehaztutako irudi azala aldatzen du. "
+"Azalik baldin ez balego, azal berri bat gehitzen du."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:220
 msgid ""
 "Path to an OPF file. The metadata in the book is updated from the OPF file."
 msgstr ""
+"OPF fitxategirako bide-izena. Liburuaren metadatuak OPF fitxategitik "
+"eguneratzen dira."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:225
 msgid "Produce more verbose output, useful for debugging."
@@ -5980,35 +6029,35 @@ msgstr "Aparteko argumentu ezezagunak"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/main.py:257
 msgid "You must specify at least one action to perform"
-msgstr ""
+msgstr "Gutxienez akzio bat zehaztu behar duzu."
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/replace.py:73
 #, python-format
 msgid "Smartened punctuation in: %s"
-msgstr ""
+msgstr "Puntuazioa doitu da %s (e)an"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:133
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:139
 #, python-format
 msgid "No file named %s exists"
-msgstr ""
+msgstr "Ez da fitxategirik %s izenarekin"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:143
 #, python-format
 msgid "No HTML file named %s exists"
-msgstr ""
+msgstr "Ez da HTML fitxategirik %s izenarekin"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:153
 #, python-format
 msgid "The anchor %(a)s does not exist in file %(f)s"
-msgstr ""
+msgstr "Ez da %(a)s aingurarik %(f)s fitxategian"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/polish/toc.py:200
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/location.py:255
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:679
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:694
 msgid "(Untitled)"
-msgstr ""
+msgstr "(Izengabea)"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/transforms/cover.py:98
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk.py:184
@@ -6037,6 +6086,8 @@ msgid ""
 "Could not find reasonable point at which to split: %(path)s Sub-tree size: "
 "%(size)d KB"
 msgstr ""
+"Ezin izan da zatitzeko arrazoizko punturik aurkitu: %(path)s Azpi-"
+"zuhaitzaren tamaina: %(size)d KB"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/oeb/writer.py:32
 msgid "OPF/NCX/etc. generation options."
@@ -6066,7 +6117,7 @@ msgstr "Alboko barra"
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/outline_writer.py:60
 #, python-format
 msgid "Page %d"
-msgstr ""
+msgstr "%d orrialdea"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/pdftohtml.py:71
 msgid "Could not find pdftohtml, check it is in your PATH"
@@ -6076,7 +6127,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/pdf/render/from_html.py:323
 msgid "Untitled"
-msgstr ""
+msgstr "Izengabea"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/rb/rbml.py:102
 #: /home/kovid/work/calibre/src/calibre/ebooks/txt/txtml.py:97
@@ -6180,6 +6231,8 @@ msgid ""
 "Start searching as you type. If this is disabled then search will only take "
 "place when the Enter or Return key is pressed."
 msgstr ""
+"Idazterakoan bilatu. Aukera hau ezgaituta baldin badago bilaketa Intro tekla "
+"sakatzerakoan baino ez da abiaraziko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:171
 msgid ""
@@ -6187,6 +6240,9 @@ msgid ""
 "showing only the matches. You can use the N or F3 keys to go to the next "
 "match."
 msgstr ""
+"Bilaketetan bilaketa emaitzetan nabarmendutako liburu guztiak erakutsi eta "
+"ez bakarrik bat datozenak. N edo F3 teklak erabili hurrengo emaitzara "
+"joateko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/__init__.py:196
 msgid ""
@@ -6427,6 +6483,8 @@ msgid ""
 "You have dropped some files onto the book <b>%s</b>. This will add or "
 "replace the files for this book. Do you want to proceed?"
 msgstr ""
+"Fitxategi batzuk jaregin dituzu <b>%s</b> liburuan. Liburuaren fitxategiak "
+"gehitu edo ordeztuko ditu honek. Nahi al duzu jarraitu?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:304
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:352
@@ -6452,6 +6510,9 @@ msgid ""
 "processed and merged into your Calibre database according to your automerge "
 "settings:"
 msgstr ""
+"%d liburu bikoiztuak aurkitu dira eta liburuak prozesatu eta batu egin dira "
+"Calibreko datubasean ezarri dituzun automerge (autobatuketa) ezarpenei "
+"jarraituz."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:387
 msgid "Failed to read metadata"
@@ -6490,23 +6551,23 @@ msgstr "Liburu fitxategirik ez da aurkitu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:439
 msgid "Downloading books"
-msgstr ""
+msgstr "Deskargatzen liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:440
 msgid "Downloading books from device"
-msgstr ""
+msgstr "Deskargatzen liburuak gailutik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:459
 msgid "Could not download files from the device"
-msgstr ""
+msgstr "Ezin izan dira fitxategiak deskargatu gailutik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:462
 msgid "Could not download some files from the device"
-msgstr ""
+msgstr "Ezin izan da fitxategi batzuk deskargatu gailutik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add.py:466
 msgid "Could not download files"
-msgstr ""
+msgstr "Ezin izan dira fitxategak deskargatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/add_to_library.py:13
 msgid "Add books to library"
@@ -6567,6 +6628,7 @@ msgstr "Katalogoa sortu"
 msgid ""
 "Create a catalog of the books in your calibre library in different formats"
 msgstr ""
+"Sortu zure Calibre liburutegiko liburuen katalogoa formatu ezberdinetan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/catalog.py:40
 msgid "No books selected for catalog generation"
@@ -6579,7 +6641,7 @@ msgstr "Sortzen %s katalogoa..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/catalog.py:72
 msgid "Catalog generation complete, with warnings."
-msgstr ""
+msgstr "Katalogo sortzea osotuta, baina oharrekin"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/catalog.py:87
 msgid "Catalog generated."
@@ -6620,6 +6682,9 @@ msgid ""
 "No existing calibre library was found at %s. If the library was moved, "
 "select its new location below. Otherwise calibre will forget this library."
 msgstr ""
+"Existitzen ez den Calibre liburutegia aurkitu da %s (e)an. Liburutegia "
+"aldatu baldin bada kokaleku berria adierazi. Bestela, Calibrek ahaztu egingo "
+"du liburutegi hau."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:115
 msgid "New location of this library:"
