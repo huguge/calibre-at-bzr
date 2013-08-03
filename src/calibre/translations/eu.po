@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-08-01 14:54+0000\n"
+"PO-Revision-Date: 2013-08-02 15:21+0000\n"
 "Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: http://librezale.org/wiki/Calibre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-02 05:15+0000\n"
+"X-Launchpad-Export-Date: 2013-08-03 05:16+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "Language: eu\n"
 
@@ -2220,13 +2220,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1272
 msgid "Modify CSS"
-msgstr ""
+msgstr "CSS aldatu"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1273
 msgid ""
 "This allows addition of user CSS rules and removal of some CSS. When sending "
 "a book, the driver adds the contents of "
 msgstr ""
+"CSS arauak aldatu, kendu edo gehitu daitezke honekin. Liburua bidaltzerakoan "
+"kontrolatzaileak honen edukiak gehitzen ditu "
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1278
 msgid ""
@@ -6726,7 +6728,7 @@ msgstr "%s kokapenan ez da calibre liburutegirik aurkitu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:166
 msgid "Queue &all books for backup"
-msgstr ""
+msgstr "Jarri liburu guztiak ilaran babeskopiarako"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:172
 msgid "Backup status"
@@ -6836,6 +6838,9 @@ msgid ""
 "Cannot rename as no library was found at %s. Try switching to this library "
 "first, then switch back and retry the renaming."
 msgstr ""
+"Ezin izan da berrizendatu ez baita liburutegirik aurkitu %s (e)an. "
+"Liburutegi honetara aldatu, ostean atzera jo eta berrizendatzen saiatu "
+"berriro."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:394
 msgid "Rename failed"
@@ -6873,6 +6878,8 @@ msgid ""
 "Metadata will be backed up while calibre is running, at the rate of "
 "approximately 1 book every three seconds."
 msgstr ""
+"Calibre martxan dagoen bitartean babestuko dira metadatuak liburuko hiru "
+"segundotako abiaduran."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:435
 #, python-format
@@ -6881,6 +6888,10 @@ msgid ""
 "to a location with a shorter path using Windows Explorer, then point calibre "
 "to the new location and try again."
 msgstr ""
+"Luzeegia liburutegirako bide-izena. %d karaktere baino gutxiagokoa izan "
+"behar du. Bide-izen laburragoa duen kokapenera aldatu liburutegia Windows "
+"Explorer erabiliz. Ostean, Calibre zuzendu kokapen berrira eta berriro "
+"saiatu."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:473
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/plugin_updater.py:738
@@ -6896,6 +6907,9 @@ msgid ""
 "Found no errors in your calibre library database. Do you want calibre to "
 "check if the files in your  library match the information in the database?"
 msgstr ""
+"Ez da errorerik aurkitu Calibreko liburutegien datu-basean. Nahi al duzu "
+"Calibrek egiaztatzea zure liburutegiko fitxategiak bat datozen datu-basean "
+"dagoen informazioarekin?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:479
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:267
@@ -6911,10 +6925,12 @@ msgstr "Huts egin du"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:480
 msgid "Database integrity check failed, click Show details for details."
 msgstr ""
+"Datu-basea zuzen dagoen egiaztatzeak huts egin du. \"Xehetasunak erakutsi\" "
+"sakatu xehetasunak ikusteko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:484
 msgid "Starting library scan, this may take a while"
-msgstr ""
+msgstr "Abiarazten liburutegiko eskaneoa, honek luzaro jo lezake"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:490
 msgid "No problems found"
@@ -6923,6 +6939,7 @@ msgstr "Ez da arazorik aurkitu"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:491
 msgid "The files in your library match the information in the database."
 msgstr ""
+"Zure liburutegiko fitxategiak datu-basean dagoen informazioarekin bat datoz"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:584
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:589
@@ -6955,7 +6972,7 @@ msgstr "Bihurtu liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/convert.py:22
 msgid "Convert books between different ebook formats"
-msgstr ""
+msgstr "Bihurtu liburuak eliburu formatu ezberdinetan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/convert.py:55
 msgid "Convert individually"
@@ -6996,28 +7013,28 @@ msgstr "Aukeratu liburutegia"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:139
 msgid "Library &path:"
-msgstr ""
+msgstr "Liburutegiko bide-izena:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:147
 msgid "Browse for library"
-msgstr ""
+msgstr "Bilatu liburutegia"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:154
 #: /home/kovid/work/calibre/src/calibre/utils/localization.py:205
 msgid "&Copy"
-msgstr ""
+msgstr "&Kopiatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:156
 msgid "Copy to the specified library"
-msgstr ""
+msgstr "Kopiatu zehaztutako liburutegira"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:157
 msgid "&Move"
-msgstr ""
+msgstr "&Mugitu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:160
 msgid "Copy to the specified library and delete from the current library"
-msgstr ""
+msgstr "Kopiatu zehaztutako liburutegitik eta uneko liburutegitik ezabatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:180
 msgid "Copy to library"
@@ -7033,7 +7050,7 @@ msgstr "(ezabatu kopiatu eta gero)"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:218
 msgid "Choose library by path..."
-msgstr ""
+msgstr "Aukeratu liburutegia bide-izenagatik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:230
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:237
@@ -7042,7 +7059,7 @@ msgstr "Ezin kopiatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:231
 msgid "Cannot copy to current library."
-msgstr ""
+msgstr "Ezin daiteke kopiatu uneko liburutegian."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:242
 msgid "No library"
@@ -7055,21 +7072,21 @@ msgstr "Ez da liburutegirik topatu hemen %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:245
 msgid "Copying to"
-msgstr ""
+msgstr "Kopiatzen hona"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:245
 msgid "Moving to"
-msgstr ""
+msgstr "Mugitzen hona"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:261
 #, python-format
 msgid "Copied %(num)d books to %(loc)s"
-msgstr ""
+msgstr "%(num)d liburu %(loc)s -(eta)ra kopiatuta"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:263
 #, python-format
 msgid "Moved %(num)d books to %(loc)s"
-msgstr ""
+msgstr "%(num)d liburu %(loc)s -(eta)ra mugituta"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:267
 msgid "Could not copy books: "
@@ -7077,7 +7094,7 @@ msgstr "Ezin izan dira liburuak kopiatu: "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:274
 msgid "Auto merged"
-msgstr ""
+msgstr "Auto bateraketa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:275
 msgid ""
@@ -7085,6 +7102,10 @@ msgid ""
 "library. Click Show details to see which ones. This behavior is controlled "
 "by the Auto merge option in Preferences->Adding books."
 msgstr ""
+"Zenbait liburu era automatikoan bateratu dira jomugako liburutegian zeuden "
+"erregistroekin. \"Xehetasunak erakutsi\" sakatu ikusteko zeintzuk izan dira. "
+"Portaera hau \"Hobespenak->Liburuak gehitzen\" menuko Auto bateratu aukeran "
+"zehaztu daiteke."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/copy_to_library.py:295
 msgid ""
@@ -7118,6 +7139,10 @@ msgid ""
 "<b>can be slow</b>. Should calibre skip the Recycle Bin? If you click Yes "
 "the files will be <b>permanently deleted</b>."
 msgstr ""
+"% liburu ezabatu nahi dituzu. Hainbeste fitxategi paperontzira bidaltzea "
+"<b>oso mantsoa</b> izan daiteke. Calibrek paperontzia saihestu dezake? "
+"Kontuan izan, baietz aukeratzen baduzu, fitxategiak <b>betirako ezabatuko "
+"direla</b>."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:43
 msgid "Deleting..."
@@ -7140,7 +7165,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:86
 msgid "Delete books"
-msgstr ""
+msgstr "Ezabatu liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:86
 msgid "Remove books"
@@ -7180,6 +7205,8 @@ msgid ""
 "The %(fmt)s format will be <b>permanently deleted</b> from %(title)s. Are "
 "you sure?"
 msgstr ""
+"%(fmt)s formatua <b>betirako ezabatuko da</b> izenburu honetatik/hauetatik "
+"%(title)s. Ziur zaude?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:195
 msgid "Choose formats to be deleted"
@@ -7190,12 +7217,16 @@ msgid ""
 "Choose formats <b>not</b> to be deleted.<p>Note that this will never remove "
 "all formats from a book."
 msgstr ""
+"Aukeratu ezabatuko <b>ez</b> diren formatuak.<p>Kontuan izan honek ez duela "
+"inoiz liburu bateko formatu guztiak ezabatuko.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:240
 msgid ""
 "<b>All formats</b> for the selected books will be <b>deleted</b> from your "
 "library.<br>The book metadata will be kept. Are you sure?"
 msgstr ""
+"Aukeratuko liburuen <b>formatu guztiak ezabatuko dira</b> zure "
+"liburutegitik. Liburuaren metadatuak mantendu egingo dira. Ziur zaude?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:260
 msgid "Cannot delete books"
@@ -7248,6 +7279,8 @@ msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> and the files "
 "removed from your calibre library. Are you sure?"
 msgstr ""
+"Aukeratutako %d liburu(ak) <b>betirako ezabatuko d(ir)a</b> eta fitxategiak "
+"zure Calibreko liburutegitik kenduko dira. Ziur zaude?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/delete.py:392
 #, python-format
@@ -7255,14 +7288,16 @@ msgid ""
 "The %d selected book(s) will be <b>permanently deleted</b> from your device. "
 "Are you sure?"
 msgstr ""
+"Aukeratutako %d liburu(ak) <b>betirako ezabatuko d(ir)a</b> zure gailutik. "
+"Ziur zaude?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:33
 msgid "Start wireless device connection"
-msgstr ""
+msgstr "Abiarazi gailuko haririk gabeko konexioa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:34
 msgid "Stop wireless device connection"
-msgstr ""
+msgstr "Gelditu gailuko haririk gabeko konexioa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:38
 msgid "Connect to folder"
@@ -7288,7 +7323,7 @@ msgstr "Hasi/Gelditu edukien zerbitzaria"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:96
 #, python-format
 msgid " [%(ip)s, port %(port)d]"
-msgstr ""
+msgstr " [%(ip)s, portua %(port)d]"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:100
 msgid "Stop Content Server"
@@ -7327,6 +7362,8 @@ msgstr "Konektatu/Konpartitu"
 msgid ""
 "Share books using a web server or email. Connect to special devices, etc."
 msgstr ""
+"Partekatu liburuak web zerbitzaria edo e-posta erabiliz. Gailu berezietara "
+"konektatzeko, etab."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:220
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/server.py:84
@@ -7337,6 +7374,8 @@ msgstr "Gelditzen"
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/server.py:85
 msgid "Stopping server, this could take upto a minute, please wait..."
 msgstr ""
+"Zerbitzaria gelditzen, minutu bat baino gehiago jo lezake honek, itxaron "
+"mesedez..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:240
 msgid "Disable autostart"
@@ -25891,6 +25930,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Start backing up metadata of all books"
-#~ msgstr "Hasi liburu guztien metadatuen babes kopia egiten"

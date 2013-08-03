@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Launchpad-Export-Date: 2013-08-02 05:24+0000\n"
+"X-Launchpad-Export-Date: 2013-08-03 05:30+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -24215,6 +24215,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Start backing up metadata of all books"
-#~ msgstr "모든 책의 메타정보 백업을 시작"

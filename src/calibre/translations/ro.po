@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n == 1 ? 0: (((n % 100 > 19) || ((n % 100 "
 "== 0) && (n != 0))) ? 2: 1));\n"
-"X-Launchpad-Export-Date: 2013-08-02 05:29+0000\n"
+"X-Launchpad-Export-Date: 2013-08-03 05:35+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -26443,6 +26443,3 @@ msgid ""
 "causes\n"
 "all available output formats to be present."
 msgstr ""
-
-#~ msgid "Start backing up metadata of all books"
-#~ msgstr "Porneşte back-up-ul de metadate pentru toate cărţile"

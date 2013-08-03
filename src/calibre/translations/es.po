@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-07-27 06:31+0000\n"
+"PO-Revision-Date: 2013-08-02 18:14+0000\n"
 "Last-Translator: Jellby <Unknown>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-02 05:32+0000\n"
+"X-Launchpad-Export-Date: 2013-08-03 05:37+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -2210,13 +2210,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1272
 msgid "Modify CSS"
-msgstr ""
+msgstr "Modificar CSS"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1273
 msgid ""
 "This allows addition of user CSS rules and removal of some CSS. When sending "
 "a book, the driver adds the contents of "
 msgstr ""
+"Esto permite añadir o eliminar algunas reglas de CSS. Al enviar un libro, el "
+"controlador añade el contenido de "
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1278
 msgid ""
@@ -6678,7 +6680,7 @@ msgstr "No se encuentra una biblioteca de calibre en %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:166
 msgid "Queue &all books for backup"
-msgstr ""
+msgstr "Poner &todos los libros en cola para copia de respaldo"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:172
 msgid "Backup status"
@@ -24358,20 +24360,35 @@ msgid ""
 "folder.\n"
 "    "
 msgstr ""
+"%prog clone ruta/a/nueva/biblioteca\n"
+"\n"
+"Crea un clon de la biblioteca actual. Esto crea una nueva biblioteca vacía "
+"que tiene\n"
+"las mismas columnas personalizadas, bibliotecas virtuales y otras "
+"configuraciones que\n"
+"la biblioteca actual.\n"
+"\n"
+"La biblioteca clonada no contendrá ningún libro. Si quiere crear un "
+"duplicado completo,\n"
+"incluyendo todos los libros, use simplemente las utilidades del sistema "
+"operativo\n"
+"para copiar la carpeta de la biblioteca.\n"
+"    "
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1413
 msgid "Error: You must specify the path to the cloned library"
-msgstr ""
+msgstr "Error: Debe especificar una ruta a la biblioteca clonada"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1422
 msgid "The location for the new library is the same as the current library"
-msgstr ""
+msgstr "La ubicación de la nueva biblioteca es la misma que la de la actual"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1426
 #, python-format
 msgid ""
 "%s is not empty. You must choose an empty directory for the new library."
 msgstr ""
+"%s no está vacío. Debe elegir un directorio vacío para la nueva biblioteca"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1449
 #, python-format
@@ -27955,6 +27972,3 @@ msgstr ""
 "Por ejemplo, si sólo desea convertir a EPUB y AZW3, cambie esta opción\n"
 "a restrict_output_formats = ['EPUB', 'AZW3']. El valor predeterminado\n"
 "«None» hace que se muestren todos los formatos de salida."
-
-#~ msgid "Start backing up metadata of all books"
-#~ msgstr "Iniciar copia de respaldo de los metadatos de todos los libros"
