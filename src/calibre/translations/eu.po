@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-08-02 15:21+0000\n"
+"PO-Revision-Date: 2013-08-03 15:57+0000\n"
 "Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: http://librezale.org/wiki/Calibre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:16+0000\n"
+"X-Launchpad-Export-Date: 2013-08-04 05:17+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "Language: eu\n"
 
@@ -7379,21 +7379,23 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:240
 msgid "Disable autostart"
-msgstr ""
+msgstr "Ezgaitu autoabiaraztea"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:241
 msgid ""
 "Do you want wireless device connections to be started automatically when "
 "calibre starts?"
 msgstr ""
+"Nahi al duzu gailuaren haririk gabeko konexioak automatikoki abiaraztea "
+"Calibre abiatzerakoan?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:264
 msgid "Still looking for IP addresses"
-msgstr ""
+msgstr "Oraindik IP helbide bila"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/device.py:267
 msgid "Many IP addresses. See Start/Stop dialog."
-msgstr ""
+msgstr "Hainbat IP helbide. Ikus Abiarazi/Gelditu elkarrizketa."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_collections.py:13
 msgid "Manage collections"
@@ -7405,7 +7407,7 @@ msgstr "Kudeatu bildumak irakurgailu honetan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:27
 msgid "Change the title/author/cover etc. of books"
-msgstr ""
+msgstr "Aldatu liburuen izenburua/egilea/azala etab."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:27
 msgid "E"
@@ -7467,6 +7469,7 @@ msgstr "Jaitsierak huts egin du"
 #, python-format
 msgid "Failed to download metadata or covers for any of the %d book(s)."
 msgstr ""
+"Huts egin du edozein %d liburu(eta)ko azalen metadatuak deskargatzerakoan."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:134
 msgid "Metadata download completed"
@@ -7478,6 +7481,8 @@ msgid ""
 "Finished downloading metadata for <b>%d book(s)</b>. Proceed with updating "
 "the metadata in your library?"
 msgstr ""
+"Amaitu da <b>%d liburu(e)n</b> metadatuen deskarga. Zure liburutegiko "
+"metadatuak eguneratu nahi?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:144
 #, python-format
@@ -7485,10 +7490,14 @@ msgid ""
 "Could not download metadata and/or covers for %d of the books. Click \"Show "
 "details\" to see which books."
 msgstr ""
+"Ezin izan da liburuetako %d (e)n metadatuak edo/eta azalak deskargatu. "
+"\"Xehetasunak erakutsi\" sakatu zein liburu izan d(ir)an ikusteko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:146
 msgid "Show the &failed books in the main book list after updating metadata"
 msgstr ""
+"Erakutsi &huts egindako liburuak liburu zerrenda nagusian metadatuak "
+"eguneratu ostean"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:154
 msgid "Download complete"
@@ -7497,12 +7506,12 @@ msgstr "Jaitsiera osatu da"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:154
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single_download.py:961
 msgid "Download log"
-msgstr ""
+msgstr "Deskargen erregistroa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:159
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:225
 msgid "Review downloaded metadata"
-msgstr ""
+msgstr "Berrikusi deskargatutako metadatuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:184
 msgid "Some books changed"
@@ -7515,33 +7524,39 @@ msgid ""
 "Click \"Show details\" to see the list of changed books. Do you want to "
 "proceed?"
 msgstr ""
+"Liburu batzuen metadatuak aldatu egin dira deskarga hasi denetik. Jarraitu "
+"ezkero aldaketa hauetariko batzuk gainidatz ditzakezu. \"Xehetasunak "
+"erakutsi\" sakatu aldatutako liburuen zerrenda ikusteko. Jarraitu?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:226
 msgid "Discard downloaded metadata for this book"
-msgstr ""
+msgstr "Baztertu liburu honetarako deskargatutako metadatuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:227
 msgid "Use the downloaded metadata for all remaining books"
-msgstr ""
+msgstr "Erabili deskargatutako metadatuak gelditzen diren liburuetan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:228
 msgid "Discard downloaded metadata for all remaining books"
-msgstr ""
+msgstr "Baztertu deskargatutako metadatuak gelditzen diren liburuetan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:229
 #, python-format
 msgid "Discard the downloaded value for: %s"
-msgstr ""
+msgstr "Baztertu deskargatutako balioa %s (r)entzat"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:230
 msgid ""
 "The downloaded metadata is on the left and the original metadata is on the "
 "right. If a downloaded value is blank or unknown, the original value is used."
 msgstr ""
+"Deskargatutako metadatuak ezkerrean daude eta jatorrizko metadatuak eskuman. "
+"Deskargatuko balioren bat zuri baldin badago edo ezezaguna baldin bada "
+"jatorrizko balioa erabiltzen da."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:233
 msgid "&View Book"
-msgstr ""
+msgstr "&Liburua ikusi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:276
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:345
@@ -7573,6 +7588,9 @@ msgid ""
 "books will not be deleted or changed.<br><br>Please confirm you want to "
 "proceed."
 msgstr ""
+"Aukeratutako liburuen formatuak eta metadatuak <b>lehenik aukeratutako "
+"liburura</b> (%s) gehituko dira.<br> Bigarrena eta ostean aukeratutako "
+"liburuak ez dira aldatu ego ezabatuko.<br><br>Baieztatu jarraitzeko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:415
 #, python-format
@@ -7586,6 +7604,14 @@ msgid ""
 "and subsequently selected books will be permanently <b>deleted</b> from your "
 "calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Aukeratutako liburuen formatuak <b>lehenik aukeratutako liburuan</b> (%s) "
+"bateratuko dira. Aukeratutako lehen liburuaren metadatuak ez dira aldatuko. "
+"Egilea, izenburua eta beste metadatu guztiak <i>ez</i> dira "
+"bateratuko.<br><br>Bateraketa ostean, bigarrena eta ostean aukeratutako "
+"liburuak (euren metadatuekin) <b>ezabatu egingo dira</b>. <br><br>Lehenik "
+"aukeratutako liburuaren formatuak mantenduko dira eta bigarren eta ostean "
+"aukeratutako liburuen formatu bikoiztuak <b>betiko ezabatu egingo dira</b> "
+"zure Calibre liburutegitik. <br><br><b>Ziur</b> jarraitu nahi duzula?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:431
 #, python-format
@@ -7597,6 +7623,12 @@ msgid ""
 "second and subsequently selected books will be permanently <b>deleted</b> "
 "from your calibre library.<br><br>  Are you <b>sure</b> you want to proceed?"
 msgstr ""
+"Aukeratutako liburuen formatuak <b>lehenik aukeratutako liburuan</b> (%s) "
+"bateratuko dira.<br><br>Bateraketa ostean, bigarrena eta ostean aukeratutako "
+"liburuak <b>ezabatu egingo dira</b>.<br><br>Lehenik aukeratutako liburuaren "
+"formatuak mantenduko dira eta bigarren eta ostean aukeratutako liburuen "
+"formatu bikoiztuak <b>betiko ezabatu egingo dira</b> zure Calibre "
+"liburutegitik. <br><br><b>Ziur</b> jarraitu nahi duzula?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/edit_metadata.py:610
 msgid "Applying changed metadata"
@@ -7611,10 +7643,12 @@ msgid ""
 "Failed to apply updated metadata for some books in your library. Click "
 "\"Show Details\" to see details."
 msgstr ""
+"Huts egin du zure liburutegiko liburu batzuetan eguneratutako metadatuak "
+"aplikatzerakoan. \"Xehetasunak erakutsi\" sakatu xehetasunak ikusteko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/fetch_news.py:19
 msgid "Download news in ebook form from various websites all over the world"
-msgstr ""
+msgstr "Xehetasunak erakutsi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/fetch_news.py:19
 msgid "F"
@@ -7644,25 +7678,25 @@ msgstr "Laguntza"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:17
 msgid "Match book to library"
-msgstr ""
+msgstr "Parekatu liburua liburutegira"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:18
 msgid "Match this book to a book in the library"
-msgstr ""
+msgstr "Parekatu liburu hau liburutegiko beste liburu batekin"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:125
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:190
 msgid "Match books"
-msgstr ""
+msgstr "Parekatu liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
-msgstr ""
+msgstr "Liburu bat aukeratu behar duzu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:12
 msgid "Move to next match"
-msgstr ""
+msgstr "Mugitu hurrengo bat egitera"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:13
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main_ui.py:226
@@ -7671,7 +7705,7 @@ msgstr "F3"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:13
 msgid "Move to next highlighted match"
-msgstr ""
+msgstr "Mugitu nabarmendutako hurrengo bat egitera"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:13
 #: /home/kovid/work/calibre/src/calibre/gui2/library/delegates.py:415
@@ -7680,11 +7714,11 @@ msgstr "E"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:25
 msgid "Move to previous item"
-msgstr ""
+msgstr "Mugitu aurreko elemetura"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:26
 msgid "Move to previous highlighted item"
-msgstr ""
+msgstr "Mugitu aurreko nabarmendutako elementura"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/next_match.py:26
 msgid "Shift+N"
@@ -7705,7 +7739,7 @@ msgstr "O"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/open.py:15
 msgid "Open the folder containing the current book's files"
-msgstr ""
+msgstr "Zabaldu uneko liburuen fitxategiak dituen karpeta"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/plugin_updates.py:18
 msgid "Plugin Updater"
@@ -7713,21 +7747,21 @@ msgstr "Gehigarrien eguneratzailea"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/plugin_updates.py:18
 msgid "Update any plugins you have installed in calibre"
-msgstr ""
+msgstr "Eguneratu Calibre instalaturik duzun edozein gehigarri"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:34
 msgid "Polish book"
-msgstr ""
+msgstr "Dotoretu liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:36
 #, python-format
 msgid "Polish %d books"
-msgstr ""
+msgstr "Dotoretu %d liburu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:40
 #, python-format
 msgid "<h3>About Polishing books</h3>%s"
-msgstr ""
+msgstr "<h3>Liburuak dotoretzeari buruz</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:41
 msgid ""
@@ -7739,21 +7773,26 @@ msgid ""
 "the\n"
 "                  ORIGINAL_* format before running it.</p>"
 msgstr ""
+"<p>Zure liburuan EPUB eta ORIGINAL_EPUB formatuak badituzu\n"
+"                  dotoretzea ORIGINAL_EPUBaren gainean izango da (berdin\n"
+"                  gertatzen da beste ORIGINAL_* formatuekin). Beraz,\n"
+"                  ez baldin baduzu nahi dotoretzea ORIGINAL_* formatuan\n"
+"                  exekutatzea, ezabatu lehenik ORIGINAL_* formatua.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:48
 #, python-format
 msgid "<h3>Embed referenced fonts</h3>%s"
-msgstr ""
+msgstr "<h3>Txertatu adierazitako letra-tipoak</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:49
 #, python-format
 msgid "<h3>Subsetting fonts</h3>%s"
-msgstr ""
+msgstr "<h3>Hurrengo letra-tipoak azpimultzotan jartzen</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:52
 #, python-format
 msgid "<h3>Smarten punctuation</h3>%s"
-msgstr ""
+msgstr "<h3>Doitu puntuazioa</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:54
 msgid ""
@@ -7763,6 +7802,11 @@ msgid ""
 "all the metadata in calibre.</p><p>There is a separate option to update the "
 "cover.</p>"
 msgstr ""
+"<h3>Eguneratu metadatuak</h3><p>Metadatu guztiak eguneratuko ditu Calibreko "
+"liburutegian uneko metadatuekin bat datozen liburu fitxategien azalak izan "
+"ezik.</p><p>Kontuan izan eliburu formatu gehienek ez direla gai Calibreko "
+"metadatu guztiak onartzeko.</p><p>Azala eguneratzeko beste aukera ezberdin "
+"bat ere badago.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:62
 msgid ""
@@ -7770,29 +7814,32 @@ msgid ""
 "calibre library.</p><p>If the ebook file does not have an identifiable "
 "cover, a new cover is inserted.</p>"
 msgstr ""
+"<p>Eguneratu eliburu fitxategien azalak Calibre liburutegiko uneko "
+"azalarekin bat etor daitezen.</p><p>Eliburu fitxategiak ez baldin badu azal "
+"bereziturik berria gehitzen zaio.</p>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:67
 #, python-format
 msgid "<h3>Book Jacket</h3>%s"
-msgstr ""
+msgstr "<h3>Liburu estalkia</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:68
 #, python-format
 msgid "<h3>Remove Book Jacket</h3>%s"
-msgstr ""
+msgstr "<hr>Kendu liburu estalkia</h3>%s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:74
 msgid "Select actions to perform:"
-msgstr ""
+msgstr "Aukeratu buru beharreko ekintzak:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:79
 msgid "&Embed all referenced fonts"
-msgstr ""
+msgstr "&Txertatu adierazitako letra-tipo guztiak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:80
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:252
 msgid "&Subset all embedded fonts"
-msgstr ""
+msgstr "&Azpimultzoan jarri txertatuko letra-tipo guztiak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:81
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/look_and_feel_ui.py:221
@@ -7801,50 +7848,50 @@ msgstr "Itxura hobetzen &puntuazioa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:82
 msgid "Update &metadata in the book files"
-msgstr ""
+msgstr "Eguneratu liburu fitxategietako &metadatuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:83
 msgid "Update the &cover in the book files"
-msgstr ""
+msgstr "Eguneratu liburu fitxategietako &azala"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:84
 msgid "Add metadata as a \"book &jacket\" page"
-msgstr ""
+msgstr "Gehitu metadatuak \"Liburu &estalki\" orri modura"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:85
 msgid "&Remove a previously inserted book jacket"
-msgstr ""
+msgstr "&Kendu aurretik gehitutako liburu estalkia"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:95
 msgid "About"
-msgstr ""
+msgstr "Honi buruz"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:114
 msgid "Show &report"
-msgstr ""
+msgstr "Erakutsi &txostena"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:116
 msgid ""
 "Show a report of all the actions performed after polishing is completed"
-msgstr ""
+msgstr "Erakutsi burututako ekintza guztien txostena liburua dotoretu ostean"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:122
 msgid "&Save Settings"
-msgstr ""
+msgstr "&Gorde Ezarpenak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:124
 msgid "&Load Settings"
-msgstr ""
+msgstr "&Kargatu Ezarpenak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:127
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/duplicates.py:47
 msgid "Select &all"
-msgstr ""
+msgstr "Hautatu &dena"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:129
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/duplicates.py:49
 msgid "Select &none"
-msgstr ""
+msgstr "Hautatu &bat ere ez"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:145
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:219

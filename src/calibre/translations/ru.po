@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.55\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-06-05 16:56+0000\n"
+"PO-Revision-Date: 2013-08-03 19:39+0000\n"
 "Last-Translator: Baz <Unknown>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:35+0000\n"
+"X-Launchpad-Export-Date: 2013-08-04 05:18+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-Language: Russian\n"
@@ -455,7 +455,7 @@ msgstr "Изменить коллекции, в которых размещен�
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:892
 msgid "Match book on the devices to books in the library"
-msgstr ""
+msgstr "Связать книгу на устройстве с книгой в библиотеке"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:897
 msgid "Copy a book from one calibre library to another"
@@ -1101,7 +1101,7 @@ msgstr "Выгрузка базы данных в SQL"
 
 #: /home/kovid/work/calibre/src/calibre/db/backend.py:994
 msgid "Restoring database from SQL"
-msgstr ""
+msgstr "Восстановление базы данных из SQL"
 
 #: /home/kovid/work/calibre/src/calibre/db/cache.py:131
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/model.py:882
@@ -1185,7 +1185,7 @@ msgstr "Обработано"
 
 #: /home/kovid/work/calibre/src/calibre/db/restore.py:233
 msgid "Creating custom column "
-msgstr ""
+msgstr "Создание пользовательского столбца "
 
 #: /home/kovid/work/calibre/src/calibre/db/search.py:34
 #: /home/kovid/work/calibre/src/calibre/db/search.py:314
@@ -2170,13 +2170,15 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1272
 msgid "Modify CSS"
-msgstr ""
+msgstr "Изменить CSS"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1273
 msgid ""
 "This allows addition of user CSS rules and removal of some CSS. When sending "
 "a book, the driver adds the contents of "
 msgstr ""
+"Это позволяет добавлять пользовательские правила CSS или удалять CSS. При "
+"отправке книги драйвер добавляет содержимое "
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1278
 msgid ""
@@ -2999,6 +3001,27 @@ msgid ""
 "\n"
 "For full documentation of the conversion system see\n"
 msgstr ""
+"input_file output_file [options]\n"
+"\n"
+"Преобразует книгу из одного формата в другой.\n"
+"\n"
+"input_file - входной файл и output_file - выходной файл. Оба должны быть "
+"указаны как первые два аргумента команды.\n"
+"\n"
+"Выходной формат книги определяется по расширению выходного файла. Выходной "
+"файл может не иметь имени и указываться в  формате .EXT, где EXT - "
+"расширение выходного файла. В этом случае имя будет взято из входного файла. "
+"Помните, что имена файлов не могут начинаться с дефиса. Наконец, если "
+"выходной файл не имеет расширения, то он будет считаться папкой и в неё "
+"будет записан формат \"open ebook\" (OEB), состоящий из HTML файлов. Это "
+"файлы которые обычно передаются на модуль выходного плагина.\n"
+"\n"
+"После указания входного и выходного файлов вы можете настроить "
+"преобразование, указав различные опции. Доступные варианты зависят от типов "
+"входного и выходного файлов. Что бы получить справку по ним, введите входной "
+"и выходной файлы и укажите параметр -h.\n"
+"\n"
+"Полное описание системы конвертации смотрите\n"
 
 #: /home/kovid/work/calibre/src/calibre/ebooks/conversion/cli.py:104
 msgid "INPUT OPTIONS"
