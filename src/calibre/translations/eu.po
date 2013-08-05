@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-08-03 15:57+0000\n"
+"PO-Revision-Date: 2013-08-04 18:30+0000\n"
 "Last-Translator: bixerdo <bixerdo@gmail.com>\n"
 "Language-Team: http://librezale.org/wiki/Calibre\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-04 05:17+0000\n"
+"X-Launchpad-Export-Date: 2013-08-05 05:30+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "Language: eu\n"
 
@@ -7896,30 +7896,30 @@ msgstr "Hautatu &bat ere ez"
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:145
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:219
 msgid "No actions selected"
-msgstr ""
+msgstr "Ez da ekintzarik aukeratu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:146
 msgid "You must select at least one action before saving"
-msgstr ""
+msgstr "Aukeratu gutxienez ekintza bat gorde baino lehenago"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:148
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:71
 msgid "Choose name"
-msgstr ""
+msgstr "Aukeratu izena"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:149
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:72
 msgid "Choose a name for these settings"
-msgstr ""
+msgstr "Aukeratu izena ezarpen hauetarako"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:169
 #: /home/kovid/work/calibre/src/calibre/gui2/toc/main.py:90
 msgid "Remove saved settings"
-msgstr ""
+msgstr "Kendu gordetako ezarpenak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:210
 msgid "Must update metadata"
-msgstr ""
+msgstr "Beharrezkoa metadatuak eguneratzea"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:211
 msgid ""
@@ -7927,19 +7927,22 @@ msgid ""
 "option to work, you must also select the option to update metadata in the "
 "book files. Do you want to select it?"
 msgstr ""
+"Metadatuak \"Liburu estalki\" modura gehitzea aukeratu duzu. Aukera hau "
+"burutzeko liburu fitxategien metadatuak eguneratzeko aukera ere hautatu "
+"behar duzu. Nahi al duzu aukeratu?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:220
 msgid "You must select at least one action, or click Cancel."
-msgstr ""
+msgstr "Aukeratu gutxienez ekintza bat, edo sakatu \"Utzi\""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:234
 msgid "Queueing books for polishing"
-msgstr ""
+msgstr "Dotoretzeko lilburuak ilaran jartzen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:278
 #, python-format
 msgid "Polish %s"
-msgstr ""
+msgstr "Dotoretu %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:279
 #, python-format
@@ -7954,48 +7957,48 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:309
 #, python-format
 msgid "Ignore remaining %d reports"
-msgstr ""
+msgstr "Alde batera utzi faltan diren %d txostenak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:316
 msgid "View full &log"
-msgstr ""
+msgstr "Ikusi &erregistro osoa"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:339
 #, python-format
 msgid "Polishing of %s"
-msgstr ""
+msgstr "Dotoretzen %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:345
 #, python-format
 msgid "The original file has been saved as %s."
 msgid_plural "The original files have been saved as %s."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Jatorrizko fitxategia %s bezala gorde da."
+msgstr[1] "Jatorrizko fitxategiak %s bezala gorde dira."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:347
 msgid " and "
-msgstr ""
+msgstr " eta "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:350
 msgid "If you polish again, the polishing will run on the originals."
-msgstr ""
+msgstr "Berriro dotoretzen baduzu jatorrizkoen gainean izango da."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:385
 msgid "Polish books"
-msgstr ""
+msgstr "Dotoretu liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:386
 msgid "Apply the shine of perfection to your books"
-msgstr ""
+msgstr "Perfekzioaren diztira aplikatu zure liburuetara"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:386
 msgid "P"
-msgstr ""
+msgstr "P"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:427
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:445
 msgid "Cannot polish"
-msgstr ""
+msgstr "Ezin da dotoretu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:446
 #, python-format
@@ -8003,15 +8006,17 @@ msgid ""
 "Polishing is only supported for books in the %s formats. Convert to one of "
 "those formats before polishing."
 msgstr ""
+"Dotoretzea %s formatuetako liburuetan baino ez da onartzen. Formatu "
+"horietariko batera bihurtu fitxategia dotoretu aurretik."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/polish.py:474
 #, python-format
 msgid "Start polishing of %d book(s)"
-msgstr ""
+msgstr "Hasi dotoretzen %d liburu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/preferences.py:20
 msgid "Configure calibre"
-msgstr ""
+msgstr "Konfiguratu Calibre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/preferences.py:20
 msgid "Ctrl+P"
@@ -8057,7 +8062,7 @@ msgstr "Gorde diskoan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/save_to_disk.py:21
 msgid "Export ebook files from the calibre library"
-msgstr ""
+msgstr "Esportatu eliburu fitxategiak Calibre liburutegitik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/save_to_disk.py:21
 msgid "S"
@@ -8090,7 +8095,7 @@ msgstr "Ezin diskoan gorde"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/save_to_disk.py:64
 msgid "Choose format to save to disk"
-msgstr ""
+msgstr "Aukeratu formatua diskoan gordetzeko"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/save_to_disk.py:85
 msgid "Choose destination directory"
@@ -8135,7 +8140,7 @@ msgstr "I"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/show_book_details.py:17
 msgid "Show the detailed metadata for the current book in a separate window"
-msgstr ""
+msgstr "Uneko liburuaren metadatuak leiho desberdin batean erakutsi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/show_book_details.py:26
 msgid "No detailed info available"
@@ -8155,7 +8160,7 @@ msgstr "Erakutsi ikustaldi bizkorra"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/show_quickview.py:31
 msgid "No quickview available"
-msgstr ""
+msgstr "Ez dago aurrebistarik eskuragarri"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/show_quickview.py:32
 msgid "Quickview is not available for books on the device."
@@ -8163,7 +8168,7 @@ msgstr "Gailuko liburuetan ikustaldi bizkorra ez dago erabilgarri"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/similar_books.py:17
 msgid "Show books similar to the current book"
-msgstr ""
+msgstr "Erakutsi uneko liburuaren antzeko liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/similar_books.py:17
 msgid "Similar books..."
@@ -8211,7 +8216,7 @@ msgstr "Liburuak lortu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:20
 msgid "Search dozens of online ebook retailers for the cheapest books"
-msgstr ""
+msgstr "Bilatu hainbat onlineko liburu-dendetan liburu merkeenak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:22
 msgid "Search for ebooks"
@@ -8219,21 +8224,21 @@ msgstr "Liburu elektronikoak bilatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:28
 msgid "this author"
-msgstr ""
+msgstr "egile hau"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:28
 msgid "this title"
-msgstr ""
+msgstr "izenburu hau"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:29
 msgid "this book"
-msgstr ""
+msgstr "liburu hau"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:32
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:493
 #, python-format
 msgid "Search for %s"
-msgstr ""
+msgstr "Bilatu %s"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:35
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search_ui.py:184
@@ -8257,6 +8262,8 @@ msgid ""
 "Calibre helps you find the ebooks you want by searching the websites of "
 "various commercial and public domain book sources for you."
 msgstr ""
+"Calibrek, gustuko duzun eliburuen bilaketan laguntzen dizu ordaindutako zein "
+"domeinu publiko guneetan bilatuz."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:138
 msgid ""
@@ -8264,6 +8271,9 @@ msgid ""
 "are looking for, at the best price. You also get DRM status and other useful "
 "information."
 msgstr ""
+"Txertatuko bilaketaren bitartez liburua preziorik onenean zein dendatan "
+"duzun jakiteko aukera izango duzu. DRMaren egoera eta beste informazio "
+"erabilgarririk ere izango duzu."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:142
 msgid ""
@@ -8274,6 +8284,12 @@ msgid ""
 "especially if the book you are buying has <a href=\"http://drmfree.calibre-"
 "ebook.com/about#drm\">DRM</a>."
 msgstr ""
+"Transakzio guztiak (ordaindutakoak zein bestetarikoak) zu eta liburu "
+"saltzailearen artekoak dira. Calibrek ez du zerikusirik prozesuan eta sor "
+"litekeen edozein arazo, erosi duzun gunera bideratu beharko zenuke zuzenean. "
+"Ondo ziurta ezazu lortzen d(it)uzun liburua(k) darabilzun gailuan irakur "
+"daite(z)keela, batez ere erositakoak <a href=\"http://drmfree.calibre-"
+"ebook.com/about#drm\">DRMa</a> baldin badu."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/store.py:152
 msgid "Show this message again"
@@ -8285,28 +8301,28 @@ msgstr "Get Books-i buruz"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:24
 msgid "Choose format to edit"
-msgstr ""
+msgstr "Aukeratu aldatzeko formatua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:28
 msgid "Choose which format you want to edit:"
-msgstr ""
+msgstr "Aukeratu zein formatu nahi duzun aldatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:40
 msgid "&All formats"
-msgstr ""
+msgstr "&Formatu guztiak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:62
 msgid "Edit ToC"
-msgstr ""
+msgstr "Aldatu Aurkibidea"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:102
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:113
 msgid "Cannot edit ToC"
-msgstr ""
+msgstr "Ezin da Aurkibidea aldatu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:103
 #, python-format
@@ -8314,15 +8330,17 @@ msgid ""
 "Editing Table of Contents is only supported for books in the %s formats. "
 "Convert to one of those formats before polishing."
 msgstr ""
+"Aurkibidea aldatzea %s formatuetako liburuetan baino ez da onartzen. Formatu "
+"horietariko batera bihurtu fitxategia dotoretu aurretik."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:31
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:288
 msgid "Tweak Book"
-msgstr ""
+msgstr "Ukitu liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:64
 msgid "Choose the format to tweak:"
-msgstr ""
+msgstr "Aukeratu ukitzeko formatua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:74
 msgid ""
@@ -8350,14 +8368,32 @@ msgid ""
 "            library.</li>\n"
 "            </ol>"
 msgstr ""
+"            <h2>Ukitu Liburua-ri buruz</h2>\n"
+"            <p>Liburuak ukituz eliburuaren itxura findu dezakezu\n"
+"            barruan aldaketa txiki batzuk eginez. Ukitu Liburua erabiltzeko\n"
+"            eliburuetan erabiltzen diren HTML eta CSSri buruzko jakintzak \n"
+"             izan behar dituzu. Jarrai itzazu ondorengo pausuak:</p>\n"
+"            <br>\n"
+"            <ol>\n"
+"            <li>Sakatu \"Lehertu Liburua\": horrela liburua bere barne-\n"
+"            osagaietan bananduko duzu.<br></li>\n"
+"            <li>Eskumako botoiarekin klikatu edozein fitxategitan eta\n"
+"            \"Zabaldu honekin...\" aukeratu gustuko duzun testu editorean "
+"aldatzeko.<br></li>\n"
+"            <li>Ukitzea amaitzerakoan: <b>itxi editorearen eta fitxategi "
+"bilatzailearen \n"
+"            leihoak</b> eta \"Berreraiki Liburua\" botoia sakatu liburua "
+"eguneratzeko\n"
+"            Calibre liburutegian.</li>\n"
+"            </ol>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:103
 msgid "&Explode Book"
-msgstr ""
+msgstr "&Lehertu Liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:104
 msgid "&Preview Book"
-msgstr ""
+msgstr "&Aurreikusi Liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:105
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/comments_dialog.py:25
@@ -8369,61 +8405,65 @@ msgstr "&Bertan behera utzi"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:106
 msgid "&Rebuild Book"
-msgstr ""
+msgstr "&Berreraiki Liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:109
 msgid "Explode the book to edit its components"
-msgstr ""
+msgstr "Lehertu liburua bere osagaiak aldatzeko"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:111
 msgid "Preview the result of your tweaks"
-msgstr ""
+msgstr "Aurreikusi ukituen emaitza"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:113
 msgid "Abort without saving any changes"
-msgstr ""
+msgstr "Irten aldaketak gorde barik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:115
 msgid "Save your changes and update the book in the calibre library"
-msgstr ""
+msgstr "Gorde aldaketak eta eguneratu liburua Calibre liburutegian"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:155
 msgid "Exploding, please wait..."
-msgstr ""
+msgstr "Lehertzen, itxaron mesedez..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:177
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:187
 msgid "Failed to unpack"
-msgstr ""
+msgstr "Huts egin du deskonprimatzerakoan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:178
 #, python-format
 msgid "Could not explode the %s file."
-msgstr ""
+msgstr "Ezin izan da lehertu %s fitxategia"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:188
 #, python-format
 msgid ""
 "Could not explode the %s file. Click \"Show Details\" for more information."
 msgstr ""
+"Ezin izan da lehertu %s fitxategia. \"Xehetasunak erakutsi\" sakatu "
+"xehetasunak ikusteko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:222
 msgid "Failed to rebuild file"
-msgstr ""
+msgstr "Huts egin du liburua berreraikitzerakoan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:223
 #, python-format
 msgid "Failed to rebuild %s. For more information, click \"Show details\"."
 msgstr ""
+"Huts egin du %s berreraikitzerakoan. \"Xehetasunak erakutsi\" sakatu "
+"xehetasunak ikusteko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:231
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:240
 msgid "Rebuilding, please wait..."
-msgstr ""
+msgstr "Berreraikitzen, itxaron mesedez..."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:289
 msgid "Make small changes to ePub, HTMLZ or AZW3 format books"
-msgstr ""
+msgstr "Aldaketa txikiak egin ePub, HTMLZ edo AZW3 formatudun liburuetan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:290
 msgid "T"
@@ -8431,11 +8471,11 @@ msgstr "B"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:326
 msgid "Cannot tweak Book"
-msgstr ""
+msgstr "Ezin da ukitu Liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:339
 msgid "Cannot Tweak Book"
-msgstr ""
+msgstr "Ezin da Ukitu Liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:340
 msgid ""
@@ -8443,10 +8483,13 @@ msgid ""
 "\n"
 "First convert the book to one of these formats."
 msgstr ""
+"Liburua ukitzeko ePub, HTMLZ edo AZW3 formatuan egon behar du.\n"
+"\n"
+"Formatu horietariko batera bihurtu fitxategia ukitu aurretik."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:37
 msgid "Read books"
-msgstr ""
+msgstr "Irakurri liburuak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/view.py:37
 msgid "V"
@@ -8567,6 +8610,8 @@ msgid ""
 "Cannot add some files as you do not have  permission to access them. Click "
 "Show Details to see the list of such files."
 msgstr ""
+"Ezin dira fitxategi batzuk gehitu ez baituzu horretarako baimenik. "
+"\"Xehetasunak erakutsi\" sakatu xehetasunak ikusteko."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/add.py:366
 msgid "Added"
@@ -8766,7 +8811,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/auto_add.py:249
 #, python-format
 msgid "Added %(num)d book(s) automatically from %(src)s"
-msgstr ""
+msgstr "%(num)d liburu gehitu dira automatikoki %(src)s (e)tik"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/bars.py:224
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/plugin_updater.py:305
@@ -8826,7 +8871,7 @@ msgstr "Azalaren tamaina: %(width)d x %(height)d"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:499
 msgid "&Copy Link"
-msgstr ""
+msgstr "&Kopiatu Esteka"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:508
 #: /home/kovid/work/calibre/src/calibre/gui2/tag_browser/view.py:549
@@ -8838,17 +8883,17 @@ msgstr "Kudeatu %s"
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:519
 #, python-format
 msgid "Delete the %s format"
-msgstr ""
+msgstr "Ezabatu %s formatua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:520
 #, python-format
 msgid "Save the %s format to disk"
-msgstr ""
+msgstr "Gorde diskan %s formatua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/book_details.py:521
 #, python-format
 msgid "Restore the %s format"
-msgstr ""
+msgstr "Berrezarri %s formatua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_bibtex.py:16
 msgid "BibTeX Options"
@@ -8981,7 +9026,7 @@ msgstr "Aipu-etiketarik sortu nahi?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_bibtex_ui.py:83
 msgid "Add files path with formats?"
-msgstr ""
+msgstr "Gehitu fitxategien bide-izenak formatuekin?"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_bibtex_ui.py:84
 msgid "Expression to form the BibTeX citation tag:"
@@ -8997,6 +9042,14 @@ msgid ""
 "   will be selected.\n"
 " -For time field, only the date will be used. "
 msgstr ""
+"Txantiloi honi buruz zerbait:\n"
+" -Eskuragarri dauden eremuak 'egile_mota', 'egileak', 'id'\n"
+"    'isbn', 'argitaratze_data', 'argitaratzailea', 'sailen_indizea', "
+"'saila'\n"
+"   'etiketak', 'timestamp', 'izenburua', 'uuid', 'izenburu_mota'\n"
+" - Zerrenda motakoentzako (egileak eta etiketak, adibidez)\n"
+"   lehenengo osagaia baino ez da aukeratuko.\n"
+" - Data eremurako, data baino ez da erabiliko. "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_csv_xml.py:16
 msgid "CSV/XML Options"
@@ -9008,11 +9061,11 @@ msgstr "E-liburu aukerak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi.py:92
 msgid "Catalogs"
-msgstr ""
+msgstr "Katalogoak"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi.py:101
 msgid "Read book"
-msgstr ""
+msgstr "Irakurri liburua"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/catalog/catalog_epub_mobi.py:107
 msgid "Wishlist item"

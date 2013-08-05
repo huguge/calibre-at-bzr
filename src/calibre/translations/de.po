@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: de\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-07-30 14:20+0000\n"
-"Last-Translator: Simon Schütte <simonschuette@arcor.de>\n"
+"PO-Revision-Date: 2013-08-04 17:40+0000\n"
+"Last-Translator: Michael Keppler <Bananeweizen@gmx.de>\n"
 "Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:22+0000\n"
+"X-Launchpad-Export-Date: 2013-08-05 05:30+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "X-Poedit-Bookmarks: 3327,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "Generated-By: pygettext.py 1.5\n"
@@ -2206,13 +2206,16 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1272
 msgid "Modify CSS"
-msgstr ""
+msgstr "CSS verändern"
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1273
 msgid ""
 "This allows addition of user CSS rules and removal of some CSS. When sending "
 "a book, the driver adds the contents of "
 msgstr ""
+"Ermöglicht das Hinzufügen von Nutzerspezifischen CSS Regeln und das  "
+"Entfernen von etwas CSS. Beim Senden eines Buches, fügt der Treiber die "
+"Inhalte ein von "
 
 #: /home/kovid/work/calibre/src/calibre/devices/kobo/driver.py:1278
 msgid ""
@@ -6685,7 +6688,7 @@ msgstr "Keine vorhandene Calibre am Ort %s gefunden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:166
 msgid "Queue &all books for backup"
-msgstr ""
+msgstr "&Alle Bücher zum Backup in die Warteschlange einreihen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/choose_library.py:172
 msgid "Backup status"
@@ -7630,17 +7633,17 @@ msgstr "Hilfe"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:17
 msgid "Match book to library"
-msgstr ""
+msgstr "Buch zur Bibliothek abgleichen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:18
 msgid "Match this book to a book in the library"
-msgstr ""
+msgstr "Dieses Buch mit einem Buch in der Bibliothek abgleichen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:125
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:190
 msgid "Match books"
-msgstr ""
+msgstr "Bücher abgleichen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/match_books.py:34
 msgid "You must select one book"
@@ -8347,14 +8350,14 @@ msgstr ""
 "             <br>\n"
 "             <ol>\n"
 "             <li>Zuerst auf \"Buch Zerlegen\" klicken: Das wird das Buch in "
-"seine individuellen internen Komponenten zerlegen.\"br></li>\n"
+"seine individuellen internen Komponenten zerlegen.<br></li>\n"
 "             <li>Rechtsklick auf eine individuelle Datei und \"Öffnen "
 "mit...\" um es in einem Texteditor zu bearbeiten.<br></li>\n"
 "             <li>Nach Abschluss des Tweaking: <b>Dateibrowser-Fenster \n"
 "             und den Texteditor schließen, mit dem die Änderungen "
 "vorgenommen wurden</b>. Dann\n"
-"            den auf den Button \"Buch erneuern\"  klicken, um das Buch in "
-"der Calibre-Bibliothek zu aktualisieren.</li>\n"
+"            auf den Button \"Buch erneuern\"  klicken, um das Buch in der "
+"Calibre-Bibliothek zu aktualisieren.</li>\n"
 "             </ol>"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/tweak_epub.py:103
@@ -9921,7 +9924,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics.py:16
 msgid "Modify the document text and structure using common patterns."
 msgstr ""
-"Modifizert Dokumententext und -struktur durch häufig auftretende Muster."
+"Modifiziert Dokumententext und -struktur durch häufig auftretende Muster."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:120
 msgid ""
@@ -9970,7 +9973,7 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:126
 msgid "Renumber sequences of <h1> or <h2> tags to prevent splitting"
 msgstr ""
-"Abfolgen von <h1>- oder <h2>-Tags neu numerieren, um Trennungen zu vermeiden"
+"Abfolgen von <h1>- oder <h2>-Tags neu nummerieren, um Trennungen zu vermeiden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:127
 msgid "Delete blank lines between paragraphs"
@@ -11346,7 +11349,7 @@ msgid ""
 "default"
 msgstr ""
 "Die Aufzählung \"{0}\" enthält einen ungültigen Wert. Dieser wird auf den "
-"Standard Wert gesetzt."
+"Standardwert gesetzt."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/custom_column_widgets.py:646
 msgid "Apply changes"
@@ -12816,11 +12819,11 @@ msgstr "Sie müssen einen Suchausdruck in die Suchbox eingeben"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books.py:191
 msgid "You must select a matching book"
-msgstr ""
+msgstr "Sie müssen ein Buch zum Abgleichen angeben"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:82
 msgid "Match Books"
-msgstr ""
+msgstr "Bücher abgleichen"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:83
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/quickview_ui.py:73
@@ -12836,7 +12839,7 @@ msgstr "Suche"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:84
 msgid "Do a search to find the book you want to match"
-msgstr ""
+msgstr "Führen Sie eine Suche durch, um das Buch zum Abgleichen zu finden"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/match_books_ui.py:85
 msgid ""
@@ -13175,7 +13178,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:591
 msgid "&Automatically number books in this series"
-msgstr "Bücher in dieser Serie &automatisch numerieren"
+msgstr "Bücher in dieser Serie &automatisch nummerieren"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:592
 msgid ""
@@ -13189,7 +13192,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:595
 msgid "&Force numbers to start with:"
-msgstr "Start der &Numerierung mit:"
+msgstr "Start der &Nummerierung mit:"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/metadata_bulk_ui.py:596
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/basic_widgets.py:1423
@@ -23998,6 +24001,18 @@ msgid ""
 "specify\n"
 "an OPF file.\n"
 msgstr ""
+"\n"
+"%prog set_metadata [optionen] id [/pfad/zu/metadata.opf]\n"
+"\n"
+"Übernimmt die Metadaten für das, anhand der ID identifizierte Buch \n"
+"aus der OPF Datei metadata.opf der Calibre Datenbank. ID ist eine ID Nummer "
+"aus dem list Befehl.\n"
+"Sie können eine schnelle Vorstellung vom OPF Format bekommen, wenn Sie die  -"
+"-as-opf Option zu\n"
+"show_metadata command. You can also set the metadata of individual fields "
+"with\n"
+" --field ändern. Wenn Sie die --field Option nutzen, brauchen Sie keine OPF "
+"Datei anzugeben.\n"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:566
 msgid ""
@@ -24540,20 +24555,36 @@ msgid ""
 "folder.\n"
 "    "
 msgstr ""
+"%prog clone pfad/zur/neuen/bibliothek\n"
+"\n"
+"Erstellt einen Klon der aktuellen Bibliothek. Dieser Befehl erstellt eine "
+"neue, leere Bibliothek,\n"
+"mit den selben Benutzerdefinierten Spalten, Virtuelle Bibliotheken \n"
+"und anderen Einstellungen der aktuellen Bibliothek.\n"
+"\n"
+"Diese geklonte Bibliothek wird keine Bücher beinhalten. Wenn Sie ein "
+"vollständiges Duplikat,\n"
+"einschließlich aller Bücher erstellen möchten, dann verwenden Sie einfach "
+"Ihre Dateisystem-Werkzeuge,\n"
+"und kopieren den Bibliotheksordner.\n"
+"    "
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1413
 msgid "Error: You must specify the path to the cloned library"
-msgstr ""
+msgstr "Fehler: Sie müssen den Pfad der zu klonenden Bibliothek angeben"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1422
 msgid "The location for the new library is the same as the current library"
 msgstr ""
+"Der Pfad der neuen Bibliothek ist der Selbe, wie von der aktuellen Bibliothek"
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1426
 #, python-format
 msgid ""
 "%s is not empty. You must choose an empty directory for the new library."
 msgstr ""
+"%s ist nicht leer. Sie müssen ein leeres Verzeichnis für die neue Bibliothek "
+"wählen."
 
 #: /home/kovid/work/calibre/src/calibre/library/cli.py:1449
 #, python-format
@@ -25300,6 +25331,8 @@ msgid ""
 "Duplicate user function name {0}. Change the name or ensure that the "
 "functions are identical"
 msgstr ""
+"Dublikat bei Nutzer-Funktion Name {0}. Ändern Sie den Namen oder stellen Sie "
+"sicher, dass die Funktionen gleich sind."
 
 #: /home/kovid/work/calibre/src/calibre/utils/formatter_functions.py:116
 msgid "No documentation provided"

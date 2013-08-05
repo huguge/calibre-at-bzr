@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-07-11 07:31+0000\n"
+"PO-Revision-Date: 2013-08-04 15:16+0000\n"
 "Last-Translator: Yuval Porat <uvporat@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:27+0000\n"
+"X-Launchpad-Export-Date: 2013-08-05 05:30+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
@@ -261,7 +261,7 @@ msgstr "פעולה בממשק משתמש"
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/main.py:311
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/main_ui.py:228
 msgid "Preferences"
-msgstr "העדפות"
+msgstr "הגדרות"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:646
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/models.py:39
@@ -402,15 +402,15 @@ msgstr "הצג פרטי הספר בחלון נפרד"
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:839
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/restart.py:14
 msgid "Restart calibre"
-msgstr "אתחל את calibre"
+msgstr "הפעל מחדש את calibre"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:844
 msgid "Open the folder that contains the book files in your calibre library"
-msgstr "פתח את התיקיה המכילה את קבצי הספר בספריית הקליבר שלך"
+msgstr "פתח את התיקיה המכילה את קבצי הספר בספריית הcalibre שלך"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:850
 msgid "Send books to the connected device"
-msgstr "להעתיק ספרים למכשיר המחובר"
+msgstr "שלח ספרים למכשיר מחובר"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:855
 msgid ""
@@ -24120,6 +24120,9 @@ msgid ""
 "yellow when using a Virtual Library. You can choose the color used for the\n"
 "highlight with this tweak. Set it to 'transparent' to disable highlighting."
 msgstr ""
+"שם הספרייה הוירטואלית ליד כפתור הספרייה הוירטואלית מודגש\n"
+"בצהוב כאשר משתמשים בספרייה הוירטואלית. באפשרותך לבחור צבע אשר ישמש\n"
+"להדגשה עם TWEAK זה. בחר 'שקוף' על מנת לבטל את ההדגשה."
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:539
 msgid "Choose available output formats for conversion"
