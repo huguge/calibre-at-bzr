@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-08-02 18:14+0000\n"
-"Last-Translator: Jellby <Unknown>\n"
+"PO-Revision-Date: 2013-08-05 09:49+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Español; Castellano <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:37+0000\n"
+"X-Launchpad-Export-Date: 2013-08-06 04:47+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/profiles.py:540
@@ -385,7 +385,7 @@ msgstr "Convertir libros a distintos formatos de libro electrónico"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:794
 msgid "Fine tune your ebooks"
-msgstr "Ajuste fino de los libros"
+msgstr "Ponga a punto sus libros electrónicos"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:799
 #: /home/kovid/work/calibre/src/calibre/gui2/actions/toc_edit.py:63

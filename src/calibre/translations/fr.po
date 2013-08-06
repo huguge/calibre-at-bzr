@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: calibre 0.4.22\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-08-02 19:54+0000\n"
+"PO-Revision-Date: 2013-08-05 16:59+0000\n"
 "Last-Translator: Alixe <alixe01@free.fr>\n"
 "Language-Team: PCGen\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:21+0000\n"
+"X-Launchpad-Export-Date: 2013-08-06 04:47+0000\n"
 "X-Generator: Launchpad (build 16718)\n"
 "Language: fr\n"
 "X-Poedit-Bookmarks: 1177,1104,-1,-1,-1,-1,-1,-1,-1,-1\n"
@@ -9534,7 +9534,7 @@ msgstr "Souligné"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:86
 msgid "Strikethrough"
-msgstr "Barrer"
+msgstr "Barré"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:88
 msgid "Superscript"
@@ -9554,19 +9554,19 @@ msgstr "Liste non ordonnée"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:97
 msgid "Align left"
-msgstr "Aligner à gauche"
+msgstr "Aligné à gauche"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:99
 msgid "Align center"
-msgstr "Centrer"
+msgstr "Centré"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:101
 msgid "Align right"
-msgstr "Aligner à droite"
+msgstr "Aligné à droite"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:103
 msgid "Align justified"
-msgstr "Justifier"
+msgstr "Justifié"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:104
 msgid "Undo"
@@ -9627,7 +9627,7 @@ msgstr "Appliquer le style au bloc de texte sélectionné"
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/behavior.py:35
 #: /home/kovid/work/calibre/src/calibre/gui2/preferences/behavior_ui.py:165
 msgid "Normal"
-msgstr "Normale"
+msgstr "Normal"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:143
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:144
@@ -9636,19 +9636,19 @@ msgstr "Normale"
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:147
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:148
 msgid "Heading"
-msgstr "En-tête"
+msgstr "Titre"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:149
 msgid "Pre-formatted"
-msgstr "Pré-formatté"
+msgstr "Préformaté"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:150
 msgid "Blockquote"
-msgstr "Mettre en exergue"
+msgstr "Bloc de citation"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:151
 msgid "Address"
-msgstr "Adresse"
+msgstr "Contact"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:158
 msgid "Insert link"
@@ -9662,24 +9662,24 @@ msgstr "Effacer"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:188
 msgid "Choose foreground color"
-msgstr "Choisissez la couleur du premier plan"
+msgstr "Selectionnez la couleur du premier plan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:194
 #: /home/kovid/work/calibre/src/calibre/gui2/viewer/config.py:249
 msgid "Choose background color"
-msgstr "Choisissez la couleur de l’arrière-plan"
+msgstr "Sélectionner la couleur de l’arrière-plan"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:214
 msgid "Create link"
-msgstr "Créer un lien"
+msgstr "Insérer un lien"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:220
 msgid "Enter &URL:"
-msgstr "Entrer une &URL :"
+msgstr "Saisir une &URL :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:221
 msgid "Enter name (optional):"
-msgstr "Entrer un nom (optionnel) :"
+msgstr "Saisir un nom (optionnel) :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/comments_editor.py:589
 msgid "Normal view"
@@ -9701,7 +9701,7 @@ msgstr "Utiliser le &tri par auteur pour auteur"
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/azw3_output_ui.py:61
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/mobi_output_ui.py:88
 msgid "&Title for Table of Contents:"
-msgstr "&Titre de la Table des Matières :"
+msgstr "&Titre de la table des matières :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/azw3_output_ui.py:62
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/mobi_output_ui.py:97
@@ -9709,8 +9709,8 @@ msgid ""
 "Enable sharing of book content via Facebook, etc. WARNING: Disables last "
 "read syncing"
 msgstr ""
-"Activer le partage du contenu de livres via Facebook, etc. ATTENTION : "
-"Désactive la synchronisation du dernier livre lu"
+"Activer le partage du contenu de livres via Facebook, etc. ATTENTION : "
+"désactive la synchronisation du dernier livre lu"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/azw3_output_ui.py:63
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/mobi_output_ui.py:87
@@ -9763,7 +9763,7 @@ msgstr "entrée"
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/comic_input_ui.py:111
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/comicconf_ui.py:99
 msgid "&Number of Colors:"
-msgstr "&Nombre de couleurs :"
+msgstr "&Nombre de couleurs :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/comic_input_ui.py:112
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/comicconf_ui.py:101
@@ -9778,12 +9778,12 @@ msgstr "Conserver les &proportions"
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/comic_input_ui.py:114
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/comicconf_ui.py:103
 msgid "Disable &Sharpening"
-msgstr "Désactiver l’&Accentuation"
+msgstr "Désactiver l’&accentuation"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/comic_input_ui.py:115
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/comicconf_ui.py:109
 msgid "Disable &Trimming"
-msgstr "Désactiver le &Decoupage"
+msgstr "Désactiver le &découpage"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/comic_input_ui.py:116
 #: /home/kovid/work/calibre/src/calibre/gui2/dialogs/comicconf_ui.py:108
@@ -9835,7 +9835,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/debug.py:19
 msgid "Debug"
-msgstr "Déboguer"
+msgstr "Débogage"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/debug.py:21
 msgid "Debug the conversion process."
@@ -9844,7 +9844,7 @@ msgstr "Déboguer le processus de conversion."
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/debug.py:39
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/debug_ui.py:56
 msgid "Choose debug folder"
-msgstr "Choisir le dossier de débogage"
+msgstr "Sélectionner le dossier de débogage"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/debug.py:58
 msgid "Invalid debug directory"
@@ -9861,11 +9861,11 @@ msgid ""
 "understanding the conversion process and figuring out the correct values for "
 "conversion parameters like Table of Contents and Chapter Detection."
 msgstr ""
-"Choisir un répertoire dans lequel mettre la sortie de débogage. Si vous "
-"spécifiez un répertoire, calibre placera beaucoup de débogage dedans. Utile "
-"pour comprendre le processus de conversion et pour calculer les valeurs "
-"correctes pour les paramètres de conversion comme les Tables des matières ou "
-"la Détection des chapitres."
+"Sélectionner un répertoire dans lequel envoyer les résultats du débogage. "
+"calibre y placera un certain nombre d'éléments de débogage. Utile pour "
+"comprendre le processus de conversion et pour déterminer quelles sont les "
+"valeurs correctes  pour les paramètres de conversion comme les tables des "
+"matières ou la détection des chapitres."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/debug_ui.py:59
 msgid ""
@@ -9873,9 +9873,9 @@ msgid ""
 "of the conversion process. This HTML can sometimes serve as a good starting "
 "point for hand editing a conversion."
 msgstr ""
-"Le processus de débogage génère un fichier HTML intermédiaire à plusieurs "
-"étapes du processus de conversion. Cet HTML peut parfois servir comme un bon "
-"point d’entrée pour la correction manuelle de la conversion."
+"Le processus de débogage génère des fichiers HTML intermédiaires à plusieurs "
+"étapes du processus de conversion. Cet HTML pourra servir de base pour une "
+"correction manuelle de la conversion."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/djvu_input.py:14
 msgid "DJVU Input"
@@ -9884,7 +9884,7 @@ msgstr "Entrée DJVU"
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/djvu_input_ui.py:32
 msgid "Use &djvutxt, if available, for faster processing"
 msgstr ""
-"Utiliser &djvutxt,si il est disponible, pour une exécution plus rapide."
+"Utiliser &djvutxt, s'il est disponible, pour une exécution plus rapide."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/docx_input.py:14
 msgid "DOCX Input"
@@ -9906,7 +9906,7 @@ msgstr "Conserver les &proportions de la couverture"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:78
 msgid "Split files &larger than:"
-msgstr "Scinder les fichiers plus &large que :"
+msgstr "Scinder les fichiers plus &lourds que :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:79
 msgid " KB"
@@ -9922,7 +9922,7 @@ msgstr "Pas de couverture &SVG"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:82
 msgid "Insert inline &Table of Contents"
-msgstr "Insérez la &table des matières intégrée"
+msgstr "Insérer la &table des matières intégrée"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:83
 msgid "Do not &split on page breaks"
@@ -9938,7 +9938,7 @@ msgstr "&Applatir la structure du fichier EPUB"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/epub_output_ui.py:86
 msgid "&Title for inserted ToC:"
-msgstr "&Titre pour la TdM insérée :"
+msgstr "&Titre pour la table des matières insérée :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_input.py:12
 msgid "FB2 Input"
@@ -9954,7 +9954,7 @@ msgstr "Sortie FB2"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_output_ui.py:45
 msgid "Sectionize:"
-msgstr "Diviser en sections :"
+msgstr "Diviser en sections :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/fb2_output_ui.py:46
 msgid "Genre"
@@ -9980,15 +9980,15 @@ msgid ""
 "works.</p>"
 msgstr ""
 "<p>Cet assistant va vous aider à choisir la clé de taille de police "
-"appropriée pour vos besoins. Tapez simplement la taille de police de base du "
-"document d’entrée, puis renseignez une taille de police voulue. L’assistant "
-"va afficher à quelle taille de police elle sera associée à l’aide de "
-"l’algorithme de redimensionnement de police. Vous pouvez ajuster "
-"l’algorithme en modifiant la taille de police de base en sortie et la clé de "
-"police ci-dessous. Lorsque vous avez trouvé des valeurs qui correspondent à "
-"vos besoins, cliquez sur OK.</p>\n"
-"<p>Par défaut, si la taille de police de base en sortie est de zéro et/ou "
-"qu’aucune clé de taille de police n’est spécifiée, calibre utilisera les "
+"appropriée à vos besoins. Saisissez simplement la taille de la police de "
+"base du document d’entrée, puis renseignez une taille de police désirée. "
+"L’assistant va afficher à quelle taille de police elle sera associée à "
+"l’aide de l’algorithme de redimensionnement de police. Vous pouvez ajuster "
+"l’algorithme en modifiant la taille de la police de base en sortie et la clé "
+"de la taille de la police ci-dessous. Lorsque vous avez trouvé des valeurs "
+"qui correspondent à vos besoins, cliquez sur OK.</p>\n"
+"<p>Par défaut, si la taille de police de base en sortie est à zéro et/ou "
+"qu’aucune clé de taille de la police n’est spécifiée, calibre utilisera les "
 "valeurs du profil de sortie actuel.</p>\n"
 "<p>Allez voir sur le <a href=\"http://manual.calibre-"
 "ebook.com/conversion.html#font-size-rescaling\">Manuel utilisateur</a> pour "
@@ -10034,11 +10034,11 @@ msgstr "Document en &entrée"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/font_key_ui.py:116
 msgid "&Font size: "
-msgstr "Taille de la &police : "
+msgstr "Taille de la &police : "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/font_key_ui.py:118
 msgid " will map to size: "
-msgstr " correspondra à la taille : "
+msgstr " correspondra à la taille : "
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/font_key_ui.py:119
 msgid "0.0 pt"
@@ -10055,7 +10055,8 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics.py:16
 msgid "Modify the document text and structure using common patterns."
 msgstr ""
-"Modifier le texte et la structure document en utilisant des modèles communs."
+"Modifier le texte et la structure du document en utilisant des modèles "
+"communs."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:120
 msgid ""
@@ -10070,13 +10071,14 @@ msgid ""
 msgstr ""
 "<b>Traitement heuristique</b> signifie que calibre va sonder votre livre à "
 "la recherche de motifs communs et va les réparer. Comme son nom l’indique, "
-"cela implique de se baser sur des suppositions, ce qui peut résulter en une "
-"sortie de conversion empirée, si calibre a mal deviné. Néanmoins, cela est "
-"désactivé par défaut. Souvent, si une conversion ne se produit pas comme "
-"vous l’attendiez, activer le traitement heuristique peut améliorer les "
-"choses. Vous pouvez en apprendre plus sur les divers processus de traitement "
-"heuristique dans le <a href=\"http://manual.calibre-"
-"ebook.com/conversion.html#heuristic-processing\">Manuel Utilisateur</a>."
+"cela implique de se baser sur des suppositions, ce qui peut entraîner en "
+"sortie une conversion pire que l'original, si calibre a fait une erreur "
+"d'analyse. Par défaut, cette option est désactivée. Le plus souvent, activer "
+"le traitement heuristique va améliorer le résultat d'une conversion qui n'a "
+"pas produit ce que vous en attendiez. Vous pouvez en apprendre davantage sur "
+"les divers processus de traitement heuristique dans le <a "
+"href=\"http://manual.calibre-ebook.com/conversion.html#heuristic-"
+"processing\">Manuel utilisateur</a>."
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:121
 msgid "Enable &heuristic processing"
@@ -10084,7 +10086,7 @@ msgstr "Activer le traitement &heuristique"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:122
 msgid "Heuristic Processing"
-msgstr "Traitement Heuristique"
+msgstr "Traitement heuristique"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:123
 msgid "Unwrap lines"
@@ -10097,8 +10099,8 @@ msgstr "Facteur de &redéfinition des lignes :"
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:125
 msgid "Detect and markup unformatted chapter headings and sub headings"
 msgstr ""
-"Détecter et marquer les titres de chapitre et les sous-titres sans mise en "
-"forme"
+"Détecter et mettre en forme les titres de chapitre et les sous-titres sans "
+"mise en forme"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:126
 msgid "Renumber sequences of <h1> or <h2> tags to prevent splitting"
@@ -10112,11 +10114,12 @@ msgstr "Supprimer les lignes blanches entre les paragraphes"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:128
 msgid "Ensure scene breaks are consistently formatted"
-msgstr "Garantir une mise en forme cohérente des ruptures de scène"
+msgstr ""
+"Garantir une mise en forme cohérente des séparations entre deux scènes"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:129
 msgid "Replace soft scene &breaks:"
-msgstr "Remplacer les &ruptures de scène :"
+msgstr "Remplacer les &symboles de séparation entre deux scènes :"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:130
 msgid "Remove unnecessary hyphens"
@@ -10128,7 +10131,7 @@ msgstr "Mettre en italique les mots et les motifs usuels"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/heuristics_ui.py:132
 msgid "Replace entity indents with CSS indents"
-msgstr "Remplacer les mises en retrait des balises par des retraits CSS"
+msgstr "Remplacer les mises en retrait par des retraits CSS"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/convert/htmlz_output.py:14
 msgid "HTMLZ Output"
@@ -16751,11 +16754,11 @@ msgstr "Créer l’auteur à partir de la clé de tri d’auteur"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single.py:136
 msgid "Copy author to author sort"
-msgstr "Copier l’auteur vers le type d’auteur"
+msgstr "Copier l’auteur vers la clé de tri"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single.py:138
 msgid "Copy author sort to author"
-msgstr "Copier le type d’auteur vers l’auteur"
+msgstr "Copier la clé de tri vers l’auteur"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/metadata/single.py:149
 msgid "Swap the author and title"
@@ -20479,7 +20482,7 @@ msgstr "Activer"
 #: /home/kovid/work/calibre/src/calibre/gui2/store/config/chooser/chooser_widget_ui.py:84
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/search_ui.py:186
 msgid "Invert"
-msgstr "Inverser"
+msgstr "Intervertir"
 
 #: /home/kovid/work/calibre/src/calibre/gui2/store/config/chooser/models.py:21
 #: /home/kovid/work/calibre/src/calibre/gui2/store/search/models.py:39
@@ -27259,29 +27262,38 @@ msgid ""
 "Acme\n"
 "Inc. will be Acme Inc. instead of Inc., Acme"
 msgstr ""
-"L'algorithme utilisé pour copier l'auteur dans la clé de tri par auteur\n"
+"Algorithme utilisé pour générer la clé de tri par auteur à partir de "
+"l'auteur.\n"
 "Les valeurs possibles sont :\n"
-"invert : utilise \"fn ln\" -> \"ln, fn\"\n"
-"copy : copie l'auteur dans la clé de tri par auteur sans modification\n"
-"comma : utilise 'copy' si il y a un ','  dans le nom, autrement utilise "
-"'invert'\n"
-"nocomma : \"fn ln\" -> \"ln fn\" (sans la virgule)\n"
-"Quand ce paramétrage est modifié, les clés de tri par auteur stockées pour\n"
-"chaque auteur doivent être recalculées en effectuant un clic droit sur "
-"l'auteur\n"
-"dans le panneau étiquette à gauche, en sélectionnant 'Gérer les auteurs', et "
-"en\n"
-"pressant 'Recalculer toutes les valeurs des clés par auteur'.\n"
-"Les suffixes au nom de l'auteur sont des mots qui sont ignorés à la fin\n"
-"du nom d'un auteur. La casse du suffixe est ignoré et les points de "
-"suspension\n"
-"sont gérés automatiquement. Le même traitement s'applique aux préfixes.\n"
-"Les mots copiés du nom de l'auteur sont un ensemble de mots qui, si ils "
-"sont\n"
-"présents dans un nom d'auteur, entraînent automatiquement une chaîne de \n"
-"clé de tri par auteur identique au nom de l'auteur. Ceci signifie que la "
-"clé\n"
-"de tri pour une chaine comme Acme Inc. sera Acme Inc. et non Inc., Acme"
+"<i>invert</i> : la forme \"Prénom Nom\" donne \"Nom, Prénom\"\n"
+"<i>copy</i> : reproduit la saisie de l'auteur dans la clé de tri par auteur, "
+"sans modification\n"
+"<i>comma</i> : applique 'copy' s'il y a une virgule (,)  dans le nom de "
+"l'auteur, sinon applique 'invert'\n"
+"<i>nocomma</i> : la forme \"Prénom Nom\" donne \"Nom Prénom\" (sans la "
+"virgule)\n"
+"Quand ce paramétrage est modifié, n'oubliez pas de forcer le recalcul des "
+"clés de tri par auteur\n"
+"pour tous les auteurs de la base de données, en effectuant un clic droit sur "
+"'Auteurs'\n"
+"dans le panneau latéral à gauche, et en sélectionnant 'Gérer les auteurs' "
+"puis\n"
+"le menu 'Recalculer toutes les valeurs des clés par auteur'.\n"
+"<b>author_name_suffixes</b> : liste des mots qui, repérés en dernière "
+"position\n"
+"dans le nom de l'auteur, ne seront PAS considérés comme susceptibles d'être\n"
+"un nom de famille. Ils sont reconnus quelque soit leur casse et qu'ils "
+"soient\n"
+"suivis d'un point ou non.  Attention, les mots entre parenthèses sont "
+"supprimés.\n"
+"<b>author_name_prefixes</b> : quand ces mots sont trouvés en tête\n"
+"du nom de l'auteur, ils ne sont pas repris dans la clé de tri\n"
+"<b>author_name_copywords<b> : liste des mots qui, s'ils sont présents dans "
+"un nom d'auteur,\n"
+"entraînent automatiquement l'application du mode 'copy' (clé de tri "
+"identique au nom\n"
+"de l'auteur). Ainsi, le nom 'Acme Inc.' restera 'Acme Inc.' sans être "
+"transformé en 'Inc., Acme'"
 
 #: /home/kovid/work/calibre/resources/default_tweaks.py:77
 msgid "Splitting multiple author names"
