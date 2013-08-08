@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: calibre\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2013-08-02 02:12+0000\n"
-"PO-Revision-Date: 2013-07-27 04:46+0000\n"
+"PO-Revision-Date: 2013-08-07 09:17+0000\n"
 "Last-Translator: Rafee Mostafa <rafee@byei.org>\n"
 "Language-Team: Bengali <bn@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2013-08-03 05:17+0000\n"
-"X-Generator: Launchpad (build 16718)\n"
+"X-Launchpad-Export-Date: 2013-08-08 04:38+0000\n"
+"X-Generator: Launchpad (build 16723)\n"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:56
 msgid "Does absolutely nothing"
@@ -270,7 +270,7 @@ msgstr "সংরক্ষন করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/__init__.py:650
 msgid "An ebook store."
-msgstr ""
+msgstr "একটি ইবুক বিপণি"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:21
 msgid ""
@@ -288,7 +288,7 @@ msgstr ""
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:131
 msgid "Extract cover from comic files"
-msgstr ""
+msgstr "কমিক ফাইল থেকে প্রচ্ছদ নিষ্কাশন করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:168
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:179
@@ -314,15 +314,15 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:400
 #, python-format
 msgid "Read metadata from %s files"
-msgstr ""
+msgstr "%s ফাইল থেকে মেটাডাটা সংগ্রহ করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:337
 msgid "Read metadata from ebooks in RAR archives"
-msgstr ""
+msgstr "RAR আর্কাইভ-এ সংরক্ষিত ইবুক থেকে মেটাডাটা সংগ্রহ করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:411
 msgid "Read metadata from ebooks in ZIP archives"
-msgstr ""
+msgstr "ZIP আর্কাইভ-এ সংরক্ষিত ইবুক থেকে মেটাডাটা সংগ্রহ করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:428
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:438
@@ -333,30 +333,30 @@ msgstr ""
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:512
 #, python-format
 msgid "Set metadata in %s files"
-msgstr ""
+msgstr "%s ফাইল-এ মেটাডাটা নিযুক্ত করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:448
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:480
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:523
 #, python-format
 msgid "Set metadata from %s files"
-msgstr ""
+msgstr "%s ফাইল থেকে মেটাডাটা নিযুক্ত করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:774
 msgid "Add books to calibre or the connected device"
-msgstr ""
+msgstr "ক্যালিবার অথবা সংযুক্ত ডিভাইস-এ বই যোগ করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:779
 msgid "Fetch annotations from a connected Kindle (experimental)"
-msgstr ""
+msgstr "সংযুক্ত কিনডেল থেকে অ্যানোটেশন/টীকা সংগ্রহ করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:784
 msgid "Generate a catalog of the books in your calibre library"
-msgstr ""
+msgstr "কালিবার লাইব্রেরির বইসমুহের তালিকা তৈরি করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:789
 msgid "Convert books to various ebook formats"
-msgstr ""
+msgstr "বিভিন্ন ইবুক ফরম্যাট-এ বই রুপান্তরিত করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:794
 msgid "Fine tune your ebooks"
@@ -369,19 +369,19 @@ msgstr "বইয়ের সূচিপত্র সম্পাদনা ক
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:804
 msgid "Delete books from your calibre library or connected device"
-msgstr ""
+msgstr "কালিবার লাইব্রেরি অথবা সংযুক্ত ডিভাইস থেকে বই মুছে ফেলুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:809
 msgid "Edit the metadata of books in your calibre library"
-msgstr ""
+msgstr "আপনার কালিবার লাইব্রেরি-এর বইসমূহের মেটাডাটা সম্পাদনা করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:814
 msgid "Read books in your calibre library"
-msgstr ""
+msgstr "আপনার কালিবার লাইব্রেরি থেকে বই পড়ুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:819
 msgid "Download news from the internet in ebook form"
-msgstr ""
+msgstr "ইন্টারনেট থেকে ইবুক আকারে খবর ডাউনলোড করুন"
 
 #: /home/kovid/work/calibre/src/calibre/customize/builtins.py:824
 msgid "Show a list of related books quickly"
